@@ -1,0 +1,22 @@
+{
+  "name": "timeline",
+  "version": "1.0.0",
+  "description": "_Search with `⌘/ctrl + f`_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickWendel/timeline.git"
+  },
+  "author": "erickwendel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickWendel/timeline/issues"
+  },
+  "homepage": "https://github.com/ErickWendel/timeline#readme",
+  "dependencies": {
+    "json2md": "^1.6.1"
+  }
+}
