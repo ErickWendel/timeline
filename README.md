@@ -1,6 +1,6 @@
 # Activities by [Erick Wendel](https://twitter.com/erickwendel_)
 
-<img src=2018-10-05-o_que_aprendi_organizando_grandes_comunidades/photos/1.jpg width=60% />
+<img src="2018-10-05-o_que_aprendi_organizando_grandes_comunidades/photos/1.jpg" />
 
 _Search with `⌘/ctrl + f`_
 
