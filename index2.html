@@ -1,7 +1,7 @@
 ---
 
 data: [
-[ "apple", "red", "round" ],
+[ "maça", "red", "round" ],
 [ "banana", "yellow", "long" ],
 [ "potato", "brown", "bumpy" ]
 ]
