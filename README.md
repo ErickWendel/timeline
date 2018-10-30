@@ -145,3 +145,51 @@ Abstract:
 
 _Tags: `node.js`, `javascript`, `async`, `english`_
 
+### 2018-07-05 - Gerenciando o fluxo assincrono de operações Javascript (pt-br)
+
+
+[JS Experience – 7Masters - Edição 2018](https://eventos.imasters.com.br/jsexperience/)
+
+
+[slides](https://www.icloud.com/keynote/0a-nP8fSdgrIwtbcdLcp2025w#7Masters_-_Gerenciando_o_Fluxo_Assincrono_de_operac%CC%A7o%CC%83es_JS.key) | [photos](2018-07-05-gerenciando_o_fluxo_assincrono_de_operações_javascript) | [video](#2018-07-05---gerenciando-o-fluxo-assincrono-de-operações-javascript-pt-br)
+
+
+Abstract:
+
+> Sabemos que o fluxo de Javascript é diferente em comparação com outras linguagens, como Java, Python e etc. Quando começamos a escrever funções assíncronas em Javascript, algumas coisas estranhas acontecem, como valores indefinidos, resultados não sincronizados, etc. Esta palestra ajuda você a saber como o Javascript funciona e como sincronizar resultados trabalhando com Callbacks, Promises, Eventos e Observables.
+
+
+_Tags: `javascript`, `async`, `node.js`_
+
+### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
+
+
+[Campus Party Brasilia 2018](https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/)
+
+
+[slides](https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key) | [photos](2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!) | [video](#2018-06-29---javascript-azure-cognitive-services-e-raspberrypi---usando-javascript-para-reconhecer-pessoas!-pt-br)
+
+
+Abstract:
+
+> Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
+
+
+_Tags: `node.js`, `javascript`, `faceapi`, `azure`_
+
+### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
+
+
+[Campus Party Brasilia 2018](https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/)
+
+
+[slides]() | [photos](2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos) | [video](https://www.youtube.com/watch?v=NexvZCJFil8)
+
+
+Abstract:
+
+> Já pensou em reviver os tempos antigos de uma forma mais digital? Nessa palestra os participantes aprenderão como criar aplicações em tempo real com Node.js baseado no projeto Original Potato que desenvolvemos explorando o podencial de aplicações Web e facilidades do Javascript.
+
+
+_Tags: `node.js`, `javascript`, `websocket`, `socketio`_
+
