@@ -40,6 +40,8 @@ Abstract:
 
 > Comunidades, são grandes desafios, lidar com pessoas nem sempre é fácil. Nesta conversa, os participantes conhecerão os bastidores das "tretas" e desafios de um grupo de usuários de 3 mil membros que chegou a 100 mil membros impactando milhares de pessoas pelo país, lidar com palestrantes e eventos simultaneos.
 
+Location: Brazil, SP.
+
 _Tags: `career`, `communities`_
 
 ### 2018-09-21 - Scaling your applications with Kubernetes and Docker (en-us)
@@ -51,5 +53,7 @@ _Tags: `career`, `communities`_
 Abstract:
 
 > High availability, high consistency, high disponibility are the popular words when we think about Web Applications but when our application increase, we have many problems and situations to solve. The objective of this talk is show the Kubernetes' power and facility to you can get conquer all of this keywords in your projects, exploring the best of Kubernetes has to you
+
+_Location: Brazil, SP_
 
 _Tags: `english`, `node.js`, `docker`, `kubernetes`_
