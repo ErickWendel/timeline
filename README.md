@@ -50,7 +50,9 @@ _Tags: `career`, `communities`_
 
 [slides](https://www.icloud.com/keynote/0mpRDRsKBIcIkmNCTrOstp5fQ#Scalling_your_apps_with_K8s_and_Docker_-_TheConf_-_21092018) | [photos](2018-09-21-scaling_your_applications_with_kubernetes_and_docker/photos) | [video](#)
 
-_Location: Brazil, SP_
+Location:
+
+> Brazil, SP
 
 Abstract:
 
