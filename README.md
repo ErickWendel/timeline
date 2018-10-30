@@ -12,6 +12,10 @@ This is a list of links recordings/slides from talks that I've given at meetups 
 
 [slides](https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw) | [photos](2018-10-25-node.js_docker_containerizacao/photos) | [video](#)
 
+Location:
+
+> Brazil, MG
+
 Abstract:
 
 > É importante entender como as aplicações funcionam e como a arquitetura está evoluindo. Pensando nisto, abordaremos sobre os benefícios de Docker para criação de microserviços com Node.js
@@ -23,6 +27,10 @@ _Tags: `node.js`, `javascript`, `docker`, `microservices`_
 [E.E. Vila Bela - Projeto [R]EVOLUÇÃO]()
 
 [slides](https://docs.google.com/presentation/d/1VhpAZC1mZgmuJXy9Qt_mbPce4aC-rvtFu6RYzKAXIlE/edit?usp=sharing) | [photos](2018-10-18-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software/photos) | [video](#)
+
+Location:
+
+> Brazil, SP
 
 Abstract:
 
@@ -36,11 +44,13 @@ _Tags: `career`, `javascript`_
 
 [slides](https://www.icloud.com/keynote/0vGhAy4B7cCUt_5B94zJvKV_A#O_que_aprendi_organizando_uma_grande_comunidade_-_Community_Summit) | [photos](2018-10-05-o_que_aprendi_organizando_grandes_comunidades/photos) | [video](#)
 
+Location:
+
+> Brazil, SP
+
 Abstract:
 
 > Comunidades, são grandes desafios, lidar com pessoas nem sempre é fácil. Nesta conversa, os participantes conhecerão os bastidores das "tretas" e desafios de um grupo de usuários de 3 mil membros que chegou a 100 mil membros impactando milhares de pessoas pelo país, lidar com palestrantes e eventos simultaneos.
-
-Location: Brazil, SP.
 
 _Tags: `career`, `communities`_
 
