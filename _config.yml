@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: @erickwendel_
 logo: 2018-10-05-o_que_aprendi_organizando_grandes_comunidades/photos/1.jpg
+show_downloads: true
+google_analytics:
