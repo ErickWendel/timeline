@@ -12,9 +12,7 @@ This is a list of links recordings/slides from talks that I've given at meetups 
 
 [slides](https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw) | [photos](2018-10-25-node.js_docker_containerizacao/photos) | [video](#)
 
-Location:
-
-> Brazil, MG
+Location: Brazil, MG
 
 Abstract:
 
@@ -28,9 +26,7 @@ _Tags: `node.js`, `javascript`, `docker`, `microservices`_
 
 [slides](https://docs.google.com/presentation/d/1VhpAZC1mZgmuJXy9Qt_mbPce4aC-rvtFu6RYzKAXIlE/edit?usp=sharing) | [photos](2018-10-18-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software/photos) | [video](#)
 
-Location:
-
-> Brazil, SP
+Location: Brazil, SP
 
 Abstract:
 
@@ -44,9 +40,7 @@ _Tags: `career`, `javascript`_
 
 [slides](https://www.icloud.com/keynote/0vGhAy4B7cCUt_5B94zJvKV_A#O_que_aprendi_organizando_uma_grande_comunidade_-_Community_Summit) | [photos](2018-10-05-o_que_aprendi_organizando_grandes_comunidades/photos) | [video](#)
 
-Location:
-
-> Brazil, SP
+Location: Brazil, SP
 
 Abstract:
 
@@ -60,9 +54,7 @@ _Tags: `career`, `communities`_
 
 [slides](https://www.icloud.com/keynote/0mpRDRsKBIcIkmNCTrOstp5fQ#Scalling_your_apps_with_K8s_and_Docker_-_TheConf_-_21092018) | [photos](2018-09-21-scaling_your_applications_with_kubernetes_and_docker/photos) | [video](#)
 
-Location:
-
-> Brazil, SP
+Location: Brazil, SP
 
 Abstract:
 
