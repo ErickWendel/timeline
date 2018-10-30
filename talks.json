@@ -1,0 +1,21 @@
+[{
+    "title": "Node.js, Docker e Containerização",
+    "abstract": "É importante entender como as aplicações funcionam e como a arquitetura está evoluindo. Pensando nisto, abordaremos sobre os benefícios de Docker para criação de microserviços com Node.js",
+    "type": "talk",
+    "event": {
+        "link": "https://cpee.unifei.edu.br/Programacao.html",
+        "name": "III Congresso de Pesquisa Extensão e Ensino da Unifei-Itabira"
+    },
+    "slides": "https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw",
+    "photos": "2018-10-25-node.js_docker_containerizacao/photos",
+    "video": "",
+    "tags": ["node.js", "javascript", "docker", "microservices"],
+    "location": {
+        "latitude": "",
+        "longitude": "",
+        "country": "Brazil",
+        "uf": "MG",
+        "city": "Minas Gerais"
+    },
+    "language": "pt-br"
+}]
