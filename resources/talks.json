@@ -11,8 +11,8 @@
         "video": "",
         "tags": ["node.js", "javascript", "docker", "microservices"],
         "location": {
-            "latitude": "",
-            "longitude": "",
+            "latitude": -19.6743348,
+            "longitude": -43.2144952,
             "country": "Brazil",
             "uf": "MG",
             "city": "Minas Gerais"
@@ -33,8 +33,8 @@
         "video": "#2018-10-18-a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-pt-br",
         "tags": ["career", "javascript"],
         "location": {
-            "latitude": "",
-            "longitude": "",
+            "latitude": -23.6099272,
+            "longitude": -46.4499841,
             "country": "Brazil",
             "uf": "SP",
             "city": "São Paulo"
@@ -55,8 +55,8 @@
         "video": "",
         "tags": ["career", "communities"],
         "location": {
-            "latitude": "",
-            "longitude": "",
+            "latitude": -23.5816604,
+            "longitude": -46.6690279,
             "country": "Brazil",
             "uf": "SP",
             "city": "São Paulo"
@@ -76,8 +76,8 @@
         "video": "",
         "tags": ["english", "node.js", "docker", "kubernetes"],
         "location": {
-            "latitude": "",
-            "longitude": "",
+            "latitude": -23.5816151,
+            "longitude": -46.6843488,
             "country": "Brazil",
             "uf": "SP",
             "city": "São Paulo"
