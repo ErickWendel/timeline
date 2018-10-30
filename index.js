@@ -34,3 +34,4 @@ const content = data.replace('$$content$$', json2md(final))
 console.log('content', content)
 
 writeFileSync('README.md', content)
+console.log('readme generated with success!')
