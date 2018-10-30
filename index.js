@@ -41,7 +41,6 @@ function formatAnchorTitle(item, talk) {
         .replace('(', "")
         .replace(')', "");
     const anchor = `#${talk.date}---${formatedTile}-${formatedLanguage}`;
-
     return anchor;
 };
 

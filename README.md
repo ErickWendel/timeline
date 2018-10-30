@@ -39,7 +39,7 @@ _Tags: `node.js`, `javascript`, `docker`, `microservices`_
 [E.E. Vila Bela - Projeto [R]EVOLUÇÃO](#2018-10-18-a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-pt-br)
 
 
-[slides](https://docs.google.com/presentation/d/1VhpAZC1mZgmuJXy9Qt_mbPce4aC-rvtFu6RYzKAXIlE/edit?usp=sharing) | [photos](2018-10-18-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software/photos) | [video](#2018-10-18-a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-pt-br)
+[slides](https://docs.google.com/presentation/d/1VhpAZC1mZgmuJXy9Qt_mbPce4aC-rvtFu6RYzKAXIlE/edit?usp=sharing) | [photos](2018-10-18-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software/photos) | [video](#2018-10-18---a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-pt-br)
 
 
 Abstract:
