@@ -54,10 +54,10 @@ _Tags: `career`, `communities`_
 
 [slides](https://www.icloud.com/keynote/0mpRDRsKBIcIkmNCTrOstp5fQ#Scalling_your_apps_with_K8s_and_Docker_-_TheConf_-_21092018) | [photos](2018-09-21-scaling_your_applications_with_kubernetes_and_docker/photos) | [video](#)
 
-Location: Brazil, SP
-
 Abstract:
 
 > High availability, high consistency, high disponibility are the popular words when we think about Web Applications but when our application increase, we have many problems and situations to solve. The objective of this talk is show the Kubernetes' power and facility to you can get conquer all of this keywords in your projects, exploring the best of Kubernetes has to you
+
+Location: Brazil, SP
 
 _Tags: `english`, `node.js`, `docker`, `kubernetes`_
