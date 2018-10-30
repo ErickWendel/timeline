@@ -55,7 +55,7 @@ _Tags: `career`, `javascript`_
 [Community Leaders Summit](https://credencial.imasters.com.br/community-leaders-summit-2018)
 
 
-[slides](https://www.icloud.com/keynote/0vGhAy4B7cCUt_5B94zJvKV_A#O_que_aprendi_organizando_uma_grande_comunidade_-_Community_Summit) | [photos](2018-10-05-o_que_aprendi_organizando_grandes_comunidades/photos) | [video](#2018-10-05---o-que-aprendi-organizando-grandes-comunidades-pt-br)
+[slides](https://www.icloud.com/keynote/0vGhAy4B7cCUt_5B94zJvKV_A#O_que_aprendi_organizando_uma_grande_comunidade_-_Community_Summit) | [photos](2018-10-05-o_que_aprendi_organizando_grandes_comunidades/photos) | [video](https://web.facebook.com/fernando.veiga.3950/videos/1122170867935213/)
 
 
 Abstract:
@@ -80,4 +80,68 @@ Abstract:
 
 
 _Tags: `english`, `node.js`, `docker`, `kubernetes`_
+
+### 2018-09-08 - Usando Javascript para reconhecer pessoas (pt-br)
+
+
+[Hack Town 2018](https://hacktown.com.br/programacao/dia/8-Sep/)
+
+
+[slides](https://www.icloud.com/keynote/0geBVltLvSHcKRwabA4OCfppA#Usando_Javascript_para_reconhecer_pessoas!_-_HackTown_-_07092018.key) | [photos](2018-09-08-usando_javascript_para_reconhecer_pessoas) | [video](https://youtu.be/1gC1kOZDZEA)
+
+
+Abstract:
+
+> Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
+
+
+_Tags: `node.js`, `azure`, `faceapi`, `opencv`, `javascript`_
+
+### 2018-09-01 - Node.js, Microservicos e Containerização (pt-br)
+
+
+[MSP Tech Days](https://www.meetup.com/pt-BR/DevelopersBR/events/253660887/)
+
+
+[slides](https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw) | [photos](2018-09-01-node.js-microservicos-e-containerizacao) | [video](#2018-09-01---nodejs-microservicos-e-containerização-pt-br)
+
+
+Abstract:
+
+> É importante entender como aplicações funcionam e como a arquitetura está evoluindo. Pensando nisto, abordaremos os beneficios de Docker para criação de microserviços com Node.js, abordando o fluxo de desenvolvimento e facilidades em deploy de suas aplicações
+
+
+_Tags: `node.js`, `javascript`, `docker`, `microservices`_
+
+### 2018-08-18 - Node.js, Observables e RxJs - Programação reativa no Backend! (pt-br)
+
+
+[FC Tech #2 - Poderes do JS](https://www.meetup.com/pt-BR/FCTech/events/252754164)
+
+
+[slides](https://www.icloud.com/keynote/09M3Bdis-aIhQa85AUZ1v792w#Nodejs%2C_Rxjs_e_Reactive_Programming_-_FCTech_18082018.key) | [photos](2018-08-18-node.js_observables_e_rxjs_-_programação_reativa_no_backend!) | [video](#2018-08-18---nodejs-observables-e-rxjs---programação-reativa-no-backend!-pt-br)
+
+
+Abstract:
+
+> Ouvimos bastante a galera que trabalha com Angular e outros frameworks Javascript voltados a front end falando sobre programação reativa e sobre RxjS. Os participantes entenderão na prática o uso dos principais operadores para trabalhar com Node.js, manipulando promises, eventos e conhecendo a fundo o padrão observer
+
+
+_Tags: `node.js`, `rxjs`, `reactive`, `observable`_
+
+### 2018-08-02 - Managing the flow of asynchronous operations in Node.js (en-us)
+
+
+[SFNode Meetup at Mixmax](https://www.meetup.com/pt-BR/sfnode/events/mxstsmyxlbdb/)
+
+
+[slides](https://www.icloud.com/keynote/02WBW9IrCGUW9Q2Z9DsPvkcqA#Manage_the_Javascript_Asynchronous_flow.key) | [photos](2018-08-02-managing_the_flow_of_asynchronous_operations_in_node.js) | [video](2018-08-02-managing_the_flow_of_asynchronous_operations_in_node.js/video.mp4)
+
+
+Abstract:
+
+> We know that Javascript flow's is different comparing with another languages, such a Java, Python and etc. When we make started write async apps in Javascript some strange things happens, like a undefined values and unsynchronised results. This talk helps you to know how Javascript works and how synchronize resutls with Callbacks, Promises, Events and Reactive things in practice!
+
+
+_Tags: `node.js`, `javascript`, `async`, `english`_
 
