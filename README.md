@@ -1,27 +1,3 @@
----
-
-data: [
-[ "maça", "red", "round" ],
-[ "banana", "yellow", "long" ],
-[ "potato", "brown", "bumpy" ]
-]
-
----
-
-<h1>Hello</h1>
-
-<table>
-    {% for row in page.data %}
-    <tr>
-        {% for item in row %}
-        <td>
-            {{ item }}
-        </td>
-        {% endfor %}
-    </tr>
-    {% endfor %}
-</table>
-
 # Activities by [Erick Wendel](https://twitter.com/erickwendel_)
 
 _Search with `⌘/ctrl + f`_
