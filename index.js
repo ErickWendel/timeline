@@ -12,7 +12,7 @@ function mapMarkdown(talk) {
             p: `[${talk.event.name}](${talk.event.link})`
         },
         {
-            p: `[slides](${talk.slides}) | [photos](${talk.photos}) | [video](${talk.video})`
+            p: `[slides](${talk.slides}) ${talk.photos ? `| [photos](${talk.photos})` : ``} ${talk.video ? `| [video](${talk.video})`: ``}`
         },
         {
             p: "Abstract:"
@@ -50,8 +50,8 @@ function formatAnchorTitle(item, talk) {
 
     const md = talks.map(talk => {
         talk.tags = talk.tags.map(i => `\`${i}\``).join(', ')
-        talk.video = formatAnchorTitle(talk.video, talk);
-        talk.photos = formatAnchorTitle(talk.photos, talk)
+        // talk.video = formatAnchorTitle(talk.video, talk);
+        // talk.photos = formatAnchorTitle(talk.photos, talk)
         return mapMarkdown(talk)
     })
 

@@ -23,7 +23,7 @@ This is a list of activities from talks that I've given at meetups and conferenc
 [III Congresso de Pesquisa Extensão e Ensino da Unifei-Itabira](https://cpee.unifei.edu.br/Programacao.html)
 
 
-[slides](https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw) | [photos](2018-10-25-node.js_docker_containerizacao/photos) | [video](#2018-10-25---nodejs-docker-e-containerização-pt-br)
+[slides](https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw) | [photos](2018-10-25-node.js_docker_containerizacao/photos) 
 
 
 Abstract:
@@ -39,7 +39,7 @@ _Tags: `node.js`, `javascript`, `docker`, `microservices`_
 [E.E. Vila Bela - Projeto [R]EVOLUÇÃO](#2018-10-18-a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-pt-br)
 
 
-[slides](https://docs.google.com/presentation/d/1VhpAZC1mZgmuJXy9Qt_mbPce4aC-rvtFu6RYzKAXIlE/edit?usp=sharing) | [photos](2018-10-18-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software/photos) | [video](#2018-10-18---a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-pt-br)
+[slides](https://docs.google.com/presentation/d/1VhpAZC1mZgmuJXy9Qt_mbPce4aC-rvtFu6RYzKAXIlE/edit?usp=sharing) | [photos](2018-10-18-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software/photos) 
 
 
 Abstract:
@@ -71,7 +71,7 @@ _Tags: `career`, `communities`_
 [TheConf 2018](https://www.theconf.club/)
 
 
-[slides](https://www.icloud.com/keynote/0mpRDRsKBIcIkmNCTrOstp5fQ#Scalling_your_apps_with_K8s_and_Docker_-_TheConf_-_21092018) | [photos](2018-09-21-scaling_your_applications_with_kubernetes_and_docker/photos) | [video](#2018-09-21---scaling-your-applications-with-kubernetes-and-docker-en-us)
+[slides](https://www.icloud.com/keynote/0mpRDRsKBIcIkmNCTrOstp5fQ#Scalling_your_apps_with_K8s_and_Docker_-_TheConf_-_21092018) | [photos](2018-09-21-scaling_your_applications_with_kubernetes_and_docker/photos) 
 
 
 Abstract:
@@ -103,7 +103,7 @@ _Tags: `node.js`, `azure`, `faceapi`, `opencv`, `javascript`_
 [MSP Tech Days](https://www.meetup.com/pt-BR/DevelopersBR/events/253660887/)
 
 
-[slides](https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw) | [photos](2018-09-01-node.js-microservicos-e-containerizacao) | [video](#2018-09-01---nodejs-microservicos-e-containerização-pt-br)
+[slides](https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw) | [photos](2018-09-01-node.js-microservicos-e-containerizacao) 
 
 
 Abstract:
@@ -119,7 +119,7 @@ _Tags: `node.js`, `javascript`, `docker`, `microservices`_
 [FC Tech #2 - Poderes do JS](https://www.meetup.com/pt-BR/FCTech/events/252754164)
 
 
-[slides](https://www.icloud.com/keynote/09M3Bdis-aIhQa85AUZ1v792w#Nodejs%2C_Rxjs_e_Reactive_Programming_-_FCTech_18082018.key) | [photos](2018-08-18-node.js_observables_e_rxjs_-_programação_reativa_no_backend!) | [video](#2018-08-18---nodejs-observables-e-rxjs---programação-reativa-no-backend!-pt-br)
+[slides](https://www.icloud.com/keynote/09M3Bdis-aIhQa85AUZ1v792w#Nodejs%2C_Rxjs_e_Reactive_Programming_-_FCTech_18082018.key) | [photos](2018-08-18-node.js_observables_e_rxjs_-_programação_reativa_no_backend!) 
 
 
 Abstract:
@@ -151,7 +151,7 @@ _Tags: `node.js`, `javascript`, `async`, `english`_
 [JS Experience – 7Masters - Edição 2018](https://eventos.imasters.com.br/jsexperience/)
 
 
-[slides](https://www.icloud.com/keynote/0a-nP8fSdgrIwtbcdLcp2025w#7Masters_-_Gerenciando_o_Fluxo_Assincrono_de_operac%CC%A7o%CC%83es_JS.key) | [photos](2018-07-05-gerenciando_o_fluxo_assincrono_de_operações_javascript) | [video](#2018-07-05---gerenciando-o-fluxo-assincrono-de-operações-javascript-pt-br)
+[slides](https://www.icloud.com/keynote/0a-nP8fSdgrIwtbcdLcp2025w#7Masters_-_Gerenciando_o_Fluxo_Assincrono_de_operac%CC%A7o%CC%83es_JS.key) | [photos](2018-07-05-gerenciando_o_fluxo_assincrono_de_operações_javascript) 
 
 
 Abstract:
@@ -161,29 +161,13 @@ Abstract:
 
 _Tags: `javascript`, `async`, `node.js`_
 
-### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
-
-
-[Campus Party Brasilia 2018](https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/)
-
-
-[slides](https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key) | [photos](2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!) | [video](#2018-06-29---javascript-azure-cognitive-services-e-raspberrypi---usando-javascript-para-reconhecer-pessoas!-pt-br)
-
-
-Abstract:
-
-> Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
-
-
-_Tags: `node.js`, `javascript`, `faceapi`, `azure`_
-
 ### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
 
 
 [Campus Party Brasilia 2018](https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/)
 
 
-[slides]() | [photos](2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos) | [video](https://www.youtube.com/watch?v=NexvZCJFil8)
+[slides](https://docs.google.com/presentation/d/1u2SoBPiohhbaopGepC2eQ8fJWf-TJT2qWY_qICJgqlM/edit?usp=sharing) | [photos](2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos) | [video](https://www.youtube.com/watch?v=NexvZCJFil8)
 
 
 Abstract:
@@ -192,4 +176,20 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `websocket`, `socketio`_
+
+### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
+
+
+[Campus Party Brasilia 2018](https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/)
+
+
+[slides](https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key) | [photos](2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!) 
+
+
+Abstract:
+
+> Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
+
+
+_Tags: `node.js`, `javascript`, `faceapi`, `azure`_
 
