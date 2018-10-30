@@ -11,8 +11,8 @@
     "video": "",
     "tags": [""],
     "location": {
-        "latitude": "",
-        "longitude": "",
+        "latitude": 0,
+        "longitude": 0,
         "country": "",
         "uf": "",
         "city": ""

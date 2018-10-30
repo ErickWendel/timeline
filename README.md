@@ -23,7 +23,7 @@ This is a list of activities from talks that I've given at meetups and conferenc
 [III Congresso de Pesquisa Extensão e Ensino da Unifei-Itabira](https://cpee.unifei.edu.br/Programacao.html)
 
 
-[slides](https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw) | [photos](2018-10-25-node.js_docker_containerizacao/photos) | [video]()
+[slides](https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw) | [photos](2018-10-25-node.js_docker_containerizacao/photos) | [video](#2018-10-25---nodejs-docker-e-containerização-pt-br)
 
 
 Abstract:
@@ -55,7 +55,7 @@ _Tags: `career`, `javascript`_
 [Community Leaders Summit](https://credencial.imasters.com.br/community-leaders-summit-2018)
 
 
-[slides](https://www.icloud.com/keynote/0vGhAy4B7cCUt_5B94zJvKV_A#O_que_aprendi_organizando_uma_grande_comunidade_-_Community_Summit) | [photos](2018-10-05-o_que_aprendi_organizando_grandes_comunidades/photos) | [video]()
+[slides](https://www.icloud.com/keynote/0vGhAy4B7cCUt_5B94zJvKV_A#O_que_aprendi_organizando_uma_grande_comunidade_-_Community_Summit) | [photos](2018-10-05-o_que_aprendi_organizando_grandes_comunidades/photos) | [video](#2018-10-05---o-que-aprendi-organizando-grandes-comunidades-pt-br)
 
 
 Abstract:
@@ -71,7 +71,7 @@ _Tags: `career`, `communities`_
 [TheConf 2018](https://www.theconf.club/)
 
 
-[slides](https://www.icloud.com/keynote/0mpRDRsKBIcIkmNCTrOstp5fQ#Scalling_your_apps_with_K8s_and_Docker_-_TheConf_-_21092018) | [photos](2018-09-21-scaling_your_applications_with_kubernetes_and_docker/photos) | [video]()
+[slides](https://www.icloud.com/keynote/0mpRDRsKBIcIkmNCTrOstp5fQ#Scalling_your_apps_with_K8s_and_Docker_-_TheConf_-_21092018) | [photos](2018-09-21-scaling_your_applications_with_kubernetes_and_docker/photos) | [video](#2018-09-21---scaling-your-applications-with-kubernetes-and-docker-en-us)
 
 
 Abstract:
