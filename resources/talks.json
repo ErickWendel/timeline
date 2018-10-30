@@ -172,5 +172,27 @@
         },
         "language": "en-us",
         "date": "2018-08-02"
+    },
+    {
+        "title": "Gerenciando o fluxo assincrono de operações Javascript",
+        "abstract": "Sabemos que o fluxo de Javascript é diferente em comparação com outras linguagens, como Java, Python e etc. Quando começamos a escrever funções assíncronas em Javascript, algumas coisas estranhas acontecem, como valores indefinidos, resultados não sincronizados, etc. Esta palestra ajuda você a saber como o Javascript funciona e como sincronizar resultados trabalhando com Callbacks, Promises, Eventos e Observables.",
+        "type": "talk",
+        "event": {
+            "link": "https://eventos.imasters.com.br/jsexperience/",
+            "name": "JS Experience – 7Masters - Edição 2018"
+        },
+        "slides": "https://www.icloud.com/keynote/0a-nP8fSdgrIwtbcdLcp2025w#7Masters_-_Gerenciando_o_Fluxo_Assincrono_de_operac%CC%A7o%CC%83es_JS.key",
+        "photos": "",
+        "video": "",
+        "tags": ["javascript", "async", "node.js"],
+        "location": {
+            "latitude": -23.5588643,
+            "longitude": -46.6645247,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "language": "pt-br",
+        "date": "2018-07-05"
     }
 ]
