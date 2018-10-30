@@ -1,4 +1,4 @@
-,{
+{
     "title": "",
     "abstract": "",
     "type": "talk",
@@ -9,11 +9,12 @@
     "slides": "",
     "photos": "",
     "video": "",
-    "tags": "",
+    "tags": [""],
     "location": {
         "latitude": "",
         "longitude": "",
         "country": "",
+        "uf": "",
         "city": ""
     },
     "language": "",

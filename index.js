@@ -3,10 +3,12 @@ const {
     readFileSync,
     writeFileSync
 } = require('fs')
+
 const talks = JSON.parse(readFileSync('resources/talks.json'))
 
-const str = talks.map(talk => {
-    return json2md([{
+const md = talks.map(talk => {
+    let tags = talk.tags.map(i => `\`${i}\``).join(', ')
+    return [{
             h3: `${talk.date} - ${talk.title} (${talk.language})`
         }, {
             p: `[${talk.event.name}](${talk.event.link})`
@@ -19,14 +21,16 @@ const str = talks.map(talk => {
         },
         {
             blockquote: talk.abstract
-        }, {
-            p: `_Tags: ${talk.tags.map(i => `\`${i}\``).join(', ')}_`
+        },
+        {
+            p: `_Tags: ${tags}_`
         }
-    ])
+    ]
 })
-const data = readFileSync('resources/template.md', 'utf8').toString()
 
-const content = data.replace('$$content$$', str)
+const data = readFileSync('resources/template.md', 'utf8').toString()
+const final = md.reduce((prev, next) => prev.concat(next), [])
+const content = data.replace('$$content$$', json2md(final))
 console.log('content', content)
 
-writeFileSync('new-template.md', content)
+writeFileSync('README.md', content)
