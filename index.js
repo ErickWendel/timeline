@@ -43,13 +43,19 @@ function mapPostMarkdown(item) {
 
 function mapTalkMarkdown(item) {
     item.tags = item.tags.map(i => `\`${i}\``).join(', ')
+    const slidesText = convertLink(item.slides, 'slides')
+    const videoText = `${item.video ? `| ${convertLink(item.video, 'video')}`: ``}`
+    const photoText = `${item.photos ? `| ${convertLink(item.photos, 'photos')}` : ``}`
+
+    const contentSession = `${slidesText} ${photoText} ${videoText}`
+
     return [{
             h3: `${item.date} - ${item.title} (${item.language})`
         }, {
-            p: `[${item.event.name}](${item.event.link})`
+            p: convertLink(item.event.link, item.event.name)
         },
         {
-            p: `[slides](${item.slides}) ${item.photos ? `| [photos](${item.photos})` : ``} ${item.video ? `| [video](${item.video})`: ``}`
+            p: contentSession
         },
         {
             p: "Abstract:"
@@ -63,10 +69,14 @@ function mapTalkMarkdown(item) {
     ];
 }
 
+function convertLink(link, text) {
+    return `<a href="${link}" target="_blank">${text}</a>`
+}
+
 function mapVideoMarkdown(item) {
     item.tags = item.tags.map(i => `\`${i}\``).join(', ')
     return [{
-            h3: `[${item.date} - ${item.title} (${item.language})](${item.link})`
+            h3: convertLink(item.link, `${item.date} - ${item.title} (${item.language})`)
         },
         {
             p: "Abstract:"

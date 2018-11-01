@@ -12,7 +12,7 @@ This is a list of activities from talks that I've given at meetups and conferenc
 
 ## Demonstrations
 
-### [2018-01-09 - Original Potato - Jogando Batata Quente em tempo real! (pt-br)](https://www.facebook.com/page.erickwendel/videos/1202597676537643/)
+### <a href="https://www.facebook.com/page.erickwendel/videos/1202597676537643/" target="_blank">2018-01-09 - Original Potato - Jogando Batata Quente em tempo real! (pt-br)</a>
 
 
 Abstract:
@@ -22,7 +22,7 @@ Abstract:
 
 _Tags: `node.js`, `websocket`, `typescript`_
 
-### [2017-11-27 - USBHacker - Virus para manipular quando um carregador é conectado (pt-br)](https://www.facebook.com/page.erickwendel/videos/1176045485859529/)
+### <a href="https://www.facebook.com/page.erickwendel/videos/1176045485859529/" target="_blank">2017-11-27 - USBHacker - Virus para manipular quando um carregador é conectado (pt-br)</a>
 
 
 Abstract:
@@ -32,7 +32,7 @@ Abstract:
 
 _Tags: `node.js`, `android`, `malware`, `firebase`_
 
-### [2017-11-11 - EvilAlexa - Comandos de voz para manipular serviços do Windows (pt-br)](https://www.facebook.com/page.erickwendel/videos/1166364923494252/)
+### <a href="https://www.facebook.com/page.erickwendel/videos/1166364923494252/" target="_blank">2017-11-11 - EvilAlexa - Comandos de voz para manipular serviços do Windows (pt-br)</a>
 
 
 Abstract:
@@ -42,7 +42,7 @@ Abstract:
 
 _Tags: `malware`, `alexa`, `c#`, `aws`_
 
-### [2017-07-07 - Telegram Bot Api + NodeJS + APIs do IBM Watson (Tone Analyser e Language Translation) (pt-br)](http://erickwendel.com.br/2016/07/07/telegram-bot-api-nodejs-apis-do-ibm-watson-tone-analyser-e-language-translation/)
+### <a href="http://erickwendel.com.br/2016/07/07/telegram-bot-api-nodejs-apis-do-ibm-watson-tone-analyser-e-language-translation/" target="_blank">2017-07-07 - Telegram Bot Api + NodeJS + APIs do IBM Watson (Tone Analyser e Language Translation) (pt-br)</a>
 
 
 Abstract:
@@ -52,7 +52,7 @@ Abstract:
 
 _Tags: `telegram`, `bot`, `node.js`, `ibm`_
 
-### [2017-02-04 - Malwares com Android utilizando Ionic Framework + Javascript + C# + WebSocket (pt-br)](http://erickwendel.com.br/2017/02/04/malwares-com-android-utilizando-ionic-framework-javascript-c-websocket/)
+### <a href="http://erickwendel.com.br/2017/02/04/malwares-com-android-utilizando-ionic-framework-javascript-c-websocket/" target="_blank">2017-02-04 - Malwares com Android utilizando Ionic Framework + Javascript + C# + WebSocket (pt-br)</a>
 
 
 Abstract:
@@ -62,7 +62,7 @@ Abstract:
 
 _Tags: `c#`, `ionic`, `malware`, `virus`_
 
-### [2016-11-06 - Trojan com Comandos de Voz utilizando Android Wear + Java + .NET + Protocolo WebSocket (pt-br)](http://erickwendel.com.br/2016/11/06/trojan-com-comandos-de-voz-utilizando-android-wear-java-net-protocolo-websocket/)
+### <a href="http://erickwendel.com.br/2016/11/06/trojan-com-comandos-de-voz-utilizando-android-wear-java-net-protocolo-websocket/" target="_blank">2016-11-06 - Trojan com Comandos de Voz utilizando Android Wear + Java + .NET + Protocolo WebSocket (pt-br)</a>
 
 
 Abstract:
@@ -72,7 +72,7 @@ Abstract:
 
 _Tags: `trojan`, `c#`, `android`_
 
-### [2016-09-20 - WearPresentation – Android Wear + Device + NodeJS (WebSocket, Desktop e RestFull API) (pt-br)](http://erickwendel.com.br/2016/09/20/wearpresentation-android-wear-device-nodejs-websocket-desktop-e-restfull-api/)
+### <a href="http://erickwendel.com.br/2016/09/20/wearpresentation-android-wear-device-nodejs-websocket-desktop-e-restfull-api/" target="_blank">2016-09-20 - WearPresentation – Android Wear + Device + NodeJS (WebSocket, Desktop e RestFull API) (pt-br)</a>
 
 
 Abstract:
@@ -211,10 +211,10 @@ _Tags: `aspnet`, `c#`, `jquery`_
 ### 2018-10-25 - Node.js, Docker e Containerização (pt-br)
 
 
-[III Congresso de Pesquisa Extensão e Ensino da Unifei-Itabira](https://cpee.unifei.edu.br/Programacao.html)
+<a href="https://cpee.unifei.edu.br/Programacao.html" target="_blank">III Congresso de Pesquisa Extensão e Ensino da Unifei-Itabira</a>
 
 
-[slides](https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw) | [photos](2018-10-25-node.js_docker_containerizacao/photos) 
+<a href="https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw" target="_blank">slides</a> | <a href="2018-10-25-node.js_docker_containerizacao/photos" target="_blank">photos</a> 
 
 
 Abstract:
@@ -227,10 +227,10 @@ _Tags: `node.js`, `javascript`, `docker`, `microservices`_
 ### 2018-10-18 - A vida e as aventuras de um desenvolvedor de Software (pt-br)
 
 
-[E.E. Vila Bela - Projeto [R]EVOLUÇÃO](#2018-10-18-a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-pt-br)
+<a href="#2018-10-18-a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-pt-br" target="_blank">E.E. Vila Bela - Projeto [R]EVOLUÇÃO</a>
 
 
-[slides](https://docs.google.com/presentation/d/1VhpAZC1mZgmuJXy9Qt_mbPce4aC-rvtFu6RYzKAXIlE/edit?usp=sharing) | [photos](2018-10-18-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software/photos) 
+<a href="https://docs.google.com/presentation/d/1VhpAZC1mZgmuJXy9Qt_mbPce4aC-rvtFu6RYzKAXIlE/edit?usp=sharing" target="_blank">slides</a> | <a href="2018-10-18-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software/photos" target="_blank">photos</a> 
 
 
 Abstract:
@@ -243,10 +243,10 @@ _Tags: `career`, `javascript`_
 ### 2018-10-05 - O que aprendi organizando grandes comunidades (pt-br)
 
 
-[Community Leaders Summit](https://credencial.imasters.com.br/community-leaders-summit-2018)
+<a href="https://credencial.imasters.com.br/community-leaders-summit-2018" target="_blank">Community Leaders Summit</a>
 
 
-[slides](https://www.icloud.com/keynote/0vGhAy4B7cCUt_5B94zJvKV_A#O_que_aprendi_organizando_uma_grande_comunidade_-_Community_Summit) | [photos](2018-10-05-o_que_aprendi_organizando_grandes_comunidades/photos) | [video](https://web.facebook.com/fernando.veiga.3950/videos/1122170867935213/)
+<a href="https://www.icloud.com/keynote/0vGhAy4B7cCUt_5B94zJvKV_A#O_que_aprendi_organizando_uma_grande_comunidade_-_Community_Summit" target="_blank">slides</a> | <a href="2018-10-05-o_que_aprendi_organizando_grandes_comunidades/photos" target="_blank">photos</a> | <a href="https://web.facebook.com/fernando.veiga.3950/videos/1122170867935213/" target="_blank">video</a>
 
 
 Abstract:
@@ -259,10 +259,10 @@ _Tags: `career`, `communities`_
 ### 2018-09-21 - Scaling your applications with Kubernetes and Docker (en-us)
 
 
-[TheConf 2018](https://www.theconf.club/)
+<a href="https://www.theconf.club/" target="_blank">TheConf 2018</a>
 
 
-[slides](https://www.icloud.com/keynote/0mpRDRsKBIcIkmNCTrOstp5fQ#Scalling_your_apps_with_K8s_and_Docker_-_TheConf_-_21092018) | [photos](2018-09-21-scaling_your_applications_with_kubernetes_and_docker/photos) 
+<a href="https://www.icloud.com/keynote/0mpRDRsKBIcIkmNCTrOstp5fQ#Scalling_your_apps_with_K8s_and_Docker_-_TheConf_-_21092018" target="_blank">slides</a> | <a href="2018-09-21-scaling_your_applications_with_kubernetes_and_docker/photos" target="_blank">photos</a> 
 
 
 Abstract:
@@ -275,10 +275,10 @@ _Tags: `english`, `node.js`, `docker`, `kubernetes`_
 ### 2018-09-08 - Usando Javascript para reconhecer pessoas (pt-br)
 
 
-[Hack Town 2018](https://hacktown.com.br/programacao/dia/8-Sep/)
+<a href="https://hacktown.com.br/programacao/dia/8-Sep/" target="_blank">Hack Town 2018</a>
 
 
-[slides](https://www.icloud.com/keynote/0geBVltLvSHcKRwabA4OCfppA#Usando_Javascript_para_reconhecer_pessoas!_-_HackTown_-_07092018.key) | [photos](2018-09-08-usando_javascript_para_reconhecer_pessoas) | [video](https://youtu.be/1gC1kOZDZEA)
+<a href="https://www.icloud.com/keynote/0geBVltLvSHcKRwabA4OCfppA#Usando_Javascript_para_reconhecer_pessoas!_-_HackTown_-_07092018.key" target="_blank">slides</a> | <a href="2018-09-08-usando_javascript_para_reconhecer_pessoas" target="_blank">photos</a> | <a href="https://youtu.be/1gC1kOZDZEA" target="_blank">video</a>
 
 
 Abstract:
@@ -291,10 +291,10 @@ _Tags: `node.js`, `azure`, `faceapi`, `opencv`, `javascript`_
 ### 2018-09-01 - Node.js, Microservicos e Containerização (pt-br)
 
 
-[MSP Tech Days](https://www.meetup.com/pt-BR/DevelopersBR/events/253660887/)
+<a href="https://www.meetup.com/pt-BR/DevelopersBR/events/253660887/" target="_blank">MSP Tech Days</a>
 
 
-[slides](https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw) | [photos](2018-09-01-node.js-microservicos-e-containerizacao) 
+<a href="https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw" target="_blank">slides</a> | <a href="2018-09-01-node.js-microservicos-e-containerizacao" target="_blank">photos</a> 
 
 
 Abstract:
@@ -307,10 +307,10 @@ _Tags: `node.js`, `javascript`, `docker`, `microservices`_
 ### 2018-08-18 - Node.js, Observables e RxJs - Programação reativa no Backend! (pt-br)
 
 
-[FC Tech #2 - Poderes do JS](https://www.meetup.com/pt-BR/FCTech/events/252754164)
+<a href="https://www.meetup.com/pt-BR/FCTech/events/252754164" target="_blank">FC Tech #2 - Poderes do JS</a>
 
 
-[slides](https://www.icloud.com/keynote/09M3Bdis-aIhQa85AUZ1v792w#Nodejs%2C_Rxjs_e_Reactive_Programming_-_FCTech_18082018.key) | [photos](2018-08-18-node.js_observables_e_rxjs_-_programação_reativa_no_backend!) 
+<a href="https://www.icloud.com/keynote/09M3Bdis-aIhQa85AUZ1v792w#Nodejs%2C_Rxjs_e_Reactive_Programming_-_FCTech_18082018.key" target="_blank">slides</a> | <a href="2018-08-18-node.js_observables_e_rxjs_-_programação_reativa_no_backend!" target="_blank">photos</a> 
 
 
 Abstract:
@@ -323,10 +323,10 @@ _Tags: `node.js`, `rxjs`, `reactive`, `observable`_
 ### 2018-08-02 - Managing the flow of asynchronous operations in Node.js (en-us)
 
 
-[SFNode Meetup at Mixmax](https://www.meetup.com/pt-BR/sfnode/events/mxstsmyxlbdb/)
+<a href="https://www.meetup.com/pt-BR/sfnode/events/mxstsmyxlbdb/" target="_blank">SFNode Meetup at Mixmax</a>
 
 
-[slides](https://www.icloud.com/keynote/02WBW9IrCGUW9Q2Z9DsPvkcqA#Manage_the_Javascript_Asynchronous_flow.key) | [photos](2018-08-02-managing_the_flow_of_asynchronous_operations_in_node.js) | [video](2018-08-02-managing_the_flow_of_asynchronous_operations_in_node.js/video.mp4)
+<a href="https://www.icloud.com/keynote/02WBW9IrCGUW9Q2Z9DsPvkcqA#Manage_the_Javascript_Asynchronous_flow.key" target="_blank">slides</a> | <a href="2018-08-02-managing_the_flow_of_asynchronous_operations_in_node.js" target="_blank">photos</a> | <a href="2018-08-02-managing_the_flow_of_asynchronous_operations_in_node.js/video.mp4" target="_blank">video</a>
 
 
 Abstract:
@@ -339,10 +339,10 @@ _Tags: `node.js`, `javascript`, `async`, `english`_
 ### 2018-07-05 - Gerenciando o fluxo assincrono de operações Javascript (pt-br)
 
 
-[JS Experience – 7Masters - Edição 2018](https://eventos.imasters.com.br/jsexperience/)
+<a href="https://eventos.imasters.com.br/jsexperience/" target="_blank">JS Experience – 7Masters - Edição 2018</a>
 
 
-[slides](https://www.icloud.com/keynote/0a-nP8fSdgrIwtbcdLcp2025w#7Masters_-_Gerenciando_o_Fluxo_Assincrono_de_operac%CC%A7o%CC%83es_JS.key) | [photos](2018-07-05-gerenciando_o_fluxo_assincrono_de_operações_javascript) 
+<a href="https://www.icloud.com/keynote/0a-nP8fSdgrIwtbcdLcp2025w#7Masters_-_Gerenciando_o_Fluxo_Assincrono_de_operac%CC%A7o%CC%83es_JS.key" target="_blank">slides</a> | <a href="2018-07-05-gerenciando_o_fluxo_assincrono_de_operações_javascript" target="_blank">photos</a> 
 
 
 Abstract:
@@ -355,10 +355,10 @@ _Tags: `javascript`, `async`, `node.js`_
 ### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
 
 
-[Campus Party Brasilia 2018](https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/)
+<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
 
 
-[slides](https://docs.google.com/presentation/d/1u2SoBPiohhbaopGepC2eQ8fJWf-TJT2qWY_qICJgqlM/edit?usp=sharing) | [photos](2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos) | [video](https://www.youtube.com/watch?v=NexvZCJFil8)
+<a href="https://docs.google.com/presentation/d/1u2SoBPiohhbaopGepC2eQ8fJWf-TJT2qWY_qICJgqlM/edit?usp=sharing" target="_blank">slides</a> | <a href="2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos" target="_blank">photos</a> | <a href="https://www.youtube.com/watch?v=NexvZCJFil8" target="_blank">video</a>
 
 
 Abstract:
@@ -371,10 +371,10 @@ _Tags: `node.js`, `javascript`, `websocket`, `socketio`_
 ### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
 
 
-[Campus Party Brasilia 2018](https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/)
+<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
 
 
-[slides](https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key) | [photos](2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!) 
+<a href="https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key" target="_blank">slides</a> | <a href="2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> 
 
 
 Abstract:
@@ -387,10 +387,10 @@ _Tags: `node.js`, `javascript`, `faceapi`, `azure`_
 ### 2018-06-16 - Node.js e Typescript - Extraindo informações da Marvel Comics com Web Scrapping (pt-br)
 
 
-[Building Devs](https://www.eventbrite.com.br/e/building-devs-do-front-end-ao-back-end-tickets-46591861512#)
+<a href="https://www.eventbrite.com.br/e/building-devs-do-front-end-ao-back-end-tickets-46591861512#" target="_blank">Building Devs</a>
 
 
-[slides](http://bit.ly/building-devs-contruindo-robos-automatizados-erickwendel) | [photos](2018-06-16-node.js_e_typescript_-_extraindo_informações_da_marvel_comics_com_web-scrapping) 
+<a href="http://bit.ly/building-devs-contruindo-robos-automatizados-erickwendel" target="_blank">slides</a> | <a href="2018-06-16-node.js_e_typescript_-_extraindo_informações_da_marvel_comics_com_web-scrapping" target="_blank">photos</a> 
 
 
 Abstract:
@@ -403,10 +403,10 @@ _Tags: `nodejs`, `webscrapping`, `typescript`_
 ### 2018-06-02 - Escalando Microservices no Kubernetes (pt-br)
 
 
-[Visual Studio Summit 2018](https://www.sympla.com.br/devprimeone--vssummit-2018__235493#info)
+<a href="https://www.sympla.com.br/devprimeone--vssummit-2018__235493#info" target="_blank">Visual Studio Summit 2018</a>
 
 
-[slides](https://www.icloud.com/keynote/0GGt3v3cs19jzWzcsrOsFSVXA#VSSUMMIT2018V1.key) | [photos](2018-06-02-escalando_microservices_no_kubernetes) 
+<a href="https://www.icloud.com/keynote/0GGt3v3cs19jzWzcsrOsFSVXA#VSSUMMIT2018V1.key" target="_blank">slides</a> | <a href="2018-06-02-escalando_microservices_no_kubernetes" target="_blank">photos</a> 
 
 
 Abstract:
@@ -419,10 +419,10 @@ _Tags: `kubernetes`, `devops`, `docker`_
 ### 2018-05-19 - Javascript, Azure Cognitive Services e RaspberryPI - Usando Javascript para reconhecer pessoas! (pt-br)
 
 
-[Criciúma Dev Conference](https://www.sympla.com.br/criciuma-dev-conference__213460)
+<a href="https://www.sympla.com.br/criciuma-dev-conference__213460" target="_blank">Criciúma Dev Conference</a>
 
 
-[slides](http://bit.ly/criciumadev2018-erickwendel-slides) | [photos](2018-05-19-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!) 
+<a href="http://bit.ly/criciumadev2018-erickwendel-slides" target="_blank">slides</a> | <a href="2018-05-19-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> 
 
 
 Abstract:
@@ -435,10 +435,10 @@ _Tags: `javascript`, `node.js`, `faceapi`, `azure`, `raspberrypi`, `opencv`_
 ### 2018-04-06 - Conhecendo o poder do Typescript para aplicações Node.Js (pt-br)
 
 
-[Microsoft MVP Conference 2018](https://www.sympla.com.br/microsoft-mvp-conference__246657#info)
+<a href="https://www.sympla.com.br/microsoft-mvp-conference__246657#info" target="_blank">Microsoft MVP Conference 2018</a>
 
 
-[slides](http://bit.ly/mvpconf-slides-erickwendel-typescript) | [photos](2018-04-06-conhecendo_o_poder_do_typescript_para_aplicações_nodejs) 
+<a href="http://bit.ly/mvpconf-slides-erickwendel-typescript" target="_blank">slides</a> | <a href="2018-04-06-conhecendo_o_poder_do_typescript_para_aplicações_nodejs" target="_blank">photos</a> 
 
 
 Abstract:
@@ -451,10 +451,10 @@ _Tags: `node.js`, `typescript`, `javascript`, `vscode`_
 ### 2018-03-28 - O poder do MongoDB Aggregation Framework (pt-br)
 
 
-[Canal.NET](http://bit.ly/live-mongodb)
+<a href="http://bit.ly/live-mongodb" target="_blank">Canal.NET</a>
 
 
-[slides](http://bit.ly/canalnet-aggregation-framework-slides-erickwendel) | [photos](2018-03-28-o_poder_do_mongodb_aggregation_framework) | [video](http://bit.ly/live-mongodb)
+<a href="http://bit.ly/canalnet-aggregation-framework-slides-erickwendel" target="_blank">slides</a> | <a href="2018-03-28-o_poder_do_mongodb_aggregation_framework" target="_blank">photos</a> | <a href="http://bit.ly/live-mongodb" target="_blank">video</a>
 
 
 Abstract:
@@ -467,10 +467,10 @@ _Tags: `mongodb`, `database`, `webinar`_
 ### 2018-03-23 - Arquitetando aplicações Serverless - Arquitetura, padrões e organização de aplicações (pt-br)
 
 
-[API Connect Conference 2018](http://apicon.com.br/)
+<a href="http://apicon.com.br/" target="_blank">API Connect Conference 2018</a>
 
 
-[slides](http://bit.ly/apicon-serverless-erickwendel-slides) | [photos](2018-03-28-arquitetando_aplicações_serverless_-_arquitetura,_padrões_e_organização_de_aplicações) 
+<a href="http://bit.ly/apicon-serverless-erickwendel-slides" target="_blank">slides</a> | <a href="2018-03-28-arquitetando_aplicações_serverless_-_arquitetura,_padrões_e_organização_de_aplicações" target="_blank">photos</a> 
 
 
 Abstract:
@@ -483,10 +483,10 @@ _Tags: `serverless`, `node.js`, `design patterns`, `javascript`_
 ### 2018-02-26 - Docker Registry: Adeus deploy via ssh! (pt-br)
 
 
-[Nerdzão #36 - Cloud & DevOps](https://www.meetup.com/pt-BR/Nerdzao/events/247993427)
+<a href="https://www.meetup.com/pt-BR/Nerdzao/events/247993427" target="_blank">Nerdzão #36 - Cloud & DevOps</a>
 
 
-[slides](http://bit.ly/slides-docker-registry-erickwendel) | [photos](/Users/erickwendel/Documents/projetos/ewit/timeline/2018-02-26-docker_registry:_adeus_deploy_via_ssh!) 
+<a href="http://bit.ly/slides-docker-registry-erickwendel" target="_blank">slides</a> | <a href="/Users/erickwendel/Documents/projetos/ewit/timeline/2018-02-26-docker_registry:_adeus_deploy_via_ssh!" target="_blank">photos</a> 
 
 
 Abstract:
@@ -499,10 +499,10 @@ _Tags: `docker`, `node.js`, `javascript`, `devops`_
 ### 2018-02-07 - Construindo Robôs automatizados com Selenium Web Driver e Typescript (pt-br)
 
 
-[Nerdzão #28 - Conhecendo o poder de Node.js](https://www.meetup.com/pt-BR/Nerdzao/events/247508769)
+<a href="https://www.meetup.com/pt-BR/Nerdzao/events/247508769" target="_blank">Nerdzão #28 - Conhecendo o poder de Node.js</a>
 
 
-[slides](http://bit.ly/cpbr-erickwendel-robos-automatizados-slides) | [photos](2018-02-07-construindo_robôs_automatizados_com_selenium_web_driver_e_typescript) 
+<a href="http://bit.ly/cpbr-erickwendel-robos-automatizados-slides" target="_blank">slides</a> | <a href="2018-02-07-construindo_robôs_automatizados_com_selenium_web_driver_e_typescript" target="_blank">photos</a> 
 
 
 Abstract:
@@ -515,10 +515,10 @@ _Tags: `node.js`, `typescript`, `mongodb`, `javascript`, `web scrapping`_
 ### 2018-02-01 - Construindo Robôs automatizados para extração de informações (pt-br)
 
 
-[Campus Party BR - 2018](http://bit.ly/erickwendel-robos-extração-campusparty)
+<a href="http://bit.ly/erickwendel-robos-extração-campusparty" target="_blank">Campus Party BR - 2018</a>
 
 
-[slides](http://bit.ly/cpbr-erickwendel-robos-automatizados-slides)  | [video](https://youtu.be/FANolqvoQQA)
+<a href="http://bit.ly/cpbr-erickwendel-robos-automatizados-slides" target="_blank">slides</a>  | <a href="https://youtu.be/FANolqvoQQA" target="_blank">video</a>
 
 
 Abstract:
@@ -531,10 +531,10 @@ _Tags: `node.js`, `javascript`, `web scrapping`_
 ### 2018-01-31 - Pensando além do código, dicas e segredos para criação de um software (pt-br)
 
 
-[Campus Party BR - 2018](https://campuse.ro/events/campus-party-brasil-2018/talk/pensando-alem-do-codigo-dicas-e-segredos-para-criacao-de-um-software-cpbr11/)
+<a href="https://campuse.ro/events/campus-party-brasil-2018/talk/pensando-alem-do-codigo-dicas-e-segredos-para-criacao-de-um-software-cpbr11/" target="_blank">Campus Party BR - 2018</a>
 
 
-[slides](http://bit.ly/cpbr11-erickwendel-pensando-alem-do-codigo) | [photos](2018-01-31-pensando_além_do_código,_dicas_e_segredos_para_criação_de_um_software) 
+<a href="http://bit.ly/cpbr11-erickwendel-pensando-alem-do-codigo" target="_blank">slides</a> | <a href="2018-01-31-pensando_além_do_código,_dicas_e_segredos_para_criação_de_um_software" target="_blank">photos</a> 
 
 
 Abstract:
