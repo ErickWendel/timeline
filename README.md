@@ -193,3 +193,67 @@ Abstract:
 
 _Tags: `node.js`, `javascript`, `faceapi`, `azure`_
 
+### 2018-06-16 - Node.js e Typescript - Extraindo informações da Marvel Comics com Web Scrapping (pt-br)
+
+
+[Building Devs](https://www.eventbrite.com.br/e/building-devs-do-front-end-ao-back-end-tickets-46591861512#)
+
+
+[slides](http://bit.ly/building-devs-contruindo-robos-automatizados-erickwendel) | [photos](2018-06-16-node.js_e_typescript_-_extraindo_informações_da_marvel_comics_com_web-scrapping) 
+
+
+Abstract:
+
+> Em nossa vida, fazemos diversas ações repetitivas, seja entrar em um site para visualizar dados e registrar em uma base posterior, seja cadastrar um mesmo item a cada tempo ou até mesmo publicar coisas no Facebook. Nesta palestra, você entenderá a facilidade de criar seu robô totalmente atualizado e pronto para liberar aquele tempo preciso para focar no que realmente é estratégico. Vamos conhecer a ferramenta Selenium Web Driver para simular um usuário no navegador e fazer todas as suas tarefas automagicamente.
+
+
+_Tags: `nodejs`, `webscrapping`, `typescript`_
+
+### 2018-06-02 - Escalando Microservices no Kubernetes (pt-br)
+
+
+[Visual Studio Summit 2018](https://www.sympla.com.br/devprimeone--vssummit-2018__235493#info)
+
+
+[slides](https://www.icloud.com/keynote/0GGt3v3cs19jzWzcsrOsFSVXA#VSSUMMIT2018V1.key) | [photos](2018-06-02-escalando_microservices_no_kubernetes) 
+
+
+Abstract:
+
+> Vivemos em uma era de constante evolução de dados, crescimento exponencial de requisições e nos deparamos com diversos desafios no caminho ao lidar com milhares de clientes e alta disponibilidade de aplicações. Nesta palestra você entenderá como trabalhar com Kubernetes, escalando seus micro-serviços, de  forma simples e robusta a partir da plataforma AKS (Azure Container Services), entendendo na prática seus principais segredos e desafios.
+
+
+_Tags: `kubernetes`, `devops`, `docker`_
+
+### 2018-05-19 - Javascript, Azure Cognitive Services e RaspberryPI - Usando Javascript para reconhecer pessoas! (pt-br)
+
+
+[Criciúma Dev Conference](https://www.sympla.com.br/criciuma-dev-conference__213460)
+
+
+[slides](http://bit.ly/criciumadev2018-erickwendel-slides) | [photos](2018-05-19-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!) 
+
+
+Abstract:
+
+> Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo. https://criciumadev.com.br/conference
+
+
+_Tags: `javascript`, `node.js`, `faceapi`, `azure`, `raspberrypi`, `opencv`_
+
+### 2018-04-06 - Conhecendo o poder do Typescript para aplicações Node.Js (pt-br)
+
+
+[Microsoft MVP Conference 2018](https://www.sympla.com.br/microsoft-mvp-conference__246657#info)
+
+
+[slides](http://bit.ly/mvpconf-slides-erickwendel-typescript) | [photos](2018-04-06-conhecendo_o_poder_do_typescript_para_aplicações_nodejs) 
+
+
+Abstract:
+
+> Aplicações Javascript, ao longo de seu crescimento, tendem a mostrar diversos problemas ao longo do tempo, seja organização, seja validação ou até mesmo problemas que a própria linguagem tem. Nesta palestra, você entenderá como criar um código mais seguro, melhor manutenção, códigos mais testáveis e sempre trabalhando  com as versões mais atuais do Javascript em seus projetos.
+
+
+_Tags: `node.js`, `typescript`, `javascript`, `vscode`_
+
