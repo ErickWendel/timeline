@@ -24,7 +24,6 @@ function getTextFile(path) {
 }
 
 function mapPostMarkdown(item) {
-    item.tags = item.tags.map(i => `\`${i}\``).join(', ')
     return [{
             h3: convertLink(item.link, `${item.date} - ${item.title} (${item.language})`)
         }, {
@@ -46,7 +45,6 @@ function mapPostMarkdown(item) {
 }
 
 function mapTalkMarkdown(item) {
-    item.tags = item.tags.map(i => `\`${i}\``).join(', ')
     const slidesText = convertLink(item.slides, 'slides')
     const videoText = `${item.video ? `| ${convertLink(item.video, 'video')}`: ``}`
     const photoText = `${item.photos ? `| ${convertLink(item.photos, 'photos')}` : ``}`
@@ -77,8 +75,12 @@ function convertLink(link, text) {
     return `<a href="${link}" target="_blank">${text}</a>`
 }
 
-function mapVideoMarkdown(item) {
+function mapTags(item) {
     item.tags = item.tags.map(i => `\`${i}\``).join(', ')
+    return item
+}
+
+function mapVideoMarkdown(item) {
     return [{
             h3: convertLink(item.link, `${item.date} - ${item.title} (${item.language})`)
         },
@@ -95,7 +97,7 @@ function mapVideoMarkdown(item) {
 }
 
 function mapMarkdown(items, fn) {
-    return items.sort(sortByDate).map(fn).reduce((prev, next) => prev.concat(next), [])
+    return items.sort(sortByDate).map(item => fn(mapTags(item))).reduce((prev, next) => prev.concat(next), [])
 }
 
 (() => {
