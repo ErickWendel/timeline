@@ -1,4 +1,4 @@
-# Activities by [Erick Wendel](https://twitter.com/erickwendel_)
+# Activities by <a href="https://twitter.com/erickwendel_" target="_blank">Erick Wendel</a>
 
 _Search with `⌘/ctrl + f`_
 
