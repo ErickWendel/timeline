@@ -257,3 +257,99 @@ Abstract:
 
 _Tags: `node.js`, `typescript`, `javascript`, `vscode`_
 
+### 2018-03-28 - O poder do MongoDB Aggregation Framework (pt-br)
+
+
+[Canal.NET](http://bit.ly/live-mongodb)
+
+
+[slides](http://bit.ly/canalnet-aggregation-framework-slides-erickwendel) | [photos](2018-03-28-o_poder_do_mongodb_aggregation_framework) | [video](http://bit.ly/live-mongodb)
+
+
+Abstract:
+
+> Trabalhando com MongoDB, nos deparamos com alguns métodos repetitivos, operações complexas e na maioria das vezes, causa uma perda grande de memória e processamento ao realizá-la. Nessa live você entenderá quando usar e como usar o melhor do MongoDB, com exemplos práticos, facilitando as operações do dia-a-dia e melhorando a entrega de seus projetos.
+
+
+_Tags: `mongodb`, `database`, `webinar`_
+
+### 2018-02-26 - Docker Registry: Adeus deploy via ssh! (pt-br)
+
+
+[Nerdzão #36 - Cloud & DevOps](https://www.meetup.com/pt-BR/Nerdzao/events/247993427)
+
+
+[slides](http://bit.ly/slides-docker-registry-erickwendel) | [photos](/Users/erickwendel/Documents/projetos/ewit/timeline/2018-02-26-docker_registry:_adeus_deploy_via_ssh!) 
+
+
+Abstract:
+
+> Em nosso cotidiano, conhecemos algumas formas de deploy que talvez podem ser repetitivas demais. Um grande exemplo é: Temos nossa aplicação (nossos arquivos que devem ser executadas no servidor de produção), criamos uma máquina virtual, acessamos esta máquina via SSH (linha de comando), fazemos um git clone (ou pull) e rodamos cada projeto separado. O objetivo desta palestra é automatizar todo este processo, garantindo a entrega e viabilidade de publicação de projetos. 
+
+
+_Tags: `docker`, `node.js`, `javascript`, `devops`_
+
+### 2018-03-23 - Arquitetando aplicações Serverless - Arquitetura, padrões e organização de aplicações (pt-br)
+
+
+[API Connect Conference 2018](http://apicon.com.br/)
+
+
+[slides](http://bit.ly/apicon-serverless-erickwendel-slides) | [photos](2018-03-28-arquitetando_aplicações_serverless_-_arquitetura,_padrões_e_organização_de_aplicações) 
+
+
+Abstract:
+
+> Ao trabalhar com aplicações Serverless em nossos projetos lidamos com alguns desafios de arquitetura, organização e manutenção ao longo do crescimento de aplicações. Você aprenderá diversos pontos a considerar ao criar aplicações deste tipo, pensando em uma arquitetura mais concisa, testável e escalável, conhecendo os principais beneficios e desafios da nova era de aplicações.
+
+
+_Tags: `serverless`, `node.js`, `design patterns`, `javascript`_
+
+### 2018-02-07 - Construindo Robôs automatizados com Selenium Web Driver e Typescript (pt-br)
+
+
+[Nerdzão #28 - Conhecendo o poder de Node.js](https://www.meetup.com/pt-BR/Nerdzao/events/247508769)
+
+
+[slides](http://bit.ly/cpbr-erickwendel-robos-automatizados-slides) | [photos](2018-02-07-construindo_robôs_automatizados_com_selenium_web_driver_e_typescript) 
+
+
+Abstract:
+
+> Em nossa vida, fazemos diversas ações repetitivas, seja entrar em um site para visualizar dados e registrar em uma base posterior, seja cadastrar um mesmo item a cada tempo ou até mesmo publicar coisas no Facebook. Nesta palestra, você entenderá a facilidade de criar seu robô totalmente atualizado e pronto para liberar aquele tempo preciso para focar no que realmente é estratégico. Vamos conhecer a ferramenta Selenium Web Driver para simular um usuário no navegador e fazer todas as suas tarefas automagicamente.
+
+
+_Tags: `node.js`, `typescript`, `mongodb`, `javascript`, `web scrapping`_
+
+### 2018-02-01 - Construindo Robôs automatizados para extração de informações (pt-br)
+
+
+[Campus Party BR - 2018](http://bit.ly/erickwendel-robos-extração-campusparty)
+
+
+[slides](http://bit.ly/cpbr-erickwendel-robos-automatizados-slides)  | [video](https://youtu.be/FANolqvoQQA)
+
+
+Abstract:
+
+> Em nossa vida, fazemos diversas ações repetitivas, seja entrar em um site para visualizar dados e registrar em uma base posterior, seja cadastrar um mesmo item a cada tempo ou até mesmo publicar coisas no Facebook. Nesta palestra, você entenderá a facilidade de criar seu robô totalmente atualizado e pronto para liberar aquele tempo preciso para focar no que realmente é estratégico. Vamos conhecer a ferramenta Selenium Web Driver para simular um usuário no navegador e fazer todas as suas tarefas automagicamente.
+
+
+_Tags: `node.js`, `javascript`, `web scrapping`_
+
+### 2018-01-31 - Pensando além do código, dicas e segredos para criação de um software (pt-br)
+
+
+[Campus Party BR - 2018](https://campuse.ro/events/campus-party-brasil-2018/talk/pensando-alem-do-codigo-dicas-e-segredos-para-criacao-de-um-software-cpbr11/)
+
+
+[slides](http://bit.ly/cpbr11-erickwendel-pensando-alem-do-codigo) | [photos](2018-01-31-pensando_além_do_código,_dicas_e_segredos_para_criação_de_um_software) 
+
+
+Abstract:
+
+> Sabemos que escrever código é sempre desafiador e na maioria das vezes divertido. Programadores se concentram na entrega e escala de seus software, mas sabemos que software é só um dos pilares para a entrega de um produto,nessa palestra, voce entenderá quais são os passos para montar seu produto de ponta a ponta, mudando o Mindset, pensando além do código.
+
+
+_Tags: `node.js`, `career`_
+
