@@ -85,7 +85,7 @@ function mapMarkdown(items, fn) {
 }
 
 (() => {
-    const data = readFileSync('resources/template.md', 'utf8').toString()
+    const data = readFileSync('resources/templates/template.md', 'utf8').toString()
 
     const talks = getTextFile('resources/talks.json')
     const talksMd = mapMarkdown(talks, mapTalkMarkdown)
