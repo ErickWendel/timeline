@@ -6,11 +6,11 @@ This is a list of activities from talks that I've given at meetups and conferenc
 
 ## Table of Contents
 
-- [Videos](#videos)
+- [Demonstrations](#demonstration)
 - [Blog Posts](#blog-posts)
 - [Conference Talks](#blog-posts)
 
-## Videos
+## Demonstrations
 
 ### [2018-01-09 - Original Potato - Jogando Batata Quente em tempo real! (pt-br)](https://www.facebook.com/page.erickwendel/videos/1202597676537643/)
 

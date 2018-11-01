@@ -6,11 +6,11 @@ This is a list of activities from talks that I've given at meetups and conferenc
 
 ## Table of Contents
 
-- [Videos](#videos)
+- [Demonstrations](#demonstration)
 - [Blog Posts](#blog-posts)
 - [Conference Talks](#blog-posts)
 
-## Videos
+## Demonstrations
 
 $$video-content$$
 
