@@ -8,7 +8,7 @@ This is a list of activities from talks that I've given at meetups and conferenc
 
 - [Demonstrations](#demonstrations)
 - [Blog Posts](#blog-posts)
-- [Conference Talks](#blog-posts)
+- [Conference Talks](#conference-talks)
 
 ## Demonstrations
 
