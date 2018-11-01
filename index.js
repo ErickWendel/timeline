@@ -69,9 +69,7 @@ function mapTalkMarkdown(item) {
 
     function mapExternalLinks(link) {
         const githubContentLink = `${REPOSITORY}/tree/master/`
-        console.log(~link.indexOf('http'))
-        if (~link.indexOf('http'))
-            return link
+        if (~link.indexOf('http')) return link
 
         return `${githubContentLink}${link}`
     }
