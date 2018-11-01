@@ -92,9 +92,6 @@ function mapTags(item) {
     return item
 }
 
-function mapContent() {
-
-}
 
 function mapVideoMarkdown(item) {
     return [{
