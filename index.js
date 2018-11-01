@@ -67,11 +67,19 @@ function mapTalkMarkdown(item) {
         }
     ];
 
+    function mapExternalLinks(link) {
+        const githubContentLink = `${REPOSITORY}/tree/master/`
+        console.log(~link.indexOf('http'))
+        if (~link.indexOf('http'))
+            return link
+
+        return `${githubContentLink}${link}`
+    }
+
     function mapContentLinks(item) {
         const slidesText = convertLink(item.slides, 'slides');
-        const githubContentLink = `${REPOSITORY}/tree/master/`
-        const videoText = `${item.video ? `| ${convertLink(`${githubContentLink}${item.video}`, 'video')}` : ``}`;
-        const photoText = `${item.photos ? `| ${convertLink(`${githubContentLink}${item.photos}`, 'photos')}` : ``}`;
+        const videoText = `${item.video ? `| ${convertLink(mapExternalLinks(item.video), 'video')}` : ``}`;
+        const photoText = `${item.photos ? `| ${convertLink(mapExternalLinks(item.photos), 'photos')}` : ``}`;
         const contentSession = `${slidesText} ${photoText} ${videoText}`;
         return contentSession;
     }

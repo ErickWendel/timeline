@@ -246,7 +246,7 @@ _Tags: `career`, `javascript`_
 <a href="https://credencial.imasters.com.br/community-leaders-summit-2018" target="_blank">Community Leaders Summit</a>
 
 
-<a href="https://www.icloud.com/keynote/0vGhAy4B7cCUt_5B94zJvKV_A#O_que_aprendi_organizando_uma_grande_comunidade_-_Community_Summit" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-10-05-o_que_aprendi_organizando_grandes_comunidades/photos" target="_blank">photos</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/https://web.facebook.com/fernando.veiga.3950/videos/1122170867935213/" target="_blank">video</a>
+<a href="https://www.icloud.com/keynote/0vGhAy4B7cCUt_5B94zJvKV_A#O_que_aprendi_organizando_uma_grande_comunidade_-_Community_Summit" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-10-05-o_que_aprendi_organizando_grandes_comunidades/photos" target="_blank">photos</a> | <a href="https://web.facebook.com/fernando.veiga.3950/videos/1122170867935213/" target="_blank">video</a>
 
 
 Abstract:
@@ -278,7 +278,7 @@ _Tags: `english`, `node.js`, `docker`, `kubernetes`_
 <a href="https://hacktown.com.br/programacao/dia/8-Sep/" target="_blank">Hack Town 2018</a>
 
 
-<a href="https://www.icloud.com/keynote/0geBVltLvSHcKRwabA4OCfppA#Usando_Javascript_para_reconhecer_pessoas!_-_HackTown_-_07092018.key" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-09-08-usando_javascript_para_reconhecer_pessoas" target="_blank">photos</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/https://youtu.be/1gC1kOZDZEA" target="_blank">video</a>
+<a href="https://www.icloud.com/keynote/0geBVltLvSHcKRwabA4OCfppA#Usando_Javascript_para_reconhecer_pessoas!_-_HackTown_-_07092018.key" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-09-08-usando_javascript_para_reconhecer_pessoas" target="_blank">photos</a> | <a href="https://youtu.be/1gC1kOZDZEA" target="_blank">video</a>
 
 
 Abstract:
@@ -358,7 +358,7 @@ _Tags: `javascript`, `async`, `node.js`_
 <a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
 
 
-<a href="https://docs.google.com/presentation/d/1u2SoBPiohhbaopGepC2eQ8fJWf-TJT2qWY_qICJgqlM/edit?usp=sharing" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos" target="_blank">photos</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/https://www.youtube.com/watch?v=NexvZCJFil8" target="_blank">video</a>
+<a href="https://docs.google.com/presentation/d/1u2SoBPiohhbaopGepC2eQ8fJWf-TJT2qWY_qICJgqlM/edit?usp=sharing" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos" target="_blank">photos</a> | <a href="https://www.youtube.com/watch?v=NexvZCJFil8" target="_blank">video</a>
 
 
 Abstract:
@@ -454,7 +454,7 @@ _Tags: `node.js`, `typescript`, `javascript`, `vscode`_
 <a href="http://bit.ly/live-mongodb" target="_blank">Canal.NET</a>
 
 
-<a href="http://bit.ly/canalnet-aggregation-framework-slides-erickwendel" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-03-28-o_poder_do_mongodb_aggregation_framework" target="_blank">photos</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/http://bit.ly/live-mongodb" target="_blank">video</a>
+<a href="http://bit.ly/canalnet-aggregation-framework-slides-erickwendel" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-03-28-o_poder_do_mongodb_aggregation_framework" target="_blank">photos</a> | <a href="http://bit.ly/live-mongodb" target="_blank">video</a>
 
 
 Abstract:
@@ -518,7 +518,7 @@ _Tags: `node.js`, `typescript`, `mongodb`, `javascript`, `web scrapping`_
 <a href="http://bit.ly/erickwendel-robos-extração-campusparty" target="_blank">Campus Party BR - 2018</a>
 
 
-<a href="http://bit.ly/cpbr-erickwendel-robos-automatizados-slides" target="_blank">slides</a>  | <a href="https://github.com/ErickWendel/timeline/tree/master/https://youtu.be/FANolqvoQQA" target="_blank">video</a>
+<a href="http://bit.ly/cpbr-erickwendel-robos-automatizados-slides" target="_blank">slides</a>  | <a href="https://youtu.be/FANolqvoQQA" target="_blank">video</a>
 
 
 Abstract:
