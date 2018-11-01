@@ -6,6 +6,7 @@ const {
 
 const BLOG_CONTENT_TAG = '$$blog-content$$'
 const TALK_CONTENT_TAG = '$$talk-content$$'
+const VIDEO_CONTENT_TAG = '$$video-content$$'
 
 function sortByDate(prev, next) {
 
@@ -62,19 +63,44 @@ function mapTalkMarkdown(item) {
     ];
 }
 
+function mapVideoMarkdown(item) {
+    item.tags = item.tags.map(i => `\`${i}\``).join(', ')
+    return [{
+            h3: `[${item.date} - ${item.title} (${item.language})](${item.link})`
+        },
+        {
+            p: "Abstract:"
+        },
+        {
+            blockquote: item.abstract
+        },
+        {
+            p: `_Tags: ${item.tags}_`
+        }
+    ];
+}
+
+function mapMarkdown(items, fn) {
+    return items.sort(sortByDate).map(fn).reduce((prev, next) => prev.concat(next), [])
+}
 
 (() => {
-    const talks = getTextFile('resources/talks.json')
-
-    const talksMd = talks.sort(sortByDate).map(mapTalkMarkdown).reduce((prev, next) => prev.concat(next), [])
     const data = readFileSync('resources/template.md', 'utf8').toString()
 
-    const post = getTextFile('resources/posts.json')
-    const postMd = post.sort(sortByDate).map(mapPostMarkdown).reduce((prev, next) => prev.concat(next), [])
+    const talks = getTextFile('resources/talks.json')
+    const talksMd = mapMarkdown(talks, mapTalkMarkdown)
+
+    const posts = getTextFile('resources/posts.json')
+    const postMd = mapMarkdown(posts, mapPostMarkdown)
+
+    const videos = getTextFile('resources/videos.json')
+    const videosMd = mapMarkdown(videos, mapVideoMarkdown)
+
 
     const content = data
         .replace(TALK_CONTENT_TAG, json2md(talksMd))
         .replace(BLOG_CONTENT_TAG, json2md(postMd))
+        .replace(VIDEO_CONTENT_TAG, json2md(videosMd))
 
     // console.log('content', content)
 

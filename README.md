@@ -6,8 +6,82 @@ This is a list of activities from talks that I've given at meetups and conferenc
 
 ## Table of Contents
 
+- [Videos](#videos)
 - [Blog Posts](#blog-posts)
 - [Conference Talks](#blog-posts)
+
+## Videos
+
+### [2018-01-09 - Original Potato - Jogando Batata Quente em tempo real! (pt-br)](https://www.facebook.com/page.erickwendel/videos/1202597676537643/)
+
+
+Abstract:
+
+> Está no ar, mais um aplicativo da ZOEIRA! Sabe aquela galera que sai com você e fica o tempo todo no celular? Que tal interagir com a galera, revivendo os tempos de batata quente     mas de uma forma mais digital ?
+
+
+_Tags: `node.js`, `websocket`, `typescript`_
+
+### [2017-11-27 - USBHacker - Virus para manipular quando um carregador é conectado (pt-br)](https://www.facebook.com/page.erickwendel/videos/1176045485859529/)
+
+
+Abstract:
+
+> Basicamente, o usuario em algum momento deixou o celular desbloqueado em sua mão e voce instalou o #USBHacker. Feito isso, quando ele for dormir, colocar o celular para carregar, nosso malware dispara ações, como GRITAR sem parar, faz com que o usuário não consiga fechar a aplicação, não consiga diminuir o volume, pisca com a nossa foto (manipulando o brilho), vibra, pisca a lanterna do celular e o MAIS LEGAL! Enquanto a pessoa está desesperada, suas fotos são tiradas em segundo plano e enviadas direto para um site em tempo real, para o mundo inteiro rir de sua reação.
+
+
+_Tags: `node.js`, `android`, `malware`, `firebase`_
+
+### [2017-11-11 - EvilAlexa - Comandos de voz para manipular serviços do Windows (pt-br)](https://www.facebook.com/page.erickwendel/videos/1166364923494252/)
+
+
+Abstract:
+
+> Malware a partir de comandos de voz usando os serviços da Amazon Web Services para Manipular serviços do Windows a partir da Internet hehehhe. A demo do projeto que fizemos na Campus Party 2017 BH
+
+
+_Tags: `malware`, `alexa`, `c#`, `aws`_
+
+### [2017-07-07 - Telegram Bot Api + NodeJS + APIs do IBM Watson (Tone Analyser e Language Translation) (pt-br)](http://erickwendel.com.br/2016/07/07/telegram-bot-api-nodejs-apis-do-ibm-watson-tone-analyser-e-language-translation/)
+
+
+Abstract:
+
+> Telegram Bot Api + NodeJS + APIs do IBM Watson (Tone Analyser e Language Translation). Demonstração da minha palestra para a trilha de NodeJS que aconteceu em 07/07/2016 no The Developer’s Conference 
+
+
+_Tags: `telegram`, `bot`, `node.js`, `ibm`_
+
+### [2017-02-04 - Malwares com Android utilizando Ionic Framework + Javascript + C# + WebSocket (pt-br)](http://erickwendel.com.br/2017/02/04/malwares-com-android-utilizando-ionic-framework-javascript-c-websocket/)
+
+
+Abstract:
+
+> Olá galera, estive no The Big Hackathon realizado na Campus Party BR 10, como mentor. Na madrugada de 03/02 para 04/02, desenvolvi uma aplicação para mostrar o poder de um desenvolvedor de software, para a palestra também realizada na CPBR10 (link abaixo). No video, demonstramos a arquitetura e como foi desenvolvido, a demonstração voce encontra logo abaixo.
+
+
+_Tags: `c#`, `ionic`, `malware`, `virus`_
+
+### [2016-11-06 - Trojan com Comandos de Voz utilizando Android Wear + Java + .NET + Protocolo WebSocket (pt-br)](http://erickwendel.com.br/2016/11/06/trojan-com-comandos-de-voz-utilizando-android-wear-java-net-protocolo-websocket/)
+
+
+Abstract:
+
+> Na madrugada de sábado para domingo, junto ao Leonardo Lourenço, contruímos uma brincadeira com Android, C# e Comandos de voz
+
+
+_Tags: `trojan`, `c#`, `android`_
+
+### [2016-09-20 - WearPresentation – Android Wear + Device + NodeJS (WebSocket, Desktop e RestFull API) (pt-br)](http://erickwendel.com.br/2016/09/20/wearpresentation-android-wear-device-nodejs-websocket-desktop-e-restfull-api/)
+
+
+Abstract:
+
+> Para a galera que faz apresentações, essa é uma pequena demonstração do app que estou criando. Basicamente, o objetivo principal é controlar a apresentação usando gestos e movimentos e dar todo suporte ao palestrante durante a apresentação. Mostramos somente a funcionalidade mais básica do aplicativo, algumas ainda são “secretas” e inovadoras comparadas aos concorrentes
+
+
+_Tags: `wear`, `android`, `node.js`_
+
 
 ## Blog Posts
 
@@ -131,10 +205,6 @@ Abstract:
 
 _Tags: `aspnet`, `c#`, `jquery`_
 
-
-<!-- - [Patterns — Generic Repository with Typescript and Node.js](https://hackernoon.com/generic-repository-with-typescript-and-node-js-731c10a1b98e)
-- [Code Standards — Padronizando sua equipe de desenvolvimento Javascript](https://medium.com/horizon-four/code-stantards-padronizando-sua-equipe-de-desenvolvimento-e1e47e3edf11)
-- [Protegendo dados sensíveis com Git-Crypt](https://medium.com/trainingcenter/protegendo-dados-sens%C3%ADveis-com-git-crypt-9fca13e6835b) -->
 
 ## Conference Talks
 
