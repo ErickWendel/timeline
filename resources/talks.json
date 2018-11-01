@@ -157,7 +157,7 @@
         "type": "talk",
         "event": {
             "link": "https://www.meetup.com/pt-BR/sfnode/events/mxstsmyxlbdb/",
-            "name": "SFNode Meetup at Mixmax"
+            "name": "San Francisco Node at Mixmax"
         },
         "slides": "https://www.icloud.com/keynote/02WBW9IrCGUW9Q2Z9DsPvkcqA#Manage_the_Javascript_Asynchronous_flow.key",
         "photos": "2018-08-02-managing_the_flow_of_asynchronous_operations_in_node.js",

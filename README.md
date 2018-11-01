@@ -323,7 +323,7 @@ _Tags: `node.js`, `rxjs`, `reactive`, `observable`_
 ### 2018-08-02 - Managing the flow of asynchronous operations in Node.js (en-us)
 
 
-<a href="https://www.meetup.com/pt-BR/sfnode/events/mxstsmyxlbdb/" target="_blank">SFNode Meetup at Mixmax</a>
+<a href="https://www.meetup.com/pt-BR/sfnode/events/mxstsmyxlbdb/" target="_blank">San Francisco Node at Mixmax</a>
 
 
 <a href="https://www.icloud.com/keynote/02WBW9IrCGUW9Q2Z9DsPvkcqA#Manage_the_Javascript_Asynchronous_flow.key" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-08-02-managing_the_flow_of_asynchronous_operations_in_node.js" target="_blank">photos</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-08-02-managing_the_flow_of_asynchronous_operations_in_node.js/video.mp4" target="_blank">video</a>
