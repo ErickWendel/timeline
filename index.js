@@ -19,15 +19,19 @@ function sortByDate(prev, next) {
 
 }
 
+function getTextFile(path) {
+    return JSON.parse(readFileSync(path));
+}
+
 function mapPostMarkdown(item) {
     item.tags = item.tags.map(i => `\`${i}\``).join(', ')
     return [{
-            h3: `[${item.date} - ${item.title} (${item.language})](${item.link})`
+            h3: convertLink(item.link, `${item.date} - ${item.title} (${item.language})`)
         }, {
             p: `Portal:`
         },
         {
-            blockquote: `[${item.portal.name}](${item.portal.link})`
+            blockquote: convertLink(item.portal.link, item.portal.name)
         },
         {
             p: "Abstract:"
@@ -118,7 +122,3 @@ function mapMarkdown(items, fn) {
     console.log('readme generated with success!')
 
 })()
-
-function getTextFile(path) {
-    return JSON.parse(readFileSync(path));
-}

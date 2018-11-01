@@ -85,12 +85,12 @@ _Tags: `wear`, `android`, `node.js`_
 
 ## Blog Posts
 
-### [2018-03-20 - Patterns — Generic Repository with Typescript and Node.js (en-us)](https://hackernoon.com/generic-repository-with-typescript-and-node-js-731c10a1b98e)
+### <a href="https://hackernoon.com/generic-repository-with-typescript-and-node-js-731c10a1b98e" target="_blank">2018-03-20 - Patterns — Generic Repository with Typescript and Node.js (en-us)</a>
 
 
 Portal:
 
-> [Hackernoon](https://hackernoon.com/)
+> <a href="https://hackernoon.com/" target="_blank">Hackernoon</a>
 
 
 Abstract:
@@ -100,12 +100,12 @@ Abstract:
 
 _Tags: `typescript`, `javascript`, `node.js`, `design patterns`_
 
-### [2017-11-04 - Code Standards — Padronizando sua equipe de desenvolvimento Javascript (pt-br)](https://medium.com/horizon-four/code-stantards-padronizando-sua-equipe-de-desenvolvimento-e1e47e3edf11)
+### <a href="https://medium.com/horizon-four/code-stantards-padronizando-sua-equipe-de-desenvolvimento-e1e47e3edf11" target="_blank">2017-11-04 - Code Standards — Padronizando sua equipe de desenvolvimento Javascript (pt-br)</a>
 
 
 Portal:
 
-> [Horizon Four](https://medium.com/horizon-four)
+> <a href="https://medium.com/horizon-four" target="_blank">Horizon Four</a>
 
 
 Abstract:
@@ -115,12 +115,12 @@ Abstract:
 
 _Tags: `node.js`, `javascript`, `eslint`, `code standards`, `prettier`_
 
-### [2017-10-12 - Protegendo dados sensíveis com Git-Crypt (pt-br)](https://medium.com/trainingcenter/protegendo-dados-sens%C3%ADveis-com-git-crypt-9fca13e6835b)
+### <a href="https://medium.com/trainingcenter/protegendo-dados-sens%C3%ADveis-com-git-crypt-9fca13e6835b" target="_blank">2017-10-12 - Protegendo dados sensíveis com Git-Crypt (pt-br)</a>
 
 
 Portal:
 
-> [Training Center](https://medium.com/trainingcenter)
+> <a href="https://medium.com/trainingcenter" target="_blank">Training Center</a>
 
 
 Abstract:
@@ -130,12 +130,12 @@ Abstract:
 
 _Tags: `git`, `javascript`, `environment management`_
 
-### [2016-02-26 - Gerenciando o fluxo assíncrono de operações em NodeJS (pt-br)](https://imasters.com.br/desenvolvimento/gerenciando-o-fluxo-assincrono-de-operacoes-em-nodejs)
+### <a href="https://imasters.com.br/desenvolvimento/gerenciando-o-fluxo-assincrono-de-operacoes-em-nodejs" target="_blank">2016-02-26 - Gerenciando o fluxo assíncrono de operações em NodeJS (pt-br)</a>
 
 
 Portal:
 
-> [iMasters](https://imasters.com.br)
+> <a href="https://imasters.com.br" target="_blank">iMasters</a>
 
 
 Abstract:
@@ -145,12 +145,12 @@ Abstract:
 
 _Tags: `node.js`, `javascript`_
 
-### [2016-01-13 - NodeJS com TypeScript e Task Runners – Visual Studio Code (pt-br)](https://imasters.com.br/desenvolvimento/nodejs-com-typescript-e-task-runners-visual-studio-code)
+### <a href="https://imasters.com.br/desenvolvimento/nodejs-com-typescript-e-task-runners-visual-studio-code" target="_blank">2016-01-13 - NodeJS com TypeScript e Task Runners – Visual Studio Code (pt-br)</a>
 
 
 Portal:
 
-> [iMasters](https://imasters.com.br)
+> <a href="https://imasters.com.br" target="_blank">iMasters</a>
 
 
 Abstract:
@@ -160,12 +160,12 @@ Abstract:
 
 _Tags: `node.js`, `gulp`, `task runners`, `typescript`_
 
-### [2015-12-26 - NodeJS com TypeScript e Task Runners - Visual Studio Code (pt-br)](https://social.technet.microsoft.com/wiki/pt-br/contents/articles/32988.nodejs-com-typescript-e-task-runners-visual-studio-code.aspx)
+### <a href="https://social.technet.microsoft.com/wiki/pt-br/contents/articles/32988.nodejs-com-typescript-e-task-runners-visual-studio-code.aspx" target="_blank">2015-12-26 - NodeJS com TypeScript e Task Runners - Visual Studio Code (pt-br)</a>
 
 
 Portal:
 
-> [Microsoft TechNet](https://social.technet.microsoft.com)
+> <a href="https://social.technet.microsoft.com" target="_blank">Microsoft TechNet</a>
 
 
 Abstract:
@@ -175,12 +175,12 @@ Abstract:
 
 _Tags: `node.js`, `gulp`, `task runners`, `typescript`_
 
-### [2015-03-24 - SPA Utilizando ASP.NET MVC 5 – Parte 2.0 ﻿ (pt-br)](http://netcoders.com.br/spa-asp-net-mvc-5-parte-2-0/)
+### <a href="http://netcoders.com.br/spa-asp-net-mvc-5-parte-2-0/" target="_blank">2015-03-24 - SPA Utilizando ASP.NET MVC 5 – Parte 2.0 ﻿ (pt-br)</a>
 
 
 Portal:
 
-> [.NETCoders](http://netcoders.com.br)
+> <a href="http://netcoders.com.br" target="_blank">.NETCoders</a>
 
 
 Abstract:
@@ -190,12 +190,12 @@ Abstract:
 
 _Tags: `aspnet`, `c#`, `jquery`_
 
-### [2015-02-27 - SPA Utilizando ASP.NET MVC 5 – Parte 1.0 (pt-br)](http://netcoders.com.br/spa-asp-net-mvc-5-parte-1-0/)
+### <a href="http://netcoders.com.br/spa-asp-net-mvc-5-parte-1-0/" target="_blank">2015-02-27 - SPA Utilizando ASP.NET MVC 5 – Parte 1.0 (pt-br)</a>
 
 
 Portal:
 
-> [.NETCoders](http://netcoders.com.br)
+> <a href="http://netcoders.com.br" target="_blank">.NETCoders</a>
 
 
 Abstract:
