@@ -7,6 +7,7 @@ const {
 const BLOG_CONTENT_TAG = '$$blog-content$$'
 const TALK_CONTENT_TAG = '$$talk-content$$'
 const VIDEO_CONTENT_TAG = '$$video-content$$'
+const REPOSITORY = 'https://github.com/ErickWendel/timeline'
 
 function sortByDate(prev, next) {
 
@@ -45,11 +46,7 @@ function mapPostMarkdown(item) {
 }
 
 function mapTalkMarkdown(item) {
-    const slidesText = convertLink(item.slides, 'slides')
-    const videoText = `${item.video ? `| ${convertLink(item.video, 'video')}`: ``}`
-    const photoText = `${item.photos ? `| ${convertLink(item.photos, 'photos')}` : ``}`
-
-    const contentSession = `${slidesText} ${photoText} ${videoText}`
+    const contentSession = mapContentLinks(item);
 
     return [{
             h3: `${item.date} - ${item.title} (${item.language})`
@@ -69,6 +66,15 @@ function mapTalkMarkdown(item) {
             p: `_Tags: ${item.tags}_`
         }
     ];
+
+    function mapContentLinks(item) {
+        const slidesText = convertLink(item.slides, 'slides');
+        const githubContentLink = `${REPOSITORY}/tree/master/`
+        const videoText = `${item.video ? `| ${convertLink(`${githubContentLink}${item.video}`, 'video')}` : ``}`;
+        const photoText = `${item.photos ? `| ${convertLink(`${githubContentLink}${item.photos}`, 'photos')}` : ``}`;
+        const contentSession = `${slidesText} ${photoText} ${videoText}`;
+        return contentSession;
+    }
 }
 
 function convertLink(link, text) {
@@ -78,6 +84,10 @@ function convertLink(link, text) {
 function mapTags(item) {
     item.tags = item.tags.map(i => `\`${i}\``).join(', ')
     return item
+}
+
+function mapContent() {
+
 }
 
 function mapVideoMarkdown(item) {

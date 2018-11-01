@@ -214,7 +214,7 @@ _Tags: `aspnet`, `c#`, `jquery`_
 <a href="https://cpee.unifei.edu.br/Programacao.html" target="_blank">III Congresso de Pesquisa Extensão e Ensino da Unifei-Itabira</a>
 
 
-<a href="https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw" target="_blank">slides</a> | <a href="2018-10-25-node.js_docker_containerizacao/photos" target="_blank">photos</a> 
+<a href="https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-10-25-node.js_docker_containerizacao/photos" target="_blank">photos</a> 
 
 
 Abstract:
@@ -230,7 +230,7 @@ _Tags: `node.js`, `javascript`, `docker`, `microservices`_
 <a href="#2018-10-18-a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-pt-br" target="_blank">E.E. Vila Bela - Projeto [R]EVOLUÇÃO</a>
 
 
-<a href="https://docs.google.com/presentation/d/1VhpAZC1mZgmuJXy9Qt_mbPce4aC-rvtFu6RYzKAXIlE/edit?usp=sharing" target="_blank">slides</a> | <a href="2018-10-18-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software/photos" target="_blank">photos</a> 
+<a href="https://docs.google.com/presentation/d/1VhpAZC1mZgmuJXy9Qt_mbPce4aC-rvtFu6RYzKAXIlE/edit?usp=sharing" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-10-18-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software/photos" target="_blank">photos</a> 
 
 
 Abstract:
@@ -246,7 +246,7 @@ _Tags: `career`, `javascript`_
 <a href="https://credencial.imasters.com.br/community-leaders-summit-2018" target="_blank">Community Leaders Summit</a>
 
 
-<a href="https://www.icloud.com/keynote/0vGhAy4B7cCUt_5B94zJvKV_A#O_que_aprendi_organizando_uma_grande_comunidade_-_Community_Summit" target="_blank">slides</a> | <a href="2018-10-05-o_que_aprendi_organizando_grandes_comunidades/photos" target="_blank">photos</a> | <a href="https://web.facebook.com/fernando.veiga.3950/videos/1122170867935213/" target="_blank">video</a>
+<a href="https://www.icloud.com/keynote/0vGhAy4B7cCUt_5B94zJvKV_A#O_que_aprendi_organizando_uma_grande_comunidade_-_Community_Summit" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-10-05-o_que_aprendi_organizando_grandes_comunidades/photos" target="_blank">photos</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/https://web.facebook.com/fernando.veiga.3950/videos/1122170867935213/" target="_blank">video</a>
 
 
 Abstract:
@@ -262,7 +262,7 @@ _Tags: `career`, `communities`_
 <a href="https://www.theconf.club/" target="_blank">TheConf 2018</a>
 
 
-<a href="https://www.icloud.com/keynote/0mpRDRsKBIcIkmNCTrOstp5fQ#Scalling_your_apps_with_K8s_and_Docker_-_TheConf_-_21092018" target="_blank">slides</a> | <a href="2018-09-21-scaling_your_applications_with_kubernetes_and_docker/photos" target="_blank">photos</a> 
+<a href="https://www.icloud.com/keynote/0mpRDRsKBIcIkmNCTrOstp5fQ#Scalling_your_apps_with_K8s_and_Docker_-_TheConf_-_21092018" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-09-21-scaling_your_applications_with_kubernetes_and_docker/photos" target="_blank">photos</a> 
 
 
 Abstract:
@@ -278,7 +278,7 @@ _Tags: `english`, `node.js`, `docker`, `kubernetes`_
 <a href="https://hacktown.com.br/programacao/dia/8-Sep/" target="_blank">Hack Town 2018</a>
 
 
-<a href="https://www.icloud.com/keynote/0geBVltLvSHcKRwabA4OCfppA#Usando_Javascript_para_reconhecer_pessoas!_-_HackTown_-_07092018.key" target="_blank">slides</a> | <a href="2018-09-08-usando_javascript_para_reconhecer_pessoas" target="_blank">photos</a> | <a href="https://youtu.be/1gC1kOZDZEA" target="_blank">video</a>
+<a href="https://www.icloud.com/keynote/0geBVltLvSHcKRwabA4OCfppA#Usando_Javascript_para_reconhecer_pessoas!_-_HackTown_-_07092018.key" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-09-08-usando_javascript_para_reconhecer_pessoas" target="_blank">photos</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/https://youtu.be/1gC1kOZDZEA" target="_blank">video</a>
 
 
 Abstract:
@@ -294,7 +294,7 @@ _Tags: `node.js`, `azure`, `faceapi`, `opencv`, `javascript`_
 <a href="https://www.meetup.com/pt-BR/DevelopersBR/events/253660887/" target="_blank">MSP Tech Days</a>
 
 
-<a href="https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw" target="_blank">slides</a> | <a href="2018-09-01-node.js-microservicos-e-containerizacao" target="_blank">photos</a> 
+<a href="https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-09-01-node.js-microservicos-e-containerizacao" target="_blank">photos</a> 
 
 
 Abstract:
@@ -310,7 +310,7 @@ _Tags: `node.js`, `javascript`, `docker`, `microservices`_
 <a href="https://www.meetup.com/pt-BR/FCTech/events/252754164" target="_blank">FC Tech #2 - Poderes do JS</a>
 
 
-<a href="https://www.icloud.com/keynote/09M3Bdis-aIhQa85AUZ1v792w#Nodejs%2C_Rxjs_e_Reactive_Programming_-_FCTech_18082018.key" target="_blank">slides</a> | <a href="2018-08-18-node.js_observables_e_rxjs_-_programação_reativa_no_backend!" target="_blank">photos</a> 
+<a href="https://www.icloud.com/keynote/09M3Bdis-aIhQa85AUZ1v792w#Nodejs%2C_Rxjs_e_Reactive_Programming_-_FCTech_18082018.key" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-08-18-node.js_observables_e_rxjs_-_programação_reativa_no_backend!" target="_blank">photos</a> 
 
 
 Abstract:
@@ -326,7 +326,7 @@ _Tags: `node.js`, `rxjs`, `reactive`, `observable`_
 <a href="https://www.meetup.com/pt-BR/sfnode/events/mxstsmyxlbdb/" target="_blank">SFNode Meetup at Mixmax</a>
 
 
-<a href="https://www.icloud.com/keynote/02WBW9IrCGUW9Q2Z9DsPvkcqA#Manage_the_Javascript_Asynchronous_flow.key" target="_blank">slides</a> | <a href="2018-08-02-managing_the_flow_of_asynchronous_operations_in_node.js" target="_blank">photos</a> | <a href="2018-08-02-managing_the_flow_of_asynchronous_operations_in_node.js/video.mp4" target="_blank">video</a>
+<a href="https://www.icloud.com/keynote/02WBW9IrCGUW9Q2Z9DsPvkcqA#Manage_the_Javascript_Asynchronous_flow.key" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-08-02-managing_the_flow_of_asynchronous_operations_in_node.js" target="_blank">photos</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-08-02-managing_the_flow_of_asynchronous_operations_in_node.js/video.mp4" target="_blank">video</a>
 
 
 Abstract:
@@ -342,7 +342,7 @@ _Tags: `node.js`, `javascript`, `async`, `english`_
 <a href="https://eventos.imasters.com.br/jsexperience/" target="_blank">JS Experience – 7Masters - Edição 2018</a>
 
 
-<a href="https://www.icloud.com/keynote/0a-nP8fSdgrIwtbcdLcp2025w#7Masters_-_Gerenciando_o_Fluxo_Assincrono_de_operac%CC%A7o%CC%83es_JS.key" target="_blank">slides</a> | <a href="2018-07-05-gerenciando_o_fluxo_assincrono_de_operações_javascript" target="_blank">photos</a> 
+<a href="https://www.icloud.com/keynote/0a-nP8fSdgrIwtbcdLcp2025w#7Masters_-_Gerenciando_o_Fluxo_Assincrono_de_operac%CC%A7o%CC%83es_JS.key" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-07-05-gerenciando_o_fluxo_assincrono_de_operações_javascript" target="_blank">photos</a> 
 
 
 Abstract:
@@ -358,7 +358,7 @@ _Tags: `javascript`, `async`, `node.js`_
 <a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
 
 
-<a href="https://docs.google.com/presentation/d/1u2SoBPiohhbaopGepC2eQ8fJWf-TJT2qWY_qICJgqlM/edit?usp=sharing" target="_blank">slides</a> | <a href="2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos" target="_blank">photos</a> | <a href="https://www.youtube.com/watch?v=NexvZCJFil8" target="_blank">video</a>
+<a href="https://docs.google.com/presentation/d/1u2SoBPiohhbaopGepC2eQ8fJWf-TJT2qWY_qICJgqlM/edit?usp=sharing" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos" target="_blank">photos</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/https://www.youtube.com/watch?v=NexvZCJFil8" target="_blank">video</a>
 
 
 Abstract:
@@ -374,7 +374,7 @@ _Tags: `node.js`, `javascript`, `websocket`, `socketio`_
 <a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
 
 
-<a href="https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key" target="_blank">slides</a> | <a href="2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> 
+<a href="https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> 
 
 
 Abstract:
@@ -390,7 +390,7 @@ _Tags: `node.js`, `javascript`, `faceapi`, `azure`_
 <a href="https://www.eventbrite.com.br/e/building-devs-do-front-end-ao-back-end-tickets-46591861512#" target="_blank">Building Devs</a>
 
 
-<a href="http://bit.ly/building-devs-contruindo-robos-automatizados-erickwendel" target="_blank">slides</a> | <a href="2018-06-16-node.js_e_typescript_-_extraindo_informações_da_marvel_comics_com_web-scrapping" target="_blank">photos</a> 
+<a href="http://bit.ly/building-devs-contruindo-robos-automatizados-erickwendel" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-16-node.js_e_typescript_-_extraindo_informações_da_marvel_comics_com_web-scrapping" target="_blank">photos</a> 
 
 
 Abstract:
@@ -406,7 +406,7 @@ _Tags: `nodejs`, `webscrapping`, `typescript`_
 <a href="https://www.sympla.com.br/devprimeone--vssummit-2018__235493#info" target="_blank">Visual Studio Summit 2018</a>
 
 
-<a href="https://www.icloud.com/keynote/0GGt3v3cs19jzWzcsrOsFSVXA#VSSUMMIT2018V1.key" target="_blank">slides</a> | <a href="2018-06-02-escalando_microservices_no_kubernetes" target="_blank">photos</a> 
+<a href="https://www.icloud.com/keynote/0GGt3v3cs19jzWzcsrOsFSVXA#VSSUMMIT2018V1.key" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-02-escalando_microservices_no_kubernetes" target="_blank">photos</a> 
 
 
 Abstract:
@@ -422,7 +422,7 @@ _Tags: `kubernetes`, `devops`, `docker`_
 <a href="https://www.sympla.com.br/criciuma-dev-conference__213460" target="_blank">Criciúma Dev Conference</a>
 
 
-<a href="http://bit.ly/criciumadev2018-erickwendel-slides" target="_blank">slides</a> | <a href="2018-05-19-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> 
+<a href="http://bit.ly/criciumadev2018-erickwendel-slides" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-05-19-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> 
 
 
 Abstract:
@@ -438,7 +438,7 @@ _Tags: `javascript`, `node.js`, `faceapi`, `azure`, `raspberrypi`, `opencv`_
 <a href="https://www.sympla.com.br/microsoft-mvp-conference__246657#info" target="_blank">Microsoft MVP Conference 2018</a>
 
 
-<a href="http://bit.ly/mvpconf-slides-erickwendel-typescript" target="_blank">slides</a> | <a href="2018-04-06-conhecendo_o_poder_do_typescript_para_aplicações_nodejs" target="_blank">photos</a> 
+<a href="http://bit.ly/mvpconf-slides-erickwendel-typescript" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-04-06-conhecendo_o_poder_do_typescript_para_aplicações_nodejs" target="_blank">photos</a> 
 
 
 Abstract:
@@ -454,7 +454,7 @@ _Tags: `node.js`, `typescript`, `javascript`, `vscode`_
 <a href="http://bit.ly/live-mongodb" target="_blank">Canal.NET</a>
 
 
-<a href="http://bit.ly/canalnet-aggregation-framework-slides-erickwendel" target="_blank">slides</a> | <a href="2018-03-28-o_poder_do_mongodb_aggregation_framework" target="_blank">photos</a> | <a href="http://bit.ly/live-mongodb" target="_blank">video</a>
+<a href="http://bit.ly/canalnet-aggregation-framework-slides-erickwendel" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-03-28-o_poder_do_mongodb_aggregation_framework" target="_blank">photos</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/http://bit.ly/live-mongodb" target="_blank">video</a>
 
 
 Abstract:
@@ -470,7 +470,7 @@ _Tags: `mongodb`, `database`, `webinar`_
 <a href="http://apicon.com.br/" target="_blank">API Connect Conference 2018</a>
 
 
-<a href="http://bit.ly/apicon-serverless-erickwendel-slides" target="_blank">slides</a> | <a href="2018-03-28-arquitetando_aplicações_serverless_-_arquitetura,_padrões_e_organização_de_aplicações" target="_blank">photos</a> 
+<a href="http://bit.ly/apicon-serverless-erickwendel-slides" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-03-28-arquitetando_aplicações_serverless_-_arquitetura,_padrões_e_organização_de_aplicações" target="_blank">photos</a> 
 
 
 Abstract:
@@ -486,7 +486,7 @@ _Tags: `serverless`, `node.js`, `design patterns`, `javascript`_
 <a href="https://www.meetup.com/pt-BR/Nerdzao/events/247993427" target="_blank">Nerdzão #36 - Cloud & DevOps</a>
 
 
-<a href="http://bit.ly/slides-docker-registry-erickwendel" target="_blank">slides</a> | <a href="/Users/erickwendel/Documents/projetos/ewit/timeline/2018-02-26-docker_registry:_adeus_deploy_via_ssh!" target="_blank">photos</a> 
+<a href="http://bit.ly/slides-docker-registry-erickwendel" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master//Users/erickwendel/Documents/projetos/ewit/timeline/2018-02-26-docker_registry:_adeus_deploy_via_ssh!" target="_blank">photos</a> 
 
 
 Abstract:
@@ -502,7 +502,7 @@ _Tags: `docker`, `node.js`, `javascript`, `devops`_
 <a href="https://www.meetup.com/pt-BR/Nerdzao/events/247508769" target="_blank">Nerdzão #28 - Conhecendo o poder de Node.js</a>
 
 
-<a href="http://bit.ly/cpbr-erickwendel-robos-automatizados-slides" target="_blank">slides</a> | <a href="2018-02-07-construindo_robôs_automatizados_com_selenium_web_driver_e_typescript" target="_blank">photos</a> 
+<a href="http://bit.ly/cpbr-erickwendel-robos-automatizados-slides" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-02-07-construindo_robôs_automatizados_com_selenium_web_driver_e_typescript" target="_blank">photos</a> 
 
 
 Abstract:
@@ -518,7 +518,7 @@ _Tags: `node.js`, `typescript`, `mongodb`, `javascript`, `web scrapping`_
 <a href="http://bit.ly/erickwendel-robos-extração-campusparty" target="_blank">Campus Party BR - 2018</a>
 
 
-<a href="http://bit.ly/cpbr-erickwendel-robos-automatizados-slides" target="_blank">slides</a>  | <a href="https://youtu.be/FANolqvoQQA" target="_blank">video</a>
+<a href="http://bit.ly/cpbr-erickwendel-robos-automatizados-slides" target="_blank">slides</a>  | <a href="https://github.com/ErickWendel/timeline/tree/master/https://youtu.be/FANolqvoQQA" target="_blank">video</a>
 
 
 Abstract:
@@ -534,7 +534,7 @@ _Tags: `node.js`, `javascript`, `web scrapping`_
 <a href="https://campuse.ro/events/campus-party-brasil-2018/talk/pensando-alem-do-codigo-dicas-e-segredos-para-criacao-de-um-software-cpbr11/" target="_blank">Campus Party BR - 2018</a>
 
 
-<a href="http://bit.ly/cpbr11-erickwendel-pensando-alem-do-codigo" target="_blank">slides</a> | <a href="2018-01-31-pensando_além_do_código,_dicas_e_segredos_para_criação_de_um_software" target="_blank">photos</a> 
+<a href="http://bit.ly/cpbr11-erickwendel-pensando-alem-do-codigo" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-01-31-pensando_além_do_código,_dicas_e_segredos_para_criação_de_um_software" target="_blank">photos</a> 
 
 
 Abstract:
