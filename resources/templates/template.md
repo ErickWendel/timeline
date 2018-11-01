@@ -6,7 +6,7 @@ This is a list of activities from talks that I've given at meetups and conferenc
 
 ## Table of Contents
 
-- [Demonstrations](#demonstration)
+- [Demonstrations](#demonstrations)
 - [Blog Posts](#blog-posts)
 - [Conference Talks](#blog-posts)
 
