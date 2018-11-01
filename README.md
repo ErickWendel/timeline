@@ -11,9 +11,130 @@ This is a list of activities from talks that I've given at meetups and conferenc
 
 ## Blog Posts
 
-- [Patterns — Generic Repository with Typescript and Node.js](https://hackernoon.com/generic-repository-with-typescript-and-node-js-731c10a1b98e)
+### [2018-03-20 - Patterns — Generic Repository with Typescript and Node.js (en-us)](https://hackernoon.com/generic-repository-with-typescript-and-node-js-731c10a1b98e)
+
+
+Portal:
+
+> [Hackernoon](https://hackernoon.com/)
+
+
+Abstract:
+
+> If you work with Node.js/Javascript and you have many replicated codes for different data models or create CRUDs (Create, Read, Update and Delete) at all times, then this post is for you!
+
+
+_Tags: `typescript`, `javascript`, `node.js`, `design patterns`_
+
+### [2017-11-04 - Code Standards — Padronizando sua equipe de desenvolvimento Javascript (pt-br)](https://medium.com/horizon-four/code-stantards-padronizando-sua-equipe-de-desenvolvimento-e1e47e3edf11)
+
+
+Portal:
+
+> [Horizon Four](https://medium.com/horizon-four)
+
+
+Abstract:
+
+> Tem problemas em implantar style guides (padrões de código) em Javascript e fazer com que este processo seja ágil e simples ? Então este tutorial é para você!
+
+
+_Tags: `node.js`, `javascript`, `eslint`, `code standards`, `prettier`_
+
+### [2017-10-12 - Protegendo dados sensíveis com Git-Crypt (pt-br)](https://medium.com/trainingcenter/protegendo-dados-sens%C3%ADveis-com-git-crypt-9fca13e6835b)
+
+
+Portal:
+
+> [Training Center](https://medium.com/trainingcenter)
+
+
+Abstract:
+
+> Já teve problemas ao pensar em como versionar suas variáveis de ambiente, strings de conexão ou até mesmo seus endereços de IPs e servidores ? Então este artigo é para voce!
+
+
+_Tags: `git`, `javascript`, `environment management`_
+
+### [2016-02-26 - Gerenciando o fluxo assíncrono de operações em NodeJS (pt-br)](https://imasters.com.br/desenvolvimento/gerenciando-o-fluxo-assincrono-de-operacoes-em-nodejs)
+
+
+Portal:
+
+> [iMasters](https://imasters.com.br)
+
+
+Abstract:
+
+> O desenvolvimento de aplicações NodeJS aumenta a cada dia, talvez pela facilidade de desenvolvimento, bibliotecas em crescente evolução ou simplesmente pelo fato de utilizar JavaScript em ambientes que exijam performance e assincronia. Como sabemos, aplicações deste tipo não resolvem todos os problemas. Conforme a aplicação vem crescendo, precisamos nos atentar à alguns detalhes. Hoje falaremos sobre como escrever um código limpo para funções assíncronas, explorando o uso dos padrões criados para aplicações deste tipo.
+
+
+_Tags: `node.js`, `javascript`_
+
+### [2016-01-13 - NodeJS com TypeScript e Task Runners – Visual Studio Code (pt-br)](https://imasters.com.br/desenvolvimento/nodejs-com-typescript-e-task-runners-visual-studio-code)
+
+
+Portal:
+
+> [iMasters](https://imasters.com.br)
+
+
+Abstract:
+
+> Este artigo tem por objetivo abordar uma visão geral sobre automatização de tarefas para linguagem Typescript, com o uso do editor Visual Studio Code.
+
+
+_Tags: `node.js`, `gulp`, `task runners`, `typescript`_
+
+### [2015-12-26 - NodeJS com TypeScript e Task Runners - Visual Studio Code (pt-br)](https://social.technet.microsoft.com/wiki/pt-br/contents/articles/32988.nodejs-com-typescript-e-task-runners-visual-studio-code.aspx)
+
+
+Portal:
+
+> [Microsoft TechNet](https://social.technet.microsoft.com)
+
+
+Abstract:
+
+> Este artigo tem por objetivo abordar uma visão geral sobre automatização de tarefas para linguagem Typescript, com o uso do editor Visual Studio Code.
+
+
+_Tags: `node.js`, `gulp`, `task runners`, `typescript`_
+
+### [2015-03-24 - SPA Utilizando ASP.NET MVC 5 – Parte 2.0 ﻿ (pt-br)](http://netcoders.com.br/spa-asp-net-mvc-5-parte-2-0/)
+
+
+Portal:
+
+> [.NETCoders](http://netcoders.com.br)
+
+
+Abstract:
+
+> Assim como no artigo anterior, utilizaremos o Visual Studio 2013 SP4. Faremos todo o projeto com métodos “na unha”. Para fixar o uso de sintaxe e semântica das ferramentas utilizadas
+
+
+_Tags: `aspnet`, `c#`, `jquery`_
+
+### [2015-02-27 - SPA Utilizando ASP.NET MVC 5 – Parte 1.0 (pt-br)](http://netcoders.com.br/spa-asp-net-mvc-5-parte-1-0/)
+
+
+Portal:
+
+> [.NETCoders](http://netcoders.com.br)
+
+
+Abstract:
+
+> O objetivo principal será demonstrar soluções de implementação do Ajax, com exemplos mais simples possíveis, para melhor entendimento de todos. Será dividida em duas partes, construção da estrutura do projeto e implantação das Controllers e CRUD com Ajax.
+
+
+_Tags: `aspnet`, `c#`, `jquery`_
+
+
+<!-- - [Patterns — Generic Repository with Typescript and Node.js](https://hackernoon.com/generic-repository-with-typescript-and-node-js-731c10a1b98e)
 - [Code Standards — Padronizando sua equipe de desenvolvimento Javascript](https://medium.com/horizon-four/code-stantards-padronizando-sua-equipe-de-desenvolvimento-e1e47e3edf11)
-- [Protegendo dados sensíveis com Git-Crypt](https://medium.com/trainingcenter/protegendo-dados-sens%C3%ADveis-com-git-crypt-9fca13e6835b)
+- [Protegendo dados sensíveis com Git-Crypt](https://medium.com/trainingcenter/protegendo-dados-sens%C3%ADveis-com-git-crypt-9fca13e6835b) -->
 
 ## Conference Talks
 
@@ -273,22 +394,6 @@ Abstract:
 
 _Tags: `mongodb`, `database`, `webinar`_
 
-### 2018-02-26 - Docker Registry: Adeus deploy via ssh! (pt-br)
-
-
-[Nerdzão #36 - Cloud & DevOps](https://www.meetup.com/pt-BR/Nerdzao/events/247993427)
-
-
-[slides](http://bit.ly/slides-docker-registry-erickwendel) | [photos](/Users/erickwendel/Documents/projetos/ewit/timeline/2018-02-26-docker_registry:_adeus_deploy_via_ssh!) 
-
-
-Abstract:
-
-> Em nosso cotidiano, conhecemos algumas formas de deploy que talvez podem ser repetitivas demais. Um grande exemplo é: Temos nossa aplicação (nossos arquivos que devem ser executadas no servidor de produção), criamos uma máquina virtual, acessamos esta máquina via SSH (linha de comando), fazemos um git clone (ou pull) e rodamos cada projeto separado. O objetivo desta palestra é automatizar todo este processo, garantindo a entrega e viabilidade de publicação de projetos. 
-
-
-_Tags: `docker`, `node.js`, `javascript`, `devops`_
-
 ### 2018-03-23 - Arquitetando aplicações Serverless - Arquitetura, padrões e organização de aplicações (pt-br)
 
 
@@ -304,6 +409,22 @@ Abstract:
 
 
 _Tags: `serverless`, `node.js`, `design patterns`, `javascript`_
+
+### 2018-02-26 - Docker Registry: Adeus deploy via ssh! (pt-br)
+
+
+[Nerdzão #36 - Cloud & DevOps](https://www.meetup.com/pt-BR/Nerdzao/events/247993427)
+
+
+[slides](http://bit.ly/slides-docker-registry-erickwendel) | [photos](/Users/erickwendel/Documents/projetos/ewit/timeline/2018-02-26-docker_registry:_adeus_deploy_via_ssh!) 
+
+
+Abstract:
+
+> Em nosso cotidiano, conhecemos algumas formas de deploy que talvez podem ser repetitivas demais. Um grande exemplo é: Temos nossa aplicação (nossos arquivos que devem ser executadas no servidor de produção), criamos uma máquina virtual, acessamos esta máquina via SSH (linha de comando), fazemos um git clone (ou pull) e rodamos cada projeto separado. O objetivo desta palestra é automatizar todo este processo, garantindo a entrega e viabilidade de publicação de projetos. 
+
+
+_Tags: `docker`, `node.js`, `javascript`, `devops`_
 
 ### 2018-02-07 - Construindo Robôs automatizados com Selenium Web Driver e Typescript (pt-br)
 

@@ -1,0 +1,105 @@
+[{
+        "title": "Patterns — Generic Repository with Typescript and Node.js",
+        "abstract": "If you work with Node.js/Javascript and you have many replicated codes for different data models or create CRUDs (Create, Read, Update and Delete) at all times, then this post is for you!",
+        "type": "post",
+        "link": "https://hackernoon.com/generic-repository-with-typescript-and-node-js-731c10a1b98e",
+        "portal": {
+            "link": "https://hackernoon.com/",
+            "name": "Hackernoon"
+        },
+        "tags": ["typescript", "javascript", "node.js", "design patterns"],
+        "language": "en-us",
+        "date": "2018-03-20"
+    },
+    {
+        "title": "Code Standards — Padronizando sua equipe de desenvolvimento Javascript",
+        "abstract": "Tem problemas em implantar style guides (padrões de código) em Javascript e fazer com que este processo seja ágil e simples ? Então este tutorial é para você!",
+        "type": "post",
+        "link": "https://medium.com/horizon-four/code-stantards-padronizando-sua-equipe-de-desenvolvimento-e1e47e3edf11",
+        "portal": {
+            "link": "https://medium.com/horizon-four",
+            "name": "Horizon Four"
+        },
+        "tags": ["node.js", "javascript", "eslint", "code standards", "prettier"],
+        "language": "pt-br",
+        "date": "2017-11-04"
+    },
+    {
+        "title": "Protegendo dados sensíveis com Git-Crypt",
+        "abstract": "Já teve problemas ao pensar em como versionar suas variáveis de ambiente, strings de conexão ou até mesmo seus endereços de IPs e servidores ? Então este artigo é para voce!",
+        "type": "post",
+        "link": "https://medium.com/trainingcenter/protegendo-dados-sens%C3%ADveis-com-git-crypt-9fca13e6835b",
+        "portal": {
+            "link": "https://medium.com/trainingcenter",
+            "name": "Training Center"
+        },
+        "tags": ["git", "javascript", "environment management"],
+        "language": "pt-br",
+        "date": "2017-10-12"
+    },
+    {
+        "title": "Gerenciando o fluxo assíncrono de operações em NodeJS",
+        "abstract": "O desenvolvimento de aplicações NodeJS aumenta a cada dia, talvez pela facilidade de desenvolvimento, bibliotecas em crescente evolução ou simplesmente pelo fato de utilizar JavaScript em ambientes que exijam performance e assincronia. Como sabemos, aplicações deste tipo não resolvem todos os problemas. Conforme a aplicação vem crescendo, precisamos nos atentar à alguns detalhes. Hoje falaremos sobre como escrever um código limpo para funções assíncronas, explorando o uso dos padrões criados para aplicações deste tipo.",
+        "type": "post",
+        "link": "https://imasters.com.br/desenvolvimento/gerenciando-o-fluxo-assincrono-de-operacoes-em-nodejs",
+        "portal": {
+            "link": "https://imasters.com.br",
+            "name": "iMasters"
+        },
+        "tags": ["node.js", "javascript"],
+        "language": "pt-br",
+        "date": "2016-02-26"
+    },
+    {
+        "title": "NodeJS com TypeScript e Task Runners – Visual Studio Code",
+        "abstract": "Este artigo tem por objetivo abordar uma visão geral sobre automatização de tarefas para linguagem Typescript, com o uso do editor Visual Studio Code.",
+        "type": "post",
+        "link": "https://imasters.com.br/desenvolvimento/nodejs-com-typescript-e-task-runners-visual-studio-code",
+        "portal": {
+            "link": "https://imasters.com.br",
+            "name": "iMasters"
+        },
+        "tags": ["node.js", "gulp", "task runners", "typescript"],
+        "language": "pt-br",
+        "date": "2016-01-13"
+    },
+    {
+        "title": "NodeJS com TypeScript e Task Runners - Visual Studio Code",
+        "abstract": "Este artigo tem por objetivo abordar uma visão geral sobre automatização de tarefas para linguagem Typescript, com o uso do editor Visual Studio Code.",
+        "type": "post",
+        "link": "https://social.technet.microsoft.com/wiki/pt-br/contents/articles/32988.nodejs-com-typescript-e-task-runners-visual-studio-code.aspx",
+        "portal": {
+            "link": "https://social.technet.microsoft.com",
+            "name": "Microsoft TechNet"
+        },
+        "tags": ["node.js", "gulp", "task runners", "typescript"],
+        "language": "pt-br",
+        "date": "2015-12-26"
+    },
+    {
+        "title": "SPA Utilizando ASP.NET MVC 5 – Parte 1.0",
+        "abstract": "O objetivo principal será demonstrar soluções de implementação do Ajax, com exemplos mais simples possíveis, para melhor entendimento de todos. Será dividida em duas partes, construção da estrutura do projeto e implantação das Controllers e CRUD com Ajax.",
+        "type": "post",
+        "link": "http://netcoders.com.br/spa-asp-net-mvc-5-parte-1-0/",
+        "portal": {
+            "link": "http://netcoders.com.br",
+            "name": ".NETCoders"
+        },
+        "tags": ["aspnet", "c#", "jquery"],
+        "language": "pt-br",
+        "date": "2015-02-27"
+    },
+    {
+        "title": "SPA Utilizando ASP.NET MVC 5 – Parte 2.0 ﻿",
+        "abstract": "Assim como no artigo anterior, utilizaremos o Visual Studio 2013 SP4. Faremos todo o projeto com métodos “na unha”. Para fixar o uso de sintaxe e semântica das ferramentas utilizadas",
+        "type": "post",
+        "link": "http://netcoders.com.br/spa-asp-net-mvc-5-parte-2-0/",
+        "portal": {
+            "link": "http://netcoders.com.br",
+            "name": ".NETCoders"
+        },
+        "tags": ["aspnet", "c#", "jquery"],
+        "language": "pt-br",
+        "date": "2015-03-24"
+    }
+]
