@@ -458,5 +458,115 @@
         },
         "language": "pt-br",
         "date": "2018-01-31"
+    },
+    {
+        "title": "Coding Dojo com Javascript",
+        "abstract": "Coding dojo é uma prática que incentiva a realização de desafios focados em algoritmos, onde usamos técnicas como o TDD. Participantes sobem ao palco em duplas e cada um tem 5 minutos para resolver/continuar o desafio da pessoa anterior",
+        "type": "talk",
+        "event": {
+            "link": "http://erickwendel.com.br/2017/08/15/js-challenge1-coding-dojo-com-javascript/",
+            "name": "JS Challenge #1"
+        },
+        "slides": "http://slides.com/erickwendel/coding-dojo-com-javascript-purple99#/",
+        "photos": "",
+        "video": "",
+        "tags": ["node.js","javascript"],
+        "location": {
+            "latitude": -23.551343,
+            "longitude": -46.6361995,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São paulo"
+        },
+        "language": "pt-br",
+        "date": "2017-08-15"
+    },
+    {
+        "title": "Job/Task Queue com Bee-Queue - Performance e Resiliência em aplicações Node.js",
+        "abstract": "Caso de sucesso, explicando a arquitetura que solucionou os problemas de concorrência entre processos, resistência a erros e performance de execução. Passando da lib Straw.js, correndo para o Celery em Python para finalmente encontrar a solução mais ideal com Bee-queue em Node.js.",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/nodebr/events/240490452/",
+            "name": "NodeBR #27 - Performance e Escalabilidade"
+        },
+        "slides": "http://slides.com/erickwendel/jobtask-queue-with-nodejs#/",
+        "photos": "",
+        "video": "",
+        "tags": ["node.js", "javascript", "beequeue", "performance"],
+        "location": {
+            "latitude": -23.5522844,
+            "longitude": -46.6613565,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "language": "pt-br",
+        "date": "2017-06-26"
+    },
+    {
+        "title": "Conhecendo o Node.js",
+        "abstract": "Conheceremos na prática o uso da plataforma Node.js para aplicações escaláveis, abordando desde o ciclo de vida aos principais frameworks e segredos do Javascript.",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/totvsdevelopers/events/240360503/",
+            "name": "TOTVS Developers #1"
+        },
+        "slides": "http://slides.com/erickwendel/introducao-ao-nodejs-totvs#/",
+        "photos": "",
+        "video": "",
+        "tags": ["node.js", "javascript"],
+        "location": {
+            "latitude": -23.5086459,
+            "longitude": -46.6509652,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "language": "pt-br",
+        "date": "2017-06-19"
+    },
+    {
+        "title": "Node.js, Microserviços e containerização",
+        "abstract": "É importante entender como as aplicações funcionam e como a arquitetura está evoluindo. Pensando nisto, abordaremos sobre os benefícios de Docker para criação de microserviços com Node.js",
+        "type": "talk",
+        "event": {
+            "link": "https://www.facebook.com/fullstackexperience",
+            "name": "Full Stack Experience"
+        },
+        "slides": "http://slides.com/erickwendel/nodejs-microservicos-e-containerizao#/",
+        "photos": "https://flic.kr/s/aHsm2yPkFW",
+        "video": "",
+        "tags": ["node.js", "docker", "javascript"],
+        "location": {
+            "latitude": -23.6101631,
+            "longitude": -46.6990182,
+            "country": "Brazil",
+            "uf": "Sp",
+            "city": "São Paulo"
+        },
+        "language": "pt-br",
+        "date": "2017-06-09"
+    },
+    {
+        "title": "Trabalhando com Docker e aplicações Node.js no Microsoft Azure",
+        "abstract": "",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/Mobile-Brasil/photos/27768346/459991691/",
+            "name": "[ESPECIAL] Internet of Everything"
+        },
+        "slides": "http://slides.com/erickwendel/workshop-docker-nodejs-azure-microsoft",
+        "photos": "",
+        "video": "",
+        "tags": ["node.js", "azure", "microsoft"],
+        "location": {
+            "latitude": -23.6101631,
+            "longitude": -46.6990182,
+            "country": "Brazil",
+            "uf": "Sp",
+            "city": "São Paulo"
+        },
+        "language": "pt-br",
+        "date": "2017-04-12"
     }
 ]

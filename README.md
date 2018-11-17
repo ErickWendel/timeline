@@ -544,3 +544,83 @@ Abstract:
 
 _Tags: `node.js`, `career`_
 
+### 2017-08-15 - Coding Dojo com Javascript (pt-br)
+
+
+<a href="http://erickwendel.com.br/2017/08/15/js-challenge1-coding-dojo-com-javascript/" target="_blank">JS Challenge #1</a>
+
+
+<a href="http://slides.com/erickwendel/coding-dojo-com-javascript-purple99#/" target="_blank">slides</a>  
+
+
+Abstract:
+
+> Coding dojo é uma prática que incentiva a realização de desafios focados em algoritmos, onde usamos técnicas como o TDD. Participantes sobem ao palco em duplas e cada um tem 5 minutos para resolver/continuar o desafio da pessoa anterior
+
+
+_Tags: `node.js`, `javascript`_
+
+### 2017-06-26 - Job/Task Queue com Bee-Queue - Performance e Resiliência em aplicações Node.js (pt-br)
+
+
+<a href="https://www.meetup.com/pt-BR/nodebr/events/240490452/" target="_blank">NodeBR #27 - Performance e Escalabilidade</a>
+
+
+<a href="http://slides.com/erickwendel/jobtask-queue-with-nodejs#/" target="_blank">slides</a>  
+
+
+Abstract:
+
+> Caso de sucesso, explicando a arquitetura que solucionou os problemas de concorrência entre processos, resistência a erros e performance de execução. Passando da lib Straw.js, correndo para o Celery em Python para finalmente encontrar a solução mais ideal com Bee-queue em Node.js.
+
+
+_Tags: `node.js`, `javascript`, `beequeue`, `performance`_
+
+### 2017-06-19 - Conhecendo o Node.js (pt-br)
+
+
+<a href="https://www.meetup.com/pt-BR/totvsdevelopers/events/240360503/" target="_blank">TOTVS Developers #1</a>
+
+
+<a href="http://slides.com/erickwendel/introducao-ao-nodejs-totvs#/" target="_blank">slides</a>  
+
+
+Abstract:
+
+> Conheceremos na prática o uso da plataforma Node.js para aplicações escaláveis, abordando desde o ciclo de vida aos principais frameworks e segredos do Javascript.
+
+
+_Tags: `node.js`, `javascript`_
+
+### 2017-06-09 - Node.js, Microserviços e containerização (pt-br)
+
+
+<a href="https://www.facebook.com/fullstackexperience" target="_blank">Full Stack Experience</a>
+
+
+<a href="http://slides.com/erickwendel/nodejs-microservicos-e-containerizao#/" target="_blank">slides</a> | <a href="https://flic.kr/s/aHsm2yPkFW" target="_blank">photos</a> 
+
+
+Abstract:
+
+> É importante entender como as aplicações funcionam e como a arquitetura está evoluindo. Pensando nisto, abordaremos sobre os benefícios de Docker para criação de microserviços com Node.js
+
+
+_Tags: `node.js`, `docker`, `javascript`_
+
+### 2017-04-12 - Trabalhando com Docker e aplicações Node.js no Microsoft Azure (pt-br)
+
+
+<a href="https://www.meetup.com/pt-BR/Mobile-Brasil/photos/27768346/459991691/" target="_blank">[ESPECIAL] Internet of Everything</a>
+
+
+<a href="http://slides.com/erickwendel/workshop-docker-nodejs-azure-microsoft" target="_blank">slides</a>  
+
+
+Abstract:
+
+> 
+
+
+_Tags: `node.js`, `azure`, `microsoft`_
+
