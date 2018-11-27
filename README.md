@@ -262,7 +262,7 @@ _Tags: `career`, `communities`_
 <a href="https://www.theconf.club/" target="_blank">TheConf 2018</a>
 
 
-<a href="https://www.icloud.com/keynote/0mpRDRsKBIcIkmNCTrOstp5fQ#Scalling_your_apps_with_K8s_and_Docker_-_TheConf_-_21092018" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-09-21-scaling_your_applications_with_kubernetes_and_docker/photos" target="_blank">photos</a> 
+<a href="https://www.icloud.com/keynote/0mpRDRsKBIcIkmNCTrOstp5fQ#Scalling_your_apps_with_K8s_and_Docker_-_TheConf_-_21092018" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-09-21-scaling_your_applications_with_kubernetes_and_docker/photos" target="_blank">photos</a> | <a href="https://youtu.be/cAwDALyoVUw" target="_blank">video</a>
 
 
 Abstract:
