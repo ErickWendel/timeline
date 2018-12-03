@@ -468,7 +468,7 @@
             "name": "JS Challenge #1"
         },
         "slides": "http://slides.com/erickwendel/coding-dojo-com-javascript-purple99#/",
-        "photos": "",
+        "photos": "2017-08-15-coding_dojo_com_javascript",
         "video": "",
         "tags": ["node.js", "javascript"],
         "location": {
@@ -490,7 +490,7 @@
             "name": "NodeBR #27 - Performance e Escalabilidade"
         },
         "slides": "http://slides.com/erickwendel/jobtask-queue-with-nodejs#/",
-        "photos": "",
+        "photos": "2017-06-26-performance_e_resiliência_em_aplicações_nodejs",
         "video": "",
         "tags": ["node.js", "javascript", "beequeue", "performance"],
         "location": {
@@ -512,7 +512,7 @@
             "name": "TOTVS Developers #1"
         },
         "slides": "http://slides.com/erickwendel/introducao-ao-nodejs-totvs#/",
-        "photos": "",
+        "photos": "2017-06-19-conhecendo_o_nodejs",
         "video": "",
         "tags": ["node.js", "javascript"],
         "location": {
@@ -527,14 +527,14 @@
     },
     {
         "title": "Node.js, Microserviços e containerização",
-        "abstract": "É importante entender como as aplicações funcionam e como a arquitetura está evoluindo. Pensando nisto, abordaremos sobre os benefícios de Docker para criação de microserviços com Node.js",
+        "abstract": "É importante entender como as aplicações funcionam e como a arquitetura está evoluindo. Pensando nisto, abordaremos sobre os benefícios de Docker para criação de microserviços com Node.js\nhttps://flic.kr/s/aHsm2yPkFW",
         "type": "talk",
         "event": {
             "link": "https://www.facebook.com/fullstackexperience",
             "name": "Full Stack Experience"
         },
         "slides": "http://slides.com/erickwendel/nodejs-microservicos-e-containerizao#/",
-        "photos": "https://flic.kr/s/aHsm2yPkFW",
+        "photos": "2017-06-09-nodejs,_microserviços_e_containerização",
         "video": "",
         "tags": ["node.js", "docker", "javascript"],
         "location": {
@@ -549,15 +549,15 @@
     },
     {
         "title": "Trabalhando com Docker e aplicações Node.js no Microsoft Azure",
-        "abstract": "",
+        "abstract": "Nesta apresentação focaremos em como docker e node.js podem ser uteis trabalhando com Microsoft Azure. Vamos aprender na prática como containerizar uma aplicação usando dockerfile, docker-compose e container services.",
         "type": "talk",
         "event": {
             "link": "https://www.meetup.com/pt-BR/Mobile-Brasil/photos/27768346/459991691/",
             "name": "[ESPECIAL] Internet of Everything"
         },
         "slides": "http://slides.com/erickwendel/workshop-docker-nodejs-azure-microsoft",
-        "photos": "",
-        "video": "",
+        "photos": "2017-04-12-docker_e_aplicações_node.js_no_microsoft_azure",
+        "video": "https://www.facebook.com/MicrosoftDeveloper.Brasil/videos/1437245592963996/",
         "tags": ["node.js", "azure", "microsoft"],
         "location": {
             "latitude": -23.6101631,

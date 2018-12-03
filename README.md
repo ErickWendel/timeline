@@ -550,7 +550,7 @@ _Tags: `node.js`, `career`_
 <a href="http://erickwendel.com.br/2017/08/15/js-challenge1-coding-dojo-com-javascript/" target="_blank">JS Challenge #1</a>
 
 
-<a href="http://slides.com/erickwendel/coding-dojo-com-javascript-purple99#/" target="_blank">slides</a>  
+<a href="http://slides.com/erickwendel/coding-dojo-com-javascript-purple99#/" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2017-08-15-coding_dojo_com_javascript" target="_blank">photos</a> 
 
 
 Abstract:
@@ -566,7 +566,7 @@ _Tags: `node.js`, `javascript`_
 <a href="https://www.meetup.com/pt-BR/nodebr/events/240490452/" target="_blank">NodeBR #27 - Performance e Escalabilidade</a>
 
 
-<a href="http://slides.com/erickwendel/jobtask-queue-with-nodejs#/" target="_blank">slides</a>  
+<a href="http://slides.com/erickwendel/jobtask-queue-with-nodejs#/" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2017-06-26-performance_e_resiliência_em_aplicações_nodejs" target="_blank">photos</a> 
 
 
 Abstract:
@@ -582,7 +582,7 @@ _Tags: `node.js`, `javascript`, `beequeue`, `performance`_
 <a href="https://www.meetup.com/pt-BR/totvsdevelopers/events/240360503/" target="_blank">TOTVS Developers #1</a>
 
 
-<a href="http://slides.com/erickwendel/introducao-ao-nodejs-totvs#/" target="_blank">slides</a>  
+<a href="http://slides.com/erickwendel/introducao-ao-nodejs-totvs#/" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2017-06-19-conhecendo_o_nodejs" target="_blank">photos</a> 
 
 
 Abstract:
@@ -598,12 +598,13 @@ _Tags: `node.js`, `javascript`_
 <a href="https://www.facebook.com/fullstackexperience" target="_blank">Full Stack Experience</a>
 
 
-<a href="http://slides.com/erickwendel/nodejs-microservicos-e-containerizao#/" target="_blank">slides</a> | <a href="https://flic.kr/s/aHsm2yPkFW" target="_blank">photos</a> 
+<a href="http://slides.com/erickwendel/nodejs-microservicos-e-containerizao#/" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2017-06-09-nodejs,_microserviços_e_containerização" target="_blank">photos</a> 
 
 
 Abstract:
 
 > É importante entender como as aplicações funcionam e como a arquitetura está evoluindo. Pensando nisto, abordaremos sobre os benefícios de Docker para criação de microserviços com Node.js
+> https://flic.kr/s/aHsm2yPkFW
 
 
 _Tags: `node.js`, `docker`, `javascript`_
@@ -614,12 +615,12 @@ _Tags: `node.js`, `docker`, `javascript`_
 <a href="https://www.meetup.com/pt-BR/Mobile-Brasil/photos/27768346/459991691/" target="_blank">[ESPECIAL] Internet of Everything</a>
 
 
-<a href="http://slides.com/erickwendel/workshop-docker-nodejs-azure-microsoft" target="_blank">slides</a>  
+<a href="http://slides.com/erickwendel/workshop-docker-nodejs-azure-microsoft" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2017-04-12-docker_e_aplicações_node.js_no_microsoft_azure" target="_blank">photos</a> | <a href="https://www.facebook.com/MicrosoftDeveloper.Brasil/videos/1437245592963996/" target="_blank">video</a>
 
 
 Abstract:
 
-> 
+> Nesta apresentação focaremos em como docker e node.js podem ser uteis trabalhando com Microsoft Azure. Vamos aprender na prática como containerizar uma aplicação usando dockerfile, docker-compose e container services.
 
 
 _Tags: `node.js`, `azure`, `microsoft`_
