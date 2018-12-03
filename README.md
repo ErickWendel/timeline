@@ -62,6 +62,16 @@ Abstract:
 
 _Tags: `c#`, `ionic`, `malware`, `virus`_
 
+### <a href="https://youtu.be/TshiaAMiFR4" target="_blank">2016-11-14 - Typescript – 1 Minuto de Tecnologia (pt-br)</a>
+
+
+Abstract:
+
+> Você já ouviu falar sobre Typescript, a tecnologia que promete reinventar seu modo de escrever Javascript? Acompanhe o #1MinutodeTecnologia desta semana e descubra o poder que essa tecnologia possui para os seus projetos.
+
+
+_Tags: `node.js`, `typescript`, `javascript`_
+
 ### <a href="http://erickwendel.com.br/2016/11/06/trojan-com-comandos-de-voz-utilizando-android-wear-java-net-protocolo-websocket/" target="_blank">2016-11-06 - Trojan com Comandos de Voz utilizando Android Wear + Java + .NET + Protocolo WebSocket (pt-br)</a>
 
 
@@ -71,6 +81,16 @@ Abstract:
 
 
 _Tags: `trojan`, `c#`, `android`_
+
+### <a href="https://youtu.be/VLqX2oTtvz8" target="_blank">2016-11-03 - As Vidas De Um Profissional De Tecnologia (pt-br)</a>
+
+
+Abstract:
+
+> Olá galera, fui convidado pelo grupo ARQENG, a falar um pouco da minha experiência em desenvolvimento de software, desafios e dicas para quem precisa começar.
+
+
+_Tags: `node.js`, `career`_
 
 ### <a href="http://erickwendel.com.br/2016/09/20/wearpresentation-android-wear-device-nodejs-websocket-desktop-e-restfull-api/" target="_blank">2016-09-20 - WearPresentation – Android Wear + Device + NodeJS (WebSocket, Desktop e RestFull API) (pt-br)</a>
 
@@ -398,7 +418,7 @@ Abstract:
 > Em nossa vida, fazemos diversas ações repetitivas, seja entrar em um site para visualizar dados e registrar em uma base posterior, seja cadastrar um mesmo item a cada tempo ou até mesmo publicar coisas no Facebook. Nesta palestra, você entenderá a facilidade de criar seu robô totalmente atualizado e pronto para liberar aquele tempo preciso para focar no que realmente é estratégico. Vamos conhecer a ferramenta Selenium Web Driver para simular um usuário no navegador e fazer todas as suas tarefas automagicamente.
 
 
-_Tags: `nodejs`, `webscrapping`, `typescript`_
+_Tags: `node.js`, `webscrapping`, `typescript`_
 
 ### 2018-06-02 - Escalando Microservices no Kubernetes (pt-br)
 
@@ -544,6 +564,22 @@ Abstract:
 
 _Tags: `node.js`, `career`_
 
+### 2017-10-29 - Carreira em Desenvolvimento de Software (pt-br)
+
+
+<a href="http://erickwendel.com.br/2016/10/29/carreira-em-desenvolvimento-de-software-universidade-anhanguera-de-sao-paulo/" target="_blank">Universidade Anhanguera De São Paulo</a>
+
+
+<a href="" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2017-10-29-carreira_em_desenvolvimento_de_software" target="_blank">photos</a> 
+
+
+Abstract:
+
+> 
+
+
+_Tags: `career`, `node.js`_
+
 ### 2017-08-15 - Coding Dojo com Javascript (pt-br)
 
 
@@ -671,7 +707,7 @@ Abstract:
 > Nesse encontro #58 vamos ter um Hands On de Angular 1.x com Erick Wendel explorando as práticas e benefícios do Angular 1.x
 
 
-_Tags: `nodejs`, `angular`, `javascript`_
+_Tags: `node.js`, `angular`, `javascript`_
 
 ### 2017-01-27 - A vida e as aventuras de um desenvolvedor de Software – #CPBR10 (pt-br)
 
@@ -703,7 +739,7 @@ Abstract:
 > NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.
 
 
-_Tags: `nodejs`, `typescript`, `javascript`, `hapijs`_
+_Tags: `node.js`, `typescript`, `javascript`, `hapijs`_
 
 ### 2016-12-09 - Web APIS with NodeJS and TypeScript (pt-br)
 
@@ -719,7 +755,7 @@ Abstract:
 > NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.
 
 
-_Tags: `nodejs`, `typescript`, `javascript`_
+_Tags: `node.js`, `typescript`, `javascript`_
 
 ### 2016-12-01 - Software Testing with Javascript/NodeJS (pt-br)
 
@@ -727,7 +763,7 @@ _Tags: `nodejs`, `typescript`, `javascript`_
 <a href="https://www.meetup.com/pt-BR/VueJS-SP/events/234296196/" target="_blank">Segundo São Paulo VueJS Meetup - Viva Real</a>
 
 
-<a href="http://slides.com/erickwendel/testes-com-javascript" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/Software Testing with Javascript" target="_blank">photos</a> 
+<a href="http://slides.com/erickwendel/testes-com-javascript" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2016-12-01-software_testing_with_javascript" target="_blank">photos</a> 
 
 
 Abstract:
@@ -735,5 +771,70 @@ Abstract:
 > Dentre os conteúdos, foi apresentados os frameworks Mocha, chai, e Jasmine, aplicando na prática conceitos de Testes Unitários, TDD e BDD
 
 
-_Tags: `nodejs`, `mocha`, `tdd`, `tests`, `javascript`, `chai`, `jasmine`_
+_Tags: `node.js`, `mocha`, `tdd`, `tests`, `javascript`, `chai`, `jasmine`_
+
+### 2016-11-18 - Entrevista Faculdade Impacta – Mercado em Desenvolvimento (pt-br)
+
+
+<a href="" target="_blank">Feira de oportunidades - Faculdade Impacta</a>
+
+
+<a href="" target="_blank">slides</a>  | <a href="https://www.facebook.com/FacImpacta/videos/1352590924752354/" target="_blank">video</a>
+
+
+Abstract:
+
+> mercado em TI, dicas para alunos e comunidades
+
+
+_Tags: `career`_
+
+### 2016-11-18 - NodeJS e HapiJS – Construindo APIs com Javascript (pt-br)
+
+
+<a href="" target="_blank">Faculdade Impacta Tecnologia</a>
+
+
+<a href="http://slides.com/erickwendel/web-apis-com-nodejs" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2016-11-18-construindo_apis_com_javascript" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Olá galera, estive na Faculdade Impacta Tecnologia ministrando um workshop para os alunos de Análise e Desenvolvimento de Sistemas, sobre APIs com NodeJS.
+> Tivemos desde a configuração de ambiente, até testes de unidade com HapiJS e Mocha.
+
+
+_Tags: `node.js`, `typescript`, `javascript`_
+
+### 2016-11-05 - Desenvolvendo RESTFull APIs com NodeJs (pt-br)
+
+
+<a href="http://erickwendel.com.br/2016/11/05/palestra-nodejs-feira-de-oportunidades-faculdade-impacta/" target="_blank">Feira de Oportunidades Faculdade Impacta</a>
+
+
+<a href="http://slides.com/erickwendel/restfull-apis-com-nodejs" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2016-11-05-desenvolvendo_restfull_apis_com_nodejs" target="_blank">photos</a> 
+
+
+Abstract:
+
+> 
+
+
+_Tags: `node.js`, `typescript`, `javascript`_
+
+### 2016-09-12 - Iot e Arduino na Nuvem com NodeJS, Ionic e AngularJS (pt-br)
+
+
+<a href="https://www.meetup.com/GDG-SP/events/234003629" target="_blank">HTML5 Study Group #53</a>
+
+
+<a href="https://github.com/ErickWendel/meetup-ionic-mqtt" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2016-09-12-iot_e_arduino_na_nuvem_com_nodejs,_ionic_e_angularjs" target="_blank">photos</a> | <a href="https://www.youtube.com/channel/UC8yjEZ7-hroweXUgjPMwXNQ" target="_blank">video</a>
+
+
+Abstract:
+
+> Na área do ThinkLab da IBM, vamos consumir dados de sensores plugados em um Arduino, subir eles pra web com NodeJS e depois exibí-los em qualquer dispositivo utilizando Ionic + AngularJS, tudo programado ao vivo pelos figurões de comunidade Heider Lopes e Erick Wendel!!!
+
+
+_Tags: `angular`, `javascript`_
 
