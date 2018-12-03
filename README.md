@@ -352,22 +352,6 @@ Abstract:
 
 _Tags: `javascript`, `async`, `node.js`_
 
-### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
-
-
-<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
-
-
-<a href="https://docs.google.com/presentation/d/1u2SoBPiohhbaopGepC2eQ8fJWf-TJT2qWY_qICJgqlM/edit?usp=sharing" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos" target="_blank">photos</a> | <a href="https://www.youtube.com/watch?v=NexvZCJFil8" target="_blank">video</a>
-
-
-Abstract:
-
-> Já pensou em reviver os tempos antigos de uma forma mais digital? Nessa palestra os participantes aprenderão como criar aplicações em tempo real com Node.js baseado no projeto Original Potato que desenvolvemos explorando o podencial de aplicações Web e facilidades do Javascript.
-
-
-_Tags: `node.js`, `javascript`, `websocket`, `socketio`_
-
 ### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
 
 
@@ -383,6 +367,22 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `faceapi`, `azure`_
+
+### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
+
+
+<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
+
+
+<a href="https://docs.google.com/presentation/d/1u2SoBPiohhbaopGepC2eQ8fJWf-TJT2qWY_qICJgqlM/edit?usp=sharing" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos" target="_blank">photos</a> | <a href="https://www.youtube.com/watch?v=NexvZCJFil8" target="_blank">video</a>
+
+
+Abstract:
+
+> Já pensou em reviver os tempos antigos de uma forma mais digital? Nessa palestra os participantes aprenderão como criar aplicações em tempo real com Node.js baseado no projeto Original Potato que desenvolvemos explorando o podencial de aplicações Web e facilidades do Javascript.
+
+
+_Tags: `node.js`, `javascript`, `websocket`, `socketio`_
 
 ### 2018-06-16 - Node.js e Typescript - Extraindo informações da Marvel Comics com Web Scrapping (pt-br)
 
@@ -624,4 +624,116 @@ Abstract:
 
 
 _Tags: `node.js`, `azure`, `microsoft`_
+
+### 2017-04-05 - Criando Aplicações distribuídas com Node.js – Feira de Oportunidades Impacta (pt-br)
+
+
+<a href="http://erickwendel.com.br/2017/04/05/criando-aplicacoes-distribuidas-com-node-js-feira-de-oportunidades-impacta/" target="_blank">Feira de Oportunidades - Faculdade Impacta</a>
+
+
+<a href="http://slides.com/erickwendel/desenvolvendo-web-apis-com-nodejs" target="_blank">slides</a>  
+
+
+Abstract:
+
+> Nesta palestra, focaremos em desenvolvimento de APIs com Node.js, Javascript e Hapi.js na prática!
+
+
+_Tags: `node.js`, `javascript`, `hapijs`_
+
+### 2017-03-25 - Typescript para aplicações Node.js na era do ES7 (pt-br)
+
+
+<a href="" target="_blank">MVP Community Summit 2017</a>
+
+
+<a href="https://1drv.ms/p/s!AjT_1Ts1KuWNjRYRHlWdFl7oqBR9" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2017-03-25-typescript_para_aplicações_node.js_na_era_do_es7" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Nesta palestra falaremos sobre a linha do tempo do ECMAScript e como typescript pode ajudar no desenvolvimento e acompanhamento das novas features do Javascript
+
+
+_Tags: `node.js`, `javascript`, `typescript`_
+
+### 2017-03-13 - HandsOn de Angular 1.x (pt-br)
+
+
+<a href="https://www.meetup.com/pt-BR/GDG-SP/events/238268519/" target="_blank">HTML5 Study Group #58</a>
+
+
+<a href="https://slides.com/erickwendel/hands-on-angularjs-html5-study-group/fullscreen#/" target="_blank">slides</a>  
+
+
+Abstract:
+
+> Nesse encontro #58 vamos ter um Hands On de Angular 1.x com Erick Wendel explorando as práticas e benefícios do Angular 1.x
+
+
+_Tags: `nodejs`, `angular`, `javascript`_
+
+### 2017-01-27 - A vida e as aventuras de um desenvolvedor de Software – #CPBR10 (pt-br)
+
+
+<a href="http://campuse.ro/events/campus-party-brasil-2017/talk/a-vida-e-as-aventuras-de-um-desenvolvedor-de-software/" target="_blank">Campus Party SP</a>
+
+
+<a href="http://slides.com/erickwendel/a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-campus-party/fullscreen" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2017-01-27-aventuras_de_um_desenvolvedor_de_software" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Além de produzir sistemas complexos, análises críticas e propor soluções para as maiores corporações, desenvolvedores possuem desafios contínuos, como multidisciplinaridade, estresse e prazos de entrega. Nesta apresentação, os participantes entenderão o lado divertido, inovador e 'fora da caixa' de 'ser um desenvolvedor', dicas de como manter-se motivado e transformar o trabalho em diversão.
+
+
+_Tags: `node.js`, `javascript`_
+
+### 2016-12-10 - Construindo APIs Rest com Node.js e Typescript (pt-br)
+
+
+<a href="https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/235415233/" target="_blank">11º Connecting Knowledge - Samsung Ocean</a>
+
+
+<a href="http://slides.com/erickwendel/apis-com-nodejs-typescript" target="_blank">slides</a>  
+
+
+Abstract:
+
+> NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.
+
+
+_Tags: `nodejs`, `typescript`, `javascript`, `hapijs`_
+
+### 2016-12-09 - Web APIS with NodeJS and TypeScript (pt-br)
+
+
+<a href="Desenvolvimento de Aplicativos com Xamarin e NodeJS - CUBO Network" target="_blank">https://www.meetup.com/pt-BR/NetCoders/events/236064655/</a>
+
+
+<a href="http://slides.com/erickwendel/apis-com-nodejs-typescript" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2016-12-09-web_apis_with_nodejs_and_typescript" target="_blank">photos</a> 
+
+
+Abstract:
+
+> NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.
+
+
+_Tags: `nodejs`, `typescript`, `javascript`_
+
+### 2016-12-01 - Software Testing with Javascript/NodeJS (pt-br)
+
+
+<a href="https://www.meetup.com/pt-BR/VueJS-SP/events/234296196/" target="_blank">Segundo São Paulo VueJS Meetup - Viva Real</a>
+
+
+<a href="http://slides.com/erickwendel/testes-com-javascript" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/Software Testing with Javascript" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Dentre os conteúdos, foi apresentados os frameworks Mocha, chai, e Jasmine, aplicando na prática conceitos de Testes Unitários, TDD e BDD
+
+
+_Tags: `nodejs`, `mocha`, `tdd`, `tests`, `javascript`, `chai`, `jasmine`_
 
