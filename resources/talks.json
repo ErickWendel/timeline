@@ -251,7 +251,7 @@
         "slides": "http://bit.ly/building-devs-contruindo-robos-automatizados-erickwendel",
         "photos": "2018-06-16-node.js_e_typescript_-_extraindo_informações_da_marvel_comics_com_web-scrapping",
         "video": "",
-        "tags": ["nodejs", "webscrapping", "typescript"],
+        "tags": ["node.js", "webscrapping", "typescript"],
         "location": {
             "latitude": -23.9438135,
             "longitude": -46.3299362,
@@ -602,7 +602,7 @@
         "slides": "https://slides.com/erickwendel/hands-on-angularjs-html5-study-group/fullscreen#/",
         "photos": "",
         "video": "",
-        "tags": ["nodejs", "angular", "javascript"],
+        "tags": ["node.js", "angular", "javascript"],
         "location": {
             "latitude": -23.5452767,
             "longitude": -46.6373743,
@@ -668,7 +668,7 @@
         "slides": "http://slides.com/erickwendel/apis-com-nodejs-typescript",
         "photos": "",
         "video": "",
-        "tags": ["nodejs", "typescript", "javascript", "hapijs"],
+        "tags": ["node.js", "typescript", "javascript", "hapijs"],
         "location": {
             "latitude": -23.5542518,
             "longitude": -46.7330228,
@@ -690,7 +690,7 @@
         "slides": "http://slides.com/erickwendel/apis-com-nodejs-typescript",
         "photos": "2016-12-09-web_apis_with_nodejs_and_typescript",
         "video": "",
-        "tags": ["nodejs", "typescript", "javascript"],
+        "tags": ["node.js", "typescript", "javascript"],
         "location": {
             "latitude": -23.5977308,
             "longitude": -46.6821916,
@@ -710,9 +710,9 @@
             "name": "Segundo São Paulo VueJS Meetup - Viva Real"
         },
         "slides": "http://slides.com/erickwendel/testes-com-javascript",
-        "photos": "Software Testing with Javascript",
+        "photos": "2016-12-01-software_testing_with_javascript",
         "video": "",
-        "tags": ["nodejs", "mocha", "tdd", "tests", "javascript", "chai", "jasmine"],
+        "tags": ["node.js", "mocha", "tdd", "tests", "javascript", "chai", "jasmine"],
         "location": {
             "latitude": -23.5535189,
             "longitude": -46.6575216,
@@ -722,5 +722,115 @@
         },
         "language": "pt-br",
         "date": "2016-12-01"
+    },
+    {
+        "title": "Entrevista Faculdade Impacta – Mercado em Desenvolvimento",
+        "abstract": "mercado em TI, dicas para alunos e comunidades",
+        "type": "talk",
+        "event": {
+            "link": "",
+            "name": "Feira de oportunidades - Faculdade Impacta"
+        },
+        "slides": "",
+        "photos": "",
+        "video": "https://www.facebook.com/FacImpacta/videos/1352590924752354/",
+        "tags": ["career"],
+        "location": {
+            "latitude": -23.5257509,
+            "longitude": -46.6517142,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "language": "pt-br",
+        "date": "2016-11-18"
+    },
+    {
+        "title": "NodeJS e HapiJS – Construindo APIs com Javascript",
+        "abstract": "Olá galera, estive na Faculdade Impacta Tecnologia ministrando um workshop para os alunos de Análise e Desenvolvimento de Sistemas, sobre APIs com NodeJS.\nTivemos desde a configuração de ambiente, até testes de unidade com HapiJS e Mocha.",
+        "type": "talk",
+        "event": {
+            "link": "",
+            "name": "Faculdade Impacta Tecnologia"
+        },
+        "slides": "http://slides.com/erickwendel/web-apis-com-nodejs",
+        "photos": "2016-11-18-construindo_apis_com_javascript",
+        "video": "", 
+        "tags": ["node.js", "typescript", "javascript"],
+        "location": {
+            "latitude": -23.5257509,
+            "longitude": -46.6517142,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "language": "pt-br",
+        "date": "2016-11-18"
+    },
+    {
+        "title": "Desenvolvendo RESTFull APIs com NodeJs",
+        "abstract": "",
+        "type": "talk",
+        "event": {
+            "link": "http://erickwendel.com.br/2016/11/05/palestra-nodejs-feira-de-oportunidades-faculdade-impacta/",
+            "name": "Feira de Oportunidades Faculdade Impacta"
+        },
+        "slides": "http://slides.com/erickwendel/restfull-apis-com-nodejs",
+        "photos": "2016-11-05-desenvolvendo_restfull_apis_com_nodejs",
+        "video": "",
+        "tags": ["node.js", "typescript", "javascript"],
+        "location": {
+            "latitude": -23.5257509,
+            "longitude": -46.6517142,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "language": "pt-br",
+        "date": "2016-11-05"
+    },
+    {
+        "title": "Carreira em Desenvolvimento de Software",
+        "abstract": "",
+        "type": "talk",
+        "event": {
+            "link": "http://erickwendel.com.br/2016/10/29/carreira-em-desenvolvimento-de-software-universidade-anhanguera-de-sao-paulo/",
+            "name": "Universidade Anhanguera De São Paulo"
+        },
+        "slides": "",
+        "photos": "2017-10-29-carreira_em_desenvolvimento_de_software",
+        "video": "",
+        "tags": ["career", "node.js"],
+        "location": {
+            "latitude": -23.6674085,
+            "longitude": -46.5850207,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "language": "pt-br",
+        "date": "2017-10-29"
+    },
+    {
+        "title": "Iot e Arduino na Nuvem com NodeJS, Ionic e AngularJS",
+        "abstract": "Na área do ThinkLab da IBM, vamos consumir dados de sensores plugados em um Arduino, subir eles pra web com NodeJS e depois exibí-los em qualquer dispositivo utilizando Ionic + AngularJS, tudo programado ao vivo pelos figurões de comunidade Heider Lopes e Erick Wendel!!!",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/GDG-SP/events/234003629",
+            "name": "HTML5 Study Group #53"
+        },
+        "slides": "https://github.com/ErickWendel/meetup-ionic-mqtt",
+        "photos": "2016-09-12-iot_e_arduino_na_nuvem_com_nodejs,_ionic_e_angularjs",
+        "video": "https://www.youtube.com/channel/UC8yjEZ7-hroweXUgjPMwXNQ",
+        "tags": ["angular", "javascript"],
+        "location": {
+            "latitude": -23.5805414,
+            "longitude": -46.6461597,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "language": "pt-br",
+        "date": "2016-09-12"
     }
 ]

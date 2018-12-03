@@ -60,5 +60,23 @@
         "tags": ["telegram", "bot", "node.js", "ibm"],
         "language": "pt-br",
         "date": "2017-07-07"
+    },
+    {
+        "title": "Typescript – 1 Minuto de Tecnologia",
+        "abstract": "Você já ouviu falar sobre Typescript, a tecnologia que promete reinventar seu modo de escrever Javascript? Acompanhe o #1MinutodeTecnologia desta semana e descubra o poder que essa tecnologia possui para os seus projetos.",
+        "type": "video",
+        "link": "https://youtu.be/TshiaAMiFR4",
+        "tags": ["node.js", "typescript", "javascript"],
+        "language": "pt-br",
+        "date": "2016-11-14"
+    },
+    {
+        "title": "As Vidas De Um Profissional De Tecnologia",
+        "abstract": "Olá galera, fui convidado pelo grupo ARQENG, a falar um pouco da minha experiência em desenvolvimento de software, desafios e dicas para quem precisa começar.",
+        "type": "video",
+        "link": "https://youtu.be/VLqX2oTtvz8",
+        "tags": ["node.js", "career"],
+        "language": "pt-br",
+        "date": "2016-11-03"
     }
 ]
