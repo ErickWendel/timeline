@@ -832,5 +832,71 @@
         },
         "language": "pt-br",
         "date": "2016-09-12"
+    },
+    {
+        "title": "Desenvolvendo BOTs com Telegram e Javascript",
+        "abstract": "Muito se descute sobre criação de BOTs (Robos automatizados) mas vemos que na prática, não pensamos nos cenários em que eles podem ser úteis. Aprenderemos na prática como funciona a API para criação de Robôs inteligentes com a API do Telegram utiizando Javascript.",
+        "type": "talk",
+        "event": {
+            "link": "http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-node-js",
+            "name": "The Developers Conference 2016"
+        },
+        "slides": "https://www.slideshare.net/EriickWendell/desenvolvendo-bots-com-telegram-e-javascript-tdc2016",
+        "photos": "2016-07-07-desenvolvendo_bots_com_telegram_e_javascript",
+        "video": "",
+        "tags": ["telegram", "bots", "node.js", "javascript"],
+        "location": {
+            "latitude": -23.6002334,
+            "longitude": -46.6788224,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "language": "pt-br",
+        "date": "2016-07-07"
+    },
+    {
+        "title": "Managing the flow of asynchronous operations in NodeJS",
+        "abstract": "Ao construir aplicações Javascript, devemos nos preocupar com alguns fatores quando falamos do workflow da linguagem. Diferente das linguagens sequenciais, resultados podem ser inesperados pelo fato da execução ser assíncrona e dependerem de callbacks, aprenderemos nesta palestra as boas práticas e soluções para criação de aplicações NodeJS.",
+        "type": "talk",
+        "event": {
+            "link": "http://brazil.nodeconf.com/",
+            "name": "NodeConf Brazil 2016"
+        },
+        "slides": "http://slides.com/erickwendel/control-flow-nodejs",
+        "photos": "2016-07-05-managing_the_flow_of_asynchronous_operations_in_nodejs",
+        "video": "",
+        "tags": ["node.js", "javascript"],
+        "location": {
+            "latitude": -23.5541967,
+            "longitude": -46.6547464,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "language": "pt-br",
+        "date": "2016-07-05"
+    },
+    {
+        "title": "Ferramentas de Code Analysis e Code Fixed para JavaScript",
+        "abstract": "Iremos mostrar algumas ferramentas de Code Analysis e Code Fixed, voltadas para JavaScript. Enfatizando o quanto essas ferramentas podem auxiliar (velocidade e qualidade) no desenvolvimento. Iremos abordar o uso das ferramentas de code analysis, como por exemplo o JSHint e outras, nas IDE's mais utilizadas do mercado (Visual Studio, Sublime, etc).",
+        "type": "talk",
+        "event": {
+            "link": "http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-javascript",
+            "name": "The Developers Conference 2016"
+        },
+        "slides": "https://www.slideshare.net/EriickWendell/js-ferramentas-code-analysis-e-fixed-para-js-tdc2016",
+        "photos": "2016-07-05-ferramentas_de_code_analysis_e_code_fixed_para_javascript",
+        "video": "",
+        "tags": ["node.js", "codefix", "code analysis", "node.js"],
+        "location": {
+            "latitude": -23.6002334,
+            "longitude": -46.6788224,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "language": "pt-br", 
+        "date": "2016-07-05"
     }
 ]
