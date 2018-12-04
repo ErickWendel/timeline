@@ -117,7 +117,7 @@ function mapMarkdown(items, fn) {
     return items.sort(sortByDate).map(item => fn(mapTags(item))).reduce((prev, next) => prev.concat(next), [])
 }
 
-function addZeroToRightNumber(arr) {
+function normalizeCount(arr) {
     const length = arr.length
     if(length < 10) return `0${length}`
     return `${length}`
@@ -137,11 +137,11 @@ function addZeroToRightNumber(arr) {
  
     const content = data
         .replace(TALK_CONTENT_TAG, json2md(talksMd))
-        .replace(TALK_COUNT_TAG, addZeroToRightNumber(talks))
+        .replace(TALK_COUNT_TAG, normalizeCount(talks))
         .replace(BLOG_CONTENT_TAG, json2md(postMd))
-        .replace(BLOG_COUNT_TAG, addZeroToRightNumber(posts))
+        .replace(BLOG_COUNT_TAG, normalizeCount(posts))
         .replace(VIDEO_CONTENT_TAG, json2md(videosMd))
-        .replace(DEMO_COUNT_TAG, addZeroToRightNumber(videos))
+        .replace(DEMO_COUNT_TAG, normalizeCount(videos))
 
     // console.log('content', content)
 
