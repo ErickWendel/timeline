@@ -4,6 +4,10 @@ const {
     writeFileSync
 } = require('fs')
 
+const DEMO_COUNT_TAG = '$$count_demo'
+const BLOG_COUNT_TAG = '$$count_blog'
+const TALK_COUNT_TAG = '$$count_talk'
+
 const BLOG_CONTENT_TAG = '$$blog-content$$'
 const TALK_CONTENT_TAG = '$$talk-content$$'
 const VIDEO_CONTENT_TAG = '$$video-content$$'
@@ -20,7 +24,7 @@ function sortByDate(prev, next) {
 
 }
 
-function getTextFile(path) {
+function getFile(path) {
     return JSON.parse(readFileSync(path));
 }
 
@@ -113,23 +117,31 @@ function mapMarkdown(items, fn) {
     return items.sort(sortByDate).map(item => fn(mapTags(item))).reduce((prev, next) => prev.concat(next), [])
 }
 
+function addZeroToRightNumber(arr) {
+    const length = arr.length
+    if(length < 10) return `0${length}`
+    return `${length}`
+}
+
 (() => {
     const data = readFileSync('resources/templates/template.md', 'utf8').toString()
 
-    const talks = getTextFile('resources/talks.json')
+    const talks = getFile('resources/talks.json')
     const talksMd = mapMarkdown(talks, mapTalkMarkdown)
 
-    const posts = getTextFile('resources/posts.json')
+    const posts = getFile('resources/posts.json')
     const postMd = mapMarkdown(posts, mapPostMarkdown)
 
-    const videos = getTextFile('resources/videos.json')
+    const videos = getFile('resources/videos.json')
     const videosMd = mapMarkdown(videos, mapVideoMarkdown)
-
-
+ 
     const content = data
         .replace(TALK_CONTENT_TAG, json2md(talksMd))
+        .replace(TALK_COUNT_TAG, addZeroToRightNumber(talks))
         .replace(BLOG_CONTENT_TAG, json2md(postMd))
+        .replace(BLOG_COUNT_TAG, addZeroToRightNumber(posts))
         .replace(VIDEO_CONTENT_TAG, json2md(videosMd))
+        .replace(DEMO_COUNT_TAG, addZeroToRightNumber(videos))
 
     // console.log('content', content)
 
