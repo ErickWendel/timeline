@@ -4,8 +4,8 @@ const {
     writeFileSync
 } = require('fs')
 
-const DEMO_COUNT_TAG = '$$count_demo'
-const BLOG_COUNT_TAG = '$$count_blog'
+const VIDEO_COUNT_TAG = '$$count_demo'
+const POST_COUNT_TAG = '$$count_blog'
 const TALK_COUNT_TAG = '$$count_talk'
 
 const BLOG_CONTENT_TAG = '$$blog-content$$'
@@ -119,7 +119,7 @@ function mapMarkdown(items, fn) {
 
 function normalizeCount(arr) {
     const length = arr.length
-    if(length < 10) return `0${length}`
+    if (length < 10) return `0${length}`
     return `${length}`
 }
 
@@ -134,18 +134,18 @@ function normalizeCount(arr) {
 
     const videos = getFile('resources/videos.json')
     const videosMd = mapMarkdown(videos, mapVideoMarkdown)
- 
+    
+    const [countTalks, countPosts, countVideos] = [normalizeCount(talks), normalizeCount(posts), normalizeCount(videos)]
     const content = data
         .replace(TALK_CONTENT_TAG, json2md(talksMd))
-        .replace(TALK_COUNT_TAG, normalizeCount(talks))
+        .replace(TALK_COUNT_TAG, countTalks)
         .replace(BLOG_CONTENT_TAG, json2md(postMd))
-        .replace(BLOG_COUNT_TAG, normalizeCount(posts))
+        .replace(POST_COUNT_TAG, countPosts)
         .replace(VIDEO_CONTENT_TAG, json2md(videosMd))
-        .replace(DEMO_COUNT_TAG, normalizeCount(videos))
-
-    // console.log('content', content)
+        .replace(VIDEO_COUNT_TAG, countVideos)
 
     writeFileSync('README.md', content)
+    console.log(`Talks: ${countTalks}, Posts: ${countPosts}, Videos: ${countVideos}`)
     console.log('readme generated with success!')
 
 })()

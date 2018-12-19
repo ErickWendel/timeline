@@ -6,9 +6,9 @@ This is a list of activities from talks that I've given at meetups and conferenc
 
 ## Table of Contents
 
-- [Demonstrations (\$\$count_demo)](#demonstrations)
-- [Blog Posts (\$\$count_blog)](#blog-posts)
-- [Conference Talks (\$\$count_talk)](#conference-talks)
+- [Demonstrations (10)](#demonstrations)
+- [Blog Posts (08)](#blog-posts)
+- [Conference Talks (48)](#conference-talks)
 
 ## Demonstrations
 
