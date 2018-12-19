@@ -8,7 +8,7 @@ This is a list of activities from talks that I've given at meetups and conferenc
 
 - [Demonstrations (10)](#demonstrations)
 - [Blog Posts (08)](#blog-posts)
-- [Conference Talks (43)](#conference-talks)
+- [Conference Talks (46)](#conference-talks)
 
 ## Demonstrations
 
@@ -558,6 +558,22 @@ Abstract:
 
 _Tags: `docker`, `node.js`, `javascript`, `devops`_
 
+### 2018-02-25 - Uber do Marlon #10 – Erick Wendel – Entrevistado na Microsoft (pt-br)
+
+
+<a href="https://channel9.msdn.com/Shows/MarlonLuz/Uber-do-Marlon-10-Erick-Wendel" target="_blank">Carona do Marlon - Microsoft</a>
+
+
+<a href="" target="_blank">slides</a>  | <a href="https://channel9.msdn.com/Shows/MarlonLuz/Uber-do-Marlon-10-Erick-Wendel" target="_blank">video</a>
+
+
+Abstract:
+
+> Nessa edição do Uber do Marlon vc vai conhecer o Erick Wendel, um programador Microsoft que programa em Node.JS num Mac usando Visual Studio Code.
+
+
+_Tags: `vscode`, `webinar`_
+
 ### 2018-02-07 - Construindo Robôs automatizados com Selenium Web Driver e Typescript (pt-br)
 
 
@@ -927,4 +943,36 @@ Abstract:
 
 
 _Tags: `node.js`, `codefix`, `code analysis`, `node.js`_
+
+### 2016-06-23 - Webinário TDC Online - JavaScript, Frame JavaScript, Node.Js, Modern Web,e Cloud (pt-br)
+
+
+<a href="http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-javascript" target="_blank">The Developers Conference 2016 | Trilha Javascript</a>
+
+
+<a href="" target="_blank">slides</a>  | <a href="https://youtu.be/9TomOahsIdY" target="_blank">video</a>
+
+
+Abstract:
+
+> 
+
+
+_Tags: `node.js`, `webinar`_
+
+### 2016-06-09 - Plataforma Cloud9 para desenvolvedores NodeJS! (pt-br)
+
+
+<a href="https://congressodeti.com.br/palestras/#1502307578034-e352a847-d2c5" target="_blank">Congresso de TI</a>
+
+
+<a href="https://slides.com/erickwendel/c9-io/fullscreen" target="_blank">slides</a>  
+
+
+Abstract:
+
+> 
+
+
+_Tags: `node.js`, `javascript`, `cloud9`_
 

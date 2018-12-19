@@ -959,5 +959,71 @@
         },
         "language": "pt-br",
         "date": "2016-07-05"
+    },
+    {
+        "title": "Webinário TDC Online - JavaScript, Frame JavaScript, Node.Js, Modern Web,e Cloud",
+        "abstract": "",
+        "type": "talk",
+        "event": {
+            "link": "http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-javascript",
+            "name": "The Developers Conference 2016 | Trilha Javascript"
+        },
+        "slides": "",
+        "photos": "",
+        "video": "https://youtu.be/9TomOahsIdY",
+        "tags": ["node.js", "webinar"],
+        "location": {
+            "latitude": -23.6002334,
+            "longitude": -46.6788224,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "language": "pt-br",
+        "date": "2016-06-23"
+    },
+    {
+        "title": "Plataforma Cloud9 para desenvolvedores NodeJS!",
+        "abstract": "",
+        "type": "talk",
+        "event": {
+            "link": "https://congressodeti.com.br/palestras/#1502307578034-e352a847-d2c5",
+            "name": "Congresso de TI"
+        },
+        "slides": "https://slides.com/erickwendel/c9-io/fullscreen",
+        "photos": "",
+        "video": "",
+        "tags": ["node.js", "javascript", "cloud9"],
+        "location": {
+            "latitude": -23.5632754,
+            "longitude": -46.6455011,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "language": "pt-br",
+        "date": "2016-06-09"
+    },
+    {
+        "title": "Uber do Marlon #10 – Erick Wendel – Entrevistado na Microsoft",
+        "abstract": "Nessa edição do Uber do Marlon vc vai conhecer o Erick Wendel, um programador Microsoft que programa em Node.JS num Mac usando Visual Studio Code.",
+        "type": "talk",
+        "event": {
+            "link": "https://channel9.msdn.com/Shows/MarlonLuz/Uber-do-Marlon-10-Erick-Wendel",
+            "name": "Carona do Marlon - Microsoft"
+        },
+        "slides": "",
+        "photos": "",
+        "video": "https://channel9.msdn.com/Shows/MarlonLuz/Uber-do-Marlon-10-Erick-Wendel",
+        "tags": ["vscode", "webinar"],
+        "location": {
+            "latitude": -23.6101631,
+            "longitude": -46.6990182,
+            "country": "Brazil",
+            "uf": "Sp",
+            "city": "São Paulo"
+        },
+        "language": "pt-br",
+        "date": "2018-02-25"
     }
 ]
