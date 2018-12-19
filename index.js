@@ -82,7 +82,9 @@ function mapTalkMarkdown(item) {
         const slidesText = item.slides ? `${convertLink(item.slides, 'slides')}` : "";
         const videoText = `${item.video ? `${convertLink(mapExternalLinks(item.video), 'video')}` : ``}`;
         const photoText = `${item.photos ? `${convertLink(mapExternalLinks(item.photos), 'photos')}` : ``}`;
-        const contentSession = `${((photoText || videoText) && slidesText) ? slidesText.concat(' | '): ""} ${(videoText &&photoText) ? photoText.concat(' | ') : photoText} ${videoText}`;
+        const slidesSection = ((photoText || videoText) && slidesText) ? slidesText.concat(' | ') : ""
+        const photosSection = (videoText && photoText) ? photoText.concat(' | ') : photoText
+        const contentSession = `${slidesSection} ${photosSection} ${videoText}`;
         return contentSession;
     }
 }
