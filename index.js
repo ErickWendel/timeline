@@ -137,7 +137,7 @@ function normalizeCount(arr) {
     const videos = getFile('resources/videos.json')
     const videosMd = mapMarkdown(videos, mapVideoMarkdown)
     
-    const [countTalks, countPosts, countVideos] = [normalizeCount(talks), normalizeCount(posts), normalizeCount(videos)]
+    const [countTalks, countPosts, countVideos] = [talks, posts, videos].map(normalizeCount)
     const content = data
         .replace(TALK_CONTENT_TAG, json2md(talksMd))
         .replace(TALK_COUNT_TAG, countTalks)
