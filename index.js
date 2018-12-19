@@ -79,10 +79,10 @@ function mapTalkMarkdown(item) {
     }
 
     function mapContentLinks(item) {
-        const slidesText = convertLink(item.slides, 'slides');
-        const videoText = `${item.video ? `| ${convertLink(mapExternalLinks(item.video), 'video')}` : ``}`;
-        const photoText = `${item.photos ? `| ${convertLink(mapExternalLinks(item.photos), 'photos')}` : ``}`;
-        const contentSession = `${slidesText} ${photoText} ${videoText}`;
+        const slidesText = item.slides ? `${convertLink(item.slides, 'slides')}` : "";
+        const videoText = `${item.video ? `${convertLink(mapExternalLinks(item.video), 'video')}` : ``}`;
+        const photoText = `${item.photos ? `${convertLink(mapExternalLinks(item.photos), 'photos')}` : ``}`;
+        const contentSession = `${((photoText || videoText) && slidesText) ? slidesText.concat(' | '): ""} ${(videoText &&photoText) ? photoText.concat(' | ') : photoText} ${videoText}`;
         return contentSession;
     }
 }
