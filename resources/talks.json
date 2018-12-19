@@ -1,4 +1,48 @@
 [{
+        "title": "Node.js, Observables e RxJs - Programação reativa no Backend!",
+        "abstract": "Ouvimos bastante a galera que trabalha com Angular e outros frameworks Javascript voltados a front end falando sobre programação reativa e sobre RxjS. Os participantes entenderão na prática o uso dos principais operadores para trabalhar com Node.js, manipulando promises, eventos e conhecendo a fundo o padrão observer.",
+        "type": "talk",
+        "event": {
+            "link": "https://braziljs.org/eventos/braziljs-on-the-road-joinville/",
+            "name": "Braziljs on the road Joinville"
+        },
+        "slides": "http://bit.ly/talk-rxjs-braziljs-24112018",
+        "photos": "2018-11-24-node.js_observables_e_rxjs_-_programação_reativa_no_backend!",
+        "video": "https://youtu.be/1we5tC1oyYA",
+        "tags": ["node.js", "rxjs", "javascript", "observable"],
+        "location": {
+            "latitude": -26.242434,
+            "longitude": -48.8812217,
+            "country": "Brazil",
+            "uf": "SC",
+            "city": "Joinville"
+        },
+        "language": "pt-br",
+        "date": "2018-11-24"
+    },
+    {
+        "title": "Building VSCode Extensions with TypeScript",
+        "abstract": "Em nossa vida de desenvolvedor (a), fazemos diversos trabalhos repetitivos, que com este editor, vamos entender o valor da automatização de código a partir de Code Snippets criados com TypeScript, desde a análise sintática de códigos, à ganho de produtividade a partir de tarefas dentro da ferramenta",
+        "type": "talk",
+        "event": {
+            "link": "https://developerssergipe.com",
+            "name": "Developers Sergipe Summit 2018"
+        },
+        "slides": " http://bit.ly/talk-vscode-ext-erickwendel-devsergipe2018",
+        "photos": "2018-12-15-building_vscode_extensions_with_typescript",
+        "video": "",
+        "tags": ["node.js", "vscode", "javascript", "siri", "extensions"],
+        "location": {
+            "latitude": -10.900247,
+            "longitude": -37.055603,
+            "country": "Brazil",
+            "uf": "SE",
+            "city": "Aracajú"
+        },
+        "language": "pt-br",
+        "date": "2018-12-15"
+    },
+    {
         "title": "Node.js, Docker e Containerização",
         "abstract": "É importante entender como as aplicações funcionam e como a arquitetura está evoluindo. Pensando nisto, abordaremos sobre os benefícios de Docker para criação de microserviços com Node.js",
         "type": "talk",
@@ -19,8 +63,8 @@
         },
         "language": "pt-br",
         "date": "2018-10-25"
-
-    }, {
+    },
+    {
         "title": "A vida e as aventuras de um desenvolvedor de Software",
         "abstract": "De volta à E.E. Vila Bela escola em que fiz o ensino médio, falando um pouco sobre a carreira em desenvolvimento de software, mostrando o quão divertida nossa vida pode ser se focar no que realmente gosta. Estou super animado pois é uma grande oportunidade de converter mais gente para nosso lado negro da força haha! E melhor, mostrar que existe um mundão além daquilo que vemos, que sempre podemos evoluir e correr atrás das paradas.",
         "type": "talk",
@@ -63,7 +107,8 @@
         },
         "language": "pt-br",
         "date": "2018-10-05"
-    }, {
+    },
+    {
         "title": "Scaling your applications with Kubernetes and Docker",
         "abstract": "High availability, high consistency, high disponibility are the popular words when we think about Web Applications but when our application increase, we have many problems and situations to solve. The objective of this talk is show the Kubernetes' power and facility to you can get conquer all of this keywords in your projects, exploring the best of Kubernetes has to you",
         "type": "talk",
@@ -295,7 +340,14 @@
         "slides": "http://bit.ly/criciumadev2018-erickwendel-slides",
         "photos": "2018-05-19-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!",
         "video": "",
-        "tags": ["javascript", "node.js", "faceapi", "azure", "raspberrypi", "opencv"],
+        "tags": [
+            "javascript",
+            "node.js",
+            "faceapi",
+            "azure",
+            "raspberrypi",
+            "opencv"
+        ],
         "location": {
             "latitude": -28.6796323,
             "longitude": -49.3553406,
@@ -349,7 +401,8 @@
         },
         "language": "pt-br",
         "date": "2018-03-28"
-    }, {
+    },
+    {
         "title": "Docker Registry: Adeus deploy via ssh!",
         "abstract": "Em nosso cotidiano, conhecemos algumas formas de deploy que talvez podem ser repetitivas demais. Um grande exemplo é: Temos nossa aplicação (nossos arquivos que devem ser executadas no servidor de produção), criamos uma máquina virtual, acessamos esta máquina via SSH (linha de comando), fazemos um git clone (ou pull) e rodamos cada projeto separado. O objetivo desta palestra é automatizar todo este processo, garantindo a entrega e viabilidade de publicação de projetos. ",
         "type": "talk",
@@ -689,7 +742,7 @@
         },
         "slides": "http://slides.com/erickwendel/apis-com-nodejs-typescript",
         "photos": "2016-12-09-web_apis_with_nodejs_and_typescript",
-        "video": "",
+        "video": "https://www.facebook.com/cyzanoni/videos/1350663608285420",
         "tags": ["node.js", "typescript", "javascript"],
         "location": {
             "latitude": -23.5977308,
@@ -712,7 +765,15 @@
         "slides": "http://slides.com/erickwendel/testes-com-javascript",
         "photos": "2016-12-01-software_testing_with_javascript",
         "video": "",
-        "tags": ["node.js", "mocha", "tdd", "tests", "javascript", "chai", "jasmine"],
+        "tags": [
+            "node.js",
+            "mocha",
+            "tdd",
+            "tests",
+            "javascript",
+            "chai",
+            "jasmine"
+        ],
         "location": {
             "latitude": -23.5535189,
             "longitude": -46.6575216,
@@ -755,7 +816,7 @@
         },
         "slides": "http://slides.com/erickwendel/web-apis-com-nodejs",
         "photos": "2016-11-18-construindo_apis_com_javascript",
-        "video": "", 
+        "video": "",
         "tags": ["node.js", "typescript", "javascript"],
         "location": {
             "latitude": -23.5257509,
@@ -896,7 +957,7 @@
             "uf": "SP",
             "city": "São Paulo"
         },
-        "language": "pt-br", 
+        "language": "pt-br",
         "date": "2016-07-05"
     }
 ]

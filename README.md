@@ -6,11 +6,21 @@ This is a list of activities from talks that I've given at meetups and conferenc
 
 ## Table of Contents
 
-- [Demonstrations (09)](#demonstrations)
+- [Demonstrations (10)](#demonstrations)
 - [Blog Posts (08)](#blog-posts)
-- [Conference Talks (41)](#conference-talks)
+- [Conference Talks (43)](#conference-talks)
 
 ## Demonstrations
+
+### <a href="https://www.facebook.com/page.erickwendel/videos/2248556708749766/" target="_blank">2018-12-14 - Demo - VSCode extensions: Cognitive Services + Siri + VSCode + Node.js - Criando uma extensão de tradução de texto no editor (pt-br)</a>
+
+
+Abstract:
+
+> Amanha (15/12) acontece o Developers Sergipe e estamos mais que animados! Preparei uma demonstração integrando o #vscode, o serviço de tradução do #azure e a #siri, para a partir da seleção de um texto, traduzir automaticamente e falar o resultado em nosso idioma, é claro que é uma demo bem simples, mas mostra o poder e as ideias que vem em mente para brincar 😀 
+
+
+_Tags: `node.js`, `microsoft`, `siri`, `vscode`_
 
 ### <a href="https://www.facebook.com/page.erickwendel/videos/1202597676537643/" target="_blank">2018-01-09 - Original Potato - Jogando Batata Quente em tempo real! (pt-br)</a>
 
@@ -227,6 +237,38 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2018-12-15 - Building VSCode Extensions with TypeScript (pt-br)
+
+
+<a href="https://developerssergipe.com" target="_blank">Developers Sergipe Summit 2018</a>
+
+
+<a href=" http://bit.ly/talk-vscode-ext-erickwendel-devsergipe2018" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-12-15-building_vscode_extensions_with_typescript" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Em nossa vida de desenvolvedor (a), fazemos diversos trabalhos repetitivos, que com este editor, vamos entender o valor da automatização de código a partir de Code Snippets criados com TypeScript, desde a análise sintática de códigos, à ganho de produtividade a partir de tarefas dentro da ferramenta
+
+
+_Tags: `node.js`, `vscode`, `javascript`, `siri`, `extensions`_
+
+### 2018-11-24 - Node.js, Observables e RxJs - Programação reativa no Backend! (pt-br)
+
+
+<a href="https://braziljs.org/eventos/braziljs-on-the-road-joinville/" target="_blank">Braziljs on the road Joinville</a>
+
+
+<a href="http://bit.ly/talk-rxjs-braziljs-24112018" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-11-24-node.js_observables_e_rxjs_-_programação_reativa_no_backend!" target="_blank">photos</a> | <a href="https://youtu.be/1we5tC1oyYA" target="_blank">video</a>
+
+
+Abstract:
+
+> Ouvimos bastante a galera que trabalha com Angular e outros frameworks Javascript voltados a front end falando sobre programação reativa e sobre RxjS. Os participantes entenderão na prática o uso dos principais operadores para trabalhar com Node.js, manipulando promises, eventos e conhecendo a fundo o padrão observer.
+
+
+_Tags: `node.js`, `rxjs`, `javascript`, `observable`_
 
 ### 2018-10-25 - Node.js, Docker e Containerização (pt-br)
 
@@ -747,7 +789,7 @@ _Tags: `node.js`, `typescript`, `javascript`, `hapijs`_
 <a href="Desenvolvimento de Aplicativos com Xamarin e NodeJS - CUBO Network" target="_blank">https://www.meetup.com/pt-BR/NetCoders/events/236064655/</a>
 
 
-<a href="http://slides.com/erickwendel/apis-com-nodejs-typescript" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2016-12-09-web_apis_with_nodejs_and_typescript" target="_blank">photos</a> 
+<a href="http://slides.com/erickwendel/apis-com-nodejs-typescript" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2016-12-09-web_apis_with_nodejs_and_typescript" target="_blank">photos</a> | <a href="https://www.facebook.com/cyzanoni/videos/1350663608285420" target="_blank">video</a>
 
 
 Abstract:
