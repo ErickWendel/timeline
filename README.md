@@ -2,13 +2,13 @@
 
 _Search with `⌘/ctrl + f`_
 
-This is a list of activities from talks that I've given at meetups and conferences and blog posts (starting from most recent).
+This is a list of activities from talks that I've given at meetups and conferences and blog posts (starting from most recent). (in construction)
 
 ## Table of Contents
 
-- [Demonstrations (10)](#demonstrations)
-- [Blog Posts (08)](#blog-posts)
-- [Conference Talks (46)](#conference-talks)
+- [Demonstrations (\$\$count_demo)](#demonstrations)
+- [Blog Posts (\$\$count_blog)](#blog-posts)
+- [Conference Talks (\$\$count_talk)](#conference-talks)
 
 ## Demonstrations
 
@@ -414,22 +414,6 @@ Abstract:
 
 _Tags: `javascript`, `async`, `node.js`_
 
-### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
-
-
-<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
-
-
-<a href="https://docs.google.com/presentation/d/1u2SoBPiohhbaopGepC2eQ8fJWf-TJT2qWY_qICJgqlM/edit?usp=sharing" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos" target="_blank">photos</a> | <a href="https://www.youtube.com/watch?v=NexvZCJFil8" target="_blank">video</a>
-
-
-Abstract:
-
-> Já pensou em reviver os tempos antigos de uma forma mais digital? Nessa palestra os participantes aprenderão como criar aplicações em tempo real com Node.js baseado no projeto Original Potato que desenvolvemos explorando o podencial de aplicações Web e facilidades do Javascript.
-
-
-_Tags: `node.js`, `javascript`, `websocket`, `socketio`_
-
 ### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
 
 
@@ -445,6 +429,22 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `faceapi`, `azure`_
+
+### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
+
+
+<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
+
+
+<a href="https://docs.google.com/presentation/d/1u2SoBPiohhbaopGepC2eQ8fJWf-TJT2qWY_qICJgqlM/edit?usp=sharing" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos" target="_blank">photos</a> | <a href="https://www.youtube.com/watch?v=NexvZCJFil8" target="_blank">video</a>
+
+
+Abstract:
+
+> Já pensou em reviver os tempos antigos de uma forma mais digital? Nessa palestra os participantes aprenderão como criar aplicações em tempo real com Node.js baseado no projeto Original Potato que desenvolvemos explorando o podencial de aplicações Web e facilidades do Javascript.
+
+
+_Tags: `node.js`, `javascript`, `websocket`, `socketio`_
 
 ### 2018-06-16 - Node.js e Typescript - Extraindo informações da Marvel Comics com Web Scrapping (pt-br)
 
@@ -975,4 +975,36 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `cloud9`_
+
+### 2016-02-19 - WebCast – Web Apps com AngularJS (pt-br)
+
+
+<a href="https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg" target="_blank">Canal dotNET</a>
+
+
+<a href="https://slides.com/erickwendel/introducao-ao-angularjs#/" target="_blank">slides</a>  | <a href="https://youtu.be/DGR6Bu8nb14" target="_blank">video</a>
+
+
+Abstract:
+
+> Neste hangout receberemos como convidado o MSP Erick Wendel, o qual participará de um bate-papo abordando o desenvolvimento de soluções Web empregando o framework AngularJS.
+
+
+_Tags: `angular`, `javascript`, `webinar`_
+
+### 2016-02-13 - Mini Curso Gratuito de Node.js e TypeScript (pt-br)
+
+
+<a href="https://www.meetup.com/pt-BR/NetCoders/events/227844050/" target="_blank">NETCoders</a>
+
+
+<a href="https://slides.com/erickwendel/introduce-typescript-vscode-netcoders/fullscreen#/" target="_blank">slides</a> | <a href="https://github.com/ErickWendel/timeline/tree/master/2016-02-13-mini_curso_gratuito_de_node.js_e_typescript" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Nesse MINI CURSO PRESENCIAL e GRATUITO faremos uma introdução a linguagem Typescript e veremos como usá-la em aplicações reais no dia a dia.
+
+
+_Tags: `node.js`, `typescript`, `javascript`_
 

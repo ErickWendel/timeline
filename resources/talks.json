@@ -1025,5 +1025,48 @@
         },
         "language": "pt-br",
         "date": "2018-02-25"
+    }, {
+        "title": "WebCast – Web Apps com AngularJS",
+        "abstract": "Neste hangout receberemos como convidado o MSP Erick Wendel, o qual participará de um bate-papo abordando o desenvolvimento de soluções Web empregando o framework AngularJS.",
+        "type": "talk",
+        "event": {
+            "link": "https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg",
+            "name": "Canal dotNET"
+        },
+        "slides": "https://slides.com/erickwendel/introducao-ao-angularjs#/",
+        "photos": "",
+        "video": "https://youtu.be/DGR6Bu8nb14",
+        "tags": ["angular", "javascript", "webinar"],
+        "location": {
+            "latitude": -23.5632754,
+            "longitude": -46.6455011,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "language": "pt-br",
+        "date": "2016-02-19"
+    }, {
+        "title": "Mini Curso Gratuito de Node.js e TypeScript",
+        "abstract": "Nesse MINI CURSO PRESENCIAL e GRATUITO faremos uma introdução a linguagem Typescript e veremos como usá-la em aplicações reais no dia a dia.",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/NetCoders/events/227844050/",
+            "name": "NETCoders"
+        },
+        "slides": "https://slides.com/erickwendel/introduce-typescript-vscode-netcoders/fullscreen#/",
+        "photos": "2016-02-13-mini_curso_gratuito_de_node.js_e_typescript",
+        "video": "",
+        "tags": ["node.js", "typescript", "javascript"],
+        "location": {
+            "latitude": -23.5506312,
+            "longitude": -46.5758785,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "language": "pt-br",
+        "date": "2016-02-13"
     }
+
 ]
