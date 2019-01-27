@@ -7,10 +7,12 @@ const {
 const VIDEO_COUNT_TAG = '$$count_demo'
 const POST_COUNT_TAG = '$$count_blog'
 const TALK_COUNT_TAG = '$$count_talk'
+const PROJECT_COUNT_TAG = '$$count_project'
 
 const BLOG_CONTENT_TAG = '$$blog-content$$'
 const TALK_CONTENT_TAG = '$$talk-content$$'
 const VIDEO_CONTENT_TAG = '$$video-content$$'
+const PROJECT_CONTENT_TAG = '$$project-content$$'
 const REPOSITORY = 'https://github.com/ErickWendel/timeline'
 
 function sortByDate(prev, next) {
@@ -89,16 +91,6 @@ function mapTalkMarkdown(item) {
     }
 }
 
-function convertLink(link, text) {
-    return `<a href="${link}" target="_blank">${text}</a>`
-}
-
-function mapTags(item) {
-    item.tags = item.tags.map(i => `\`${i}\``).join(', ')
-    return item
-}
-
-
 function mapVideoMarkdown(item) {
     return [{
             h3: convertLink(item.link, `${item.date} - ${item.title} (${item.language})`)
@@ -115,9 +107,39 @@ function mapVideoMarkdown(item) {
     ];
 }
 
+function mapProjectMarkdown(item) {
+    const links = item.additionalLinks.map(i => `- ${convertLink(i, i)}\n`).join('')
+    const textLink = links ? `<b>Links</b>\n\n${links}` : ""
+    return [{
+            h3: convertLink(item.link, `${item.date} - ${item.title} (${item.language})`)
+        },
+        {
+            p: "Abstract:"
+        },
+        {
+            blockquote: `${item.abstract}\n\n${textLink}`
+        },
+        {
+            p: `_Tags: ${item.tags}_`
+        }
+    ];
+}
+
+function convertLink(link, text) {
+    return `<a href="${link}" target="_blank">${text}</a>`
+}
+
+function mapTags(item) {
+    item.tags = item.tags.map(i => `\`${i}\``).join(', ')
+    return item
+}
+
+
+
 function mapMarkdown(items, fn) {
     return items.sort(sortByDate).map(item => fn(mapTags(item))).reduce((prev, next) => prev.concat(next), [])
 }
+
 
 function normalizeCount(arr) {
     const length = arr.length
@@ -136,8 +158,18 @@ function normalizeCount(arr) {
 
     const videos = getFile('resources/videos.json')
     const videosMd = mapMarkdown(videos, mapVideoMarkdown)
-    
-    const [countTalks, countPosts, countVideos] = [talks, posts, videos].map(normalizeCount)
+
+    const projects = getFile('resources/projects.json')
+    const projectsMd = mapMarkdown(projects, mapProjectMarkdown)
+
+
+    const [
+        countTalks,
+        countPosts,
+        countVideos,
+        countProjects
+    ] = [talks, posts, videos, projects].map(normalizeCount)
+
     const content = data
         .replace(TALK_CONTENT_TAG, json2md(talksMd))
         .replace(TALK_COUNT_TAG, countTalks)
@@ -145,9 +177,11 @@ function normalizeCount(arr) {
         .replace(POST_COUNT_TAG, countPosts)
         .replace(VIDEO_CONTENT_TAG, json2md(videosMd))
         .replace(VIDEO_COUNT_TAG, countVideos)
+        .replace(PROJECT_CONTENT_TAG, json2md(projectsMd))
+        .replace(PROJECT_COUNT_TAG, countProjects)
 
     writeFileSync('README.md', content)
-    console.log(`Talks: ${countTalks}, Posts: ${countPosts}, Videos: ${countVideos}`)
+    console.log(`Talks: ${countTalks}, Posts: ${countPosts}, Videos: ${countVideos}, Projects: ${countProjects}`)
     console.log('readme generated with success!')
 
 })()

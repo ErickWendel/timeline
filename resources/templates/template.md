@@ -6,9 +6,14 @@ This is a list of activities from talks that I've given at meetups and conferenc
 
 ## Table of Contents
 
+- [Projects ($$count_project)](#projects)
 - [Demonstrations ($$count_demo)](#demonstrations)
 - [Blog Posts ($$count_blog)](#blog-posts)
 - [Conference Talks ($$count_talk)](#conference-talks)
+
+## Projects
+
+$$project-content$$
 
 ## Demonstrations
 

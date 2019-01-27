@@ -6,9 +6,45 @@ This is a list of activities from talks that I've given at meetups and conferenc
 
 ## Table of Contents
 
+- [Projects (02)](#projects)
 - [Demonstrations (10)](#demonstrations)
 - [Blog Posts (08)](#blog-posts)
 - [Conference Talks (48)](#conference-talks)
+
+## Projects
+
+### <a href="https://treinamento.nodebr.org" target="_blank">2018-11-27 - #CursoNodeBR - EW.IT + NodeBR (pt-br)</a>
+
+
+Abstract:
+
+> Este treinamento foi desenvolvido sob medida baseado em uma pesquisa sobre o que a comunidade brasileira mais necessita, suas principais dificuldades e desafios. Neste curso você aprenderá desde o básico de Javascript, ciclo de vida, manipulação de listas ao desenvolvimento real de aplicações em ambiente de produção. Na prática você também aprenderá conceitos sobre desenvolvimento orientado a testes, autenticação, autorização, documentação de serviços e gerenciamento de variáveis de ambiente (environments) de aplicações.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://treinamento.nodebr.org" target="_blank">https://treinamento.nodebr.org</a>
+> - <a href="https://github.com/nodejsbrazil/cursonodebr01" target="_blank">https://github.com/nodejsbrazil/cursonodebr01</a>
+> 
+
+
+_Tags: `training`, `online`, `nodejs`, `javascript`, `iniciantes`, `docker`_
+
+### <a href="http://aka.ms/maratonakubernetes" target="_blank">2018-06-20 - Maratona Kubernetes - Microsoft (pt-br)</a>
+
+
+Abstract:
+
+> Ganhar eficiência e velocidade é uma busca constante em times de desenvolvimento em startups e grandes corporações, com o objetivo de aprimorar a qualidade de entrega do software e facilitar sua gestão e distribuição. Ferramentas e práticas, facilitam este processo de transição e potencialização de arquitetura. Entre as ferramentas, destaca-se o Kubernetes, um orquestrador de containers Open Source. Na Maratona Kubernetes, será possível aprender os conceitos de Kubernetes, e através de atividades práticas, a analisar e desenhar a implantação de orquestração de containers. Todas as atividades são orientadas a situações do cotidiano de empresas, passando por desafios como monitoramento de recursos, escala automática e segurança, utilizando o AKS e outras ferramentas do Azure.
+> 
+> <b>Links</b>
+> 
+> - <a href="http://aka.ms/maratonakubernetes" target="_blank">http://aka.ms/maratonakubernetes</a>
+> - <a href="https://github.com/CommunityBootcamp/Maratona-Kubernetes" target="_blank">https://github.com/CommunityBootcamp/Maratona-Kubernetes</a>
+> 
+
+
+_Tags: `training`, `online`, `docker`, `kubernetes`, `microsoft`_
+
 
 ## Demonstrations
 
