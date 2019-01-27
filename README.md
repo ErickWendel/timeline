@@ -5,9 +5,9 @@ _Search with `⌘/ctrl + f`_
 This is a list of activities from talks that I've given at meetups and conferences and blog posts (starting from most recent). (in construction)
 
 ## Timeline 
-* Blog Posts: **08** - **2018/March** - **2015/February**
-* Conference Talks: **48** - **2018/December** - **2016/February**
-* Demonstrations: **10** - **2018/December** - **2016/September**
+* Blog Posts: 2018/March - 2015/February
+* Conference Talks: 2018/December - 2016/February
+* Demonstrations: 2018/December - 2016/September
 
 ## Table of Contents
 

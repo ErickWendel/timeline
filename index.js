@@ -144,7 +144,7 @@ function getMinMaxDate(items) {
     const dates = items.map(i => moment(i.date, 'YYYY-MM-DD'))
     const min = moment.min(dates).format('YYYY/MMMM')
     const max = moment.max(dates).format('YYYY/MMMM')
-    return `**${normalizeCount(items)}** - **${max}** - **${min}**`
+    return `${max} - ${min}`
 }
 
 
