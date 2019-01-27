@@ -1,4 +1,5 @@
 const json2md = require("json2md")
+const moment = require('moment')
 const {
     readFileSync,
     writeFileSync
@@ -14,6 +15,10 @@ const TALK_CONTENT_TAG = '$$talk-content$$'
 const VIDEO_CONTENT_TAG = '$$video-content$$'
 const PROJECT_CONTENT_TAG = '$$project-content$$'
 const REPOSITORY = 'https://github.com/ErickWendel/timeline'
+
+const TIMELINE_DEMO_TAG = '$$timeline_demo$$'
+const TIMELINE_TALK_TAG = '$$timeline_talk$$'
+const TIMELINE_BLOG_TAG = '$$timeline_blog$$'
 
 function sortByDate(prev, next) {
 
@@ -134,10 +139,19 @@ function mapTags(item) {
     return item
 }
 
+function getMinMaxDate(items) {
+
+    const dates = items.map(i => moment(i.date, 'YYYY-MM-DD'))
+    const min = moment.min(dates).format('YYYY/MMMM')
+    const max = moment.max(dates).format('YYYY/MMMM')
+    return `**${normalizeCount(items)}** - **${max}** - **${min}**`
+}
 
 
 function mapMarkdown(items, fn) {
-    return items.sort(sortByDate).map(item => fn(mapTags(item))).reduce((prev, next) => prev.concat(next), [])
+    return items.sort(sortByDate)
+        .map(item => fn(mapTags(item)))
+        .reduce((prev, next) => prev.concat(next), [])
 }
 
 
@@ -152,15 +166,19 @@ function normalizeCount(arr) {
 
     const talks = getFile('resources/talks.json')
     const talksMd = mapMarkdown(talks, mapTalkMarkdown)
+    const maxMinDateTalk = getMinMaxDate(talks)
 
     const posts = getFile('resources/posts.json')
     const postMd = mapMarkdown(posts, mapPostMarkdown)
+    const maxMinDatePost = getMinMaxDate(posts)
 
     const videos = getFile('resources/videos.json')
     const videosMd = mapMarkdown(videos, mapVideoMarkdown)
+    const maxMinDateVideos = getMinMaxDate(videos)
 
     const projects = getFile('resources/projects.json')
     const projectsMd = mapMarkdown(projects, mapProjectMarkdown)
+    // const maxMinDateProjects = getMinMaxDate(posts)
 
 
     const [
@@ -173,10 +191,16 @@ function normalizeCount(arr) {
     const content = data
         .replace(TALK_CONTENT_TAG, json2md(talksMd))
         .replace(TALK_COUNT_TAG, countTalks)
+        .replace(TIMELINE_TALK_TAG, maxMinDateTalk)
+
         .replace(BLOG_CONTENT_TAG, json2md(postMd))
         .replace(POST_COUNT_TAG, countPosts)
+        .replace(TIMELINE_BLOG_TAG, maxMinDatePost)
+
         .replace(VIDEO_CONTENT_TAG, json2md(videosMd))
         .replace(VIDEO_COUNT_TAG, countVideos)
+        .replace(TIMELINE_DEMO_TAG, maxMinDateVideos)
+
         .replace(PROJECT_CONTENT_TAG, json2md(projectsMd))
         .replace(PROJECT_COUNT_TAG, countProjects)
 

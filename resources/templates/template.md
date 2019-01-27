@@ -4,6 +4,11 @@ _Search with `⌘/ctrl + f`_
 
 This is a list of activities from talks that I've given at meetups and conferences and blog posts (starting from most recent). (in construction)
 
+## Timeline 
+* Blog Posts: $$timeline_blog$$
+* Conference Talks: $$timeline_talk$$
+* Demonstrations: $$timeline_demo$$
+
 ## Table of Contents
 
 - [Projects ($$count_project)](#projects)
