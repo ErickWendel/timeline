@@ -1,4 +1,15 @@
-[{
+[
+    {
+        "title": "Primeiros passos com TypeScript no Visual Studio Code",
+        "abstract": "sse curso mostra como o Visual Studio Code pode ser utilizado para empoderar o desenvolvedor da plataforma NodeJS a fazer código em todos os principais sistemas operacionais de uma forma mais rápida e integrada",
+        "type": "project",
+        "link": "https://channel9.msdn.com/blogs/DX/Primeiros-passos-com-TypeScript-no-Visual-Studio-Code",
+        "tags": ["node.js", "typescript", "javascript","vscode", "training"],
+        "additionalLinks": ["https://mva.microsoft.com/pt-br/training-courses/introduo-ao-nodejs-com-typescript-no-visual-studio-code-15851?l=Pbw7Uao6B_5105192797"],
+        "language": "pt-br",
+        "date": "2016-02-05"
+    },
+    {
         "title": "Maratona Kubernetes - Microsoft",
         "abstract": "Ganhar eficiência e velocidade é uma busca constante em times de desenvolvimento em startups e grandes corporações, com o objetivo de aprimorar a qualidade de entrega do software e facilitar sua gestão e distribuição. Ferramentas e práticas, facilitam este processo de transição e potencialização de arquitetura. Entre as ferramentas, destaca-se o Kubernetes, um orquestrador de containers Open Source. Na Maratona Kubernetes, será possível aprender os conceitos de Kubernetes, e através de atividades práticas, a analisar e desenhar a implantação de orquestração de containers. Todas as atividades são orientadas a situações do cotidiano de empresas, passando por desafios como monitoramento de recursos, escala automática e segurança, utilizando o AKS e outras ferramentas do Azure.",
         "type": "project",

@@ -4,14 +4,16 @@ _Search with `⌘/ctrl + f`_
 
 This is a list of activities from talks that I've given at meetups and conferences and blog posts (starting from most recent). (in construction)
 
-## Timeline 
-* Blog Posts: 2018/March - 2015/February 
-* Conference Talks: 2019/January - 2016/February 
-* Demonstrations: 2018/December - 2016/September 
+## Timeline
+
+* **Projects**: 2018/November - 2016/February 
+* **Demonstrations**: 2018/December - 2016/September 
+* **Blog Posts**: 2018/March - 2015/February 
+* **Conference Talks**: 2019/January - 2016/February 
 
 ## Table of Contents
 
-- [Projects (02)](#projects)
+- [Projects (03)](#projects)
 - [Demonstrations (10)](#demonstrations)
 - [Blog Posts (08)](#blog-posts)
 - [Conference Talks (50)](#conference-talks)
@@ -49,6 +51,21 @@ Abstract:
 
 
 _Tags: `training`, `online`, `docker`, `kubernetes`, `microsoft`_
+
+### <a href="https://channel9.msdn.com/blogs/DX/Primeiros-passos-com-TypeScript-no-Visual-Studio-Code" target="_blank">2016-02-05 - Primeiros passos com TypeScript no Visual Studio Code (pt-br)</a>
+
+
+Abstract:
+
+> sse curso mostra como o Visual Studio Code pode ser utilizado para empoderar o desenvolvedor da plataforma NodeJS a fazer código em todos os principais sistemas operacionais de uma forma mais rápida e integrada
+> 
+> <b>Links</b>
+> 
+> - <a href="https://mva.microsoft.com/pt-br/training-courses/introduo-ao-nodejs-com-typescript-no-visual-studio-code-15851?l=Pbw7Uao6B_5105192797" target="_blank">https://mva.microsoft.com/pt-br/training-courses/introduo-ao-nodejs-com-typescript-no-visual-studio-code-15851?l=Pbw7Uao6B_5105192797</a>
+> 
+
+
+_Tags: `node.js`, `typescript`, `javascript`, `vscode`, `training`_
 
 
 ## Demonstrations

@@ -19,6 +19,7 @@ const REPOSITORY = 'https://github.com/ErickWendel/timeline'
 const TIMELINE_DEMO_TAG = '$$timeline_demo$$'
 const TIMELINE_TALK_TAG = '$$timeline_talk$$'
 const TIMELINE_BLOG_TAG = '$$timeline_blog$$'
+const TIMELINE_PROJECT_TAG = '$$timeline_project$$'
 
 function sortByDate(prev, next) {
 
@@ -183,7 +184,7 @@ function normalizeCount(arr) {
 
     const projects = getFile('resources/projects.json')
     const projectsMd = mapMarkdown(projects, mapProjectMarkdown)
-    // const maxMinDateProjects = getMinMaxDate(posts)
+    const maxMinDateProjects = getMinMaxDate(projects)
 
 
     const [
@@ -208,6 +209,7 @@ function normalizeCount(arr) {
 
         .replace(PROJECT_CONTENT_TAG, json2md(projectsMd))
         .replace(PROJECT_COUNT_TAG, countProjects)
+        .replace(TIMELINE_PROJECT_TAG, maxMinDateProjects)
 
     writeFileSync('README.md', content)
     console.log(`Talks: ${countTalks}, Posts: ${countPosts}, Videos: ${countVideos}, Projects: ${countProjects}`)
