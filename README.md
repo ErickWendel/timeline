@@ -6,7 +6,7 @@ This is a list of activities from talks that I've given at meetups and conferenc
 
 ## Timeline 
 * Blog Posts: 2018/March - 2015/February 
-* Conference Talks: 2018/December - 2016/February 
+* Conference Talks: 2019/January - 2016/February 
 * Demonstrations: 2018/December - 2016/September 
 
 ## Table of Contents
@@ -14,7 +14,7 @@ This is a list of activities from talks that I've given at meetups and conferenc
 - [Projects (02)](#projects)
 - [Demonstrations (10)](#demonstrations)
 - [Blog Posts (08)](#blog-posts)
-- [Conference Talks (48)](#conference-talks)
+- [Conference Talks (50)](#conference-talks)
 
 ## Projects
 
@@ -314,6 +314,45 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2019-01-19 - WTF Are Serverless Apps? (pt-br)
+
+
+<a href="https://www.meetup.com/pt-BR/DevelopersBR/events/257187406/" target="_blank">Microsoft Connect(); Brasil</a>
+
+
+<a href="http://bit.ly/wtf-serverless-connect" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-01-19_-_WTF_Are_Serverless_Apps" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Many myths and histories are created every day about the Serverless architectures and concepts. Maybe because the attractive price,  availability metrics or the power to scale apps without additional configurations. Attendees will learn how to deep in the serverless architecture, how to start and how to avoid surprises at the end of the month with high prices on their credit cards.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/wtf-serverless-talk" target="_blank">https://github.com/ErickWendel/wtf-serverless-talk</a>
+> 
+
+
+_Tags: `node.js`, `serverless`, `aws`, `azure`_
+
+### 2019-01-10 - Coding Dojo Online - #VSLiveShare (pt-br)
+
+
+<a href="https://www.meetup.com/pt-BR/Nerdzao/events/256124808/" target="_blank">Nerdzão Live #8 - Coding Dojo Online - #VSLiveShare</a>
+
+
+<a href="https://www.icloud.com/keynote/0cu5MB1vmU-Znze_o5ETuYZaw#Dojo-online_-_liveshare_10012019" target="_blank">slides</a> |   <a href="https://youtu.be/-JehgrelrfU" target="_blank">video</a>
+
+
+Abstract:
+
+> E chegou o PRIMEIRO Coding Dojo Online usando o Visual Studio #LiveShare. Já pensou em resolver desafios de forma interativa, usando o Visual Studio ou VSCode, com até 5 pessoas conectadas ao mesmo tempo? Nosso encontro online focará em desafios de lógica seguindo a metodologia TDD.
+> 
+> 
+
+
+_Tags: `codingdojo`, `online`, `webinar`, `vscode`_
 
 ### 2018-12-15 - Building VSCode Extensions with TypeScript (pt-br)
 

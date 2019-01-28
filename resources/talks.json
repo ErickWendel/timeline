@@ -1,4 +1,51 @@
-[{
+[
+    {
+        "title": "WTF Are Serverless Apps?",
+        "abstract": "Many myths and histories are created every day about the Serverless architectures and concepts. Maybe because the attractive price,  availability metrics or the power to scale apps without additional configurations. Attendees will learn how to deep in the serverless architecture, how to start and how to avoid surprises at the end of the month with high prices on their credit cards.",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/DevelopersBR/events/257187406/",
+            "name": "Microsoft Connect(); Brasil"
+        },
+        "slides": "http://bit.ly/wtf-serverless-connect",
+        "photos": "2019-01-19_-_WTF_Are_Serverless_Apps",
+        "video": "",
+        "tags": ["node.js", "serverless", "aws", "azure"],
+        "location": {
+            "latitude": -23.5512,
+            "longitude": -46.73564,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": ["https://github.com/ErickWendel/wtf-serverless-talk"],
+        "language": "pt-br",
+        "date": "2019-01-19"
+    },
+    {
+        "title": "Coding Dojo Online - #VSLiveShare",
+        "abstract": "E chegou o PRIMEIRO Coding Dojo Online usando o Visual Studio #LiveShare. Já pensou em resolver desafios de forma interativa, usando o Visual Studio ou VSCode, com até 5 pessoas conectadas ao mesmo tempo? Nosso encontro online focará em desafios de lógica seguindo a metodologia TDD.",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/Nerdzao/events/256124808/",
+            "name": "Nerdzão Live #8 - Coding Dojo Online - #VSLiveShare"
+        },
+        "slides": "https://www.icloud.com/keynote/0cu5MB1vmU-Znze_o5ETuYZaw#Dojo-online_-_liveshare_10012019",
+        "photos": "",
+        "video": "https://youtu.be/-JehgrelrfU",
+        "tags": ["codingdojo", "online", "webinar", "vscode"], 
+        "location": {
+            "latitude": -23.5542256,
+            "longitude": -46.6744607,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2019-01-10"
+    },
+    {
         "title": "Node.js, Observables e RxJs - Programação reativa no Backend!",
         "abstract": "Ouvimos bastante a galera que trabalha com Angular e outros frameworks Javascript voltados a front end falando sobre programação reativa e sobre RxjS. Os participantes entenderão na prática o uso dos principais operadores para trabalhar com Node.js, manipulando promises, eventos e conhecendo a fundo o padrão observer.",
         "type": "talk",
