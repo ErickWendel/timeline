@@ -6,6 +6,7 @@
             "link": "https://braziljs.org/eventos/braziljs-on-the-road-joinville/",
             "name": "Braziljs on the road Joinville"
         },
+        "additionalLinks": [""],
         "slides": "http://bit.ly/talk-rxjs-braziljs-24112018",
         "photos": "2018-11-24-node.js_observables_e_rxjs_-_programação_reativa_no_backend!",
         "video": "https://youtu.be/1we5tC1oyYA",
@@ -28,6 +29,7 @@
             "link": "https://developerssergipe.com",
             "name": "Developers Sergipe Summit 2018"
         },
+        "additionalLinks": [""],
         "slides": " http://bit.ly/talk-vscode-ext-erickwendel-devsergipe2018",
         "photos": "2018-12-15-building_vscode_extensions_with_typescript",
         "video": "",
@@ -50,6 +52,7 @@
             "link": "https://cpee.unifei.edu.br/Programacao.html",
             "name": "III Congresso de Pesquisa Extensão e Ensino da Unifei-Itabira"
         },
+        "additionalLinks": [""],
         "slides": "https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw",
         "photos": "2018-10-25-node.js_docker_containerizacao/photos",
         "video": "",
@@ -72,6 +75,7 @@
             "link": "#2018-10-18-a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-pt-br",
             "name": "E.E. Vila Bela - Projeto [R]EVOLUÇÃO"
         },
+        "additionalLinks": [""],
         "slides": "https://docs.google.com/presentation/d/1VhpAZC1mZgmuJXy9Qt_mbPce4aC-rvtFu6RYzKAXIlE/edit?usp=sharing",
         "photos": "2018-10-18-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software/photos",
         "video": "",
@@ -94,6 +98,7 @@
             "link": "https://credencial.imasters.com.br/community-leaders-summit-2018",
             "name": "Community Leaders Summit"
         },
+        "additionalLinks": [""],
         "slides": "https://www.icloud.com/keynote/0vGhAy4B7cCUt_5B94zJvKV_A#O_que_aprendi_organizando_uma_grande_comunidade_-_Community_Summit",
         "photos": "2018-10-05-o_que_aprendi_organizando_grandes_comunidades/photos",
         "video": "https://web.facebook.com/fernando.veiga.3950/videos/1122170867935213/",
@@ -116,6 +121,7 @@
             "link": "https://www.theconf.club/",
             "name": "TheConf 2018"
         },
+        "additionalLinks": [""],
         "slides": "https://www.icloud.com/keynote/0mpRDRsKBIcIkmNCTrOstp5fQ#Scalling_your_apps_with_K8s_and_Docker_-_TheConf_-_21092018",
         "photos": "2018-09-21-scaling_your_applications_with_kubernetes_and_docker/photos",
         "video": "https://youtu.be/cAwDALyoVUw",
@@ -138,6 +144,7 @@
             "link": "https://hacktown.com.br/programacao/dia/8-Sep/",
             "name": "Hack Town 2018"
         },
+        "additionalLinks": [""],
         "slides": "https://www.icloud.com/keynote/0geBVltLvSHcKRwabA4OCfppA#Usando_Javascript_para_reconhecer_pessoas!_-_HackTown_-_07092018.key",
         "photos": "2018-09-08-usando_javascript_para_reconhecer_pessoas",
         "video": "https://youtu.be/1gC1kOZDZEA",
@@ -160,6 +167,7 @@
             "link": "https://www.meetup.com/pt-BR/DevelopersBR/events/253660887/",
             "name": "MSP Tech Days"
         },
+        "additionalLinks": [""],
         "slides": "https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw",
         "photos": "2018-09-01-node.js-microservicos-e-containerizacao",
         "video": "",
@@ -182,6 +190,7 @@
             "link": "https://www.meetup.com/pt-BR/FCTech/events/252754164",
             "name": "FC Tech #2 - Poderes do JS"
         },
+        "additionalLinks": [""],
         "slides": "https://www.icloud.com/keynote/09M3Bdis-aIhQa85AUZ1v792w#Nodejs%2C_Rxjs_e_Reactive_Programming_-_FCTech_18082018.key",
         "photos": "2018-08-18-node.js_observables_e_rxjs_-_programação_reativa_no_backend!",
         "video": "",
@@ -204,6 +213,7 @@
             "link": "https://www.meetup.com/pt-BR/sfnode/events/mxstsmyxlbdb/",
             "name": "San Francisco Node at Mixmax"
         },
+        "additionalLinks": [""],
         "slides": "https://www.icloud.com/keynote/02WBW9IrCGUW9Q2Z9DsPvkcqA#Manage_the_Javascript_Asynchronous_flow.key",
         "photos": "2018-08-02-managing_the_flow_of_asynchronous_operations_in_node.js",
         "video": "2018-08-02-managing_the_flow_of_asynchronous_operations_in_node.js/video.mp4",
@@ -226,6 +236,7 @@
             "link": "https://eventos.imasters.com.br/jsexperience/",
             "name": "JS Experience – 7Masters - Edição 2018"
         },
+        "additionalLinks": [""],
         "slides": "https://www.icloud.com/keynote/0a-nP8fSdgrIwtbcdLcp2025w#7Masters_-_Gerenciando_o_Fluxo_Assincrono_de_operac%CC%A7o%CC%83es_JS.key",
         "photos": "2018-07-05-gerenciando_o_fluxo_assincrono_de_operações_javascript",
         "video": "",
@@ -249,6 +260,7 @@
             "link": "https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/",
             "name": "Campus Party Brasilia 2018"
         },
+        "additionalLinks": [""],
         "slides": "https://docs.google.com/presentation/d/1u2SoBPiohhbaopGepC2eQ8fJWf-TJT2qWY_qICJgqlM/edit?usp=sharing",
         "photos": "2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos",
         "video": "https://www.youtube.com/watch?v=NexvZCJFil8",
@@ -271,6 +283,7 @@
             "link": "https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/",
             "name": "Campus Party Brasilia 2018"
         },
+        "additionalLinks": [""],
         "slides": "https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key",
         "photos": "2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!",
         "video": "",
@@ -293,6 +306,7 @@
             "link": "https://www.eventbrite.com.br/e/building-devs-do-front-end-ao-back-end-tickets-46591861512#",
             "name": "Building Devs"
         },
+        "additionalLinks": [""],
         "slides": "http://bit.ly/building-devs-contruindo-robos-automatizados-erickwendel",
         "photos": "2018-06-16-node.js_e_typescript_-_extraindo_informações_da_marvel_comics_com_web-scrapping",
         "video": "",
@@ -315,6 +329,7 @@
             "link": "https://www.sympla.com.br/devprimeone--vssummit-2018__235493#info",
             "name": "Visual Studio Summit 2018"
         },
+        "additionalLinks": [""],
         "slides": "https://www.icloud.com/keynote/0GGt3v3cs19jzWzcsrOsFSVXA#VSSUMMIT2018V1.key",
         "photos": "2018-06-02-escalando_microservices_no_kubernetes",
         "video": "",
@@ -337,6 +352,7 @@
             "link": "https://www.sympla.com.br/criciuma-dev-conference__213460",
             "name": "Criciúma Dev Conference"
         },
+        "additionalLinks": [""],
         "slides": "http://bit.ly/criciumadev2018-erickwendel-slides",
         "photos": "2018-05-19-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!",
         "video": "",
@@ -366,6 +382,7 @@
             "link": "https://www.sympla.com.br/microsoft-mvp-conference__246657#info",
             "name": "Microsoft MVP Conference 2018"
         },
+        "additionalLinks": [""],
         "slides": "http://bit.ly/mvpconf-slides-erickwendel-typescript",
         "photos": "2018-04-06-conhecendo_o_poder_do_typescript_para_aplicações_nodejs",
         "video": "",
@@ -388,6 +405,7 @@
             "link": "http://bit.ly/live-mongodb",
             "name": "Canal.NET"
         },
+        "additionalLinks": [""],
         "slides": "http://bit.ly/canalnet-aggregation-framework-slides-erickwendel",
         "photos": "2018-03-28-o_poder_do_mongodb_aggregation_framework",
         "video": "http://bit.ly/live-mongodb",
@@ -410,6 +428,7 @@
             "link": "https://www.meetup.com/pt-BR/Nerdzao/events/247993427",
             "name": "Nerdzão #36 - Cloud & DevOps"
         },
+        "additionalLinks": [""],
         "slides": "http://bit.ly/slides-docker-registry-erickwendel",
         "photos": "/Users/erickwendel/Documents/projetos/ewit/timeline/2018-02-26-docker_registry:_adeus_deploy_via_ssh!",
         "video": "",
@@ -432,6 +451,7 @@
             "link": "http://apicon.com.br/",
             "name": "API Connect Conference 2018"
         },
+        "additionalLinks": [""],
         "slides": "http://bit.ly/apicon-serverless-erickwendel-slides",
         "photos": "2018-03-28-arquitetando_aplicações_serverless_-_arquitetura,_padrões_e_organização_de_aplicações",
         "video": "",
@@ -454,6 +474,7 @@
             "link": "https://www.meetup.com/pt-BR/Nerdzao/events/247508769",
             "name": "Nerdzão #28 - Conhecendo o poder de Node.js"
         },
+        "additionalLinks": [""],
         "slides": "http://bit.ly/cpbr-erickwendel-robos-automatizados-slides",
         "photos": "2018-02-07-construindo_robôs_automatizados_com_selenium_web_driver_e_typescript",
         "video": "",
@@ -476,6 +497,7 @@
             "link": "http://bit.ly/erickwendel-robos-extração-campusparty",
             "name": "Campus Party BR - 2018"
         },
+        "additionalLinks": [""],
         "slides": "http://bit.ly/cpbr-erickwendel-robos-automatizados-slides",
         "photos": "",
         "video": "https://youtu.be/FANolqvoQQA",
@@ -498,6 +520,7 @@
             "link": "https://campuse.ro/events/campus-party-brasil-2018/talk/pensando-alem-do-codigo-dicas-e-segredos-para-criacao-de-um-software-cpbr11/",
             "name": "Campus Party BR - 2018"
         },
+        "additionalLinks": [""],
         "slides": "http://bit.ly/cpbr11-erickwendel-pensando-alem-do-codigo",
         "photos": "2018-01-31-pensando_além_do_código,_dicas_e_segredos_para_criação_de_um_software",
         "video": "",
@@ -520,6 +543,7 @@
             "link": "http://erickwendel.com.br/2017/08/15/js-challenge1-coding-dojo-com-javascript/",
             "name": "JS Challenge #1"
         },
+        "additionalLinks": [""],
         "slides": "http://slides.com/erickwendel/coding-dojo-com-javascript-purple99#/",
         "photos": "2017-08-15-coding_dojo_com_javascript",
         "video": "",
@@ -542,6 +566,7 @@
             "link": "https://www.meetup.com/pt-BR/nodebr/events/240490452/",
             "name": "NodeBR #27 - Performance e Escalabilidade"
         },
+        "additionalLinks": [""],
         "slides": "http://slides.com/erickwendel/jobtask-queue-with-nodejs#/",
         "photos": "2017-06-26-performance_e_resiliência_em_aplicações_nodejs",
         "video": "",
@@ -564,6 +589,7 @@
             "link": "https://www.meetup.com/pt-BR/totvsdevelopers/events/240360503/",
             "name": "TOTVS Developers #1"
         },
+        "additionalLinks": [""],
         "slides": "http://slides.com/erickwendel/introducao-ao-nodejs-totvs#/",
         "photos": "2017-06-19-conhecendo_o_nodejs",
         "video": "",
@@ -586,6 +612,7 @@
             "link": "https://www.facebook.com/fullstackexperience",
             "name": "Full Stack Experience"
         },
+        "additionalLinks": [""],
         "slides": "http://slides.com/erickwendel/nodejs-microservicos-e-containerizao#/",
         "photos": "2017-06-09-nodejs,_microserviços_e_containerização",
         "video": "",
@@ -608,6 +635,7 @@
             "link": "https://www.meetup.com/pt-BR/Mobile-Brasil/photos/27768346/459991691/",
             "name": "[ESPECIAL] Internet of Everything"
         },
+        "additionalLinks": [""],
         "slides": "http://slides.com/erickwendel/workshop-docker-nodejs-azure-microsoft",
         "photos": "2017-04-12-docker_e_aplicações_node.js_no_microsoft_azure",
         "video": "https://www.facebook.com/MicrosoftDeveloper.Brasil/videos/1437245592963996/",
@@ -630,6 +658,7 @@
             "link": "http://erickwendel.com.br/2017/04/05/criando-aplicacoes-distribuidas-com-node-js-feira-de-oportunidades-impacta/",
             "name": "Feira de Oportunidades - Faculdade Impacta"
         },
+        "additionalLinks": [""],
         "slides": "http://slides.com/erickwendel/desenvolvendo-web-apis-com-nodejs",
         "photos": "",
         "video": "",
@@ -652,6 +681,7 @@
             "link": "https://www.meetup.com/pt-BR/GDG-SP/events/238268519/",
             "name": "HTML5 Study Group #58"
         },
+        "additionalLinks": [""],
         "slides": "https://slides.com/erickwendel/hands-on-angularjs-html5-study-group/fullscreen#/",
         "photos": "",
         "video": "",
@@ -674,6 +704,7 @@
             "link": "",
             "name": "MVP Community Summit 2017"
         },
+        "additionalLinks": [""],
         "slides": "https://1drv.ms/p/s!AjT_1Ts1KuWNjRYRHlWdFl7oqBR9",
         "photos": "2017-03-25-typescript_para_aplicações_node.js_na_era_do_es7",
         "video": "",
@@ -696,6 +727,7 @@
             "link": "http://campuse.ro/events/campus-party-brasil-2017/talk/a-vida-e-as-aventuras-de-um-desenvolvedor-de-software/",
             "name": "Campus Party SP"
         },
+        "additionalLinks": [""],
         "slides": "http://slides.com/erickwendel/a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-campus-party/fullscreen",
         "photos": "2017-01-27-aventuras_de_um_desenvolvedor_de_software",
         "video": "",
@@ -718,6 +750,7 @@
             "link": "https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/235415233/",
             "name": "11º Connecting Knowledge - Samsung Ocean"
         },
+        "additionalLinks": [""],
         "slides": "http://slides.com/erickwendel/apis-com-nodejs-typescript",
         "photos": "",
         "video": "",
@@ -740,6 +773,7 @@
             "link": "Desenvolvimento de Aplicativos com Xamarin e NodeJS - CUBO Network",
             "name": "https://www.meetup.com/pt-BR/NetCoders/events/236064655/"
         },
+        "additionalLinks": [""],
         "slides": "http://slides.com/erickwendel/apis-com-nodejs-typescript",
         "photos": "2016-12-09-web_apis_with_nodejs_and_typescript",
         "video": "https://www.facebook.com/cyzanoni/videos/1350663608285420",
@@ -762,6 +796,7 @@
             "link": "https://www.meetup.com/pt-BR/VueJS-SP/events/234296196/",
             "name": "Segundo São Paulo VueJS Meetup - Viva Real"
         },
+        "additionalLinks": [""],
         "slides": "http://slides.com/erickwendel/testes-com-javascript",
         "photos": "2016-12-01-software_testing_with_javascript",
         "video": "",
@@ -792,6 +827,7 @@
             "link": "",
             "name": "Feira de oportunidades - Faculdade Impacta"
         },
+        "additionalLinks": [""],
         "slides": "",
         "photos": "",
         "video": "https://www.facebook.com/FacImpacta/videos/1352590924752354/",
@@ -814,6 +850,7 @@
             "link": "",
             "name": "Faculdade Impacta Tecnologia"
         },
+        "additionalLinks": [""],
         "slides": "http://slides.com/erickwendel/web-apis-com-nodejs",
         "photos": "2016-11-18-construindo_apis_com_javascript",
         "video": "",
@@ -836,6 +873,7 @@
             "link": "http://erickwendel.com.br/2016/11/05/palestra-nodejs-feira-de-oportunidades-faculdade-impacta/",
             "name": "Feira de Oportunidades Faculdade Impacta"
         },
+        "additionalLinks": [""],
         "slides": "http://slides.com/erickwendel/restfull-apis-com-nodejs",
         "photos": "2016-11-05-desenvolvendo_restfull_apis_com_nodejs",
         "video": "",
@@ -858,6 +896,7 @@
             "link": "http://erickwendel.com.br/2016/10/29/carreira-em-desenvolvimento-de-software-universidade-anhanguera-de-sao-paulo/",
             "name": "Universidade Anhanguera De São Paulo"
         },
+        "additionalLinks": [""],
         "slides": "",
         "photos": "2017-10-29-carreira_em_desenvolvimento_de_software",
         "video": "",
@@ -880,6 +919,7 @@
             "link": "https://www.meetup.com/GDG-SP/events/234003629",
             "name": "HTML5 Study Group #53"
         },
+        "additionalLinks": [""],
         "slides": "https://github.com/ErickWendel/meetup-ionic-mqtt",
         "photos": "2016-09-12-iot_e_arduino_na_nuvem_com_nodejs,_ionic_e_angularjs",
         "video": "https://www.youtube.com/channel/UC8yjEZ7-hroweXUgjPMwXNQ",
@@ -902,6 +942,7 @@
             "link": "http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-node-js",
             "name": "The Developers Conference 2016"
         },
+        "additionalLinks": [""],
         "slides": "https://www.slideshare.net/EriickWendell/desenvolvendo-bots-com-telegram-e-javascript-tdc2016",
         "photos": "2016-07-07-desenvolvendo_bots_com_telegram_e_javascript",
         "video": "",
@@ -924,6 +965,7 @@
             "link": "http://brazil.nodeconf.com/",
             "name": "NodeConf Brazil 2016"
         },
+        "additionalLinks": [""],
         "slides": "http://slides.com/erickwendel/control-flow-nodejs",
         "photos": "2016-07-05-managing_the_flow_of_asynchronous_operations_in_nodejs",
         "video": "",
@@ -946,6 +988,7 @@
             "link": "http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-javascript",
             "name": "The Developers Conference 2016"
         },
+        "additionalLinks": [""],
         "slides": "https://www.slideshare.net/EriickWendell/js-ferramentas-code-analysis-e-fixed-para-js-tdc2016",
         "photos": "2016-07-05-ferramentas_de_code_analysis_e_code_fixed_para_javascript",
         "video": "",
@@ -968,6 +1011,7 @@
             "link": "http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-javascript",
             "name": "The Developers Conference 2016 | Trilha Javascript"
         },
+        "additionalLinks": [""],
         "slides": "",
         "photos": "",
         "video": "https://youtu.be/9TomOahsIdY",
@@ -990,6 +1034,7 @@
             "link": "https://congressodeti.com.br/palestras/#1502307578034-e352a847-d2c5",
             "name": "Congresso de TI"
         },
+        "additionalLinks": [""],
         "slides": "https://slides.com/erickwendel/c9-io/fullscreen",
         "photos": "",
         "video": "",
@@ -1012,6 +1057,7 @@
             "link": "https://channel9.msdn.com/Shows/MarlonLuz/Uber-do-Marlon-10-Erick-Wendel",
             "name": "Carona do Marlon - Microsoft"
         },
+        "additionalLinks": [""],
         "slides": "",
         "photos": "",
         "video": "https://channel9.msdn.com/Shows/MarlonLuz/Uber-do-Marlon-10-Erick-Wendel",
@@ -1033,6 +1079,7 @@
             "link": "https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg",
             "name": "Canal dotNET"
         },
+        "additionalLinks": [""],
         "slides": "https://slides.com/erickwendel/introducao-ao-angularjs#/",
         "photos": "",
         "video": "https://youtu.be/DGR6Bu8nb14",
@@ -1054,6 +1101,7 @@
             "link": "https://www.meetup.com/pt-BR/NetCoders/events/227844050/",
             "name": "NETCoders"
         },
+        "additionalLinks": [""],
         "slides": "https://slides.com/erickwendel/introduce-typescript-vscode-netcoders/fullscreen#/",
         "photos": "2016-02-13-mini_curso_gratuito_de_node.js_e_typescript",
         "video": "",

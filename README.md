@@ -59,6 +59,8 @@ _Tags: `training`, `online`, `docker`, `kubernetes`, `microsoft`_
 Abstract:
 
 > Amanha (15/12) acontece o Developers Sergipe e estamos mais que animados! Preparei uma demonstração integrando o #vscode, o serviço de tradução do #azure e a #siri, para a partir da seleção de um texto, traduzir automaticamente e falar o resultado em nosso idioma, é claro que é uma demo bem simples, mas mostra o poder e as ideias que vem em mente para brincar 😀 
+> 
+> 
 
 
 _Tags: `node.js`, `microsoft`, `siri`, `vscode`_
@@ -69,6 +71,8 @@ _Tags: `node.js`, `microsoft`, `siri`, `vscode`_
 Abstract:
 
 > Está no ar, mais um aplicativo da ZOEIRA! Sabe aquela galera que sai com você e fica o tempo todo no celular? Que tal interagir com a galera, revivendo os tempos de batata quente     mas de uma forma mais digital ?
+> 
+> 
 
 
 _Tags: `node.js`, `websocket`, `typescript`_
@@ -79,6 +83,8 @@ _Tags: `node.js`, `websocket`, `typescript`_
 Abstract:
 
 > Basicamente, o usuario em algum momento deixou o celular desbloqueado em sua mão e voce instalou o #USBHacker. Feito isso, quando ele for dormir, colocar o celular para carregar, nosso malware dispara ações, como GRITAR sem parar, faz com que o usuário não consiga fechar a aplicação, não consiga diminuir o volume, pisca com a nossa foto (manipulando o brilho), vibra, pisca a lanterna do celular e o MAIS LEGAL! Enquanto a pessoa está desesperada, suas fotos são tiradas em segundo plano e enviadas direto para um site em tempo real, para o mundo inteiro rir de sua reação.
+> 
+> 
 
 
 _Tags: `node.js`, `android`, `malware`, `firebase`_
@@ -89,6 +95,8 @@ _Tags: `node.js`, `android`, `malware`, `firebase`_
 Abstract:
 
 > Malware a partir de comandos de voz usando os serviços da Amazon Web Services para Manipular serviços do Windows a partir da Internet hehehhe. A demo do projeto que fizemos na Campus Party 2017 BH
+> 
+> 
 
 
 _Tags: `malware`, `alexa`, `c#`, `aws`_
@@ -99,6 +107,8 @@ _Tags: `malware`, `alexa`, `c#`, `aws`_
 Abstract:
 
 > Telegram Bot Api + NodeJS + APIs do IBM Watson (Tone Analyser e Language Translation). Demonstração da minha palestra para a trilha de NodeJS que aconteceu em 07/07/2016 no The Developer’s Conference 
+> 
+> 
 
 
 _Tags: `telegram`, `bot`, `node.js`, `ibm`_
@@ -109,6 +119,8 @@ _Tags: `telegram`, `bot`, `node.js`, `ibm`_
 Abstract:
 
 > Olá galera, estive no The Big Hackathon realizado na Campus Party BR 10, como mentor. Na madrugada de 03/02 para 04/02, desenvolvi uma aplicação para mostrar o poder de um desenvolvedor de software, para a palestra também realizada na CPBR10 (link abaixo). No video, demonstramos a arquitetura e como foi desenvolvido, a demonstração voce encontra logo abaixo.
+> 
+> 
 
 
 _Tags: `c#`, `ionic`, `malware`, `virus`_
@@ -119,6 +131,8 @@ _Tags: `c#`, `ionic`, `malware`, `virus`_
 Abstract:
 
 > Você já ouviu falar sobre Typescript, a tecnologia que promete reinventar seu modo de escrever Javascript? Acompanhe o #1MinutodeTecnologia desta semana e descubra o poder que essa tecnologia possui para os seus projetos.
+> 
+> 
 
 
 _Tags: `node.js`, `typescript`, `javascript`_
@@ -129,6 +143,8 @@ _Tags: `node.js`, `typescript`, `javascript`_
 Abstract:
 
 > Na madrugada de sábado para domingo, junto ao Leonardo Lourenço, contruímos uma brincadeira com Android, C# e Comandos de voz
+> 
+> 
 
 
 _Tags: `trojan`, `c#`, `android`_
@@ -139,6 +155,8 @@ _Tags: `trojan`, `c#`, `android`_
 Abstract:
 
 > Olá galera, fui convidado pelo grupo ARQENG, a falar um pouco da minha experiência em desenvolvimento de software, desafios e dicas para quem precisa começar.
+> 
+> 
 
 
 _Tags: `node.js`, `career`_
@@ -149,6 +167,8 @@ _Tags: `node.js`, `career`_
 Abstract:
 
 > Para a galera que faz apresentações, essa é uma pequena demonstração do app que estou criando. Basicamente, o objetivo principal é controlar a apresentação usando gestos e movimentos e dar todo suporte ao palestrante durante a apresentação. Mostramos somente a funcionalidade mais básica do aplicativo, algumas ainda são “secretas” e inovadoras comparadas aos concorrentes
+> 
+> 
 
 
 _Tags: `wear`, `android`, `node.js`_
@@ -167,6 +187,8 @@ Portal:
 Abstract:
 
 > If you work with Node.js/Javascript and you have many replicated codes for different data models or create CRUDs (Create, Read, Update and Delete) at all times, then this post is for you!
+> 
+> 
 
 
 _Tags: `typescript`, `javascript`, `node.js`, `design patterns`_
@@ -182,6 +204,8 @@ Portal:
 Abstract:
 
 > Tem problemas em implantar style guides (padrões de código) em Javascript e fazer com que este processo seja ágil e simples ? Então este tutorial é para você!
+> 
+> 
 
 
 _Tags: `node.js`, `javascript`, `eslint`, `code standards`, `prettier`_
@@ -197,6 +221,8 @@ Portal:
 Abstract:
 
 > Já teve problemas ao pensar em como versionar suas variáveis de ambiente, strings de conexão ou até mesmo seus endereços de IPs e servidores ? Então este artigo é para voce!
+> 
+> 
 
 
 _Tags: `git`, `javascript`, `environment management`_
@@ -212,6 +238,8 @@ Portal:
 Abstract:
 
 > O desenvolvimento de aplicações NodeJS aumenta a cada dia, talvez pela facilidade de desenvolvimento, bibliotecas em crescente evolução ou simplesmente pelo fato de utilizar JavaScript em ambientes que exijam performance e assincronia. Como sabemos, aplicações deste tipo não resolvem todos os problemas. Conforme a aplicação vem crescendo, precisamos nos atentar à alguns detalhes. Hoje falaremos sobre como escrever um código limpo para funções assíncronas, explorando o uso dos padrões criados para aplicações deste tipo.
+> 
+> 
 
 
 _Tags: `node.js`, `javascript`_
@@ -227,6 +255,8 @@ Portal:
 Abstract:
 
 > Este artigo tem por objetivo abordar uma visão geral sobre automatização de tarefas para linguagem Typescript, com o uso do editor Visual Studio Code.
+> 
+> 
 
 
 _Tags: `node.js`, `gulp`, `task runners`, `typescript`_
@@ -242,6 +272,8 @@ Portal:
 Abstract:
 
 > Este artigo tem por objetivo abordar uma visão geral sobre automatização de tarefas para linguagem Typescript, com o uso do editor Visual Studio Code.
+> 
+> 
 
 
 _Tags: `node.js`, `gulp`, `task runners`, `typescript`_
@@ -257,6 +289,8 @@ Portal:
 Abstract:
 
 > Assim como no artigo anterior, utilizaremos o Visual Studio 2013 SP4. Faremos todo o projeto com métodos “na unha”. Para fixar o uso de sintaxe e semântica das ferramentas utilizadas
+> 
+> 
 
 
 _Tags: `aspnet`, `c#`, `jquery`_
@@ -272,6 +306,8 @@ Portal:
 Abstract:
 
 > O objetivo principal será demonstrar soluções de implementação do Ajax, com exemplos mais simples possíveis, para melhor entendimento de todos. Será dividida em duas partes, construção da estrutura do projeto e implantação das Controllers e CRUD com Ajax.
+> 
+> 
 
 
 _Tags: `aspnet`, `c#`, `jquery`_
@@ -291,6 +327,8 @@ _Tags: `aspnet`, `c#`, `jquery`_
 Abstract:
 
 > Em nossa vida de desenvolvedor (a), fazemos diversos trabalhos repetitivos, que com este editor, vamos entender o valor da automatização de código a partir de Code Snippets criados com TypeScript, desde a análise sintática de códigos, à ganho de produtividade a partir de tarefas dentro da ferramenta
+> 
+> 
 
 
 _Tags: `node.js`, `vscode`, `javascript`, `siri`, `extensions`_
@@ -307,6 +345,8 @@ _Tags: `node.js`, `vscode`, `javascript`, `siri`, `extensions`_
 Abstract:
 
 > Ouvimos bastante a galera que trabalha com Angular e outros frameworks Javascript voltados a front end falando sobre programação reativa e sobre RxjS. Os participantes entenderão na prática o uso dos principais operadores para trabalhar com Node.js, manipulando promises, eventos e conhecendo a fundo o padrão observer.
+> 
+> 
 
 
 _Tags: `node.js`, `rxjs`, `javascript`, `observable`_
@@ -323,6 +363,8 @@ _Tags: `node.js`, `rxjs`, `javascript`, `observable`_
 Abstract:
 
 > É importante entender como as aplicações funcionam e como a arquitetura está evoluindo. Pensando nisto, abordaremos sobre os benefícios de Docker para criação de microserviços com Node.js
+> 
+> 
 
 
 _Tags: `node.js`, `javascript`, `docker`, `microservices`_
@@ -339,6 +381,8 @@ _Tags: `node.js`, `javascript`, `docker`, `microservices`_
 Abstract:
 
 > De volta à E.E. Vila Bela escola em que fiz o ensino médio, falando um pouco sobre a carreira em desenvolvimento de software, mostrando o quão divertida nossa vida pode ser se focar no que realmente gosta. Estou super animado pois é uma grande oportunidade de converter mais gente para nosso lado negro da força haha! E melhor, mostrar que existe um mundão além daquilo que vemos, que sempre podemos evoluir e correr atrás das paradas.
+> 
+> 
 
 
 _Tags: `career`, `javascript`_
@@ -355,6 +399,8 @@ _Tags: `career`, `javascript`_
 Abstract:
 
 > Comunidades, são grandes desafios, lidar com pessoas nem sempre é fácil. Nesta conversa, os participantes conhecerão os bastidores das tretas e desafios de um grupo de usuários de 3 mil membros que chegou a 100 mil membros impactando milhares de pessoas pelo país, lidar com palestrantes e eventos simultaneos.
+> 
+> 
 
 
 _Tags: `career`, `communities`_
@@ -371,6 +417,8 @@ _Tags: `career`, `communities`_
 Abstract:
 
 > High availability, high consistency, high disponibility are the popular words when we think about Web Applications but when our application increase, we have many problems and situations to solve. The objective of this talk is show the Kubernetes' power and facility to you can get conquer all of this keywords in your projects, exploring the best of Kubernetes has to you
+> 
+> 
 
 
 _Tags: `english`, `node.js`, `docker`, `kubernetes`_
@@ -387,6 +435,8 @@ _Tags: `english`, `node.js`, `docker`, `kubernetes`_
 Abstract:
 
 > Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
+> 
+> 
 
 
 _Tags: `node.js`, `azure`, `faceapi`, `opencv`, `javascript`_
@@ -403,6 +453,8 @@ _Tags: `node.js`, `azure`, `faceapi`, `opencv`, `javascript`_
 Abstract:
 
 > É importante entender como aplicações funcionam e como a arquitetura está evoluindo. Pensando nisto, abordaremos os beneficios de Docker para criação de microserviços com Node.js, abordando o fluxo de desenvolvimento e facilidades em deploy de suas aplicações
+> 
+> 
 
 
 _Tags: `node.js`, `javascript`, `docker`, `microservices`_
@@ -419,6 +471,8 @@ _Tags: `node.js`, `javascript`, `docker`, `microservices`_
 Abstract:
 
 > Ouvimos bastante a galera que trabalha com Angular e outros frameworks Javascript voltados a front end falando sobre programação reativa e sobre RxjS. Os participantes entenderão na prática o uso dos principais operadores para trabalhar com Node.js, manipulando promises, eventos e conhecendo a fundo o padrão observer
+> 
+> 
 
 
 _Tags: `node.js`, `rxjs`, `reactive`, `observable`_
@@ -435,6 +489,8 @@ _Tags: `node.js`, `rxjs`, `reactive`, `observable`_
 Abstract:
 
 > We know that Javascript flow's is different comparing with another languages, such a Java, Python and etc. When we make started write async apps in Javascript some strange things happens, like a undefined values and unsynchronised results. This talk helps you to know how Javascript works and how synchronize resutls with Callbacks, Promises, Events and Reactive things in practice!
+> 
+> 
 
 
 _Tags: `node.js`, `javascript`, `async`, `english`_
@@ -451,6 +507,8 @@ _Tags: `node.js`, `javascript`, `async`, `english`_
 Abstract:
 
 > Sabemos que o fluxo de Javascript é diferente em comparação com outras linguagens, como Java, Python e etc. Quando começamos a escrever funções assíncronas em Javascript, algumas coisas estranhas acontecem, como valores indefinidos, resultados não sincronizados, etc. Esta palestra ajuda você a saber como o Javascript funciona e como sincronizar resultados trabalhando com Callbacks, Promises, Eventos e Observables.
+> 
+> 
 
 
 _Tags: `javascript`, `async`, `node.js`_
@@ -467,6 +525,8 @@ _Tags: `javascript`, `async`, `node.js`_
 Abstract:
 
 > Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
+> 
+> 
 
 
 _Tags: `node.js`, `javascript`, `faceapi`, `azure`_
@@ -483,6 +543,8 @@ _Tags: `node.js`, `javascript`, `faceapi`, `azure`_
 Abstract:
 
 > Já pensou em reviver os tempos antigos de uma forma mais digital? Nessa palestra os participantes aprenderão como criar aplicações em tempo real com Node.js baseado no projeto Original Potato que desenvolvemos explorando o podencial de aplicações Web e facilidades do Javascript.
+> 
+> 
 
 
 _Tags: `node.js`, `javascript`, `websocket`, `socketio`_
@@ -499,6 +561,8 @@ _Tags: `node.js`, `javascript`, `websocket`, `socketio`_
 Abstract:
 
 > Em nossa vida, fazemos diversas ações repetitivas, seja entrar em um site para visualizar dados e registrar em uma base posterior, seja cadastrar um mesmo item a cada tempo ou até mesmo publicar coisas no Facebook. Nesta palestra, você entenderá a facilidade de criar seu robô totalmente atualizado e pronto para liberar aquele tempo preciso para focar no que realmente é estratégico. Vamos conhecer a ferramenta Selenium Web Driver para simular um usuário no navegador e fazer todas as suas tarefas automagicamente.
+> 
+> 
 
 
 _Tags: `node.js`, `webscrapping`, `typescript`_
@@ -515,6 +579,8 @@ _Tags: `node.js`, `webscrapping`, `typescript`_
 Abstract:
 
 > Vivemos em uma era de constante evolução de dados, crescimento exponencial de requisições e nos deparamos com diversos desafios no caminho ao lidar com milhares de clientes e alta disponibilidade de aplicações. Nesta palestra você entenderá como trabalhar com Kubernetes, escalando seus micro-serviços, de  forma simples e robusta a partir da plataforma AKS (Azure Container Services), entendendo na prática seus principais segredos e desafios.
+> 
+> 
 
 
 _Tags: `kubernetes`, `devops`, `docker`_
@@ -531,6 +597,8 @@ _Tags: `kubernetes`, `devops`, `docker`_
 Abstract:
 
 > Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo. https://criciumadev.com.br/conference
+> 
+> 
 
 
 _Tags: `javascript`, `node.js`, `faceapi`, `azure`, `raspberrypi`, `opencv`_
@@ -547,6 +615,8 @@ _Tags: `javascript`, `node.js`, `faceapi`, `azure`, `raspberrypi`, `opencv`_
 Abstract:
 
 > Aplicações Javascript, ao longo de seu crescimento, tendem a mostrar diversos problemas ao longo do tempo, seja organização, seja validação ou até mesmo problemas que a própria linguagem tem. Nesta palestra, você entenderá como criar um código mais seguro, melhor manutenção, códigos mais testáveis e sempre trabalhando  com as versões mais atuais do Javascript em seus projetos.
+> 
+> 
 
 
 _Tags: `node.js`, `typescript`, `javascript`, `vscode`_
@@ -563,6 +633,8 @@ _Tags: `node.js`, `typescript`, `javascript`, `vscode`_
 Abstract:
 
 > Trabalhando com MongoDB, nos deparamos com alguns métodos repetitivos, operações complexas e na maioria das vezes, causa uma perda grande de memória e processamento ao realizá-la. Nessa live você entenderá quando usar e como usar o melhor do MongoDB, com exemplos práticos, facilitando as operações do dia-a-dia e melhorando a entrega de seus projetos.
+> 
+> 
 
 
 _Tags: `mongodb`, `database`, `webinar`_
@@ -579,6 +651,8 @@ _Tags: `mongodb`, `database`, `webinar`_
 Abstract:
 
 > Ao trabalhar com aplicações Serverless em nossos projetos lidamos com alguns desafios de arquitetura, organização e manutenção ao longo do crescimento de aplicações. Você aprenderá diversos pontos a considerar ao criar aplicações deste tipo, pensando em uma arquitetura mais concisa, testável e escalável, conhecendo os principais beneficios e desafios da nova era de aplicações.
+> 
+> 
 
 
 _Tags: `serverless`, `node.js`, `design patterns`, `javascript`_
@@ -595,6 +669,8 @@ _Tags: `serverless`, `node.js`, `design patterns`, `javascript`_
 Abstract:
 
 > Em nosso cotidiano, conhecemos algumas formas de deploy que talvez podem ser repetitivas demais. Um grande exemplo é: Temos nossa aplicação (nossos arquivos que devem ser executadas no servidor de produção), criamos uma máquina virtual, acessamos esta máquina via SSH (linha de comando), fazemos um git clone (ou pull) e rodamos cada projeto separado. O objetivo desta palestra é automatizar todo este processo, garantindo a entrega e viabilidade de publicação de projetos. 
+> 
+> 
 
 
 _Tags: `docker`, `node.js`, `javascript`, `devops`_
@@ -611,6 +687,8 @@ _Tags: `docker`, `node.js`, `javascript`, `devops`_
 Abstract:
 
 > Nessa edição do Uber do Marlon vc vai conhecer o Erick Wendel, um programador Microsoft que programa em Node.JS num Mac usando Visual Studio Code.
+> 
+> 
 
 
 _Tags: `vscode`, `webinar`_
@@ -627,6 +705,8 @@ _Tags: `vscode`, `webinar`_
 Abstract:
 
 > Em nossa vida, fazemos diversas ações repetitivas, seja entrar em um site para visualizar dados e registrar em uma base posterior, seja cadastrar um mesmo item a cada tempo ou até mesmo publicar coisas no Facebook. Nesta palestra, você entenderá a facilidade de criar seu robô totalmente atualizado e pronto para liberar aquele tempo preciso para focar no que realmente é estratégico. Vamos conhecer a ferramenta Selenium Web Driver para simular um usuário no navegador e fazer todas as suas tarefas automagicamente.
+> 
+> 
 
 
 _Tags: `node.js`, `typescript`, `mongodb`, `javascript`, `web scrapping`_
@@ -643,6 +723,8 @@ _Tags: `node.js`, `typescript`, `mongodb`, `javascript`, `web scrapping`_
 Abstract:
 
 > Em nossa vida, fazemos diversas ações repetitivas, seja entrar em um site para visualizar dados e registrar em uma base posterior, seja cadastrar um mesmo item a cada tempo ou até mesmo publicar coisas no Facebook. Nesta palestra, você entenderá a facilidade de criar seu robô totalmente atualizado e pronto para liberar aquele tempo preciso para focar no que realmente é estratégico. Vamos conhecer a ferramenta Selenium Web Driver para simular um usuário no navegador e fazer todas as suas tarefas automagicamente.
+> 
+> 
 
 
 _Tags: `node.js`, `javascript`, `web scrapping`_
@@ -659,6 +741,8 @@ _Tags: `node.js`, `javascript`, `web scrapping`_
 Abstract:
 
 > Sabemos que escrever código é sempre desafiador e na maioria das vezes divertido. Programadores se concentram na entrega e escala de seus software, mas sabemos que software é só um dos pilares para a entrega de um produto,nessa palestra, voce entenderá quais são os passos para montar seu produto de ponta a ponta, mudando o Mindset, pensando além do código.
+> 
+> 
 
 
 _Tags: `node.js`, `career`_
@@ -674,6 +758,8 @@ _Tags: `node.js`, `career`_
 
 Abstract:
 
+> 
+> 
 > 
 
 
@@ -691,6 +777,8 @@ _Tags: `career`, `node.js`_
 Abstract:
 
 > Coding dojo é uma prática que incentiva a realização de desafios focados em algoritmos, onde usamos técnicas como o TDD. Participantes sobem ao palco em duplas e cada um tem 5 minutos para resolver/continuar o desafio da pessoa anterior
+> 
+> 
 
 
 _Tags: `node.js`, `javascript`_
@@ -707,6 +795,8 @@ _Tags: `node.js`, `javascript`_
 Abstract:
 
 > Caso de sucesso, explicando a arquitetura que solucionou os problemas de concorrência entre processos, resistência a erros e performance de execução. Passando da lib Straw.js, correndo para o Celery em Python para finalmente encontrar a solução mais ideal com Bee-queue em Node.js.
+> 
+> 
 
 
 _Tags: `node.js`, `javascript`, `beequeue`, `performance`_
@@ -723,6 +813,8 @@ _Tags: `node.js`, `javascript`, `beequeue`, `performance`_
 Abstract:
 
 > Conheceremos na prática o uso da plataforma Node.js para aplicações escaláveis, abordando desde o ciclo de vida aos principais frameworks e segredos do Javascript.
+> 
+> 
 
 
 _Tags: `node.js`, `javascript`_
@@ -740,6 +832,8 @@ Abstract:
 
 > É importante entender como as aplicações funcionam e como a arquitetura está evoluindo. Pensando nisto, abordaremos sobre os benefícios de Docker para criação de microserviços com Node.js
 > https://flic.kr/s/aHsm2yPkFW
+> 
+> 
 
 
 _Tags: `node.js`, `docker`, `javascript`_
@@ -756,6 +850,8 @@ _Tags: `node.js`, `docker`, `javascript`_
 Abstract:
 
 > Nesta apresentação focaremos em como docker e node.js podem ser uteis trabalhando com Microsoft Azure. Vamos aprender na prática como containerizar uma aplicação usando dockerfile, docker-compose e container services.
+> 
+> 
 
 
 _Tags: `node.js`, `azure`, `microsoft`_
@@ -772,6 +868,8 @@ _Tags: `node.js`, `azure`, `microsoft`_
 Abstract:
 
 > Nesta palestra, focaremos em desenvolvimento de APIs com Node.js, Javascript e Hapi.js na prática!
+> 
+> 
 
 
 _Tags: `node.js`, `javascript`, `hapijs`_
@@ -788,6 +886,8 @@ _Tags: `node.js`, `javascript`, `hapijs`_
 Abstract:
 
 > Nesta palestra falaremos sobre a linha do tempo do ECMAScript e como typescript pode ajudar no desenvolvimento e acompanhamento das novas features do Javascript
+> 
+> 
 
 
 _Tags: `node.js`, `javascript`, `typescript`_
@@ -804,6 +904,8 @@ _Tags: `node.js`, `javascript`, `typescript`_
 Abstract:
 
 > Nesse encontro #58 vamos ter um Hands On de Angular 1.x com Erick Wendel explorando as práticas e benefícios do Angular 1.x
+> 
+> 
 
 
 _Tags: `node.js`, `angular`, `javascript`_
@@ -820,6 +922,8 @@ _Tags: `node.js`, `angular`, `javascript`_
 Abstract:
 
 > Além de produzir sistemas complexos, análises críticas e propor soluções para as maiores corporações, desenvolvedores possuem desafios contínuos, como multidisciplinaridade, estresse e prazos de entrega. Nesta apresentação, os participantes entenderão o lado divertido, inovador e 'fora da caixa' de 'ser um desenvolvedor', dicas de como manter-se motivado e transformar o trabalho em diversão.
+> 
+> 
 
 
 _Tags: `node.js`, `javascript`_
@@ -836,6 +940,8 @@ _Tags: `node.js`, `javascript`_
 Abstract:
 
 > NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.
+> 
+> 
 
 
 _Tags: `node.js`, `typescript`, `javascript`, `hapijs`_
@@ -852,6 +958,8 @@ _Tags: `node.js`, `typescript`, `javascript`, `hapijs`_
 Abstract:
 
 > NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.
+> 
+> 
 
 
 _Tags: `node.js`, `typescript`, `javascript`_
@@ -868,6 +976,8 @@ _Tags: `node.js`, `typescript`, `javascript`_
 Abstract:
 
 > Dentre os conteúdos, foi apresentados os frameworks Mocha, chai, e Jasmine, aplicando na prática conceitos de Testes Unitários, TDD e BDD
+> 
+> 
 
 
 _Tags: `node.js`, `mocha`, `tdd`, `tests`, `javascript`, `chai`, `jasmine`_
@@ -884,6 +994,8 @@ _Tags: `node.js`, `mocha`, `tdd`, `tests`, `javascript`, `chai`, `jasmine`_
 Abstract:
 
 > mercado em TI, dicas para alunos e comunidades
+> 
+> 
 
 
 _Tags: `career`_
@@ -901,6 +1013,8 @@ Abstract:
 
 > Olá galera, estive na Faculdade Impacta Tecnologia ministrando um workshop para os alunos de Análise e Desenvolvimento de Sistemas, sobre APIs com NodeJS.
 > Tivemos desde a configuração de ambiente, até testes de unidade com HapiJS e Mocha.
+> 
+> 
 
 
 _Tags: `node.js`, `typescript`, `javascript`_
@@ -916,6 +1030,8 @@ _Tags: `node.js`, `typescript`, `javascript`_
 
 Abstract:
 
+> 
+> 
 > 
 
 
@@ -933,6 +1049,8 @@ _Tags: `node.js`, `typescript`, `javascript`_
 Abstract:
 
 > Na área do ThinkLab da IBM, vamos consumir dados de sensores plugados em um Arduino, subir eles pra web com NodeJS e depois exibí-los em qualquer dispositivo utilizando Ionic + AngularJS, tudo programado ao vivo pelos figurões de comunidade Heider Lopes e Erick Wendel!!!
+> 
+> 
 
 
 _Tags: `angular`, `javascript`_
@@ -949,6 +1067,8 @@ _Tags: `angular`, `javascript`_
 Abstract:
 
 > Muito se descute sobre criação de BOTs (Robos automatizados) mas vemos que na prática, não pensamos nos cenários em que eles podem ser úteis. Aprenderemos na prática como funciona a API para criação de Robôs inteligentes com a API do Telegram utiizando Javascript.
+> 
+> 
 
 
 _Tags: `telegram`, `bots`, `node.js`, `javascript`_
@@ -965,6 +1085,8 @@ _Tags: `telegram`, `bots`, `node.js`, `javascript`_
 Abstract:
 
 > Ao construir aplicações Javascript, devemos nos preocupar com alguns fatores quando falamos do workflow da linguagem. Diferente das linguagens sequenciais, resultados podem ser inesperados pelo fato da execução ser assíncrona e dependerem de callbacks, aprenderemos nesta palestra as boas práticas e soluções para criação de aplicações NodeJS.
+> 
+> 
 
 
 _Tags: `node.js`, `javascript`_
@@ -981,6 +1103,8 @@ _Tags: `node.js`, `javascript`_
 Abstract:
 
 > Iremos mostrar algumas ferramentas de Code Analysis e Code Fixed, voltadas para JavaScript. Enfatizando o quanto essas ferramentas podem auxiliar (velocidade e qualidade) no desenvolvimento. Iremos abordar o uso das ferramentas de code analysis, como por exemplo o JSHint e outras, nas IDE's mais utilizadas do mercado (Visual Studio, Sublime, etc).
+> 
+> 
 
 
 _Tags: `node.js`, `codefix`, `code analysis`, `node.js`_
@@ -996,6 +1120,8 @@ _Tags: `node.js`, `codefix`, `code analysis`, `node.js`_
 
 Abstract:
 
+> 
+> 
 > 
 
 
@@ -1013,6 +1139,8 @@ _Tags: `node.js`, `webinar`_
 Abstract:
 
 > 
+> 
+> 
 
 
 _Tags: `node.js`, `javascript`, `cloud9`_
@@ -1029,6 +1157,8 @@ _Tags: `node.js`, `javascript`, `cloud9`_
 Abstract:
 
 > Neste hangout receberemos como convidado o MSP Erick Wendel, o qual participará de um bate-papo abordando o desenvolvimento de soluções Web empregando o framework AngularJS.
+> 
+> 
 
 
 _Tags: `angular`, `javascript`, `webinar`_
@@ -1045,6 +1175,8 @@ _Tags: `angular`, `javascript`, `webinar`_
 Abstract:
 
 > Nesse MINI CURSO PRESENCIAL e GRATUITO faremos uma introdução a linguagem Typescript e veremos como usá-la em aplicações reais no dia a dia.
+> 
+> 
 
 
 _Tags: `node.js`, `typescript`, `javascript`_

@@ -113,8 +113,6 @@ function mapVideoMarkdown(item) {
 }
 
 function mapProjectMarkdown(item) {
-    const links = item.additionalLinks.map(i => `- ${convertLink(i, i)}\n`).join('')
-    const textLink = links ? `<b>Links</b>\n\n${links}` : ""
     return [{
             h3: convertLink(item.link, `${item.date} - ${item.title} (${item.language})`)
         },
@@ -122,7 +120,7 @@ function mapProjectMarkdown(item) {
             p: "Abstract:"
         },
         {
-            blockquote: `${item.abstract}\n\n${textLink}`
+            blockquote: item.abstract
         },
         {
             p: `_Tags: ${item.tags}_`
@@ -138,7 +136,14 @@ function mapTags(item) {
     item.tags = item.tags.map(i => `\`${i}\``).join(', ')
     return item
 }
-
+function mapAdditionalLinks(item) {
+    const links = item.additionalLinks
+                        .filter(i => !!i)
+                        .map(i => `- ${convertLink(i, i)}\n`).join('')
+    const textLink = links ? `<b>Links</b>\n\n${links}` : ""
+    item.abstract = `${item.abstract}\n\n${textLink}`
+    return item
+}
 function getMinMaxDate(items) {
 
     const dates = items.map(i => moment(i.date, 'YYYY-MM-DD'))
@@ -150,7 +155,7 @@ function getMinMaxDate(items) {
 
 function mapMarkdown(items, fn) {
     return items.sort(sortByDate)
-        .map(item => fn(mapTags(item)))
+        .map(item => fn(mapAdditionalLinks(mapTags(item))))
         .reduce((prev, next) => prev.concat(next), [])
 }
 
