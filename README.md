@@ -253,6 +253,9 @@ Abstract:
 
 > Já teve problemas ao pensar em como versionar suas variáveis de ambiente, strings de conexão ou até mesmo seus endereços de IPs e servidores ? Então este artigo é para voce!
 > 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/artigo-gitcrypt" target="_blank">https://github.com/ErickWendel/artigo-gitcrypt</a>
 > 
 
 
