@@ -16,7 +16,7 @@ This is a list of activities from talks that I've given at meetups and conferenc
 - [Projects (04)](#projects)
 - [Demonstrations (10)](#demonstrations)
 - [Blog Posts (08)](#blog-posts)
-- [Conference Talks (58)](#conference-talks)
+- [Conference Talks (63)](#conference-talks)
 
 ## Projects
 
@@ -385,6 +385,24 @@ Abstract:
 
 _Tags: `codingdojo`, `online`, `webinar`, `vscode`_
 
+### 2019-01-02 - The Velopers #21 - Erick Wendel (pt-br)
+
+
+<a href="https://youtu.be/_x60NFtZwb4" target="_blank">The Velopers #21</a>
+
+
+  <a href="http://bit.ly/thevelopers-erickwendel" target="_blank">video</a>
+
+
+Abstract:
+
+> Erick Wendel fala sobre seu começo com desenvolvimento, comunidades, carreira, meetups, nodeJS, o programa MVP,  palestras,em inglês e muito mais.
+> 
+> 
+
+
+_Tags: `webinar`_
+
 ### 2018-12-15 - Building VSCode Extensions with TypeScript (pt-br)
 
 
@@ -583,24 +601,6 @@ Abstract:
 
 _Tags: `javascript`, `async`, `node.js`_
 
-### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
-
-
-<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
-
-
-<a href="https://docs.google.com/presentation/d/1u2SoBPiohhbaopGepC2eQ8fJWf-TJT2qWY_qICJgqlM/edit?usp=sharing" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=NexvZCJFil8" target="_blank">video</a>
-
-
-Abstract:
-
-> Já pensou em reviver os tempos antigos de uma forma mais digital? Nessa palestra os participantes aprenderão como criar aplicações em tempo real com Node.js baseado no projeto Original Potato que desenvolvemos explorando o podencial de aplicações Web e facilidades do Javascript.
-> 
-> 
-
-
-_Tags: `node.js`, `javascript`, `websocket`, `socketio`_
-
 ### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
 
 
@@ -618,6 +618,24 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `faceapi`, `azure`_
+
+### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
+
+
+<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
+
+
+<a href="https://docs.google.com/presentation/d/1u2SoBPiohhbaopGepC2eQ8fJWf-TJT2qWY_qICJgqlM/edit?usp=sharing" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=NexvZCJFil8" target="_blank">video</a>
+
+
+Abstract:
+
+> Já pensou em reviver os tempos antigos de uma forma mais digital? Nessa palestra os participantes aprenderão como criar aplicações em tempo real com Node.js baseado no projeto Original Potato que desenvolvemos explorando o podencial de aplicações Web e facilidades do Javascript.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`, `websocket`, `socketio`_
 
 ### 2018-06-16 - Node.js e Typescript - Extraindo informações da Marvel Comics com Web Scrapping (pt-br)
 
@@ -781,6 +799,24 @@ Abstract:
 
 _Tags: `node.js`, `typescript`, `mongodb`, `javascript`, `web scrapping`_
 
+### 2018-02-02 - Git crypt (pt-br)
+
+
+<a href="https://setemasters.imasters.com.br/conversas/git-crypt-por-erick-wendel/" target="_blank">7Masters Git</a>
+
+
+<a href="https://docs.google.com/presentation/d/1SlNX3L5UC4QL1CjDdVI_GS4GhuOt366icyGSLv04kUY/edit?usp=sharing" target="_blank">slides</a> |   <a href="https://www.youtube.com/watch?v=Gv6pfL5QxRs" target="_blank">video</a>
+
+
+Abstract:
+
+> 
+> 
+> 
+
+
+_Tags: `git`, `gitcrypt`_
+
 ### 2018-02-01 - Construindo Robôs automatizados para extração de informações (pt-br)
 
 
@@ -817,6 +853,27 @@ Abstract:
 
 _Tags: `node.js`, `career`_
 
+### 2017-11-11 - Desenvolvimento de Malwares com C# (pt-br)
+
+
+<a href="https://roadsec.com.br/rssp17-programacao/" target="_blank">Roadsec São Paulo 2017</a>
+
+
+  
+
+
+Abstract:
+
+> 
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/malwares-com-csharp-roadsec-erickwendel" target="_blank">http://bit.ly/malwares-com-csharp-roadsec-erickwendel</a>
+> 
+
+
+_Tags: `malware`, `c#`_
+
 ### 2017-10-29 - Carreira em Desenvolvimento de Software (pt-br)
 
 
@@ -834,6 +891,42 @@ Abstract:
 
 
 _Tags: `career`, `node.js`_
+
+### 2017-10-15 - Arquitetura Serverless/Nanoservices (pt-br)
+
+
+<a href="https://imasters.com.br/noticia/confira-programacao-do-intercon-2017" target="_blank">InterCon 2017</a>
+
+
+<a href="https://docs.google.com/presentation/d/18Pmr-81goU0XDjABDGrcJldlYjAquoqJxLbNZ-G7XNQ/edit?usp=sharing" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2017-10-15_Arquitetura_ServerlessNanoservices" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=mxypKdbCJOY" target="_blank">video</a>
+
+
+Abstract:
+
+> 
+> 
+> 
+
+
+_Tags: `serverless`, `node.js`, `aws`_
+
+### 2017-09-27 - Node.js e Typescript na prática (pt-br)
+
+
+<a href="https://www.facebook.com/events/1935243993391853/" target="_blank">Node.js e TypeScript na prática com Erick Wendel e Sergio Gama</a>
+
+
+<a href="https://docs.google.com/presentation/d/1GgngBBGz-qK_7dahn3hTSJOGwL7B7MjnlE2L5HfXDRU/edit?usp=sharing" target="_blank">slides</a> |   <a href="https://www.facebook.com/StartupWithIBM/videos/1498309570256837" target="_blank">video</a>
+
+
+Abstract:
+
+> ERick Wendel vai mostrar na prática como desenvolver APIusando Node.js e TypeScript. Impeerdível.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`, `typescript`_
 
 ### 2017-08-15 - Coding Dojo com Javascript (pt-br)
 
@@ -1143,24 +1236,6 @@ Abstract:
 
 _Tags: `telegram`, `bots`, `node.js`, `javascript`_
 
-### 2016-07-05 - Managing the flow of asynchronous operations in NodeJS (pt-br)
-
-
-<a href="http://brazil.nodeconf.com/" target="_blank">NodeConf Brazil 2016</a>
-
-
-<a href="http://slides.com/erickwendel/control-flow-nodejs" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2016-07-05-managing_the_flow_of_asynchronous_operations_in_nodejs" target="_blank">photos</a> 
-
-
-Abstract:
-
-> Ao construir aplicações Javascript, devemos nos preocupar com alguns fatores quando falamos do workflow da linguagem. Diferente das linguagens sequenciais, resultados podem ser inesperados pelo fato da execução ser assíncrona e dependerem de callbacks, aprenderemos nesta palestra as boas práticas e soluções para criação de aplicações NodeJS.
-> 
-> 
-
-
-_Tags: `node.js`, `javascript`_
-
 ### 2016-07-05 - Ferramentas de Code Analysis e Code Fixed para JavaScript (pt-br)
 
 
@@ -1178,6 +1253,24 @@ Abstract:
 
 
 _Tags: `node.js`, `codefix`, `code analysis`, `node.js`_
+
+### 2016-07-05 - Managing the flow of asynchronous operations in NodeJS (pt-br)
+
+
+<a href="http://brazil.nodeconf.com/" target="_blank">NodeConf Brazil 2016</a>
+
+
+<a href="http://slides.com/erickwendel/control-flow-nodejs" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2016-07-05-managing_the_flow_of_asynchronous_operations_in_nodejs" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Ao construir aplicações Javascript, devemos nos preocupar com alguns fatores quando falamos do workflow da linguagem. Diferente das linguagens sequenciais, resultados podem ser inesperados pelo fato da execução ser assíncrona e dependerem de callbacks, aprenderemos nesta palestra as boas práticas e soluções para criação de aplicações NodeJS.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`_
 
 ### 2016-06-23 - Webinário TDC Online - JavaScript, Frame JavaScript, Node.Js, Modern Web,e Cloud (pt-br)
 

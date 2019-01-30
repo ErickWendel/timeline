@@ -13,11 +13,11 @@
     "location": {
         "latitude": 0,
         "longitude": 0,
-        "country": "",
-        "uf": "",
-        "city": ""
+        "country": "Brazil",
+        "uf": "SP",
+        "city": "São Paulo"
     },
     "additionalLinks": [""],
-    "language": "",
+    "language": "pt-br",
     "date": ""
 }

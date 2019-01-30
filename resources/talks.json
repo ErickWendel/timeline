@@ -1,4 +1,118 @@
 [{
+        "title": "Desenvolvimento de Malwares com C#",
+        "abstract": "",
+        "type": "talk",
+        "event": {
+            "link": "https://roadsec.com.br/rssp17-programacao/",
+            "name": "Roadsec São Paulo 2017"
+        },
+        "slides": "https://docs.google.com/presentation/d/1SjRVW9Sei4wI2Lr45FdDJoShZr97gVmJ10lhYwKaoTM/edit?usp=sharing",
+        "photos": "",
+        "video": "",
+        "tags": ["malware", "c#"],
+        "location": {
+            "latitude": -23.5283405,
+            "longitude": -46.6695493,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": ["http://bit.ly/malwares-com-csharp-roadsec-erickwendel"],
+        "language": "pt-br",
+        "date": "2017-11-11"
+    } ,{
+        "title": "Arquitetura Serverless/Nanoservices",
+        "abstract": "",
+        "type": "talk",
+        "event": {
+            "link": "https://imasters.com.br/noticia/confira-programacao-do-intercon-2017",
+            "name": "InterCon 2017"
+        },
+        "slides": "https://docs.google.com/presentation/d/18Pmr-81goU0XDjABDGrcJldlYjAquoqJxLbNZ-G7XNQ/edit?usp=sharing",
+        "photos": "2017-10-15_Arquitetura_ServerlessNanoservices",
+        "video": "https://www.youtube.com/watch?v=mxypKdbCJOY",
+        "tags": ["serverless", "node.js", "aws"],
+        "location": {
+            "latitude": -23.5816653,
+            "longitude": -46.6690279,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2017-10-15"
+    },
+    {
+        "title": "Node.js e Typescript na prática",
+        "abstract": "ERick Wendel vai mostrar na prática como desenvolver APIusando Node.js e TypeScript. Impeerdível.",
+        "type": "talk",
+        "event": {
+            "link": "https://www.facebook.com/events/1935243993391853/",
+            "name": "Node.js e TypeScript na prática com Erick Wendel e Sergio Gama"
+        },
+        "slides": "https://docs.google.com/presentation/d/1GgngBBGz-qK_7dahn3hTSJOGwL7B7MjnlE2L5HfXDRU/edit?usp=sharing",
+        "photos": "",
+        "video": "https://www.facebook.com/StartupWithIBM/videos/1498309570256837",
+        "tags": ["node.js", "javascript", "typescript"],
+        "location": {
+            "latitude": -23.5805414,
+            "longitude": -46.6461597,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2017-09-27"
+    },
+    {
+        "title": "Git crypt",
+        "abstract": "",
+        "type": "talk",
+        "event": {
+            "link": "https://setemasters.imasters.com.br/conversas/git-crypt-por-erick-wendel/",
+            "name": "7Masters Git"
+        },
+        "slides": "https://docs.google.com/presentation/d/1SlNX3L5UC4QL1CjDdVI_GS4GhuOt366icyGSLv04kUY/edit?usp=sharing",
+        "photos": "",
+        "video": "https://www.youtube.com/watch?v=Gv6pfL5QxRs",
+        "tags": ["git", "gitcrypt"],
+        "location": {
+            "latitude": -23.5523916,
+            "longitude": -46.6800878,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2018-02-02"
+    },
+    {
+        "title": "The Velopers #21 - Erick Wendel",
+        "abstract": "Erick Wendel fala sobre seu começo com desenvolvimento, comunidades, carreira, meetups, nodeJS, o programa MVP,  palestras,em inglês e muito mais.",
+        "type": "talk",
+        "event": {
+            "link": "https://youtu.be/_x60NFtZwb4",
+            "name": "The Velopers #21"
+        },
+        "slides": "",
+        "photos": "",
+        "video": "http://bit.ly/thevelopers-erickwendel",
+        "tags": ["webinar"],
+        "location": {
+            "latitude": -23.5523916,
+            "longitude": -46.6800878,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2019-01-02"
+    },
+    {
         "title": "WTF Are Serverless Apps?",
         "abstract": "Many myths and histories are created every day about the Serverless architectures and concepts. Maybe because the attractive price,  availability metrics or the power to scale apps without additional configurations. Attendees will learn how to deep in the serverless architecture, how to start and how to avoid surprises at the end of the month with high prices on their credit cards.",
         "type": "talk",
@@ -1289,15 +1403,15 @@
         "photos": "2015-08-23_Corujão_de_ASP.NET_MVC",
         "video": "",
         "tags": [""],
-       "location": {
-           "latitude": -23.5506339,
-           "longitude": -46.5780888,
-           "country": "Brazil",
-           "uf": "SP",
-           "city": "São Paulo"
-       },
+        "location": {
+            "latitude": -23.5506339,
+            "longitude": -46.5780888,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
         "additionalLinks": [""],
-         "language": "pt-br",
+        "language": "pt-br",
         "date": "2015-08-23"
     },
     {
@@ -1334,16 +1448,16 @@
         "slides": "",
         "photos": "",
         "video": "https://www.youtube.com/watch?v=WhwwwNyWroc",
-        "tags": ["webinar","ionic"],
-         "location": {
-             "latitude": -23.5506339,
-             "longitude": -46.5780888,
-             "country": "Brazil",
-             "uf": "SP",
-             "city": "São Paulo"
-         },
-         "additionalLinks": [""],
-         "language": "pt-br",
+        "tags": ["webinar", "ionic"],
+        "location": {
+            "latitude": -23.5506339,
+            "longitude": -46.5780888,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
         "date": "2015-03-31"
     }
 ]
