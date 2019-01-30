@@ -859,7 +859,7 @@ _Tags: `node.js`, `career`_
 <a href="https://roadsec.com.br/rssp17-programacao/" target="_blank">Roadsec São Paulo 2017</a>
 
 
-  
+<a href="https://docs.google.com/presentation/d/1SjRVW9Sei4wI2Lr45FdDJoShZr97gVmJ10lhYwKaoTM/edit?usp=sharing" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2017-11-11-Desenvolvimento_de_Malwares_com_C#" target="_blank">photos</a> |  <a href="https://www.facebook.com/EriickWendel/videos/1530672087012334/" target="_blank">video</a>
 
 
 Abstract:
