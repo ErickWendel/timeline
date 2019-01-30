@@ -33,7 +33,7 @@
         "abstract": "Acesse o Array.prototype.reduce – Javascript | MDN para a documentação completa em português.",
         "type": "project",
         "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce",
-        "tags": ["transaltion", "javascript"],
+        "tags": ["translation", "javascript"],
         "additionalLinks": [""],
         "language": "pt-br",
         "date": "2015-07-26"
