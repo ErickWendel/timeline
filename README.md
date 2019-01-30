@@ -16,7 +16,7 @@ This is a list of activities from talks that I've given at meetups and conferenc
 - [Projects (04)](#projects)
 - [Demonstrations (10)](#demonstrations)
 - [Blog Posts (08)](#blog-posts)
-- [Conference Talks (63)](#conference-talks)
+- [Conference Talks (71)](#conference-talks)
 
 ## Projects
 
@@ -601,24 +601,6 @@ Abstract:
 
 _Tags: `javascript`, `async`, `node.js`_
 
-### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
-
-
-<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
-
-
-<a href="https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> 
-
-
-Abstract:
-
-> Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
-> 
-> 
-
-
-_Tags: `node.js`, `javascript`, `faceapi`, `azure`_
-
 ### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
 
 
@@ -636,6 +618,24 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `websocket`, `socketio`_
+
+### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
+
+
+<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
+
+
+<a href="https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`, `faceapi`, `azure`_
 
 ### 2018-06-16 - Node.js e Typescript - Extraindo informações da Marvel Comics com Web Scrapping (pt-br)
 
@@ -921,12 +921,30 @@ _Tags: `serverless`, `node.js`, `aws`_
 
 Abstract:
 
-> ERick Wendel vai mostrar na prática como desenvolver APIusando Node.js e TypeScript. Impeerdível.
+> ERick Wendel vai mostrar na prática como desenvolver API usando Node.js e TypeScript. Impeerdível.
 > 
 > 
 
 
 _Tags: `node.js`, `javascript`, `typescript`_
+
+### 2017-08-26 - A vida e as aventuras de um desenvolvedor de Software (pt-br)
+
+
+<a href="https://campuse.ro/events/campus-night-itajuba-2017/talk/a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-1/" target="_blank">Campus Night Itajubá</a>
+
+
+  
+
+
+Abstract:
+
+> Além de produzir sistemas complexos, análises críticas e propor soluções para as maiores corporações, desenvolvedores possuem desafios contínuos, como multidisciplinaridade, estresse e prazos de entrega. Nesta apresentação, os participantes entenderão o lado divertido, inovador e fora da caixa de ser um desenvolvedor dicas de como manter-se motivado e transformar o trabalho em diversão.
+> 
+> 
+
+
+_Tags: `career`_
 
 ### 2017-08-15 - Coding Dojo com Javascript (pt-br)
 
@@ -946,6 +964,63 @@ Abstract:
 
 _Tags: `node.js`, `javascript`_
 
+### 2017-08-10 - A vida e as aventuras de um desenvolvedor de software (pt-br)
+
+
+<a href="https://www.youtube.com/channel/UCVAwnfMBdeA7Zz2fQf8fo_w" target="_blank">Mastertech</a>
+
+
+  <a href="https://youtu.be/H66DlBkJYCk?t=704" target="_blank">video</a>
+
+
+Abstract:
+
+> 
+> 
+> 
+
+
+_Tags: `webinar`, `career`_
+
+### 2017-07-19 - Job/Task Queue com Bee-Queue - Performance e Resiliência em aplicações Node.js (pt-br)
+
+
+<a href="http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-node-js" target="_blank">TDC 2017 | São Paulo </a>
+
+
+  
+
+
+Abstract:
+
+> Caso de sucesso, explicando a arquitetura que solucionou os problemas de concorrência entre processos, resistência a erros e performance de execução. Passando da lib Straw.js, correndo para o Celery em Python para finalmente encontrar a solução mais ideal com Bee-queue em Node.js.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/task-job-queue-tdc2017" target="_blank">https://github.com/ErickWendel/task-job-queue-tdc2017</a>
+> 
+
+
+_Tags: `node.js`, `performance`_
+
+### 2017-07-02 - Construindo APIs com NodeJs e TypeScript (pt-br)
+
+
+<a href="https://www.sympla.com.br/virada-tecnologica-sao-paulo---2017__144564#info" target="_blank">Virada Tecnológica São Paulo - 2017</a>
+
+
+  
+
+
+Abstract:
+
+> 
+> 
+> 
+
+
+_Tags: `node.js`, `workshop`, `typescript`_
+
 ### 2017-06-26 - Job/Task Queue com Bee-Queue - Performance e Resiliência em aplicações Node.js (pt-br)
 
 
@@ -959,6 +1034,9 @@ Abstract:
 
 > Caso de sucesso, explicando a arquitetura que solucionou os problemas de concorrência entre processos, resistência a erros e performance de execução. Passando da lib Straw.js, correndo para o Celery em Python para finalmente encontrar a solução mais ideal com Bee-queue em Node.js.
 > 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/palestra-nodejs-jobqueue-lambda3" target="_blank">https://github.com/ErickWendel/palestra-nodejs-jobqueue-lambda3</a>
 > 
 
 
@@ -1037,7 +1115,7 @@ Abstract:
 
 _Tags: `node.js`, `javascript`, `hapijs`_
 
-### 2017-03-25 - Typescript para aplicações Node.js na era do ES7 (pt-br)
+### 2017-03-25 - Typescript para aplicações Node.js na era de ECMAScript 7 (pt-br)
 
 
 <a href="" target="_blank">MVP Community Summit 2017</a>
@@ -1054,6 +1132,27 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `typescript`_
+
+### 2017-03-13 - Hands-on de Angular 1.x (pt-br)
+
+
+<a href="https://www.meetup.com/pt-BR/GDG-SP/events/238268519/" target="_blank">HTML5 Study Group #58 - HandsOn de Angular 1.x</a>
+
+
+  
+
+
+Abstract:
+
+> 
+> 
+> <b>Links</b>
+> 
+> - <a href="https://slides.com/erickwendel/hands-on-angularjs-html5-study-group/fullscreen" target="_blank">https://slides.com/erickwendel/hands-on-angularjs-html5-study-group/fullscreen</a>
+> 
+
+
+_Tags: `angular`_
 
 ### 2017-03-13 - HandsOn de Angular 1.x (pt-br)
 
@@ -1109,6 +1208,27 @@ Abstract:
 
 _Tags: `node.js`, `typescript`, `javascript`, `hapijs`_
 
+### 2016-12-10 - Construindo RestFull APIs com NodeJs e TypeScript (pt-br)
+
+
+<a href="https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/235415233/" target="_blank">11º Connecting Knowledge</a>
+
+
+  
+
+
+Abstract:
+
+> Falando um conteúdo sobre NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/meetup-nodejs-typescript" target="_blank">https://github.com/ErickWendel/meetup-nodejs-typescript</a>
+> 
+
+
+_Tags: `node.js`, `typescript`_
+
 ### 2016-12-09 - Web APIS with NodeJS and TypeScript (pt-br)
 
 
@@ -1145,6 +1265,24 @@ Abstract:
 
 _Tags: `node.js`, `mocha`, `tdd`, `tests`, `javascript`, `chai`, `jasmine`_
 
+### 2016-11-18 - Entrevista Faculdade Impacta – Mercado em Desenvolvimento (pt-br)
+
+
+<a href="" target="_blank">Feira de oportunidades - Faculdade Impacta</a>
+
+
+  <a href="https://www.facebook.com/FacImpacta/videos/1352590924752354/" target="_blank">video</a>
+
+
+Abstract:
+
+> mercado em TI, dicas para alunos e comunidades
+> 
+> 
+
+
+_Tags: `career`_
+
 ### 2016-11-18 - NodeJS e HapiJS – Construindo APIs com Javascript (pt-br)
 
 
@@ -1164,23 +1302,23 @@ Abstract:
 
 _Tags: `node.js`, `typescript`, `javascript`_
 
-### 2016-11-18 - Entrevista Faculdade Impacta – Mercado em Desenvolvimento (pt-br)
+### 2016-11-14 - Typescript – 1 Minuto de Tecnologia (pt-br)
 
 
-<a href="" target="_blank">Feira de oportunidades - Faculdade Impacta</a>
+<a href="https://www.youtube.com/channel/UCHsQ04xha1YKv48dSzQFlpw" target="_blank">1 Minuto de Tecnologia</a>
 
 
-  <a href="https://www.facebook.com/FacImpacta/videos/1352590924752354/" target="_blank">video</a>
+  <a href="https://youtu.be/TshiaAMiFR4" target="_blank">video</a>
 
 
 Abstract:
 
-> mercado em TI, dicas para alunos e comunidades
+> Você já ouviu falar sobre Typescript, a tecnologia que promete reinventar seu modo de escrever Javascript? Acompanhe o #1MinutodeTecnologia desta semana e descubra o poder que essa tecnologia possui para os seus projetos. 
 > 
 > 
 
 
-_Tags: `career`_
+_Tags: `typescript`, `webinar`_
 
 ### 2016-11-05 - Desenvolvendo RESTFull APIs com NodeJs (pt-br)
 
@@ -1199,6 +1337,24 @@ Abstract:
 
 
 _Tags: `node.js`, `typescript`, `javascript`_
+
+### 2016-11-03 - Desenvolvimento (Segredos e boas práticas) (pt-br)
+
+
+<a href="https://www.youtube.com/channel/UCU7JNMbT7nk-R0KqWa7zjWw" target="_blank">ARQENGTI - Comunidade de Governança-Gestão-Técnica</a>
+
+
+  <a href="https://youtu.be/VLqX2oTtvz8?t=625" target="_blank">video</a>
+
+
+Abstract:
+
+> Descubra Todos Os Segredos De Desenvolvimento De Software, Sua Evolução, Benefícios E Como É O Profissional De Desenvolvimento De Software
+> 
+> 
+
+
+_Tags: `webinar`, `career`_
 
 ### 2016-09-12 - Iot e Arduino na Nuvem com NodeJS, Ionic e AngularJS (pt-br)
 
@@ -1236,24 +1392,6 @@ Abstract:
 
 _Tags: `telegram`, `bots`, `node.js`, `javascript`_
 
-### 2016-07-05 - Ferramentas de Code Analysis e Code Fixed para JavaScript (pt-br)
-
-
-<a href="http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-javascript" target="_blank">The Developers Conference 2016</a>
-
-
-<a href="https://www.slideshare.net/EriickWendell/js-ferramentas-code-analysis-e-fixed-para-js-tdc2016" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2016-07-05-ferramentas_de_code_analysis_e_code_fixed_para_javascript" target="_blank">photos</a> 
-
-
-Abstract:
-
-> Iremos mostrar algumas ferramentas de Code Analysis e Code Fixed, voltadas para JavaScript. Enfatizando o quanto essas ferramentas podem auxiliar (velocidade e qualidade) no desenvolvimento. Iremos abordar o uso das ferramentas de code analysis, como por exemplo o JSHint e outras, nas IDE's mais utilizadas do mercado (Visual Studio, Sublime, etc).
-> 
-> 
-
-
-_Tags: `node.js`, `codefix`, `code analysis`, `node.js`_
-
 ### 2016-07-05 - Managing the flow of asynchronous operations in NodeJS (pt-br)
 
 
@@ -1271,6 +1409,24 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`_
+
+### 2016-07-05 - Ferramentas de Code Analysis e Code Fixed para JavaScript (pt-br)
+
+
+<a href="http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-javascript" target="_blank">The Developers Conference 2016</a>
+
+
+<a href="https://www.slideshare.net/EriickWendell/js-ferramentas-code-analysis-e-fixed-para-js-tdc2016" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2016-07-05-ferramentas_de_code_analysis_e_code_fixed_para_javascript" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Iremos mostrar algumas ferramentas de Code Analysis e Code Fixed, voltadas para JavaScript. Enfatizando o quanto essas ferramentas podem auxiliar (velocidade e qualidade) no desenvolvimento. Iremos abordar o uso das ferramentas de code analysis, como por exemplo o JSHint e outras, nas IDE's mais utilizadas do mercado (Visual Studio, Sublime, etc).
+> 
+> 
+
+
+_Tags: `node.js`, `codefix`, `code analysis`, `node.js`_
 
 ### 2016-06-23 - Webinário TDC Online - JavaScript, Frame JavaScript, Node.Js, Modern Web,e Cloud (pt-br)
 

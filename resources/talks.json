@@ -1,4 +1,187 @@
 [{
+        "title": "A vida e as aventuras de um desenvolvedor de Software",
+        "abstract": "Além de produzir sistemas complexos, análises críticas e propor soluções para as maiores corporações, desenvolvedores possuem desafios contínuos, como multidisciplinaridade, estresse e prazos de entrega. Nesta apresentação, os participantes entenderão o lado divertido, inovador e fora da caixa de ser um desenvolvedor dicas de como manter-se motivado e transformar o trabalho em diversão.",
+        "type": "talk",
+        "event": {
+            "link": "https://campuse.ro/events/campus-night-itajuba-2017/talk/a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-1/",
+            "name": "Campus Night Itajubá"
+        },
+        "slides": "",
+        "photos": "",
+        "video": "",
+        "tags": ["career"],
+        "location": {
+            "latitude": -22.4290082,
+            "longitude": -45.4568706,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2017-08-26"
+    },
+    {
+        "title": "Job/Task Queue com Bee-Queue - Performance e Resiliência em aplicações Node.js",
+        "abstract": "Caso de sucesso, explicando a arquitetura que solucionou os problemas de concorrência entre processos, resistência a erros e performance de execução. Passando da lib Straw.js, correndo para o Celery em Python para finalmente encontrar a solução mais ideal com Bee-queue em Node.js.",
+        "type": "talk",
+        "event": {
+            "link": "http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-node-js",
+            "name": "TDC 2017 | São Paulo "
+        },
+        "slides": "https://slides.com/erickwendel/jobtask-queue-with-nodejs-tdc-2017",
+        "photos": "",
+        "video": "",
+        "tags": ["node.js", "performance"],
+        "location": {
+            "latitude": -23.6002334,
+            "longitude": -46.6788224,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": ["https://github.com/ErickWendel/task-job-queue-tdc2017"],
+        "language": "pt-br",
+        "date": "2017-07-19"
+    },
+    {
+        "title": "A vida e as aventuras de um desenvolvedor de software",
+        "abstract": "",
+        "type": "talk",
+        "event": {
+            "link": "https://www.youtube.com/channel/UCVAwnfMBdeA7Zz2fQf8fo_w",
+            "name": "Mastertech"
+        },
+        "slides": "",
+        "photos": "",
+        "video": "https://youtu.be/H66DlBkJYCk?t=704",
+        "tags": ["webinar", "career"],
+        "location": {
+            "latitude": -23.5625707,
+            "longitude": -46.6565045,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2017-08-10"
+    },
+    {
+        "title": "Construindo APIs com NodeJs e TypeScript",
+        "abstract": "",
+        "type": "talk",
+        "event": {
+            "link": "https://www.sympla.com.br/virada-tecnologica-sao-paulo---2017__144564#info",
+            "name": "Virada Tecnológica São Paulo - 2017"
+        },
+        "slides": "",
+        "photos": "",
+        "video": "",
+        "tags": ["node.js", "workshop", "typescript"],
+        "location": {
+            "latitude": -23.5493645,
+            "longitude": -46.6498912,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2017-07-02"
+    } , {
+        "title": "Construindo RestFull APIs com NodeJs e TypeScript",
+        "abstract": "Falando um conteúdo sobre NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/235415233/",
+            "name": "11º Connecting Knowledge"
+        },
+        "slides": "http://slides.com/erickwendel/apis-com-nodejs-typescript/fullscreen",
+        "photos": "",
+        "video": "",
+        "tags": ["node.js", "typescript"],
+        "location": {
+            "latitude": -23.5542518,
+            "longitude": -46.7330228,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": ["https://github.com/ErickWendel/meetup-nodejs-typescript"],
+        "language": "pt-br",
+        "date": "2016-12-10"
+    },
+    {
+        "title": "Hands-on de Angular 1.x",
+        "abstract": "",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/GDG-SP/events/238268519/",
+            "name": "HTML5 Study Group #58 - HandsOn de Angular 1.x"
+        },
+        "slides": "https://slides.com/erickwendel/hands-on-angularjs-html5-study-group/fullscreen",
+        "photos": "",
+        "video": "",
+        "tags": ["angular"],
+        "location": {
+            "latitude": -23.5452767,
+            "longitude": -46.6373743,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": ["https://slides.com/erickwendel/hands-on-angularjs-html5-study-group/fullscreen"],
+        "language": "pt-br",
+        "date": "2017-03-13"
+    },
+    {
+        "title": "Desenvolvimento (Segredos e boas práticas)",
+        "abstract": "Descubra Todos Os Segredos De Desenvolvimento De Software, Sua Evolução, Benefícios E Como É O Profissional De Desenvolvimento De Software",
+        "type": "talk",
+        "event": {
+            "link": "https://www.youtube.com/channel/UCU7JNMbT7nk-R0KqWa7zjWw",
+            "name": "ARQENGTI - Comunidade de Governança-Gestão-Técnica"
+        },
+        "slides": "",
+        "photos": "",
+        "video": "https://youtu.be/VLqX2oTtvz8?t=625",
+        "tags": ["webinar", "career"],
+         "location": {
+             "latitude": -23.5555873,
+             "longitude": -46.6635681,
+             "country": "Brazil",
+             "uf": "SP",
+             "city": "São Paulo"
+         },
+         "additionalLinks": [""],
+         "language": "pt-br",
+        "date": "2016-11-03"
+    },
+    {
+        "title": "Typescript – 1 Minuto de Tecnologia",
+        "abstract": "Você já ouviu falar sobre Typescript, a tecnologia que promete reinventar seu modo de escrever Javascript? Acompanhe o #1MinutodeTecnologia desta semana e descubra o poder que essa tecnologia possui para os seus projetos. ",
+        "type": "talk",
+        "event": {
+            "link": "https://www.youtube.com/channel/UCHsQ04xha1YKv48dSzQFlpw",
+            "name": "1 Minuto de Tecnologia"
+        },
+        "slides": "",
+        "photos": "",
+        "video": "https://youtu.be/TshiaAMiFR4",
+        "tags": ["typescript", "webinar"],
+        "location": {
+            "latitude": -23.5555873,
+            "longitude": -46.6635681,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2016-11-14"
+    },
+    {
         "title": "Desenvolvimento de Malwares com C#",
         "abstract": "",
         "type": "talk",
@@ -45,7 +228,7 @@
     },
     {
         "title": "Node.js e Typescript na prática",
-        "abstract": "ERick Wendel vai mostrar na prática como desenvolver APIusando Node.js e TypeScript. Impeerdível.",
+        "abstract": "ERick Wendel vai mostrar na prática como desenvolver API usando Node.js e TypeScript. Impeerdível.",
         "type": "talk",
         "event": {
             "link": "https://www.facebook.com/events/1935243993391853/",
@@ -726,7 +909,7 @@
             "link": "https://www.meetup.com/pt-BR/nodebr/events/240490452/",
             "name": "NodeBR #27 - Performance e Escalabilidade"
         },
-        "additionalLinks": [""],
+        "additionalLinks": ["https://github.com/ErickWendel/palestra-nodejs-jobqueue-lambda3"],
         "slides": "http://slides.com/erickwendel/jobtask-queue-with-nodejs#/",
         "photos": "2017-06-26-performance_e_resiliência_em_aplicações_nodejs",
         "video": "",
@@ -857,7 +1040,7 @@
         "date": "2017-03-13"
     },
     {
-        "title": "Typescript para aplicações Node.js na era do ES7",
+        "title": "Typescript para aplicações Node.js na era de ECMAScript 7",
         "abstract": "Nesta palestra falaremos sobre a linha do tempo do ECMAScript e como typescript pode ajudar no desenvolvimento e acompanhamento das novas features do Javascript",
         "type": "talk",
         "event": {
