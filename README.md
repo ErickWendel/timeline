@@ -14,7 +14,7 @@ This is a list of activities from talks that I've given at meetups and conferenc
 ## Table of Contents
 
 - [Projects (04)](#projects)
-- [Demonstrations (10)](#demonstrations)
+- [Demonstrations (08)](#demonstrations)
 - [Blog Posts (08)](#blog-posts)
 - [Conference Talks (71)](#conference-talks)
 
@@ -156,18 +156,6 @@ Abstract:
 
 _Tags: `c#`, `ionic`, `malware`, `virus`_
 
-### <a href="https://youtu.be/TshiaAMiFR4" target="_blank">2016-11-14 - Typescript – 1 Minuto de Tecnologia (pt-br)</a>
-
-
-Abstract:
-
-> Você já ouviu falar sobre Typescript, a tecnologia que promete reinventar seu modo de escrever Javascript? Acompanhe o #1MinutodeTecnologia desta semana e descubra o poder que essa tecnologia possui para os seus projetos.
-> 
-> 
-
-
-_Tags: `node.js`, `typescript`, `javascript`_
-
 ### <a href="http://erickwendel.com.br/2016/11/06/trojan-com-comandos-de-voz-utilizando-android-wear-java-net-protocolo-websocket/" target="_blank">2016-11-06 - Trojan com Comandos de Voz utilizando Android Wear + Java + .NET + Protocolo WebSocket (pt-br)</a>
 
 
@@ -179,18 +167,6 @@ Abstract:
 
 
 _Tags: `trojan`, `c#`, `android`_
-
-### <a href="https://youtu.be/VLqX2oTtvz8" target="_blank">2016-11-03 - As Vidas De Um Profissional De Tecnologia (pt-br)</a>
-
-
-Abstract:
-
-> Olá galera, fui convidado pelo grupo ARQENG, a falar um pouco da minha experiência em desenvolvimento de software, desafios e dicas para quem precisa começar.
-> 
-> 
-
-
-_Tags: `node.js`, `career`_
 
 ### <a href="http://erickwendel.com.br/2016/09/20/wearpresentation-android-wear-device-nodejs-websocket-desktop-e-restfull-api/" target="_blank">2016-09-20 - WearPresentation – Android Wear + Device + NodeJS (WebSocket, Desktop e RestFull API) (pt-br)</a>
 

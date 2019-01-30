@@ -68,26 +68,7 @@
         "language": "pt-br",
         "date": "2017-07-07"
     },
-    {
-        "title": "Typescript – 1 Minuto de Tecnologia",
-        "abstract": "Você já ouviu falar sobre Typescript, a tecnologia que promete reinventar seu modo de escrever Javascript? Acompanhe o #1MinutodeTecnologia desta semana e descubra o poder que essa tecnologia possui para os seus projetos.",
-        "type": "video",
-       "additionalLinks": [""],
-        "link": "https://youtu.be/TshiaAMiFR4",
-        "tags": ["node.js", "typescript", "javascript"],
-        "language": "pt-br",
-        "date": "2016-11-14"
-    },
-    {
-        "title": "As Vidas De Um Profissional De Tecnologia",
-        "abstract": "Olá galera, fui convidado pelo grupo ARQENG, a falar um pouco da minha experiência em desenvolvimento de software, desafios e dicas para quem precisa começar.",
-        "type": "video",
-       "additionalLinks": [""],
-        "link": "https://youtu.be/VLqX2oTtvz8",
-        "tags": ["node.js", "career"],
-        "language": "pt-br",
-        "date": "2016-11-03"
-    },
+     
     {
         "title": "Demo - VSCode extensions: Cognitive Services + Siri + VSCode + Node.js - Criando uma extensão de tradução de texto no editor",
         "abstract": "Amanha (15/12) acontece o Developers Sergipe e estamos mais que animados! Preparei uma demonstração integrando o #vscode, o serviço de tradução do #azure e a #siri, para a partir da seleção de um texto, traduzir automaticamente e falar o resultado em nosso idioma, é claro que é uma demo bem simples, mas mostra o poder e as ideias que vem em mente para brincar 😀 ",
