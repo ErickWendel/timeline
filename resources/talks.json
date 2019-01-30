@@ -1322,5 +1322,28 @@
         "additionalLinks": [""],
         "language": "pt-br",
         "date": "2015-01-30"
+    },
+    {
+        "title": "WebCast sobre Desenvolvimento Hibrido com Ionic",
+        "abstract": "Esse video é um bate-papo organizado pela .NetCoders e Watermelon, que aborda os conceitos do desenvolvimento de aplicações híbridas utilizando o Ionic Framework",
+        "type": "talk",
+        "event": {
+            "link": "",
+            "name": "WebCast sobre Desenvolvimento Hibrido com Ionic"
+        },
+        "slides": "",
+        "photos": "",
+        "video": "https://www.youtube.com/watch?v=WhwwwNyWroc",
+        "tags": ["webinar","ionic"],
+         "location": {
+             "latitude": -23.5506339,
+             "longitude": -46.5780888,
+             "country": "Brazil",
+             "uf": "SP",
+             "city": "São Paulo"
+         },
+         "additionalLinks": [""],
+         "language": "pt-br",
+        "date": "2015-03-31"
     }
 ]

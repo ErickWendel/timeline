@@ -16,7 +16,7 @@ This is a list of activities from talks that I've given at meetups and conferenc
 - [Projects (04)](#projects)
 - [Demonstrations (10)](#demonstrations)
 - [Blog Posts (08)](#blog-posts)
-- [Conference Talks (57)](#conference-talks)
+- [Conference Talks (58)](#conference-talks)
 
 ## Projects
 
@@ -1052,24 +1052,6 @@ Abstract:
 
 _Tags: `node.js`, `mocha`, `tdd`, `tests`, `javascript`, `chai`, `jasmine`_
 
-### 2016-11-18 - Entrevista Faculdade Impacta – Mercado em Desenvolvimento (pt-br)
-
-
-<a href="" target="_blank">Feira de oportunidades - Faculdade Impacta</a>
-
-
-  <a href="https://www.facebook.com/FacImpacta/videos/1352590924752354/" target="_blank">video</a>
-
-
-Abstract:
-
-> mercado em TI, dicas para alunos e comunidades
-> 
-> 
-
-
-_Tags: `career`_
-
 ### 2016-11-18 - NodeJS e HapiJS – Construindo APIs com Javascript (pt-br)
 
 
@@ -1088,6 +1070,24 @@ Abstract:
 
 
 _Tags: `node.js`, `typescript`, `javascript`_
+
+### 2016-11-18 - Entrevista Faculdade Impacta – Mercado em Desenvolvimento (pt-br)
+
+
+<a href="" target="_blank">Feira de oportunidades - Faculdade Impacta</a>
+
+
+  <a href="https://www.facebook.com/FacImpacta/videos/1352590924752354/" target="_blank">video</a>
+
+
+Abstract:
+
+> mercado em TI, dicas para alunos e comunidades
+> 
+> 
+
+
+_Tags: `career`_
 
 ### 2016-11-05 - Desenvolvendo RESTFull APIs com NodeJs (pt-br)
 
@@ -1143,24 +1143,6 @@ Abstract:
 
 _Tags: `telegram`, `bots`, `node.js`, `javascript`_
 
-### 2016-07-05 - Ferramentas de Code Analysis e Code Fixed para JavaScript (pt-br)
-
-
-<a href="http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-javascript" target="_blank">The Developers Conference 2016</a>
-
-
-<a href="https://www.slideshare.net/EriickWendell/js-ferramentas-code-analysis-e-fixed-para-js-tdc2016" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2016-07-05-ferramentas_de_code_analysis_e_code_fixed_para_javascript" target="_blank">photos</a> 
-
-
-Abstract:
-
-> Iremos mostrar algumas ferramentas de Code Analysis e Code Fixed, voltadas para JavaScript. Enfatizando o quanto essas ferramentas podem auxiliar (velocidade e qualidade) no desenvolvimento. Iremos abordar o uso das ferramentas de code analysis, como por exemplo o JSHint e outras, nas IDE's mais utilizadas do mercado (Visual Studio, Sublime, etc).
-> 
-> 
-
-
-_Tags: `node.js`, `codefix`, `code analysis`, `node.js`_
-
 ### 2016-07-05 - Managing the flow of asynchronous operations in NodeJS (pt-br)
 
 
@@ -1178,6 +1160,24 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`_
+
+### 2016-07-05 - Ferramentas de Code Analysis e Code Fixed para JavaScript (pt-br)
+
+
+<a href="http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-javascript" target="_blank">The Developers Conference 2016</a>
+
+
+<a href="https://www.slideshare.net/EriickWendell/js-ferramentas-code-analysis-e-fixed-para-js-tdc2016" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2016-07-05-ferramentas_de_code_analysis_e_code_fixed_para_javascript" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Iremos mostrar algumas ferramentas de Code Analysis e Code Fixed, voltadas para JavaScript. Enfatizando o quanto essas ferramentas podem auxiliar (velocidade e qualidade) no desenvolvimento. Iremos abordar o uso das ferramentas de code analysis, como por exemplo o JSHint e outras, nas IDE's mais utilizadas do mercado (Visual Studio, Sublime, etc).
+> 
+> 
+
+
+_Tags: `node.js`, `codefix`, `code analysis`, `node.js`_
 
 ### 2016-06-23 - Webinário TDC Online - JavaScript, Frame JavaScript, Node.Js, Modern Web,e Cloud (pt-br)
 
@@ -1373,6 +1373,24 @@ Abstract:
 
 
 _Tags: `c#`, `dotnet`, `webscrapping`_
+
+### 2015-03-31 - WebCast sobre Desenvolvimento Hibrido com Ionic (pt-br)
+
+
+<a href="" target="_blank">WebCast sobre Desenvolvimento Hibrido com Ionic</a>
+
+
+  <a href="https://www.youtube.com/watch?v=WhwwwNyWroc" target="_blank">video</a>
+
+
+Abstract:
+
+> Esse video é um bate-papo organizado pela .NetCoders e Watermelon, que aborda os conceitos do desenvolvimento de aplicações híbridas utilizando o Ionic Framework
+> 
+> 
+
+
+_Tags: `webinar`, `ionic`_
 
 ### 2015-01-30 - Google Adwords para desenvolvedores (pt-br)
 
