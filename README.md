@@ -6,17 +6,17 @@ This is a list of activities from talks that I've given at meetups and conferenc
 
 ## Timeline
 
-* **Projects**: 2018/November - 2016/February 
+* **Projects**: 2018/November - 2015/July 
 * **Demonstrations**: 2018/December - 2016/September 
 * **Blog Posts**: 2018/March - 2015/February 
-* **Conference Talks**: 2019/January - 2016/February 
+* **Conference Talks**: 2019/January - 2015/January 
 
 ## Table of Contents
 
-- [Projects (03)](#projects)
+- [Projects (04)](#projects)
 - [Demonstrations (10)](#demonstrations)
 - [Blog Posts (08)](#blog-posts)
-- [Conference Talks (50)](#conference-talks)
+- [Conference Talks (57)](#conference-talks)
 
 ## Projects
 
@@ -62,10 +62,24 @@ Abstract:
 > <b>Links</b>
 > 
 > - <a href="https://mva.microsoft.com/pt-br/training-courses/introduo-ao-nodejs-com-typescript-no-visual-studio-code-15851?l=Pbw7Uao6B_5105192797" target="_blank">https://mva.microsoft.com/pt-br/training-courses/introduo-ao-nodejs-com-typescript-no-visual-studio-code-15851?l=Pbw7Uao6B_5105192797</a>
+> - <a href="http://slides.com/erickwendel/nodejs-typescript-vscode/fullscreen" target="_blank">http://slides.com/erickwendel/nodejs-typescript-vscode/fullscreen</a>
+> - <a href="https://gallery.technet.microsoft.com/Introducao-ao-NodeJS-com-c5c39b8e" target="_blank">https://gallery.technet.microsoft.com/Introducao-ao-NodeJS-com-c5c39b8e</a>
 > 
 
 
 _Tags: `node.js`, `typescript`, `javascript`, `vscode`, `training`_
+
+### <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce" target="_blank">2015-07-26 - Tradução Oficial #MDN - Função Reduce Javascript (pt-br)</a>
+
+
+Abstract:
+
+> Acesse o Array.prototype.reduce – Javascript | MDN para a documentação completa em português.
+> 
+> 
+
+
+_Tags: `transaltion`, `javascript`_
 
 
 ## Demonstrations
@@ -569,24 +583,6 @@ Abstract:
 
 _Tags: `javascript`, `async`, `node.js`_
 
-### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
-
-
-<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
-
-
-<a href="https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> 
-
-
-Abstract:
-
-> Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
-> 
-> 
-
-
-_Tags: `node.js`, `javascript`, `faceapi`, `azure`_
-
 ### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
 
 
@@ -604,6 +600,24 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `websocket`, `socketio`_
+
+### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
+
+
+<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
+
+
+<a href="https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`, `faceapi`, `azure`_
 
 ### 2018-06-16 - Node.js e Typescript - Extraindo informações da Marvel Comics com Web Scrapping (pt-br)
 
@@ -1129,24 +1143,6 @@ Abstract:
 
 _Tags: `telegram`, `bots`, `node.js`, `javascript`_
 
-### 2016-07-05 - Managing the flow of asynchronous operations in NodeJS (pt-br)
-
-
-<a href="http://brazil.nodeconf.com/" target="_blank">NodeConf Brazil 2016</a>
-
-
-<a href="http://slides.com/erickwendel/control-flow-nodejs" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2016-07-05-managing_the_flow_of_asynchronous_operations_in_nodejs" target="_blank">photos</a> 
-
-
-Abstract:
-
-> Ao construir aplicações Javascript, devemos nos preocupar com alguns fatores quando falamos do workflow da linguagem. Diferente das linguagens sequenciais, resultados podem ser inesperados pelo fato da execução ser assíncrona e dependerem de callbacks, aprenderemos nesta palestra as boas práticas e soluções para criação de aplicações NodeJS.
-> 
-> 
-
-
-_Tags: `node.js`, `javascript`_
-
 ### 2016-07-05 - Ferramentas de Code Analysis e Code Fixed para JavaScript (pt-br)
 
 
@@ -1164,6 +1160,24 @@ Abstract:
 
 
 _Tags: `node.js`, `codefix`, `code analysis`, `node.js`_
+
+### 2016-07-05 - Managing the flow of asynchronous operations in NodeJS (pt-br)
+
+
+<a href="http://brazil.nodeconf.com/" target="_blank">NodeConf Brazil 2016</a>
+
+
+<a href="http://slides.com/erickwendel/control-flow-nodejs" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2016-07-05-managing_the_flow_of_asynchronous_operations_in_nodejs" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Ao construir aplicações Javascript, devemos nos preocupar com alguns fatores quando falamos do workflow da linguagem. Diferente das linguagens sequenciais, resultados podem ser inesperados pelo fato da execução ser assíncrona e dependerem de callbacks, aprenderemos nesta palestra as boas práticas e soluções para criação de aplicações NodeJS.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`_
 
 ### 2016-06-23 - Webinário TDC Online - JavaScript, Frame JavaScript, Node.Js, Modern Web,e Cloud (pt-br)
 
@@ -1236,4 +1250,145 @@ Abstract:
 
 
 _Tags: `node.js`, `typescript`, `javascript`_
+
+### 2016-01-16 - NodeJS com TypeScript e VSCode (pt-br)
+
+
+<a href="https://www.meetup.com/pt-BR/nodebr/events/227824582/" target="_blank">Meetup Janeiro: let year = new Year();</a>
+
+
+  
+
+
+Abstract:
+
+> Com intuito de aprender um pouco mais sobre tecnologias Javascript, nos reunimos na comunidade NodeBR onde realizamos diversas apresentações. Dentre as apresentações, mostrei a partir de  palestra os benefícios da utilização de TypeScript em projetos NodeJS. Falamos sobre os diversos benefícios, features e os diferenciais da linguagem.
+> 
+> 
+
+
+_Tags: `vscode`, `node.js`, `typescript`_
+
+### 2015-11-30 - Mini curso gratuito sobre Web Scrapping (pt-br)
+
+
+<a href="" target="_blank">MSP Coding Day 2015</a>
+
+
+  
+
+
+Abstract:
+
+> 
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/WebScraping-Erick" target="_blank">http://bit.ly/WebScraping-Erick</a>
+> - <a href="http://www.jornalvicentino.com.br/sao-vicente/msp-coding-day-e-realizado-na-comunidade-net-baixada-em-sv/" target="_blank">http://www.jornalvicentino.com.br/sao-vicente/msp-coding-day-e-realizado-na-comunidade-net-baixada-em-sv/</a>
+> - <a href="http://www.jornalvicentino.com.br/sao-vicente/apaixonados-por-tecnologia-viraram-a-noite-codificando-em-sao-vicente/" target="_blank">http://www.jornalvicentino.com.br/sao-vicente/apaixonados-por-tecnologia-viraram-a-noite-codificando-em-sao-vicente/</a>
+> 
+
+
+_Tags: `c#`, `dotnet`, `.net`_
+
+### 2015-11-02 - Desenvolvimento de Malwares com C# (pt-br)
+
+
+<a href="" target="_blank">MSP Coding at Night 2015</a>
+
+
+<a href="https://www.slideshare.net/EriickWendell/desenvolvimento-de-malwares-com-c" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2015-11-02-Desenvolvimento_de_Malwares_com_C#" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Uma madrugada de programação voltada a desenvolvimento de trojans e botnets
+> 
+> <b>Links</b>
+> 
+> - <a href="https://goo.gl/photos/rcmee57s4PTJvakZ9" target="_blank">https://goo.gl/photos/rcmee57s4PTJvakZ9</a>
+> 
+
+
+_Tags: `malware`, `trojan`, `c#`, `dotnet`_
+
+### 2015-08-23 - Corujão de ASP.NET MVC 5.2 (pt-br)
+
+
+<a href="" target="_blank">Corujão de ASP.NET MVC 5.2 - .NETCoders</a>
+
+
+ <a href="https://github.com/ErickWendel/timeline/tree/master/2015-08-23_Corujão_de_ASP.NET_MVC" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Madrugada, das 23:00 as 04:00 com Hands-on de ASP.net MVC 5.2
+> 
+> 
+
+
+_Tags: ``_
+
+### 2015-06-12 - WebScraping com C# (pt-br)
+
+
+<a href="https://github.com/nerdzao/.NETCodersDay-13-06-15" target="_blank">.NET Coders Day</a>
+
+
+<a href="https://pt.slideshare.net/EriickWendell/mini-curso-webscraping" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2015-06-12-WebScraping_com_C#" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Criamos uma aplicação para extração de dados de um determinado Web Site (com informações públicas) e armazenamos numa base de dados local, a fim de mostrar as facilidades da linguagem de programação C#(C sharp) juntamente com a biblioteca Html Agility Pack.
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/WebScraping-Erick" target="_blank">http://bit.ly/WebScraping-Erick</a>
+> - <a href="https://github.com/nerdzao/.NETCodersDay-13-06-15" target="_blank">https://github.com/nerdzao/.NETCodersDay-13-06-15</a>
+> 
+
+
+_Tags: `c#`, `dotnet`, `webscrapping`_
+
+### 2015-06-12 - O grupo .NET Coders (pt-br)
+
+
+<a href="https://github.com/nerdzao/.NETCodersDay-13-06-15" target="_blank">.NET Coders Day</a>
+
+
+<a href="http://pt.slideshare.net/EriickWendell/net-coders" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2015-06-12-WebScraping_com_C#" target="_blank">photos</a> 
+
+
+Abstract:
+
+> 
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/nerdzao/.NETCodersDay-13-06-15" target="_blank">https://github.com/nerdzao/.NETCodersDay-13-06-15</a>
+> 
+
+
+_Tags: `c#`, `dotnet`, `webscrapping`_
+
+### 2015-01-30 - Google Adwords para desenvolvedores (pt-br)
+
+
+<a href="" target="_blank">Google Adwords para desenvolvedores - .NETCoders</a>
+
+
+  
+
+
+Abstract:
+
+> Em 30/01/2015, realizei uma apresentação junto ao Albert Bitencourt , na sede da Comunidade .NET Coders, onde falamos sobre regras de Marketing, o porque de desenvolvedores saberem o mínimo de SEO, facilitação ao estruturar uma campanha de marketing com o Google Adwords, métricas de campanhas, tipos de redes e por aí vai. Também sorteamos diversos prêmios aos participantes, como cursos (da patrocinadora LGroup), canecas e camisas do grupo, squeezes e fones de ouvido pelo Evangelista Microsoft Marlon Luz.
+> 
+> 
+
+
+_Tags: `adwords`_
 

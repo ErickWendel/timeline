@@ -1,11 +1,10 @@
-[
-    {
+[{
         "title": "Primeiros passos com TypeScript no Visual Studio Code",
         "abstract": "sse curso mostra como o Visual Studio Code pode ser utilizado para empoderar o desenvolvedor da plataforma NodeJS a fazer código em todos os principais sistemas operacionais de uma forma mais rápida e integrada",
         "type": "project",
         "link": "https://channel9.msdn.com/blogs/DX/Primeiros-passos-com-TypeScript-no-Visual-Studio-Code",
-        "tags": ["node.js", "typescript", "javascript","vscode", "training"],
-        "additionalLinks": ["https://mva.microsoft.com/pt-br/training-courses/introduo-ao-nodejs-com-typescript-no-visual-studio-code-15851?l=Pbw7Uao6B_5105192797"],
+        "tags": ["node.js", "typescript", "javascript", "vscode", "training"],
+        "additionalLinks": ["https://mva.microsoft.com/pt-br/training-courses/introduo-ao-nodejs-com-typescript-no-visual-studio-code-15851?l=Pbw7Uao6B_5105192797", "http://slides.com/erickwendel/nodejs-typescript-vscode/fullscreen", "https://gallery.technet.microsoft.com/Introducao-ao-NodeJS-com-c5c39b8e"],
         "language": "pt-br",
         "date": "2016-02-05"
     },
@@ -15,7 +14,7 @@
         "type": "project",
         "link": "http://aka.ms/maratonakubernetes",
         "additionalLinks": ["http://aka.ms/maratonakubernetes", "https://github.com/CommunityBootcamp/Maratona-Kubernetes"],
-        "tags": ["training", "online","docker", "kubernetes", "microsoft"],
+        "tags": ["training", "online", "docker", "kubernetes", "microsoft"],
         "language": "pt-br",
         "date": "2018-06-20"
     },
@@ -24,9 +23,19 @@
         "abstract": "Este treinamento foi desenvolvido sob medida baseado em uma pesquisa sobre o que a comunidade brasileira mais necessita, suas principais dificuldades e desafios. Neste curso você aprenderá desde o básico de Javascript, ciclo de vida, manipulação de listas ao desenvolvimento real de aplicações em ambiente de produção. Na prática você também aprenderá conceitos sobre desenvolvimento orientado a testes, autenticação, autorização, documentação de serviços e gerenciamento de variáveis de ambiente (environments) de aplicações.",
         "type": "project",
         "link": "https://treinamento.nodebr.org",
-        "tags": ["training", "online","nodejs", "javascript", "iniciantes", "docker"],
+        "tags": ["training", "online", "nodejs", "javascript", "iniciantes", "docker"],
         "additionalLinks": ["https://treinamento.nodebr.org", "https://github.com/nodejsbrazil/cursonodebr01"],
         "language": "pt-br",
         "date": "2018-11-27"
+    },
+    {
+        "title": "Tradução Oficial #MDN - Função Reduce Javascript",
+        "abstract": "Acesse o Array.prototype.reduce – Javascript | MDN para a documentação completa em português.",
+        "type": "project",
+        "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce",
+        "tags": ["transaltion", "javascript"],
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2015-07-26"
     }
 ]

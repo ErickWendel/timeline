@@ -1,5 +1,4 @@
-[
-    {
+[{
         "title": "WTF Are Serverless Apps?",
         "abstract": "Many myths and histories are created every day about the Serverless architectures and concepts. Maybe because the attractive price,  availability metrics or the power to scale apps without additional configurations. Attendees will learn how to deep in the serverless architecture, how to start and how to avoid surprises at the end of the month with high prices on their credit cards.",
         "type": "talk",
@@ -33,7 +32,7 @@
         "slides": "https://www.icloud.com/keynote/0cu5MB1vmU-Znze_o5ETuYZaw#Dojo-online_-_liveshare_10012019",
         "photos": "",
         "video": "https://youtu.be/-JehgrelrfU",
-        "tags": ["codingdojo", "online", "webinar", "vscode"], 
+        "tags": ["codingdojo", "online", "webinar", "vscode"],
         "location": {
             "latitude": -23.5542256,
             "longitude": -46.6744607,
@@ -1162,6 +1161,166 @@
         },
         "language": "pt-br",
         "date": "2016-02-13"
+    },
+    {
+        "title": "NodeJS com TypeScript e VSCode",
+        "abstract": "Com intuito de aprender um pouco mais sobre tecnologias Javascript, nos reunimos na comunidade NodeBR onde realizamos diversas apresentações. Dentre as apresentações, mostrei a partir de  palestra os benefícios da utilização de TypeScript em projetos NodeJS. Falamos sobre os diversos benefícios, features e os diferenciais da linguagem.",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/nodebr/events/227824582/",
+            "name": "Meetup Janeiro: let year = new Year();"
+        },
+        "slides": "http://1drv.ms/1RWSAZv%C2%AD",
+        "photos": "",
+        "video": "",
+        "tags": ["vscode", "node.js", "typescript"],
+        "location": {
+            "latitude": -23.5660935,
+            "longitude": -46.6525401,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2016-01-16"
+    },
+    {
+        "title": "Mini curso gratuito sobre Web Scrapping",
+        "abstract": "",
+        "type": "talk",
+        "event": {
+            "link": "",
+            "name": "MSP Coding Day 2015"
+        },
+        "slides": "https://1drv.ms/p/s!AjT_1Ts1KuWNjFHYTOqhRSLOCaVz",
+        "photos": "",
+        "video": "",
+        "tags": ["c#", "dotnet", ".net"],
+        "location": {
+            "latitude": -23.9675782,
+            "longitude": -46.3342055,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "Santos"
+        },
+        "additionalLinks": ["http://bit.ly/WebScraping-Erick", "http://www.jornalvicentino.com.br/sao-vicente/msp-coding-day-e-realizado-na-comunidade-net-baixada-em-sv/", "http://www.jornalvicentino.com.br/sao-vicente/apaixonados-por-tecnologia-viraram-a-noite-codificando-em-sao-vicente/"],
+        "language": "pt-br",
+        "date": "2015-11-30"
+    },
+    {
+        "title": "Desenvolvimento de Malwares com C#",
+        "abstract": "Uma madrugada de programação voltada a desenvolvimento de trojans e botnets",
+        "type": "talk",
+        "event": {
+            "link": "",
+            "name": "MSP Coding at Night 2015"
+        },
+        "slides": "https://www.slideshare.net/EriickWendell/desenvolvimento-de-malwares-com-c",
+        "photos": "2015-11-02-Desenvolvimento_de_Malwares_com_C#",
+        "video": "",
+        "tags": ["malware", "trojan", "c#", "dotnet"],
+        "location": {
+            "latitude": -23.9675782,
+            "longitude": -46.3342055,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "Santos"
+        },
+        "additionalLinks": ["https://goo.gl/photos/rcmee57s4PTJvakZ9"],
+        "language": "pt-br",
+        "date": "2015-11-02"
+    },
+    {
+        "title": "WebScraping com C#",
+        "abstract": "Criamos uma aplicação para extração de dados de um determinado Web Site (com informações públicas) e armazenamos numa base de dados local, a fim de mostrar as facilidades da linguagem de programação C#(C sharp) juntamente com a biblioteca Html Agility Pack.",
+        "type": "talk",
+        "event": {
+            "link": "https://github.com/nerdzao/.NETCodersDay-13-06-15",
+            "name": ".NET Coders Day"
+        },
+        "slides": "https://pt.slideshare.net/EriickWendell/mini-curso-webscraping",
+        "photos": "2015-06-12-WebScraping_com_C#",
+        "video": "",
+        "tags": ["c#", "dotnet", "webscrapping"],
+        "location": {
+            "latitude": -23.5092369,
+            "longitude": -46.62805,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": ["http://bit.ly/WebScraping-Erick", "https://github.com/nerdzao/.NETCodersDay-13-06-15"],
+        "language": "pt-br",
+        "date": "2015-06-12"
+    },
+    {
+        "title": "O grupo .NET Coders",
+        "abstract": "",
+        "type": "talk",
+        "event": {
+            "link": "https://github.com/nerdzao/.NETCodersDay-13-06-15",
+            "name": ".NET Coders Day"
+        },
+        "slides": "http://pt.slideshare.net/EriickWendell/net-coders",
+        "photos": "2015-06-12-WebScraping_com_C#",
+        "video": "",
+        "tags": ["c#", "dotnet", "webscrapping"],
+        "location": {
+            "latitude": -23.5092369,
+            "longitude": -46.62805,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": ["https://github.com/nerdzao/.NETCodersDay-13-06-15"],
+        "language": "pt-br",
+        "date": "2015-06-12"
+    },
+    {
+        "title": "Corujão de ASP.NET MVC 5.2",
+        "abstract": "Madrugada, das 23:00 as 04:00 com Hands-on de ASP.net MVC 5.2",
+        "type": "talk",
+        "event": {
+            "link": "",
+            "name": "Corujão de ASP.NET MVC 5.2 - .NETCoders"
+        },
+        "slides": "",
+        "photos": "2015-08-23_Corujão_de_ASP.NET_MVC",
+        "video": "",
+        "tags": [""],
+       "location": {
+           "latitude": -23.5506339,
+           "longitude": -46.5780888,
+           "country": "Brazil",
+           "uf": "SP",
+           "city": "São Paulo"
+       },
+        "additionalLinks": [""],
+         "language": "pt-br",
+        "date": "2015-08-23"
+    },
+    {
+        "title": "Google Adwords para desenvolvedores",
+        "abstract": "Em 30/01/2015, realizei uma apresentação junto ao Albert Bitencourt , na sede da Comunidade .NET Coders, onde falamos sobre regras de Marketing, o porque de desenvolvedores saberem o mínimo de SEO, facilitação ao estruturar uma campanha de marketing com o Google Adwords, métricas de campanhas, tipos de redes e por aí vai. Também sorteamos diversos prêmios aos participantes, como cursos (da patrocinadora LGroup), canecas e camisas do grupo, squeezes e fones de ouvido pelo Evangelista Microsoft Marlon Luz.",
+        "type": "talk",
+        "event": {
+            "link": "",
+            "name": "Google Adwords para desenvolvedores - .NETCoders"
+        },
+        "slides": "https://pt.slideshare.net/EriickWendell/palestra-de-google-adwords",
+        "photos": "",
+        "video": "",
+        "tags": ["adwords"],
+        "location": {
+            "latitude": -23.5506339,
+            "longitude": -46.5780888,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2015-01-30"
     }
-
 ]
