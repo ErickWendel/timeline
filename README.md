@@ -529,6 +529,9 @@ Abstract:
 
 > High availability, high consistency, high disponibility are the popular words when we think about Web Applications but when our application increase, we have many problems and situations to solve. The objective of this talk is show the Kubernetes' power and facility to you can get conquer all of this keywords in your projects, exploring the best of Kubernetes has to you
 > 
+> <b>Links</b>
+> 
+> - <a href="https://www.infoq.com/br/presentations/scaling-your-applications-with-kubernetes-and-docker" target="_blank">https://www.infoq.com/br/presentations/scaling-your-applications-with-kubernetes-and-docker</a>
 > 
 
 

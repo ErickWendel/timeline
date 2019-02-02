@@ -557,7 +557,7 @@
             "link": "https://www.theconf.club/",
             "name": "TheConf 2018"
         },
-        "additionalLinks": [""],
+        "additionalLinks": ["https://www.infoq.com/br/presentations/scaling-your-applications-with-kubernetes-and-docker"],
         "slides": "https://www.icloud.com/keynote/0mpRDRsKBIcIkmNCTrOstp5fQ#Scalling_your_apps_with_K8s_and_Docker_-_TheConf_-_21092018",
         "photos": "2018-09-21-scaling_your_applications_with_kubernetes_and_docker/photos",
         "video": "https://youtu.be/cAwDALyoVUw",
