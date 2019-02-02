@@ -1,4 +1,25 @@
-[{
+[
+    {
+        "title": "nCatossi Chrome Extension",
+        "abstract": "Replaces all images on all pages to Catossi. (Fork of nCage plugin, all credits to qwertyman1)",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/nCatossi",
+        "tags": ["chrome", "nodejs"],
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2017-05-21"
+    },
+    {
+        "title": "trollXsemicolon - VSCode Extension",
+        "abstract": "Extensão para substituir todos os ponto e virgulas pelo greek question mark\nSubstitui todos os ponto e vírgula (;) pelo greek question mark, caractere similar ao nosso ponto e virgula que não é reconhecido pelos nossos editores :D",
+        "type": "project",
+        "link": "https://marketplace.visualstudio.com/items?itemName=eriickwendel.troll-x-semicolon",
+        "tags": ["vscode", "vscode-extension", "node.js", "typescript"],
+        "additionalLinks": ["https://github.com/ErickWendel/trollXsemicolon-vscode"],
+        "language": "pt-br",
+        "date": "2017-09-08"
+    },
+    {
         "title": "Primeiros passos com TypeScript no Visual Studio Code",
         "abstract": "sse curso mostra como o Visual Studio Code pode ser utilizado para empoderar o desenvolvedor da plataforma NodeJS a fazer código em todos os principais sistemas operacionais de uma forma mais rápida e integrada",
         "type": "project",

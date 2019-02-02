@@ -1,4 +1,97 @@
-[{
+[
+    {
+        "title": "Arquitetura Serverless",
+        "abstract": "Traduzindo ao pé da letra, um sistema com arquitetura serverless, seria uma arquitetura 'sem servidores'. Mas será que é isso mesmo?Neste episódio do Alura Live, Gabs Ferreira conversa com Erick Wendel sobre o que é este tipo de arquitetura, como funciona por trás dos panos e quais suas vantagens.",
+        "type": "talk",
+        "event": {
+            "link": "https://www.youtube.com/watch?v=rwlGnRdk2U4",
+            "name": "Alura Live #56"
+        },
+        "slides": "",
+        "photos": "",
+        "video": "https://www.youtube.com/watch?v=rwlGnRdk2U4",
+        "tags": ["webinar", "serverless"],
+        "location": {
+            "latitude": -23.5882491,
+            "longitude": -46.6346657,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2017-11-16"
+    },
+    {
+        "title": "Construindo sua própria inteligência artificial como assistente pessoal",
+        "abstract": "Diversas tecnologias têm-se consagrado, diversas inovações e curiosidades, vamos entender como criar o próprio assistente pessoal, utilizando o Alexa (Amazon Echo), explorando os serviços, mistérios e facilidades.",
+        "type": "talk",
+        "event": {
+            "link": "https://campuse.ro/events/campus-party-minas-gerais-2017/talk/construindo-sua-propria-inteligencia-artificial-como-assistente-pessoal-cpmg2/",
+            "name": "Campus Party Minas Gerais 2017 - #CPMG2"
+        },
+        "slides": "https://docs.google.com/presentation/d/10oIZDmxbaTemW5aIv0d_Vp2IxM5gvzwCpwuV6AdIOu0/edit?usp=sharing",
+        "photos": "2017-11-03-Construindo_sua_própria_inteligência_artificial_como_assistente_pessoal",
+        "video": "",
+        "tags": ["node.js", "aws", "typescript"],
+        "location": {
+            "latitude": -19.920275,
+            "longitude": -43.934066,
+            "country": "Brazil",
+            "uf": "MG",
+            "city": "Belo Horizonte"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2017-11-03"
+    },
+    {
+        "title": "Building VSCode Extensions with TypeScript",
+        "abstract": "",
+        "type": "talk",
+        "event": {
+            "link": "https://www.sympla.com.br/capiconf-mini__169988#info",
+            "name": "#CapiConf Mini 2017"
+        },
+        "slides": "https://slides.com/erickwendel/building-vscode-extensions-with-typescript-capiconf-mini/",
+        "photos": "",
+        "video": "",
+        "tags": ["node.js", "vscode", "typescript"],
+        "location": {
+            "latitude": -25.4332082,
+            "longitude": -49.2752017,
+            "country": "Brazil",
+            "uf": "PR",
+            "city": "Curitiba"
+        },
+        "additionalLinks": ["https://github.com/ErickWendel/palestra-vscode-extensions"],
+        "language": "pt-br",
+        "date": "2017-09-16"
+    },
+    {
+        "title": "Alta Performance e Disponibilidade de aplicações Node.js",
+        "abstract": "Palestra que rolou no DevXperience em 01/09/17, onde falei sobre como dar aquela 'tunada' em suas aplicações Node.js, melhorando o tempo de resposta, velocidade em carregamento e concorrência de usuários :D",
+        "type": "talk",
+        "event": {
+            "link": "https://www.sympla.com.br/devxperience-2017__109753#info",
+            "name": "DevExperience 2017"
+        },
+        "slides": "http://slides.com/erickwendel/alta-performance-e-disponibilidade-de-aplicaes-nodejs-devxperience/fullscreen",
+        "photos": "2017-09-01-Alta_Performance_e_Disponibilidade_de_aplicações_Nodejs",
+        "video": "",
+        "tags": ["node.js", "performance", "hapijs"],
+        "location": {
+            "latitude": -23.5816653,
+            "longitude": -46.6690279,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": ["https://github.com/ErickWendel/palestra-performance-nodejs"],
+        "language": "pt-br",
+        "date": "2017-09-01"
+    } ,
+    {
         "title": "A vida e as aventuras de um desenvolvedor de Software",
         "abstract": "Além de produzir sistemas complexos, análises críticas e propor soluções para as maiores corporações, desenvolvedores possuem desafios contínuos, como multidisciplinaridade, estresse e prazos de entrega. Nesta apresentação, os participantes entenderão o lado divertido, inovador e fora da caixa de ser um desenvolvedor dicas de como manter-se motivado e transformar o trabalho em diversão.",
         "type": "talk",
@@ -7,7 +100,7 @@
             "name": "Campus Night Itajubá"
         },
         "slides": "",
-        "photos": "",
+        "photos": "2017-08-26-A_vida_e_as_aventuras_de_um_desenvolvedor_de_Software",
         "video": "",
         "tags": ["career"],
         "location": {
@@ -27,7 +120,7 @@
         "type": "talk",
         "event": {
             "link": "http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-node-js",
-            "name": "TDC 2017 | São Paulo "
+            "name": "The Developers Conference 2017 | São Paulo "
         },
         "slides": "https://slides.com/erickwendel/jobtask-queue-with-nodejs-tdc-2017",
         "photos": "",
@@ -73,7 +166,7 @@
         "type": "talk",
         "event": {
             "link": "https://www.sympla.com.br/virada-tecnologica-sao-paulo---2017__144564#info",
-            "name": "Virada Tecnológica São Paulo - 2017"
+            "name": "Virada Tecnológica São Paulo - 2017 - PUCSP"
         },
         "slides": "",
         "photos": "",
@@ -86,7 +179,7 @@
             "uf": "SP",
             "city": "São Paulo"
         },
-        "additionalLinks": [""],
+        "additionalLinks": ["https://github.com/ErickWendel/laboratorio-nodejs-typescript-pucsp"],
         "language": "pt-br",
         "date": "2017-07-02"
     } , {
@@ -748,7 +841,7 @@
             "link": "http://bit.ly/live-mongodb",
             "name": "Canal.NET"
         },
-        "additionalLinks": [""],
+        "additionalLinks": ["https://github.com/erickwendel/palestra-mongodb-aggregation-canal.net"],
         "slides": "http://bit.ly/canalnet-aggregation-framework-slides-erickwendel",
         "photos": "2018-03-28-o_poder_do_mongodb_aggregation_framework",
         "video": "http://bit.ly/live-mongodb",
@@ -840,9 +933,9 @@
             "link": "http://bit.ly/erickwendel-robos-extração-campusparty",
             "name": "Campus Party BR - 2018"
         },
-        "additionalLinks": [""],
+        "additionalLinks": ["https://github.com/ErickWendel/palestra-robos-com-selenium-cpbr11"],
         "slides": "http://bit.ly/cpbr-erickwendel-robos-automatizados-slides",
-        "photos": "",
+        "photos": "2018-02-01-Construindo_Robôs_automatizados_para_extração_de_informações",
         "video": "https://youtu.be/FANolqvoQQA",
         "tags": ["node.js", "javascript", "web scrapping"],
         "location": {
@@ -856,7 +949,7 @@
         "date": "2018-02-01"
     },
     {
-        "title": "Pensando além do código, dicas e segredos para criação de um software",
+        "title": "Pensando além do código, dicas e segredos para criação de um desenvolvedor de software",
         "abstract": "Sabemos que escrever código é sempre desafiador e na maioria das vezes divertido. Programadores se concentram na entrega e escala de seus software, mas sabemos que software é só um dos pilares para a entrega de um produto,nessa palestra, voce entenderá quais são os passos para montar seu produto de ponta a ponta, mudando o Mindset, pensando além do código.",
         "type": "talk",
         "event": {
@@ -886,7 +979,7 @@
             "link": "http://erickwendel.com.br/2017/08/15/js-challenge1-coding-dojo-com-javascript/",
             "name": "JS Challenge #1"
         },
-        "additionalLinks": [""],
+        "additionalLinks": ["https://github.com/ErickWendel/coding-dojo-js-purple99"],
         "slides": "http://slides.com/erickwendel/coding-dojo-com-javascript-purple99#/",
         "photos": "2017-08-15-coding_dojo_com_javascript",
         "video": "",
@@ -955,7 +1048,7 @@
             "link": "https://www.facebook.com/fullstackexperience",
             "name": "Full Stack Experience"
         },
-        "additionalLinks": [""],
+        "additionalLinks": ["https://github.com/ErickWendel/nodejs-microservicos-docker"],
         "slides": "http://slides.com/erickwendel/nodejs-microservicos-e-containerizao#/",
         "photos": "2017-06-09-nodejs,_microserviços_e_containerização",
         "video": "",
@@ -978,7 +1071,7 @@
             "link": "https://www.meetup.com/pt-BR/Mobile-Brasil/photos/27768346/459991691/",
             "name": "[ESPECIAL] Internet of Everything"
         },
-        "additionalLinks": [""],
+        "additionalLinks": ["https://github.com/ErickWendel/workshop-docker-nodejs-azure"],
         "slides": "http://slides.com/erickwendel/workshop-docker-nodejs-azure-microsoft",
         "photos": "2017-04-12-docker_e_aplicações_node.js_no_microsoft_azure",
         "video": "https://www.facebook.com/MicrosoftDeveloper.Brasil/videos/1437245592963996/",

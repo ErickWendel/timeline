@@ -4,8 +4,15 @@ _Search with `⌘/ctrl + f`_
 
 This is a list of activities from talks that I've given at meetups and conferences and blog posts (starting from most recent). (in construction)
 
-## Timeline
+**Erick Wendel** is a Speaker, Software Consultant and community Co-organizer in Brazil. Named by Microsoft as Most Valuable Professional, and by Google as Google Developer Expert, a specialist in Node.js and Javascript Applications. He is a Software Independent Architect who helps companies to make better and cheaper applications using Serverless architectures, Container based applications, and Hybrid Cloud solutions. He has experience speaking and teaching at the biggest conferences in Brazil and Americas, working as voluntary Leader of NodeBR, Javascript São Paulo and Nerdzão Communities.
 
+Twitter:  [@erickwendel_](https://twitter.com/erickwendel_)  
+Linkedin:  [br.linkedin.com/in/erickwendel](http://br.linkedin.com/in/erickwendel)  
+Github:  [github.com/erickwendel](https://github.com/erickwendel)  
+Facebook:  [fb.com/page.erickwendel](https://fb.com/page.erickwendel)  
+Website:  [erickwendel.com](http://erickwendel.com/)
+
+### Contributions Summary
 * **Projects**: 2018/November - 2015/July 
 * **Demonstrations**: 2018/December - 2016/September 
 * **Blog Posts**: 2018/March - 2015/February 
@@ -13,10 +20,10 @@ This is a list of activities from talks that I've given at meetups and conferenc
 
 ## Table of Contents
 
-- [Projects (04)](#projects)
+- [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (08)](#blog-posts)
-- [Conference Talks (71)](#conference-talks)
+- [Conference Talks (75)](#conference-talks)
 
 ## Projects
 
@@ -52,6 +59,34 @@ Abstract:
 
 _Tags: `training`, `online`, `docker`, `kubernetes`, `microsoft`_
 
+### <a href="https://marketplace.visualstudio.com/items?itemName=eriickwendel.troll-x-semicolon" target="_blank">2017-09-08 - trollXsemicolon - VSCode Extension (pt-br)</a>
+
+
+Abstract:
+
+> Extensão para substituir todos os ponto e virgulas pelo greek question mark
+> Substitui todos os ponto e vírgula (;) pelo greek question mark, caractere similar ao nosso ponto e virgula que não é reconhecido pelos nossos editores :D
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/trollXsemicolon-vscode" target="_blank">https://github.com/ErickWendel/trollXsemicolon-vscode</a>
+> 
+
+
+_Tags: `vscode`, `vscode-extension`, `node.js`, `typescript`_
+
+### <a href="https://github.com/ErickWendel/nCatossi" target="_blank">2017-05-21 - nCatossi Chrome Extension (pt-br)</a>
+
+
+Abstract:
+
+> Replaces all images on all pages to Catossi. (Fork of nCage plugin, all credits to qwertyman1)
+> 
+> 
+
+
+_Tags: `chrome`, `nodejs`_
+
 ### <a href="https://channel9.msdn.com/blogs/DX/Primeiros-passos-com-TypeScript-no-Visual-Studio-Code" target="_blank">2016-02-05 - Primeiros passos com TypeScript no Visual Studio Code (pt-br)</a>
 
 
@@ -79,7 +114,7 @@ Abstract:
 > 
 
 
-_Tags: `transaltion`, `javascript`_
+_Tags: `translation`, `javascript`_
 
 
 ## Demonstrations
@@ -115,6 +150,9 @@ Abstract:
 
 > Basicamente, o usuario em algum momento deixou o celular desbloqueado em sua mão e voce instalou o #USBHacker. Feito isso, quando ele for dormir, colocar o celular para carregar, nosso malware dispara ações, como GRITAR sem parar, faz com que o usuário não consiga fechar a aplicação, não consiga diminuir o volume, pisca com a nossa foto (manipulando o brilho), vibra, pisca a lanterna do celular e o MAIS LEGAL! Enquanto a pessoa está desesperada, suas fotos são tiradas em segundo plano e enviadas direto para um site em tempo real, para o mundo inteiro rir de sua reação.
 > 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/USBHacker" target="_blank">https://github.com/ErickWendel/USBHacker</a>
 > 
 
 
@@ -151,6 +189,9 @@ Abstract:
 
 > Olá galera, estive no The Big Hackathon realizado na Campus Party BR 10, como mentor. Na madrugada de 03/02 para 04/02, desenvolvi uma aplicação para mostrar o poder de um desenvolvedor de software, para a palestra também realizada na CPBR10 (link abaixo). No video, demonstramos a arquitetura e como foi desenvolvido, a demonstração voce encontra logo abaixo.
 > 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/Trojan.Android-CampusParty" target="_blank">https://github.com/ErickWendel/Trojan.Android-CampusParty</a>
 > 
 
 
@@ -580,24 +621,6 @@ Abstract:
 
 _Tags: `javascript`, `async`, `node.js`_
 
-### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
-
-
-<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
-
-
-<a href="https://docs.google.com/presentation/d/1u2SoBPiohhbaopGepC2eQ8fJWf-TJT2qWY_qICJgqlM/edit?usp=sharing" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=NexvZCJFil8" target="_blank">video</a>
-
-
-Abstract:
-
-> Já pensou em reviver os tempos antigos de uma forma mais digital? Nessa palestra os participantes aprenderão como criar aplicações em tempo real com Node.js baseado no projeto Original Potato que desenvolvemos explorando o podencial de aplicações Web e facilidades do Javascript.
-> 
-> 
-
-
-_Tags: `node.js`, `javascript`, `websocket`, `socketio`_
-
 ### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
 
 
@@ -615,6 +638,24 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `faceapi`, `azure`_
+
+### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
+
+
+<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
+
+
+<a href="https://docs.google.com/presentation/d/1u2SoBPiohhbaopGepC2eQ8fJWf-TJT2qWY_qICJgqlM/edit?usp=sharing" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=NexvZCJFil8" target="_blank">video</a>
+
+
+Abstract:
+
+> Já pensou em reviver os tempos antigos de uma forma mais digital? Nessa palestra os participantes aprenderão como criar aplicações em tempo real com Node.js baseado no projeto Original Potato que desenvolvemos explorando o podencial de aplicações Web e facilidades do Javascript.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`, `websocket`, `socketio`_
 
 ### 2018-06-16 - Node.js e Typescript - Extraindo informações da Marvel Comics com Web Scrapping (pt-br)
 
@@ -701,6 +742,9 @@ Abstract:
 
 > Trabalhando com MongoDB, nos deparamos com alguns métodos repetitivos, operações complexas e na maioria das vezes, causa uma perda grande de memória e processamento ao realizá-la. Nessa live você entenderá quando usar e como usar o melhor do MongoDB, com exemplos práticos, facilitando as operações do dia-a-dia e melhorando a entrega de seus projetos.
 > 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/erickwendel/palestra-mongodb-aggregation-canal.net" target="_blank">https://github.com/erickwendel/palestra-mongodb-aggregation-canal.net</a>
 > 
 
 
@@ -802,19 +846,22 @@ _Tags: `git`, `gitcrypt`_
 <a href="http://bit.ly/erickwendel-robos-extração-campusparty" target="_blank">Campus Party BR - 2018</a>
 
 
-<a href="http://bit.ly/cpbr-erickwendel-robos-automatizados-slides" target="_blank">slides</a> |   <a href="https://youtu.be/FANolqvoQQA" target="_blank">video</a>
+<a href="http://bit.ly/cpbr-erickwendel-robos-automatizados-slides" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-02-01-Construindo_Robôs_automatizados_para_extração_de_informações" target="_blank">photos</a> |  <a href="https://youtu.be/FANolqvoQQA" target="_blank">video</a>
 
 
 Abstract:
 
 > Em nossa vida, fazemos diversas ações repetitivas, seja entrar em um site para visualizar dados e registrar em uma base posterior, seja cadastrar um mesmo item a cada tempo ou até mesmo publicar coisas no Facebook. Nesta palestra, você entenderá a facilidade de criar seu robô totalmente atualizado e pronto para liberar aquele tempo preciso para focar no que realmente é estratégico. Vamos conhecer a ferramenta Selenium Web Driver para simular um usuário no navegador e fazer todas as suas tarefas automagicamente.
 > 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/palestra-robos-com-selenium-cpbr11" target="_blank">https://github.com/ErickWendel/palestra-robos-com-selenium-cpbr11</a>
 > 
 
 
 _Tags: `node.js`, `javascript`, `web scrapping`_
 
-### 2018-01-31 - Pensando além do código, dicas e segredos para criação de um software (pt-br)
+### 2018-01-31 - Pensando além do código, dicas e segredos para criação de um desenvolvedor de software (pt-br)
 
 
 <a href="https://campuse.ro/events/campus-party-brasil-2018/talk/pensando-alem-do-codigo-dicas-e-segredos-para-criacao-de-um-software-cpbr11/" target="_blank">Campus Party BR - 2018</a>
@@ -831,6 +878,24 @@ Abstract:
 
 
 _Tags: `node.js`, `career`_
+
+### 2017-11-16 - Arquitetura Serverless (pt-br)
+
+
+<a href="https://www.youtube.com/watch?v=rwlGnRdk2U4" target="_blank">Alura Live #56</a>
+
+
+  <a href="https://www.youtube.com/watch?v=rwlGnRdk2U4" target="_blank">video</a>
+
+
+Abstract:
+
+> Traduzindo ao pé da letra, um sistema com arquitetura serverless, seria uma arquitetura 'sem servidores'. Mas será que é isso mesmo?Neste episódio do Alura Live, Gabs Ferreira conversa com Erick Wendel sobre o que é este tipo de arquitetura, como funciona por trás dos panos e quais suas vantagens.
+> 
+> 
+
+
+_Tags: `webinar`, `serverless`_
 
 ### 2017-11-11 - Desenvolvimento de Malwares com C# (pt-br)
 
@@ -852,6 +917,24 @@ Abstract:
 
 
 _Tags: `malware`, `c#`_
+
+### 2017-11-03 - Construindo sua própria inteligência artificial como assistente pessoal (pt-br)
+
+
+<a href="https://campuse.ro/events/campus-party-minas-gerais-2017/talk/construindo-sua-propria-inteligencia-artificial-como-assistente-pessoal-cpmg2/" target="_blank">Campus Party Minas Gerais 2017 - #CPMG2</a>
+
+
+<a href="https://docs.google.com/presentation/d/10oIZDmxbaTemW5aIv0d_Vp2IxM5gvzwCpwuV6AdIOu0/edit?usp=sharing" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2017-11-03-Construindo_sua_própria_inteligência_artificial_como_assistente_pessoal" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Diversas tecnologias têm-se consagrado, diversas inovações e curiosidades, vamos entender como criar o próprio assistente pessoal, utilizando o Alexa (Amazon Echo), explorando os serviços, mistérios e facilidades.
+> 
+> 
+
+
+_Tags: `node.js`, `aws`, `typescript`_
 
 ### 2017-10-29 - Carreira em Desenvolvimento de Software (pt-br)
 
@@ -907,13 +990,55 @@ Abstract:
 
 _Tags: `node.js`, `javascript`, `typescript`_
 
+### 2017-09-16 - Building VSCode Extensions with TypeScript (pt-br)
+
+
+<a href="https://www.sympla.com.br/capiconf-mini__169988#info" target="_blank">#CapiConf Mini 2017</a>
+
+
+  
+
+
+Abstract:
+
+> 
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/palestra-vscode-extensions" target="_blank">https://github.com/ErickWendel/palestra-vscode-extensions</a>
+> 
+
+
+_Tags: `node.js`, `vscode`, `typescript`_
+
+### 2017-09-01 - Alta Performance e Disponibilidade de aplicações Node.js (pt-br)
+
+
+<a href="https://www.sympla.com.br/devxperience-2017__109753#info" target="_blank">DevExperience 2017</a>
+
+
+<a href="http://slides.com/erickwendel/alta-performance-e-disponibilidade-de-aplicaes-nodejs-devxperience/fullscreen" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2017-09-01-Alta_Performance_e_Disponibilidade_de_aplicações_Nodejs" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Palestra que rolou no DevXperience em 01/09/17, onde falei sobre como dar aquela 'tunada' em suas aplicações Node.js, melhorando o tempo de resposta, velocidade em carregamento e concorrência de usuários :D
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/palestra-performance-nodejs" target="_blank">https://github.com/ErickWendel/palestra-performance-nodejs</a>
+> 
+
+
+_Tags: `node.js`, `performance`, `hapijs`_
+
 ### 2017-08-26 - A vida e as aventuras de um desenvolvedor de Software (pt-br)
 
 
 <a href="https://campuse.ro/events/campus-night-itajuba-2017/talk/a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-1/" target="_blank">Campus Night Itajubá</a>
 
 
-  
+ <a href="https://github.com/ErickWendel/timeline/tree/master/2017-08-26-A_vida_e_as_aventuras_de_um_desenvolvedor_de_Software" target="_blank">photos</a> 
 
 
 Abstract:
@@ -938,6 +1063,9 @@ Abstract:
 
 > Coding dojo é uma prática que incentiva a realização de desafios focados em algoritmos, onde usamos técnicas como o TDD. Participantes sobem ao palco em duplas e cada um tem 5 minutos para resolver/continuar o desafio da pessoa anterior
 > 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/coding-dojo-js-purple99" target="_blank">https://github.com/ErickWendel/coding-dojo-js-purple99</a>
 > 
 
 
@@ -964,7 +1092,7 @@ _Tags: `webinar`, `career`_
 ### 2017-07-19 - Job/Task Queue com Bee-Queue - Performance e Resiliência em aplicações Node.js (pt-br)
 
 
-<a href="http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-node-js" target="_blank">TDC 2017 | São Paulo </a>
+<a href="http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-node-js" target="_blank">The Developers Conference 2017 | São Paulo </a>
 
 
   
@@ -985,7 +1113,7 @@ _Tags: `node.js`, `performance`_
 ### 2017-07-02 - Construindo APIs com NodeJs e TypeScript (pt-br)
 
 
-<a href="https://www.sympla.com.br/virada-tecnologica-sao-paulo---2017__144564#info" target="_blank">Virada Tecnológica São Paulo - 2017</a>
+<a href="https://www.sympla.com.br/virada-tecnologica-sao-paulo---2017__144564#info" target="_blank">Virada Tecnológica São Paulo - 2017 - PUCSP</a>
 
 
   
@@ -995,6 +1123,9 @@ Abstract:
 
 > 
 > 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/laboratorio-nodejs-typescript-pucsp" target="_blank">https://github.com/ErickWendel/laboratorio-nodejs-typescript-pucsp</a>
 > 
 
 
@@ -1053,6 +1184,9 @@ Abstract:
 > É importante entender como as aplicações funcionam e como a arquitetura está evoluindo. Pensando nisto, abordaremos sobre os benefícios de Docker para criação de microserviços com Node.js
 > https://flic.kr/s/aHsm2yPkFW
 > 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/nodejs-microservicos-docker" target="_blank">https://github.com/ErickWendel/nodejs-microservicos-docker</a>
 > 
 
 
@@ -1071,6 +1205,9 @@ Abstract:
 
 > Nesta apresentação focaremos em como docker e node.js podem ser uteis trabalhando com Microsoft Azure. Vamos aprender na prática como containerizar uma aplicação usando dockerfile, docker-compose e container services.
 > 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/workshop-docker-nodejs-azure" target="_blank">https://github.com/ErickWendel/workshop-docker-nodejs-azure</a>
 > 
 
 
@@ -1244,24 +1381,6 @@ Abstract:
 
 _Tags: `node.js`, `mocha`, `tdd`, `tests`, `javascript`, `chai`, `jasmine`_
 
-### 2016-11-18 - Entrevista Faculdade Impacta – Mercado em Desenvolvimento (pt-br)
-
-
-<a href="" target="_blank">Feira de oportunidades - Faculdade Impacta</a>
-
-
-  <a href="https://www.facebook.com/FacImpacta/videos/1352590924752354/" target="_blank">video</a>
-
-
-Abstract:
-
-> mercado em TI, dicas para alunos e comunidades
-> 
-> 
-
-
-_Tags: `career`_
-
 ### 2016-11-18 - NodeJS e HapiJS – Construindo APIs com Javascript (pt-br)
 
 
@@ -1280,6 +1399,24 @@ Abstract:
 
 
 _Tags: `node.js`, `typescript`, `javascript`_
+
+### 2016-11-18 - Entrevista Faculdade Impacta – Mercado em Desenvolvimento (pt-br)
+
+
+<a href="" target="_blank">Feira de oportunidades - Faculdade Impacta</a>
+
+
+  <a href="https://www.facebook.com/FacImpacta/videos/1352590924752354/" target="_blank">video</a>
+
+
+Abstract:
+
+> mercado em TI, dicas para alunos e comunidades
+> 
+> 
+
+
+_Tags: `career`_
 
 ### 2016-11-14 - Typescript – 1 Minuto de Tecnologia (pt-br)
 
