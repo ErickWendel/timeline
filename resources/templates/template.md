@@ -13,10 +13,13 @@ Facebook:  [fb.com/page.erickwendel](https://fb.com/page.erickwendel)
 Website:  [erickwendel.com](http://erickwendel.com/)
 
 ### Contributions Summary
+
 * **Projects**: $$timeline_project$$
 * **Demonstrations**: $$timeline_demo$$
 * **Blog Posts**: $$timeline_blog$$
 * **Conference Talks**: $$timeline_talk$$
+
+#### Presentations' number: $$count_total
 
 ## Table of Contents
 

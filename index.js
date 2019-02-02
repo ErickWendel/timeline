@@ -6,6 +6,7 @@ const {
 } = require('fs')
 
 const VIDEO_COUNT_TAG = '$$count_demo'
+const TOTAL_PRESENTATIONS_TAG = '$$count_total'
 const POST_COUNT_TAG = '$$count_blog'
 const TALK_COUNT_TAG = '$$count_talk'
 const PROJECT_COUNT_TAG = '$$count_project'
@@ -194,6 +195,7 @@ function normalizeCount(arr) {
         countProjects
     ] = [talks, posts, videos, projects].map(normalizeCount)
 
+    const totalPresentations = parseInt(countTalks) + parseInt(countVideos)
     const content = data
         .replace(TALK_CONTENT_TAG, json2md(talksMd))
         .replace(TALK_COUNT_TAG, countTalks)
@@ -210,6 +212,8 @@ function normalizeCount(arr) {
         .replace(PROJECT_CONTENT_TAG, json2md(projectsMd))
         .replace(PROJECT_COUNT_TAG, countProjects)
         .replace(TIMELINE_PROJECT_TAG, maxMinDateProjects)
+
+        .replace(TOTAL_PRESENTATIONS_TAG, totalPresentations)
 
     writeFileSync('README.md', content)
     console.log(`Talks: ${countTalks}, Posts: ${countPosts}, Videos: ${countVideos}, Projects: ${countProjects}`)

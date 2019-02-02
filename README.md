@@ -13,10 +13,13 @@ Facebook:  [fb.com/page.erickwendel](https://fb.com/page.erickwendel)
 Website:  [erickwendel.com](http://erickwendel.com/)
 
 ### Contributions Summary
+
 * **Projects**: 2018/November - 2015/July 
 * **Demonstrations**: 2018/December - 2016/September 
 * **Blog Posts**: 2018/March - 2015/February 
 * **Conference Talks**: 2019/January - 2015/January 
+
+#### Presentations' number: 83
 
 ## Table of Contents
 
