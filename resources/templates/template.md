@@ -4,7 +4,7 @@ _Search with `⌘/ctrl + f`_
 
 This is a list of activities from talks that I've given at meetups and conferences and blog posts (starting from most recent). (in construction)
 
-**Erick Wendel** is a Speaker, Software Consultant and community Co-organizer in Brazil. Named by Microsoft as Most Valuable Professional, and by Google as Google Developer Expert, a specialist in Node.js and Javascript Applications. He is a Software Independent Architect who helps companies to make better and cheaper applications using Serverless architectures, Container based applications, and Hybrid Cloud solutions. He has experience speaking and teaching at the biggest conferences in Brazil and Americas, working as voluntary Leader of NodeBR, Javascript São Paulo and Nerdzão Communities.
+**Erick Wendel** is a Speaker, Software Consultant and community Co-organizer in Brazil. Named by Microsoft as <a href="bit.ly/mvp-profile-erickwendel" target="__blank">Most Valuable Professional</a>, and by Google as <a href="https://developers.google.com/experts/people/erick-wendel" target="__blank">Google Developer Expert</a>, a specialist in Node.js and Javascript Applications. He is a Software Independent Architect who helps companies to make better and cheaper applications using Serverless architectures, Container based applications, and Hybrid Cloud solutions. He has experience speaking and teaching at the biggest conferences in Brazil and Americas, working as voluntary Leader of NodeBR, Javascript São Paulo and Nerdzão Communities.
 
 Twitter:  [@erickwendel_](https://twitter.com/erickwendel_)  
 Linkedin:  [br.linkedin.com/in/erickwendel](http://br.linkedin.com/in/erickwendel)  
