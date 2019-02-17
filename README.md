@@ -17,16 +17,16 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Projects**: 2018/November - 2015/July 
 * **Demonstrations**: 2018/December - 2016/September 
 * **Blog Posts**: 2018/March - 2015/February 
-* **Conference Talks**: 2019/January - 2015/January 
+* **Conference Talks**: 2019/February - 2015/January 
 
-#### Presentations' number: 83
+#### Presentations' number: 84
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (08)](#blog-posts)
-- [Conference Talks (75)](#conference-talks)
+- [Conference Talks (76)](#conference-talks)
 
 ## Projects
 
@@ -368,6 +368,28 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2019-02-17 - Creating Serverless APIs using GraphQL, ApolloServer and Azure Functions (en-us)
+
+
+<a href="https://www.meetup.com/sfnodeschool/events/258536522/" target="_blank">NodeSchool SF February 2019 | 4th Anniversary</a>
+
+
+<a href="http://bit.ly/graphql-azfunction-erickwendel" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-02-17-Creating_Serverless_APIs_using_GraphQL,_ApolloServer_and_Azure_Functions" target="_blank">photos</a> 
+
+
+Abstract:
+
+> This workshop we will explore the benefits of Serverless and Azure Functions to create web APIs. We will use the GraphQL and Apollo Server libraries to expose our services and learn how fun could be the API's creation
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/workshop-graphql-azfunctions-sfnodeschool" target="_blank">https://github.com/ErickWendel/workshop-graphql-azfunctions-sfnodeschool</a>
+> - <a href="https://nodeschool.io/sanfrancisco/" target="_blank">https://nodeschool.io/sanfrancisco/</a>
+> 
+
+
+_Tags: `node.js`, `serverless`, `javascript`, `graphql`, `workshop`_
 
 ### 2019-01-19 - WTF Are Serverless Apps? (pt-br)
 
@@ -1312,24 +1334,6 @@ Abstract:
 
 _Tags: `node.js`, `javascript`_
 
-### 2016-12-10 - Construindo APIs Rest com Node.js e Typescript (pt-br)
-
-
-<a href="https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/235415233/" target="_blank">11º Connecting Knowledge - Samsung Ocean</a>
-
-
-  
-
-
-Abstract:
-
-> NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.
-> 
-> 
-
-
-_Tags: `node.js`, `typescript`, `javascript`, `hapijs`_
-
 ### 2016-12-10 - Construindo RestFull APIs com NodeJs e TypeScript (pt-br)
 
 
@@ -1350,6 +1354,24 @@ Abstract:
 
 
 _Tags: `node.js`, `typescript`_
+
+### 2016-12-10 - Construindo APIs Rest com Node.js e Typescript (pt-br)
+
+
+<a href="https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/235415233/" target="_blank">11º Connecting Knowledge - Samsung Ocean</a>
+
+
+  
+
+
+Abstract:
+
+> NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.
+> 
+> 
+
+
+_Tags: `node.js`, `typescript`, `javascript`, `hapijs`_
 
 ### 2016-12-09 - Web APIS with NodeJS and TypeScript (pt-br)
 
@@ -1514,24 +1536,6 @@ Abstract:
 
 _Tags: `telegram`, `bots`, `node.js`, `javascript`_
 
-### 2016-07-05 - Managing the flow of asynchronous operations in NodeJS (pt-br)
-
-
-<a href="http://brazil.nodeconf.com/" target="_blank">NodeConf Brazil 2016</a>
-
-
-<a href="http://slides.com/erickwendel/control-flow-nodejs" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2016-07-05-managing_the_flow_of_asynchronous_operations_in_nodejs" target="_blank">photos</a> 
-
-
-Abstract:
-
-> Ao construir aplicações Javascript, devemos nos preocupar com alguns fatores quando falamos do workflow da linguagem. Diferente das linguagens sequenciais, resultados podem ser inesperados pelo fato da execução ser assíncrona e dependerem de callbacks, aprenderemos nesta palestra as boas práticas e soluções para criação de aplicações NodeJS.
-> 
-> 
-
-
-_Tags: `node.js`, `javascript`_
-
 ### 2016-07-05 - Ferramentas de Code Analysis e Code Fixed para JavaScript (pt-br)
 
 
@@ -1549,6 +1553,24 @@ Abstract:
 
 
 _Tags: `node.js`, `codefix`, `code analysis`, `node.js`_
+
+### 2016-07-05 - Managing the flow of asynchronous operations in NodeJS (pt-br)
+
+
+<a href="http://brazil.nodeconf.com/" target="_blank">NodeConf Brazil 2016</a>
+
+
+<a href="http://slides.com/erickwendel/control-flow-nodejs" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2016-07-05-managing_the_flow_of_asynchronous_operations_in_nodejs" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Ao construir aplicações Javascript, devemos nos preocupar com alguns fatores quando falamos do workflow da linguagem. Diferente das linguagens sequenciais, resultados podem ser inesperados pelo fato da execução ser assíncrona e dependerem de callbacks, aprenderemos nesta palestra as boas práticas e soluções para criação de aplicações NodeJS.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`_
 
 ### 2016-06-23 - Webinário TDC Online - JavaScript, Frame JavaScript, Node.Js, Modern Web,e Cloud (pt-br)
 
