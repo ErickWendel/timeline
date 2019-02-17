@@ -1,4 +1,26 @@
-[
+[{
+        "title": "Creating Serverless APIs using GraphQL, ApolloServer and Azure Functions",
+        "abstract": "This workshop we will explore the benefits of Serverless and Azure Functions to create web APIs. We will use the GraphQL and Apollo Server libraries to expose our services and learn how fun could be the API's creation",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/sfnodeschool/events/258536522/",
+            "name": "NodeSchool SF February 2019 | 4th Anniversary"
+        },
+        "slides": "http://bit.ly/graphql-azfunction-erickwendel",
+        "photos": "2019-02-17-Creating_Serverless_APIs_using_GraphQL,_ApolloServer_and_Azure_Functions",
+        "video": "",
+        "tags": ["node.js", "serverless", "javascript", "graphql", "workshop"],
+        "location": {
+            "latitude": 37.7846235,
+            "longitude": -122.400417,
+            "country": "United States",
+            "uf": "CA",
+            "city": "San Francisco"
+        },
+        "additionalLinks": ["https://github.com/ErickWendel/workshop-graphql-azfunctions-sfnodeschool", "https://nodeschool.io/sanfrancisco/"],
+        "language": "en-us",
+        "date": "2019-02-17"
+    },
     {
         "title": "Arquitetura Serverless",
         "abstract": "Traduzindo ao pé da letra, um sistema com arquitetura serverless, seria uma arquitetura 'sem servidores'. Mas será que é isso mesmo?Neste episódio do Alura Live, Gabs Ferreira conversa com Erick Wendel sobre o que é este tipo de arquitetura, como funciona por trás dos panos e quais suas vantagens.",
@@ -90,7 +112,7 @@
         "additionalLinks": ["https://github.com/ErickWendel/palestra-performance-nodejs"],
         "language": "pt-br",
         "date": "2017-09-01"
-    } ,
+    },
     {
         "title": "A vida e as aventuras de um desenvolvedor de Software",
         "abstract": "Além de produzir sistemas complexos, análises críticas e propor soluções para as maiores corporações, desenvolvedores possuem desafios contínuos, como multidisciplinaridade, estresse e prazos de entrega. Nesta apresentação, os participantes entenderão o lado divertido, inovador e fora da caixa de ser um desenvolvedor dicas de como manter-se motivado e transformar o trabalho em diversão.",
@@ -182,7 +204,7 @@
         "additionalLinks": ["https://github.com/ErickWendel/laboratorio-nodejs-typescript-pucsp"],
         "language": "pt-br",
         "date": "2017-07-02"
-    } , {
+    }, {
         "title": "Construindo RestFull APIs com NodeJs e TypeScript",
         "abstract": "Falando um conteúdo sobre NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.",
         "type": "talk",
@@ -240,15 +262,15 @@
         "photos": "",
         "video": "https://youtu.be/VLqX2oTtvz8?t=625",
         "tags": ["webinar", "career"],
-         "location": {
-             "latitude": -23.5555873,
-             "longitude": -46.6635681,
-             "country": "Brazil",
-             "uf": "SP",
-             "city": "São Paulo"
-         },
-         "additionalLinks": [""],
-         "language": "pt-br",
+        "location": {
+            "latitude": -23.5555873,
+            "longitude": -46.6635681,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
         "date": "2016-11-03"
     },
     {
@@ -296,7 +318,7 @@
         "additionalLinks": ["http://bit.ly/malwares-com-csharp-roadsec-erickwendel"],
         "language": "pt-br",
         "date": "2017-11-11"
-    } ,{
+    }, {
         "title": "Arquitetura Serverless/Nanoservices",
         "abstract": "",
         "type": "talk",
