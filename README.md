@@ -19,14 +19,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2018/March - 2015/February 
 * **Conference Talks**: 2019/February - 2015/January 
 
-#### Presentations' number: 84
+#### Presentations' number: 85
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (08)](#blog-posts)
-- [Conference Talks (76)](#conference-talks)
+- [Conference Talks (77)](#conference-talks)
 
 ## Projects
 
@@ -369,6 +369,28 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 ## Conference Talks
 
+### 2019-02-23 - The power of Typescript to work with Node.js Applications (en-us)
+
+
+<a href="GDG Silicon Valley DevFest 2019" target="_blank">https://gdgsv-devfest.appspot.com/schedule</a>
+
+
+<a href="http://bit.ly/erickwendel-gdgsv-ts-node" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-02-23-The_power_of_Typescript_to_work_with_Node.js_Applications" target="_blank">photos</a> |  <a href="https://twitter.com/i/status/1099477700652150785" target="_blank">video</a>
+
+
+Abstract:
+
+> Typescript is a superset of Javascript, helping developers to make powerful applications with better organization, maintainability and solves many problems that Javascript has. In this talk you can know the power to build applications with Typescript, using design patterns and features that can help us to build better software
+> 
+> <b>Links</b>
+> 
+> - <a href="https://gdgsv-devfest.appspot.com" target="_blank">https://gdgsv-devfest.appspot.com</a>
+> - <a href="https://github.com/ErickWendel/talk-gdgsv-typescript-and-nodejs" target="_blank">https://github.com/ErickWendel/talk-gdgsv-typescript-and-nodejs</a>
+> 
+
+
+_Tags: `node.js`, `typescript`, `javascript`_
+
 ### 2019-02-17 - Creating Serverless APIs using GraphQL, ApolloServer and Azure Functions (en-us)
 
 
@@ -649,24 +671,6 @@ Abstract:
 
 _Tags: `javascript`, `async`, `node.js`_
 
-### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
-
-
-<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
-
-
-<a href="https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> 
-
-
-Abstract:
-
-> Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
-> 
-> 
-
-
-_Tags: `node.js`, `javascript`, `faceapi`, `azure`_
-
 ### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
 
 
@@ -684,6 +688,24 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `websocket`, `socketio`_
+
+### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
+
+
+<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
+
+
+<a href="https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`, `faceapi`, `azure`_
 
 ### 2018-06-16 - Node.js e Typescript - Extraindo informações da Marvel Comics com Web Scrapping (pt-br)
 
@@ -1409,6 +1431,24 @@ Abstract:
 
 _Tags: `node.js`, `mocha`, `tdd`, `tests`, `javascript`, `chai`, `jasmine`_
 
+### 2016-11-18 - Entrevista Faculdade Impacta – Mercado em Desenvolvimento (pt-br)
+
+
+<a href="" target="_blank">Feira de oportunidades - Faculdade Impacta</a>
+
+
+  <a href="https://www.facebook.com/FacImpacta/videos/1352590924752354/" target="_blank">video</a>
+
+
+Abstract:
+
+> mercado em TI, dicas para alunos e comunidades
+> 
+> 
+
+
+_Tags: `career`_
+
 ### 2016-11-18 - NodeJS e HapiJS – Construindo APIs com Javascript (pt-br)
 
 
@@ -1427,24 +1467,6 @@ Abstract:
 
 
 _Tags: `node.js`, `typescript`, `javascript`_
-
-### 2016-11-18 - Entrevista Faculdade Impacta – Mercado em Desenvolvimento (pt-br)
-
-
-<a href="" target="_blank">Feira de oportunidades - Faculdade Impacta</a>
-
-
-  <a href="https://www.facebook.com/FacImpacta/videos/1352590924752354/" target="_blank">video</a>
-
-
-Abstract:
-
-> mercado em TI, dicas para alunos e comunidades
-> 
-> 
-
-
-_Tags: `career`_
 
 ### 2016-11-14 - Typescript – 1 Minuto de Tecnologia (pt-br)
 
@@ -1536,24 +1558,6 @@ Abstract:
 
 _Tags: `telegram`, `bots`, `node.js`, `javascript`_
 
-### 2016-07-05 - Ferramentas de Code Analysis e Code Fixed para JavaScript (pt-br)
-
-
-<a href="http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-javascript" target="_blank">The Developers Conference 2016</a>
-
-
-<a href="https://www.slideshare.net/EriickWendell/js-ferramentas-code-analysis-e-fixed-para-js-tdc2016" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2016-07-05-ferramentas_de_code_analysis_e_code_fixed_para_javascript" target="_blank">photos</a> 
-
-
-Abstract:
-
-> Iremos mostrar algumas ferramentas de Code Analysis e Code Fixed, voltadas para JavaScript. Enfatizando o quanto essas ferramentas podem auxiliar (velocidade e qualidade) no desenvolvimento. Iremos abordar o uso das ferramentas de code analysis, como por exemplo o JSHint e outras, nas IDE's mais utilizadas do mercado (Visual Studio, Sublime, etc).
-> 
-> 
-
-
-_Tags: `node.js`, `codefix`, `code analysis`, `node.js`_
-
 ### 2016-07-05 - Managing the flow of asynchronous operations in NodeJS (pt-br)
 
 
@@ -1571,6 +1575,24 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`_
+
+### 2016-07-05 - Ferramentas de Code Analysis e Code Fixed para JavaScript (pt-br)
+
+
+<a href="http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-javascript" target="_blank">The Developers Conference 2016</a>
+
+
+<a href="https://www.slideshare.net/EriickWendell/js-ferramentas-code-analysis-e-fixed-para-js-tdc2016" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2016-07-05-ferramentas_de_code_analysis_e_code_fixed_para_javascript" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Iremos mostrar algumas ferramentas de Code Analysis e Code Fixed, voltadas para JavaScript. Enfatizando o quanto essas ferramentas podem auxiliar (velocidade e qualidade) no desenvolvimento. Iremos abordar o uso das ferramentas de code analysis, como por exemplo o JSHint e outras, nas IDE's mais utilizadas do mercado (Visual Studio, Sublime, etc).
+> 
+> 
+
+
+_Tags: `node.js`, `codefix`, `code analysis`, `node.js`_
 
 ### 2016-06-23 - Webinário TDC Online - JavaScript, Frame JavaScript, Node.Js, Modern Web,e Cloud (pt-br)
 

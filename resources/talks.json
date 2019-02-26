@@ -1,4 +1,26 @@
 [{
+        "title": "The power of Typescript to work with Node.js Applications",
+        "abstract": "Typescript is a superset of Javascript, helping developers to make powerful applications with better organization, maintainability and solves many problems that Javascript has. In this talk you can know the power to build applications with Typescript, using design patterns and features that can help us to build better software",
+        "type": "talk",
+        "event": {
+            "link": "GDG Silicon Valley DevFest 2019",
+            "name": "https://gdgsv-devfest.appspot.com/schedule"
+        },
+        "slides": "http://bit.ly/erickwendel-gdgsv-ts-node",
+        "photos": "2019-02-23-The_power_of_Typescript_to_work_with_Node.js_Applications",
+        "video": "https://twitter.com/i/status/1099477700652150785",
+        "tags": ["node.js", "typescript", "javascript"],
+        "location": {
+            "latitude": 37.4121686,
+            "longitude": -122.0206659,
+            "country": "United States",
+            "uf": "CA",
+            "city": "Sunnyvale"
+        },
+        "additionalLinks": ["https://gdgsv-devfest.appspot.com", "https://github.com/ErickWendel/talk-gdgsv-typescript-and-nodejs"],
+        "language": "en-us",
+        "date": "2019-02-23"
+    } ,{
         "title": "Creating Serverless APIs using GraphQL, ApolloServer and Azure Functions",
         "abstract": "This workshop we will explore the benefits of Serverless and Azure Functions to create web APIs. We will use the GraphQL and Apollo Server libraries to expose our services and learn how fun could be the API's creation",
         "type": "talk",
