@@ -1,4 +1,28 @@
-[{
+[
+    {
+        "title": "Scaling Node.js applications with Kubernetes and Docker",
+        "abstract": "We will explore the benefits of DevOps process using Kubernetes, Docker, and Node.js. Showing how Docker and Node.js can work together, using the power of Kubernetes to release and to scale automatically stateless services. At this talk we will explore the key concepts and components to start working with Kubernetes, real scenarios and the differences between the traditional approach compared to Container based applications. Attendees will learn about the basics of Kubernetes and tips to scale Node.js applications furthermore they will learn the common problems that we face when we decide to change from monoliths to microservices using Docker and JavaScript.",
+        "type": "talk",
+        "event": {
+            "link": "https://js-kongress.com",
+            "name": "JS Kongress 2019 -  (R)evolution of Architectures"
+        },
+        "slides": "http://bit.ly/erickwendel-k8s-nodejs-jskongress2019",
+        "photos": "2019-03-12-Scaling_Node.js_applications_with_Kubernetes_and_Docker",
+        "video": "",
+        "tags": ["kubernetes", "k8s", "node.js", "javascript"],
+        "location": {
+            "latitude": 48.1319997,
+            "longitude": 11.5444438,
+            "country": "Germany",
+            "uf": "MU",
+            "city": "Munich"
+        },
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2019-03-12"
+    },
+    {
         "title": "The power of Typescript to work with Node.js Applications",
         "abstract": "Typescript is a superset of Javascript, helping developers to make powerful applications with better organization, maintainability and solves many problems that Javascript has. In this talk you can know the power to build applications with Typescript, using design patterns and features that can help us to build better software",
         "type": "talk",

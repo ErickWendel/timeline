@@ -17,16 +17,16 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Projects**: 2018/November - 2015/July 
 * **Demonstrations**: 2018/December - 2016/September 
 * **Blog Posts**: 2018/March - 2015/February 
-* **Conference Talks**: 2019/February - 2015/January 
+* **Conference Talks**: 2019/March - 2015/January 
 
-#### Presentations' number: 85
+#### Presentations' number: 86
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (08)](#blog-posts)
-- [Conference Talks (77)](#conference-talks)
+- [Conference Talks (78)](#conference-talks)
 
 ## Projects
 
@@ -368,6 +368,24 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2019-03-12 - Scaling Node.js applications with Kubernetes and Docker (en-us)
+
+
+<a href="https://js-kongress.com" target="_blank">JS Kongress 2019 -  (R)evolution of Architectures</a>
+
+
+<a href="http://bit.ly/erickwendel-k8s-nodejs-jskongress2019" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-03-12-Scaling_Node.js_applications_with_Kubernetes_and_Docker" target="_blank">photos</a> 
+
+
+Abstract:
+
+> We will explore the benefits of DevOps process using Kubernetes, Docker, and Node.js. Showing how Docker and Node.js can work together, using the power of Kubernetes to release and to scale automatically stateless services. At this talk we will explore the key concepts and components to start working with Kubernetes, real scenarios and the differences between the traditional approach compared to Container based applications. Attendees will learn about the basics of Kubernetes and tips to scale Node.js applications furthermore they will learn the common problems that we face when we decide to change from monoliths to microservices using Docker and JavaScript.
+> 
+> 
+
+
+_Tags: `kubernetes`, `k8s`, `node.js`, `javascript`_
 
 ### 2019-02-23 - The power of Typescript to work with Node.js Applications (en-us)
 
