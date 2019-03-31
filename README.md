@@ -19,14 +19,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2018/March - 2015/February 
 * **Conference Talks**: 2019/March - 2015/January 
 
-#### Presentations' number: 86
+#### Presentations' number: 87
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (08)](#blog-posts)
-- [Conference Talks (78)](#conference-talks)
+- [Conference Talks (79)](#conference-talks)
 
 ## Projects
 
@@ -368,6 +368,29 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2019-03-30 - Creating a complete Web API using Hapi.js and MongoDB (en-us)
+
+
+<a href="https://www.meetup.com/pt-BR/sfnodeschool/events/259510309/" target="_blank">NodeSchool SF March 2019</a>
+
+
+<a href="http://bit.ly/workshop-hapijs-erickwendel-sfnodeschool" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-03-30-creating_a_complete_web_api_using_hapijs_and_mongodb" target="_blank">photos</a> 
+
+
+Abstract:
+
+> My goal in this workshop is to create a complete Web API using Hapi.js, MongoDB focused on starters in Node.js and Javascript.
+> We 'll need only the Node.js 10+ installed and an account on MongoDB to get your MongoDB free instance :D
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/nodeschool-apis-hapijs-mongodb" target="_blank">https://github.com/ErickWendel/nodeschool-apis-hapijs-mongodb</a>
+> - <a href="https://github.com/nodeschool/sanfrancisco/issues/264" target="_blank">https://github.com/nodeschool/sanfrancisco/issues/264</a>
+> 
+
+
+_Tags: `node.js`, `hapijs`, `workshop`, `javascript`_
 
 ### 2019-03-12 - Scaling Node.js applications with Kubernetes and Docker (en-us)
 
@@ -1317,6 +1340,24 @@ Abstract:
 
 _Tags: `node.js`, `javascript`, `typescript`_
 
+### 2017-03-13 - HandsOn de Angular 1.x (pt-br)
+
+
+<a href="https://www.meetup.com/pt-BR/GDG-SP/events/238268519/" target="_blank">HTML5 Study Group #58</a>
+
+
+  
+
+
+Abstract:
+
+> Nesse encontro #58 vamos ter um Hands On de Angular 1.x com Erick Wendel explorando as práticas e benefícios do Angular 1.x
+> 
+> 
+
+
+_Tags: `node.js`, `angular`, `javascript`_
+
 ### 2017-03-13 - Hands-on de Angular 1.x (pt-br)
 
 
@@ -1337,24 +1378,6 @@ Abstract:
 
 
 _Tags: `angular`_
-
-### 2017-03-13 - HandsOn de Angular 1.x (pt-br)
-
-
-<a href="https://www.meetup.com/pt-BR/GDG-SP/events/238268519/" target="_blank">HTML5 Study Group #58</a>
-
-
-  
-
-
-Abstract:
-
-> Nesse encontro #58 vamos ter um Hands On de Angular 1.x com Erick Wendel explorando as práticas e benefícios do Angular 1.x
-> 
-> 
-
-
-_Tags: `node.js`, `angular`, `javascript`_
 
 ### 2017-01-27 - A vida e as aventuras de um desenvolvedor de Software – #CPBR10 (pt-br)
 
@@ -1449,24 +1472,6 @@ Abstract:
 
 _Tags: `node.js`, `mocha`, `tdd`, `tests`, `javascript`, `chai`, `jasmine`_
 
-### 2016-11-18 - Entrevista Faculdade Impacta – Mercado em Desenvolvimento (pt-br)
-
-
-<a href="" target="_blank">Feira de oportunidades - Faculdade Impacta</a>
-
-
-  <a href="https://www.facebook.com/FacImpacta/videos/1352590924752354/" target="_blank">video</a>
-
-
-Abstract:
-
-> mercado em TI, dicas para alunos e comunidades
-> 
-> 
-
-
-_Tags: `career`_
-
 ### 2016-11-18 - NodeJS e HapiJS – Construindo APIs com Javascript (pt-br)
 
 
@@ -1485,6 +1490,24 @@ Abstract:
 
 
 _Tags: `node.js`, `typescript`, `javascript`_
+
+### 2016-11-18 - Entrevista Faculdade Impacta – Mercado em Desenvolvimento (pt-br)
+
+
+<a href="" target="_blank">Feira de oportunidades - Faculdade Impacta</a>
+
+
+  <a href="https://www.facebook.com/FacImpacta/videos/1352590924752354/" target="_blank">video</a>
+
+
+Abstract:
+
+> mercado em TI, dicas para alunos e comunidades
+> 
+> 
+
+
+_Tags: `career`_
 
 ### 2016-11-14 - Typescript – 1 Minuto de Tecnologia (pt-br)
 
@@ -1576,24 +1599,6 @@ Abstract:
 
 _Tags: `telegram`, `bots`, `node.js`, `javascript`_
 
-### 2016-07-05 - Managing the flow of asynchronous operations in NodeJS (pt-br)
-
-
-<a href="http://brazil.nodeconf.com/" target="_blank">NodeConf Brazil 2016</a>
-
-
-<a href="http://slides.com/erickwendel/control-flow-nodejs" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2016-07-05-managing_the_flow_of_asynchronous_operations_in_nodejs" target="_blank">photos</a> 
-
-
-Abstract:
-
-> Ao construir aplicações Javascript, devemos nos preocupar com alguns fatores quando falamos do workflow da linguagem. Diferente das linguagens sequenciais, resultados podem ser inesperados pelo fato da execução ser assíncrona e dependerem de callbacks, aprenderemos nesta palestra as boas práticas e soluções para criação de aplicações NodeJS.
-> 
-> 
-
-
-_Tags: `node.js`, `javascript`_
-
 ### 2016-07-05 - Ferramentas de Code Analysis e Code Fixed para JavaScript (pt-br)
 
 
@@ -1611,6 +1616,24 @@ Abstract:
 
 
 _Tags: `node.js`, `codefix`, `code analysis`, `node.js`_
+
+### 2016-07-05 - Managing the flow of asynchronous operations in NodeJS (pt-br)
+
+
+<a href="http://brazil.nodeconf.com/" target="_blank">NodeConf Brazil 2016</a>
+
+
+<a href="http://slides.com/erickwendel/control-flow-nodejs" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2016-07-05-managing_the_flow_of_asynchronous_operations_in_nodejs" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Ao construir aplicações Javascript, devemos nos preocupar com alguns fatores quando falamos do workflow da linguagem. Diferente das linguagens sequenciais, resultados podem ser inesperados pelo fato da execução ser assíncrona e dependerem de callbacks, aprenderemos nesta palestra as boas práticas e soluções para criação de aplicações NodeJS.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`_
 
 ### 2016-06-23 - Webinário TDC Online - JavaScript, Frame JavaScript, Node.Js, Modern Web,e Cloud (pt-br)
 

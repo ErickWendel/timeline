@@ -1,5 +1,28 @@
 [
     {
+        "title": "Creating a complete Web API using Hapi.js and MongoDB",
+        "abstract": "My goal in this workshop is to create a complete Web API using Hapi.js, MongoDB focused on starters in Node.js and Javascript.\nWe 'll need only the Node.js 10+ installed and an account on MongoDB to get your MongoDB free instance :D",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/sfnodeschool/events/259510309/",
+            "name": "NodeSchool SF March 2019"
+        },
+        "slides": "http://bit.ly/workshop-hapijs-erickwendel-sfnodeschool",
+        "photos": "2019-03-30-creating_a_complete_web_api_using_hapijs_and_mongodb",
+        "video": "",
+        "tags": ["node.js", "hapijs", "workshop","javascript"],
+        "location": {
+            "latitude": 37.782757,
+            "longitude": -122.39363,
+            "country": "United States",
+            "uf": "CA",
+            "city": "San Francisco"
+        },
+        "additionalLinks": ["https://github.com/ErickWendel/nodeschool-apis-hapijs-mongodb", "https://github.com/nodeschool/sanfrancisco/issues/264"],
+        "language": "en-us",
+        "date": "2019-03-30"
+    },
+    {
         "title": "Scaling Node.js applications with Kubernetes and Docker",
         "abstract": "We will explore the benefits of DevOps process using Kubernetes, Docker, and Node.js. Showing how Docker and Node.js can work together, using the power of Kubernetes to release and to scale automatically stateless services. At this talk we will explore the key concepts and components to start working with Kubernetes, real scenarios and the differences between the traditional approach compared to Container based applications. Attendees will learn about the basics of Kubernetes and tips to scale Node.js applications furthermore they will learn the common problems that we face when we decide to change from monoliths to microservices using Docker and JavaScript.",
         "type": "talk",
