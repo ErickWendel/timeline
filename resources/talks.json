@@ -50,8 +50,8 @@
         "abstract": "Typescript is a superset of Javascript, helping developers to make powerful applications with better organization, maintainability and solves many problems that Javascript has. In this talk you can know the power to build applications with Typescript, using design patterns and features that can help us to build better software",
         "type": "talk",
         "event": {
-            "link": "GDG Silicon Valley DevFest 2019",
-            "name": "https://gdgsv-devfest.appspot.com/schedule"
+            "name": "GDG Silicon Valley DevFest 2019",
+            "link": "https://gdgsv-devfest.appspot.com/schedule"
         },
         "slides": "http://bit.ly/erickwendel-gdgsv-ts-node",
         "photos": "2019-02-23-The_power_of_Typescript_to_work_with_Node.js_Applications",
@@ -599,7 +599,7 @@
         "abstract": "De volta à E.E. Vila Bela escola em que fiz o ensino médio, falando um pouco sobre a carreira em desenvolvimento de software, mostrando o quão divertida nossa vida pode ser se focar no que realmente gosta. Estou super animado pois é uma grande oportunidade de converter mais gente para nosso lado negro da força haha! E melhor, mostrar que existe um mundão além daquilo que vemos, que sempre podemos evoluir e correr atrás das paradas.",
         "type": "talk",
         "event": {
-            "link": "#2018-10-18-a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-pt-br",
+            "link": "",
             "name": "E.E. Vila Bela - Projeto [R]EVOLUÇÃO"
         },
         "additionalLinks": [""],
@@ -1297,8 +1297,8 @@
         "abstract": "NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.",
         "type": "talk",
         "event": {
-            "link": "Desenvolvimento de Aplicativos com Xamarin e NodeJS - CUBO Network",
-            "name": "https://www.meetup.com/pt-BR/NetCoders/events/236064655/"
+            "link": "https://www.meetup.com/pt-BR/NetCoders/events/236064655/",
+            "name": "Desenvolvimento de Aplicativos com Xamarin e NodeJS - CUBO Network"
         },
         "additionalLinks": [""],
         "slides": "http://slides.com/erickwendel/apis-com-nodejs-typescript",

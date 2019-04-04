@@ -413,7 +413,7 @@ _Tags: `kubernetes`, `k8s`, `node.js`, `javascript`_
 ### 2019-02-23 - The power of Typescript to work with Node.js Applications (en-us)
 
 
-<a href="GDG Silicon Valley DevFest 2019" target="_blank">https://gdgsv-devfest.appspot.com/schedule</a>
+<a href="https://gdgsv-devfest.appspot.com/schedule" target="_blank">GDG Silicon Valley DevFest 2019</a>
 
 
 <a href="http://bit.ly/erickwendel-gdgsv-ts-node" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-02-23-The_power_of_Typescript_to_work_with_Node.js_Applications" target="_blank">photos</a> |  <a href="https://twitter.com/i/status/1099477700652150785" target="_blank">video</a>
@@ -568,7 +568,7 @@ _Tags: `node.js`, `javascript`, `docker`, `microservices`_
 ### 2018-10-18 - A vida e as aventuras de um desenvolvedor de Software (pt-br)
 
 
-<a href="#2018-10-18-a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-pt-br" target="_blank">E.E. Vila Bela - Projeto [R]EVOLUÇÃO</a>
+<a href="" target="_blank">E.E. Vila Bela - Projeto [R]EVOLUÇÃO</a>
 
 
 <a href="https://docs.google.com/presentation/d/1VhpAZC1mZgmuJXy9Qt_mbPce4aC-rvtFu6RYzKAXIlE/edit?usp=sharing" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-10-18-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software/photos" target="_blank">photos</a> 
@@ -1439,7 +1439,7 @@ _Tags: `node.js`, `typescript`, `javascript`, `hapijs`_
 ### 2016-12-09 - Web APIS with NodeJS and TypeScript (pt-br)
 
 
-<a href="Desenvolvimento de Aplicativos com Xamarin e NodeJS - CUBO Network" target="_blank">https://www.meetup.com/pt-BR/NetCoders/events/236064655/</a>
+<a href="https://www.meetup.com/pt-BR/NetCoders/events/236064655/" target="_blank">Desenvolvimento de Aplicativos com Xamarin e NodeJS - CUBO Network</a>
 
 
 <a href="http://slides.com/erickwendel/apis-com-nodejs-typescript" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2016-12-09-web_apis_with_nodejs_and_typescript" target="_blank">photos</a> |  <a href="https://www.facebook.com/cyzanoni/videos/1350663608285420" target="_blank">video</a>
