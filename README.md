@@ -790,7 +790,7 @@ _Tags: `kubernetes`, `devops`, `docker`_
 <a href="https://www.sympla.com.br/criciuma-dev-conference__213460" target="_blank">Criciúma Dev Conference</a>
 
 
-<a href="http://bit.ly/criciumadev2018-erickwendel-slides" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-05-19-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> 
+<a href="http://bit.ly/criciumadev2018-erickwendel-slides" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-05-19-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=0agHnvbHIQg&list=PL1B8Ym-og4vJ-V_uLM1LQUo9wNzLNTDEr&index=7" target="_blank">video</a>
 
 
 Abstract:
