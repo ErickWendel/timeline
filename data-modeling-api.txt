@@ -1,0 +1,69 @@
+--------
+ -> Docker container
+ -> Static Files (MVP)
+
+
+--- general query -> 
+    - returns the first 10 talks
+    - returns count of talks 
+    - return top 10 image URL's 
+
+
+ {
+     query {
+         totalCount: 0,
+         talks {
+             images: {
+             }
+         }
+     }
+ }
+---
+ {
+     query {
+         talks (containsName="abc", skip: 0, limit: 100) {
+             images {
+
+             }
+         }
+     }
+ }
+--
+ {
+     query {
+         talks (id=1) {
+             images {
+
+             }
+         }
+     }
+ }
+ --
+ complex query 
+
+ {
+     query {
+         talks (
+            id:1,
+            title: 'containsText'
+            abstract: 'containsText'
+            type: 'exactly'
+            eventName: ''
+            tags: ['node.js']
+            location {
+                latitude
+                longitude
+                country
+                uf
+                city
+
+            }
+            
+            additionalLinks
+            language: 'all'
+            date (from: '2018-01-01', to: '2019-01-01')
+            ) {
+             
+         }
+     }
+ }
