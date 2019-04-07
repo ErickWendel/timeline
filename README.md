@@ -17,16 +17,16 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Projects**: 2018/November - 2015/July 
 * **Demonstrations**: 2018/December - 2016/September 
 * **Blog Posts**: 2018/March - 2015/February 
-* **Conference Talks**: 2019/March - 2015/January 
+* **Conference Talks**: 2019/April - 2015/January 
 
-#### Presentations' number: 87
+#### Presentations' number: 88
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (08)](#blog-posts)
-- [Conference Talks (79)](#conference-talks)
+- [Conference Talks (80)](#conference-talks)
 
 ## Projects
 
@@ -368,6 +368,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2019-04-04 - Building VSCode Extensions with TypeScript (en-us)
+
+
+<a href="https://www.meetup.com/pt-BR/sfnode/events/mxstsmyzgbgb/" target="_blank">SFNode Meetup at Capital One</a>
+
+
+<a href="http://bit.ly/vscode-ext-erickwendel-sfnode" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-04-04-building_vscode_extensions" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Productivity, good project delivery, and Code review are words that can scare many software developers. Maybe because of the delivery time or project complexity. This talk will show you how to create visual studio code snippets, extensions, and tools using TypeScript. Attendees will learn how to be more productive and how to change their mindset to think focused on business less than only code :D
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/sfnode-building-vscode-ext" target="_blank">https://github.com/ErickWendel/sfnode-building-vscode-ext</a>
+> 
+
+
+_Tags: `node.js`, `vscode`, `extensions`, `typescript`_
 
 ### 2019-03-30 - Creating a complete Web API using Hapi.js and MongoDB (en-us)
 

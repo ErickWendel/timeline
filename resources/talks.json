@@ -1,5 +1,28 @@
 [
     {
+        "title": "Building VSCode Extensions with TypeScript",
+        "abstract": "Productivity, good project delivery, and Code review are words that can scare many software developers. Maybe because of the delivery time or project complexity. This talk will show you how to create visual studio code snippets, extensions, and tools using TypeScript. Attendees will learn how to be more productive and how to change their mindset to think focused on business less than only code :D",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/sfnode/events/mxstsmyzgbgb/",
+            "name": "SFNode Meetup at Capital One"
+        },
+        "slides": "http://bit.ly/vscode-ext-erickwendel-sfnode",
+        "photos": "2019-04-04-building_vscode_extensions",
+        "video": "",
+        "tags": ["node.js", "vscode", "extensions","typescript"],
+        "location": {
+            "latitude": 37.7867895,
+            "longitude": -122.4019862,
+            "country": "United States",
+            "uf": "CA",
+            "city": "San Francisco"
+        },
+        "additionalLinks": ["https://github.com/ErickWendel/sfnode-building-vscode-ext"],
+        "language": "en-us",
+        "date": "2019-04-04"
+    },
+    {
         "title": "Creating a complete Web API using Hapi.js and MongoDB",
         "abstract": "My goal in this workshop is to create a complete Web API using Hapi.js, MongoDB focused on starters in Node.js and Javascript.\nWe 'll need only the Node.js 10+ installed and an account on MongoDB to get your MongoDB free instance :D",
         "type": "talk",

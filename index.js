@@ -216,6 +216,7 @@ function normalizeCount(arr) {
         .replace(TOTAL_PRESENTATIONS_TAG, totalPresentations)
 
     writeFileSync('README.md', content)
+    console.log(`Total Presentations: ${totalPresentations}`)
     console.log(`Talks: ${countTalks}, Posts: ${countPosts}, Videos: ${countVideos}, Projects: ${countProjects}`)
     console.log('readme generated with success!')
 
