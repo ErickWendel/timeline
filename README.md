@@ -375,7 +375,7 @@ _Tags: `aspnet`, `c#`, `jquery`_
 <a href="https://www.meetup.com/pt-BR/sfnode/events/mxstsmyzgbgb/" target="_blank">SFNode Meetup at Capital One</a>
 
 
-<a href="http://bit.ly/vscode-ext-erickwendel-sfnode" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-04-04-building_vscode_extensions" target="_blank">photos</a> 
+<a href="http://bit.ly/vscode-ext-erickwendel-sfnode" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-04-04-building_vscode_extensions" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=wNOaM6ZzX-Y" target="_blank">video</a>
 
 
 Abstract:
