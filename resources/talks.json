@@ -1,5 +1,28 @@
 [
     {
+        "title": "WTF are Serverless apps?",
+        "abstract": "Many myths and histories are created every day about the Serverless architectures and concepts. Maybe because of the attractive price, availability metrics or the power to scale apps without additional configurations. Attendees will learn how to start in the serverless applications based and how to avoid surprises at the end of the month with high prices on their credit cards.",
+        "type": "talk",
+        "event": {
+            "link": "https://www.meetup.com/pt-BR/GDGBerkeley/events/260096603/",
+            "name": "GDG Berkeley April Meetup (A Double Dose of Googley Goodness)"
+        },
+        "slides": "http://bit.ly/wtf-are-sls-apps-gdgberkeley",
+        "photos": "2019-04-19-wtf_are_serverless_apps",
+        "video": "",
+        "tags": ["node.js", "serverless", "architecture"],
+        "location": {
+            "latitude": 37.870922,
+            "longitude": -122.27144,
+            "country": "United States",
+            "uf": "CA",
+            "city": "Berkeley"
+        },
+        "additionalLinks": ["https://github.com/ErickWendel/wtf-are-serverless-apps-gdgberkeley"],
+        "language": "en-us",
+        "date": "2019-04-19"
+    },
+    {
         "title": "Building VSCode Extensions with TypeScript",
         "abstract": "Productivity, good project delivery, and Code review are words that can scare many software developers. Maybe because of the delivery time or project complexity. This talk will show you how to create visual studio code snippets, extensions, and tools using TypeScript. Attendees will learn how to be more productive and how to change their mindset to think focused on business less than only code :D",
         "type": "talk",
@@ -55,7 +78,7 @@
         },
         "slides": "http://bit.ly/erickwendel-k8s-nodejs-jskongress2019",
         "photos": "2019-03-12-Scaling_Node.js_applications_with_Kubernetes_and_Docker",
-        "video": "",
+        "video": "https://youtu.be/ZgMAYQmSJO4",
         "tags": ["kubernetes", "k8s", "node.js", "javascript"],
         "location": {
             "latitude": 48.1319997,

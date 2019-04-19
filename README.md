@@ -19,14 +19,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2018/March - 2015/February 
 * **Conference Talks**: 2019/April - 2015/January 
 
-#### Presentations' number: 88
+#### Presentations' number: 89
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (08)](#blog-posts)
-- [Conference Talks (80)](#conference-talks)
+- [Conference Talks (81)](#conference-talks)
 
 ## Projects
 
@@ -369,6 +369,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 ## Conference Talks
 
+### 2019-04-19 - WTF are Serverless apps? (en-us)
+
+
+<a href="https://www.meetup.com/pt-BR/GDGBerkeley/events/260096603/" target="_blank">GDG Berkeley April Meetup (A Double Dose of Googley Goodness)</a>
+
+
+<a href="http://bit.ly/wtf-are-sls-apps-gdgberkeley" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-04-19-wtf_are_serverless_apps" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Many myths and histories are created every day about the Serverless architectures and concepts. Maybe because of the attractive price, availability metrics or the power to scale apps without additional configurations. Attendees will learn how to start in the serverless applications based and how to avoid surprises at the end of the month with high prices on their credit cards.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/wtf-are-serverless-apps-gdgberkeley" target="_blank">https://github.com/ErickWendel/wtf-are-serverless-apps-gdgberkeley</a>
+> 
+
+
+_Tags: `node.js`, `serverless`, `architecture`_
+
 ### 2019-04-04 - Building VSCode Extensions with TypeScript (en-us)
 
 
@@ -419,7 +440,7 @@ _Tags: `node.js`, `hapijs`, `workshop`, `javascript`_
 <a href="https://js-kongress.com" target="_blank">JS Kongress 2019 -  (R)evolution of Architectures</a>
 
 
-<a href="http://bit.ly/erickwendel-k8s-nodejs-jskongress2019" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-03-12-Scaling_Node.js_applications_with_Kubernetes_and_Docker" target="_blank">photos</a> 
+<a href="http://bit.ly/erickwendel-k8s-nodejs-jskongress2019" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-03-12-Scaling_Node.js_applications_with_Kubernetes_and_Docker" target="_blank">photos</a> |  <a href="https://youtu.be/ZgMAYQmSJO4" target="_blank">video</a>
 
 
 Abstract:
