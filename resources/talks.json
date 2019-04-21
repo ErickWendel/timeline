@@ -1,4 +1,26 @@
-[
+[{
+    "title": "Building a VS Code extension using Typescript",
+    "abstract": "Our workshop at this time will be focused to create a VSCode extension using Typescript. This workshop hasn't a goal to deep understand Typescript, otherwise, we'll create and publish a VSCode extension, to explore the power and facilities that VSCode could provide :D\nThis could be executed in 90 minutes.",
+    "type": "talk",
+    "event": {
+        "link": "https://www.meetup.com/pt-BR/sfnodeschool/events/260312635/",
+        "name": "NodeSchool SF April 2019"
+    },
+    "slides": "http://bit.ly/workshop-vscode-ext-erickwendel",
+    "photos": "2019-04-20-building_a_vs_code_extension_using_typescript",
+    "video": "",
+    "tags": ["node.js", "vscode", "workshop", "typescript", "javascript"],
+    "location": {
+        "latitude": 37.7846235,
+        "longitude": -122.400417,
+        "country": "United States",
+        "uf": "CA",
+        "city": "San Francisco"
+    },
+    "additionalLinks": ["https://github.com/ErickWendel/sfnodescool-vscode-extension", "https://github.com/nodeschool/sanfrancisco/issues/269"],
+    "language": "en-us",
+    "date": "2019-04-20"
+},
     {
         "title": "WTF are Serverless apps?",
         "abstract": "Many myths and histories are created every day about the Serverless architectures and concepts. Maybe because of the attractive price, availability metrics or the power to scale apps without additional configurations. Attendees will learn how to start in the serverless applications based and how to avoid surprises at the end of the month with high prices on their credit cards.",

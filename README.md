@@ -19,14 +19,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2018/March - 2015/February 
 * **Conference Talks**: 2019/April - 2015/January 
 
-#### Presentations' number: 89
+#### Presentations' number: 90
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (08)](#blog-posts)
-- [Conference Talks (81)](#conference-talks)
+- [Conference Talks (82)](#conference-talks)
 
 ## Projects
 
@@ -368,6 +368,29 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2019-04-20 - Building a VS Code extension using Typescript (en-us)
+
+
+<a href="https://www.meetup.com/pt-BR/sfnodeschool/events/260312635/" target="_blank">NodeSchool SF April 2019</a>
+
+
+<a href="http://bit.ly/workshop-vscode-ext-erickwendel" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-04-20-building_a_vs_code_extension_using_typescript" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Our workshop at this time will be focused to create a VSCode extension using Typescript. This workshop hasn't a goal to deep understand Typescript, otherwise, we'll create and publish a VSCode extension, to explore the power and facilities that VSCode could provide :D
+> This could be executed in 90 minutes.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/sfnodescool-vscode-extension" target="_blank">https://github.com/ErickWendel/sfnodescool-vscode-extension</a>
+> - <a href="https://github.com/nodeschool/sanfrancisco/issues/269" target="_blank">https://github.com/nodeschool/sanfrancisco/issues/269</a>
+> 
+
+
+_Tags: `node.js`, `vscode`, `workshop`, `typescript`, `javascript`_
 
 ### 2019-04-19 - WTF are Serverless apps? (en-us)
 
