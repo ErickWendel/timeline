@@ -31,7 +31,7 @@
         },
         "slides": "http://bit.ly/wtf-are-sls-apps-gdgberkeley",
         "photos": "2019-04-19-wtf_are_serverless_apps",
-        "video": "",
+        "video": "http://bit.ly/wtf-sls-apps-erickwendel",
         "tags": ["node.js", "serverless", "architecture"],
         "location": {
             "latitude": 37.870922,

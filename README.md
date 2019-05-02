@@ -399,7 +399,7 @@ _Tags: `node.js`, `vscode`, `workshop`, `typescript`, `javascript`_
 <a href="https://www.meetup.com/pt-BR/GDGBerkeley/events/260096603/" target="_blank">GDG Berkeley April Meetup (A Double Dose of Googley Goodness)</a>
 
 
-<a href="http://bit.ly/wtf-are-sls-apps-gdgberkeley" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-04-19-wtf_are_serverless_apps" target="_blank">photos</a> 
+<a href="http://bit.ly/wtf-are-sls-apps-gdgberkeley" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-04-19-wtf_are_serverless_apps" target="_blank">photos</a> |  <a href="http://bit.ly/wtf-sls-apps-erickwendel" target="_blank">video</a>
 
 
 Abstract:
