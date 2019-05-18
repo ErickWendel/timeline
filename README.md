@@ -18,16 +18,16 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Projects**: 2018/November - 2015/July 
 * **Demonstrations**: 2018/December - 2016/September 
 * **Blog Posts**: 2018/March - 2015/February 
-* **Conference Talks**: 2019/April - 2015/January 
+* **Conference Talks**: 2019/May - 2015/January 
 
-#### Presentations' number: 90
+#### Presentations' number: 91
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (08)](#blog-posts)
-- [Conference Talks (82)](#conference-talks)
+- [Conference Talks (83)](#conference-talks)
 
 ## Projects
 
@@ -370,6 +370,35 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 ## Conference Talks
 
+### 2019-05-17 - WTF are Serverless apps? (en-us)
+
+
+<a href="http://200ok.us" target="_blank">Tulsa’s Web Developer Conference 2019</a>
+
+
+<a href="http://bit.ly/wtf-sls-apps-200ok" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-05-17-wtf_are_serverless_apps?" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Serverless applications are changing the way that developers think about software development, release management, and infrastructure. Many myths and histories had been created around this concept and turn minds confused when choices are required to create new products in an existent environment. Attendees will learn about Serverless architecture concepts compared than traditional Microservices. By the use of real scenarios, they could understand the differences and challenges that we face in production environments and how to solve most of them as soon as possible.
+> We will explore the following topics:
+> - Which are Serverless applications?
+> - Best practices working in production environments
+> - Avoiding common problems such: Long-running processing, latency and complex application management (versioning, releases, tests)
+> - Which cases you should use Serverless applications based.
+> 
+> <b>Links</b>
+> 
+> - <a href="http://200ok.us/speakers/erick-wendel.html" target="_blank">http://200ok.us/speakers/erick-wendel.html</a>
+> 
+
+
+_Tags: `node.js`, `serverless`, `javascript`, `architecture`, `aws`, `gcp`_
+
+
+Location: <a href="https://www.google.com/maps/?q=36.1505209,-95.9964198" target="_blank">Tulsa - OK, United States</a>.
+
 ### 2019-04-20 - Building a VS Code extension using Typescript (en-us)
 
 
@@ -393,6 +422,9 @@ Abstract:
 
 _Tags: `node.js`, `vscode`, `workshop`, `typescript`, `javascript`_
 
+
+Location: <a href="https://www.google.com/maps/?q=37.7846235,-122.400417" target="_blank">San Francisco - CA, United States</a>.
+
 ### 2019-04-19 - WTF are Serverless apps? (en-us)
 
 
@@ -414,6 +446,9 @@ Abstract:
 
 _Tags: `node.js`, `serverless`, `architecture`_
 
+
+Location: <a href="https://www.google.com/maps/?q=37.870922,-122.27144" target="_blank">Berkeley - CA, United States</a>.
+
 ### 2019-04-04 - Building VSCode Extensions with TypeScript (en-us)
 
 
@@ -434,6 +469,9 @@ Abstract:
 
 
 _Tags: `node.js`, `vscode`, `extensions`, `typescript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=37.7867895,-122.4019862" target="_blank">San Francisco - CA, United States</a>.
 
 ### 2019-03-30 - Creating a complete Web API using Hapi.js and MongoDB (en-us)
 
@@ -458,6 +496,9 @@ Abstract:
 
 _Tags: `node.js`, `hapijs`, `workshop`, `javascript`_
 
+
+Location: <a href="https://www.google.com/maps/?q=37.782757,-122.39363" target="_blank">San Francisco - CA, United States</a>.
+
 ### 2019-03-12 - Scaling Node.js applications with Kubernetes and Docker (en-us)
 
 
@@ -475,6 +516,9 @@ Abstract:
 
 
 _Tags: `kubernetes`, `k8s`, `node.js`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=48.1319997,11.5444438" target="_blank">Munich - MU, Germany</a>.
 
 ### 2019-02-23 - The power of Typescript to work with Node.js Applications (en-us)
 
@@ -498,6 +542,9 @@ Abstract:
 
 _Tags: `node.js`, `typescript`, `javascript`_
 
+
+Location: <a href="https://www.google.com/maps/?q=37.4121686,-122.0206659" target="_blank">Sunnyvale - CA, United States</a>.
+
 ### 2019-02-17 - Creating Serverless APIs using GraphQL, ApolloServer and Azure Functions (en-us)
 
 
@@ -520,6 +567,9 @@ Abstract:
 
 _Tags: `node.js`, `serverless`, `javascript`, `graphql`, `workshop`_
 
+
+Location: <a href="https://www.google.com/maps/?q=37.7846235,-122.400417" target="_blank">San Francisco - CA, United States</a>.
+
 ### 2019-01-19 - WTF Are Serverless Apps? (pt-br)
 
 
@@ -541,6 +591,9 @@ Abstract:
 
 _Tags: `node.js`, `serverless`, `aws`, `azure`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5512,-46.73564" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2019-01-10 - Coding Dojo Online - #VSLiveShare (pt-br)
 
 
@@ -558,6 +611,9 @@ Abstract:
 
 
 _Tags: `codingdojo`, `online`, `webinar`, `vscode`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5542256,-46.6744607" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2019-01-02 - The Velopers #21 - Erick Wendel (pt-br)
 
@@ -577,6 +633,9 @@ Abstract:
 
 _Tags: `webinar`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5523916,-46.6800878" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2018-12-15 - Building VSCode Extensions with TypeScript (pt-br)
 
 
@@ -594,6 +653,9 @@ Abstract:
 
 
 _Tags: `node.js`, `vscode`, `javascript`, `siri`, `extensions`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-10.900247,-37.055603" target="_blank">Aracajú - SE, Brazil</a>.
 
 ### 2018-11-24 - Node.js, Observables e RxJs - Programação reativa no Backend! (pt-br)
 
@@ -613,6 +675,9 @@ Abstract:
 
 _Tags: `node.js`, `rxjs`, `javascript`, `observable`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-26.242434,-48.8812217" target="_blank">Joinville - SC, Brazil</a>.
+
 ### 2018-10-25 - Node.js, Docker e Containerização (pt-br)
 
 
@@ -630,6 +695,9 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `docker`, `microservices`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-19.6743348,-43.2144952" target="_blank">Itabira - MG, Brazil</a>.
 
 ### 2018-10-18 - A vida e as aventuras de um desenvolvedor de Software (pt-br)
 
@@ -649,6 +717,9 @@ Abstract:
 
 _Tags: `career`, `javascript`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.6099272,-46.4499841" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2018-10-05 - O que aprendi organizando grandes comunidades (pt-br)
 
 
@@ -666,6 +737,9 @@ Abstract:
 
 
 _Tags: `career`, `communities`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5816604,-46.6690279" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2018-09-21 - Scaling your applications with Kubernetes and Docker (en-us)
 
@@ -688,6 +762,9 @@ Abstract:
 
 _Tags: `english`, `node.js`, `docker`, `kubernetes`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5816151,-46.6843488" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2018-09-08 - Usando Javascript para reconhecer pessoas (pt-br)
 
 
@@ -705,6 +782,9 @@ Abstract:
 
 
 _Tags: `node.js`, `azure`, `faceapi`, `opencv`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-22.2562972,-45.7056318" target="_blank">Santa Rita do Sapucaí - MG, Brazil</a>.
 
 ### 2018-09-01 - Node.js, Microservicos e Containerização (pt-br)
 
@@ -724,6 +804,9 @@ Abstract:
 
 _Tags: `node.js`, `javascript`, `docker`, `microservices`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.54645,-46.623615" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2018-08-18 - Node.js, Observables e RxJs - Programação reativa no Backend! (pt-br)
 
 
@@ -741,6 +824,9 @@ Abstract:
 
 
 _Tags: `node.js`, `rxjs`, `reactive`, `observable`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5556096,-46.6613902" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2018-08-02 - Managing the flow of asynchronous operations in Node.js (en-us)
 
@@ -760,6 +846,9 @@ Abstract:
 
 _Tags: `node.js`, `javascript`, `async`, `english`_
 
+
+Location: <a href="https://www.google.com/maps/?q=37.7827092,-122.3935642" target="_blank">San Francisco - CA, United States</a>.
+
 ### 2018-07-05 - Gerenciando o fluxo assincrono de operações Javascript (pt-br)
 
 
@@ -777,6 +866,9 @@ Abstract:
 
 
 _Tags: `javascript`, `async`, `node.js`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5588643,-46.6645247" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
 
@@ -796,6 +888,9 @@ Abstract:
 
 _Tags: `node.js`, `javascript`, `websocket`, `socketio`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
+
 ### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
 
 
@@ -813,6 +908,9 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `faceapi`, `azure`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
 
 ### 2018-06-16 - Node.js e Typescript - Extraindo informações da Marvel Comics com Web Scrapping (pt-br)
 
@@ -832,6 +930,9 @@ Abstract:
 
 _Tags: `node.js`, `webscrapping`, `typescript`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.9438135,-46.3299362" target="_blank">Santos - SP, Brazil</a>.
+
 ### 2018-06-02 - Escalando Microservices no Kubernetes (pt-br)
 
 
@@ -849,6 +950,9 @@ Abstract:
 
 
 _Tags: `kubernetes`, `devops`, `docker`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.6092811,-46.6989541" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2018-05-19 - Javascript, Azure Cognitive Services e RaspberryPI - Usando Javascript para reconhecer pessoas! (pt-br)
 
@@ -868,6 +972,9 @@ Abstract:
 
 _Tags: `javascript`, `node.js`, `faceapi`, `azure`, `raspberrypi`, `opencv`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-28.6796323,-49.3553406" target="_blank">Criciúma - SC, Brazil</a>.
+
 ### 2018-04-06 - Conhecendo o poder do Typescript para aplicações Node.Js (pt-br)
 
 
@@ -885,6 +992,9 @@ Abstract:
 
 
 _Tags: `node.js`, `typescript`, `javascript`, `vscode`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5283295,-46.5675101" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2018-03-28 - O poder do MongoDB Aggregation Framework (pt-br)
 
@@ -907,6 +1017,9 @@ Abstract:
 
 _Tags: `mongodb`, `database`, `webinar`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5618829,-46.6555644" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2018-03-23 - Arquitetando aplicações Serverless - Arquitetura, padrões e organização de aplicações (pt-br)
 
 
@@ -924,6 +1037,9 @@ Abstract:
 
 
 _Tags: `serverless`, `node.js`, `design patterns`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5958279,-46.6869613" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2018-02-26 - Docker Registry: Adeus deploy via ssh! (pt-br)
 
@@ -943,6 +1059,9 @@ Abstract:
 
 _Tags: `docker`, `node.js`, `javascript`, `devops`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5541617,-46.6622279" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2018-02-25 - Uber do Marlon #10 – Erick Wendel – Entrevistado na Microsoft (pt-br)
 
 
@@ -960,6 +1079,9 @@ Abstract:
 
 
 _Tags: `vscode`, `webinar`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.6101631,-46.6990182" target="_blank">São Paulo - Sp, Brazil</a>.
 
 ### 2018-02-07 - Construindo Robôs automatizados com Selenium Web Driver e Typescript (pt-br)
 
@@ -979,6 +1101,9 @@ Abstract:
 
 _Tags: `node.js`, `typescript`, `mongodb`, `javascript`, `web scrapping`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.594657,-46.6859886" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2018-02-02 - Git crypt (pt-br)
 
 
@@ -996,6 +1121,9 @@ Abstract:
 
 
 _Tags: `git`, `gitcrypt`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5523916,-46.6800878" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2018-02-01 - Construindo Robôs automatizados para extração de informações (pt-br)
 
@@ -1018,6 +1146,9 @@ Abstract:
 
 _Tags: `node.js`, `javascript`, `web scrapping`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5161769,-46.6388346" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2018-01-31 - Pensando além do código, dicas e segredos para criação de um desenvolvedor de software (pt-br)
 
 
@@ -1036,6 +1167,9 @@ Abstract:
 
 _Tags: `node.js`, `career`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5161769,-46.6388346" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2017-11-16 - Arquitetura Serverless (pt-br)
 
 
@@ -1053,6 +1187,9 @@ Abstract:
 
 
 _Tags: `webinar`, `serverless`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5882491,-46.6346657" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2017-11-11 - Desenvolvimento de Malwares com C# (pt-br)
 
@@ -1075,6 +1212,9 @@ Abstract:
 
 _Tags: `malware`, `c#`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5283405,-46.6695493" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2017-11-03 - Construindo sua própria inteligência artificial como assistente pessoal (pt-br)
 
 
@@ -1092,6 +1232,9 @@ Abstract:
 
 
 _Tags: `node.js`, `aws`, `typescript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-19.920275,-43.934066" target="_blank">Belo Horizonte - MG, Brazil</a>.
 
 ### 2017-10-29 - Carreira em Desenvolvimento de Software (pt-br)
 
@@ -1111,6 +1254,9 @@ Abstract:
 
 _Tags: `career`, `node.js`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.6674085,-46.5850207" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2017-10-15 - Arquitetura Serverless/Nanoservices (pt-br)
 
 
@@ -1129,6 +1275,9 @@ Abstract:
 
 _Tags: `serverless`, `node.js`, `aws`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5816653,-46.6690279" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2017-09-27 - Node.js e Typescript na prática (pt-br)
 
 
@@ -1146,6 +1295,9 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `typescript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5805414,-46.6461597" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2017-09-16 - Building VSCode Extensions with TypeScript (pt-br)
 
@@ -1168,6 +1320,9 @@ Abstract:
 
 _Tags: `node.js`, `vscode`, `typescript`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-25.4332082,-49.2752017" target="_blank">Curitiba - PR, Brazil</a>.
+
 ### 2017-09-01 - Alta Performance e Disponibilidade de aplicações Node.js (pt-br)
 
 
@@ -1189,6 +1344,9 @@ Abstract:
 
 _Tags: `node.js`, `performance`, `hapijs`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5816653,-46.6690279" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2017-08-26 - A vida e as aventuras de um desenvolvedor de Software (pt-br)
 
 
@@ -1206,6 +1364,9 @@ Abstract:
 
 
 _Tags: `career`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-22.4290082,-45.4568706" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2017-08-15 - Coding Dojo com Javascript (pt-br)
 
@@ -1228,6 +1389,9 @@ Abstract:
 
 _Tags: `node.js`, `javascript`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.551343,-46.6361995" target="_blank">São paulo - SP, Brazil</a>.
+
 ### 2017-08-10 - A vida e as aventuras de um desenvolvedor de software (pt-br)
 
 
@@ -1245,6 +1409,9 @@ Abstract:
 
 
 _Tags: `webinar`, `career`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5625707,-46.6565045" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2017-07-19 - Job/Task Queue com Bee-Queue - Performance e Resiliência em aplicações Node.js (pt-br)
 
@@ -1267,6 +1434,9 @@ Abstract:
 
 _Tags: `node.js`, `performance`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.6002334,-46.6788224" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2017-07-02 - Construindo APIs com NodeJs e TypeScript (pt-br)
 
 
@@ -1287,6 +1457,9 @@ Abstract:
 
 
 _Tags: `node.js`, `workshop`, `typescript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5493645,-46.6498912" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2017-06-26 - Job/Task Queue com Bee-Queue - Performance e Resiliência em aplicações Node.js (pt-br)
 
@@ -1309,6 +1482,9 @@ Abstract:
 
 _Tags: `node.js`, `javascript`, `beequeue`, `performance`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5522844,-46.6613565" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2017-06-19 - Conhecendo o Node.js (pt-br)
 
 
@@ -1326,6 +1502,9 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5086459,-46.6509652" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2017-06-09 - Node.js, Microserviços e containerização (pt-br)
 
@@ -1349,6 +1528,9 @@ Abstract:
 
 _Tags: `node.js`, `docker`, `javascript`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.6101631,-46.6990182" target="_blank">São Paulo - Sp, Brazil</a>.
+
 ### 2017-04-12 - Trabalhando com Docker e aplicações Node.js no Microsoft Azure (pt-br)
 
 
@@ -1370,6 +1552,9 @@ Abstract:
 
 _Tags: `node.js`, `azure`, `microsoft`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.6101631,-46.6990182" target="_blank">São Paulo - Sp, Brazil</a>.
+
 ### 2017-04-05 - Criando Aplicações distribuídas com Node.js – Feira de Oportunidades Impacta (pt-br)
 
 
@@ -1387,6 +1572,9 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `hapijs`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5257509,-46.6517142" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2017-03-25 - Typescript para aplicações Node.js na era de ECMAScript 7 (pt-br)
 
@@ -1406,6 +1594,9 @@ Abstract:
 
 _Tags: `node.js`, `javascript`, `typescript`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5283295,-46.5675101" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2017-03-13 - HandsOn de Angular 1.x (pt-br)
 
 
@@ -1423,6 +1614,9 @@ Abstract:
 
 
 _Tags: `node.js`, `angular`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5452767,-46.6373743" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2017-03-13 - Hands-on de Angular 1.x (pt-br)
 
@@ -1445,6 +1639,9 @@ Abstract:
 
 _Tags: `angular`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5452767,-46.6373743" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2017-01-27 - A vida e as aventuras de um desenvolvedor de Software – #CPBR10 (pt-br)
 
 
@@ -1462,6 +1659,9 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5161769,-46.6388346" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2016-12-10 - Construindo RestFull APIs com NodeJs e TypeScript (pt-br)
 
@@ -1484,6 +1684,9 @@ Abstract:
 
 _Tags: `node.js`, `typescript`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5542518,-46.7330228" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2016-12-10 - Construindo APIs Rest com Node.js e Typescript (pt-br)
 
 
@@ -1501,6 +1704,9 @@ Abstract:
 
 
 _Tags: `node.js`, `typescript`, `javascript`, `hapijs`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5542518,-46.7330228" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2016-12-09 - Web APIS with NodeJS and TypeScript (pt-br)
 
@@ -1520,6 +1726,9 @@ Abstract:
 
 _Tags: `node.js`, `typescript`, `javascript`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5977308,-46.6821916" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2016-12-01 - Software Testing with Javascript/NodeJS (pt-br)
 
 
@@ -1537,6 +1746,9 @@ Abstract:
 
 
 _Tags: `node.js`, `mocha`, `tdd`, `tests`, `javascript`, `chai`, `jasmine`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5535189,-46.6575216" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2016-11-18 - NodeJS e HapiJS – Construindo APIs com Javascript (pt-br)
 
@@ -1557,6 +1769,9 @@ Abstract:
 
 _Tags: `node.js`, `typescript`, `javascript`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5257509,-46.6517142" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2016-11-18 - Entrevista Faculdade Impacta – Mercado em Desenvolvimento (pt-br)
 
 
@@ -1574,6 +1789,9 @@ Abstract:
 
 
 _Tags: `career`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5257509,-46.6517142" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2016-11-14 - Typescript – 1 Minuto de Tecnologia (pt-br)
 
@@ -1593,6 +1811,9 @@ Abstract:
 
 _Tags: `typescript`, `webinar`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5555873,-46.6635681" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2016-11-05 - Desenvolvendo RESTFull APIs com NodeJs (pt-br)
 
 
@@ -1610,6 +1831,9 @@ Abstract:
 
 
 _Tags: `node.js`, `typescript`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5257509,-46.6517142" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2016-11-03 - Desenvolvimento (Segredos e boas práticas) (pt-br)
 
@@ -1629,6 +1853,9 @@ Abstract:
 
 _Tags: `webinar`, `career`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5555873,-46.6635681" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2016-09-12 - Iot e Arduino na Nuvem com NodeJS, Ionic e AngularJS (pt-br)
 
 
@@ -1646,6 +1873,9 @@ Abstract:
 
 
 _Tags: `angular`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5805414,-46.6461597" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2016-07-07 - Desenvolvendo BOTs com Telegram e Javascript (pt-br)
 
@@ -1665,6 +1895,9 @@ Abstract:
 
 _Tags: `telegram`, `bots`, `node.js`, `javascript`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.6002334,-46.6788224" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2016-07-05 - Ferramentas de Code Analysis e Code Fixed para JavaScript (pt-br)
 
 
@@ -1682,6 +1915,9 @@ Abstract:
 
 
 _Tags: `node.js`, `codefix`, `code analysis`, `node.js`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.6002334,-46.6788224" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2016-07-05 - Managing the flow of asynchronous operations in NodeJS (pt-br)
 
@@ -1701,6 +1937,9 @@ Abstract:
 
 _Tags: `node.js`, `javascript`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5541967,-46.6547464" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2016-06-23 - Webinário TDC Online - JavaScript, Frame JavaScript, Node.Js, Modern Web,e Cloud (pt-br)
 
 
@@ -1718,6 +1957,9 @@ Abstract:
 
 
 _Tags: `node.js`, `webinar`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.6002334,-46.6788224" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2016-06-09 - Plataforma Cloud9 para desenvolvedores NodeJS! (pt-br)
 
@@ -1737,6 +1979,9 @@ Abstract:
 
 _Tags: `node.js`, `javascript`, `cloud9`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5632754,-46.6455011" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2016-02-19 - WebCast – Web Apps com AngularJS (pt-br)
 
 
@@ -1754,6 +1999,9 @@ Abstract:
 
 
 _Tags: `angular`, `javascript`, `webinar`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5632754,-46.6455011" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2016-02-13 - Mini Curso Gratuito de Node.js e TypeScript (pt-br)
 
@@ -1773,6 +2021,9 @@ Abstract:
 
 _Tags: `node.js`, `typescript`, `javascript`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5506312,-46.5758785" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2016-01-16 - NodeJS com TypeScript e VSCode (pt-br)
 
 
@@ -1790,6 +2041,9 @@ Abstract:
 
 
 _Tags: `vscode`, `node.js`, `typescript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5660935,-46.6525401" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2015-11-30 - Mini curso gratuito sobre Web Scrapping (pt-br)
 
@@ -1814,6 +2068,9 @@ Abstract:
 
 _Tags: `c#`, `dotnet`, `.net`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.9675782,-46.3342055" target="_blank">Santos - SP, Brazil</a>.
+
 ### 2015-11-02 - Desenvolvimento de Malwares com C# (pt-br)
 
 
@@ -1835,6 +2092,9 @@ Abstract:
 
 _Tags: `malware`, `trojan`, `c#`, `dotnet`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.9675782,-46.3342055" target="_blank">Santos - SP, Brazil</a>.
+
 ### 2015-08-23 - Corujão de ASP.NET MVC 5.2 (pt-br)
 
 
@@ -1852,6 +2112,9 @@ Abstract:
 
 
 _Tags: ``_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5506339,-46.5780888" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2015-06-12 - WebScraping com C# (pt-br)
 
@@ -1875,6 +2138,9 @@ Abstract:
 
 _Tags: `c#`, `dotnet`, `webscrapping`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5092369,-46.62805" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2015-06-12 - O grupo .NET Coders (pt-br)
 
 
@@ -1896,6 +2162,9 @@ Abstract:
 
 _Tags: `c#`, `dotnet`, `webscrapping`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5092369,-46.62805" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2015-03-31 - WebCast sobre Desenvolvimento Hibrido com Ionic (pt-br)
 
 
@@ -1914,6 +2183,9 @@ Abstract:
 
 _Tags: `webinar`, `ionic`_
 
+
+Location: <a href="https://www.google.com/maps/?q=-23.5506339,-46.5780888" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2015-01-30 - Google Adwords para desenvolvedores (pt-br)
 
 
@@ -1931,4 +2203,7 @@ Abstract:
 
 
 _Tags: `adwords`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5506339,-46.5780888" target="_blank">São Paulo - SP, Brazil</a>.
 
