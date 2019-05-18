@@ -1048,7 +1048,7 @@
         },
         "additionalLinks": [""],
         "slides": "http://bit.ly/slides-docker-registry-erickwendel",
-        "photos": "/Users/erickwendel/Documents/projetos/ewit/timeline/2018-02-26-docker_registry:_adeus_deploy_via_ssh!",
+        "photos": "2018-02-26-docker_registry:_adeus_deploy_via_ssh!",
         "video": "",
         "tags": ["docker", "node.js", "javascript", "devops"],
         "location": {
@@ -1516,7 +1516,7 @@
         },
         "additionalLinks": [""],
         "slides": "",
-        "photos": "2017-10-29-carreira_em_desenvolvimento_de_software",
+        "photos": "",
         "video": "",
         "tags": ["career", "node.js"],
         "location": {
