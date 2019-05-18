@@ -1048,7 +1048,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.5958279,-46.6869613" targe
 <a href="https://www.meetup.com/pt-BR/Nerdzao/events/247993427" target="_blank">Nerdzão #36 - Cloud & DevOps</a>
 
 
-<a href="http://bit.ly/slides-docker-registry-erickwendel" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master//Users/erickwendel/Documents/projetos/ewit/timeline/2018-02-26-docker_registry:_adeus_deploy_via_ssh!" target="_blank">photos</a> 
+<a href="http://bit.ly/slides-docker-registry-erickwendel" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-02-26-docker_registry:_adeus_deploy_via_ssh!" target="_blank">photos</a> 
 
 
 Abstract:
@@ -1243,7 +1243,7 @@ Location: <a href="https://www.google.com/maps/?q=-19.920275,-43.934066" target=
 <a href="http://erickwendel.com.br/2016/10/29/carreira-em-desenvolvimento-de-software-universidade-anhanguera-de-sao-paulo/" target="_blank">Universidade Anhanguera De São Paulo</a>
 
 
- <a href="https://github.com/ErickWendel/timeline/tree/master/2017-10-29-carreira_em_desenvolvimento_de_software" target="_blank">photos</a> 
+  
 
 
 Abstract:
