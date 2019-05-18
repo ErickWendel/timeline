@@ -7,7 +7,7 @@
             "name": "Tulsa’s Web Developer Conference 2019"
         },
         "slides": "http://bit.ly/wtf-sls-apps-200ok",
-        "photos": "2019-05-17-wtf_are_serverless_apps?",
+        "photos": "2019-05-17-wtf_are_serverless_apps",
         "video": "",
         "tags": ["node.js", "serverless", "javascript", "architecture", "aws", "gcp"],
         "location": {
@@ -17,7 +17,7 @@
             "uf": "OK",
             "city": "Tulsa"
         },
-        "additionalLinks": ["http://200ok.us/speakers/erick-wendel.html"],
+        "additionalLinks": ["http://200ok.us/speakers/erick-wendel.html", "https://github.com/ErickWendel/wtf-are-sls-apps-200ok"],
         "language": "en-us",
         "date": "2019-05-17"
     },
@@ -122,7 +122,7 @@
             "name": "JS Kongress 2019 -  (R)evolution of Architectures"
         },
         "slides": "http://bit.ly/erickwendel-k8s-nodejs-jskongress2019",
-        "photos": "2019-03-12-Scaling_Node.js_applications_with_Kubernetes_and_Docker",
+        "photos": "2019-03-12-scaling_node.js_applications_with_kubernetes_and_docker",
         "video": "https://youtu.be/ZgMAYQmSJO4",
         "tags": ["kubernetes", "k8s", "node.js", "javascript"],
         "location": {
@@ -145,7 +145,7 @@
             "link": "https://gdgsv-devfest.appspot.com/schedule"
         },
         "slides": "http://bit.ly/erickwendel-gdgsv-ts-node",
-        "photos": "2019-02-23-The_power_of_Typescript_to_work_with_Node.js_Applications",
+        "photos": "2019-02-23-the_power_of_typescript_to_work_with_node.js_applications",
         "video": "https://twitter.com/i/status/1099477700652150785",
         "tags": ["node.js", "typescript", "javascript"],
         "location": {
@@ -167,7 +167,7 @@
             "name": "NodeSchool SF February 2019 | 4th Anniversary"
         },
         "slides": "http://bit.ly/graphql-azfunction-erickwendel",
-        "photos": "2019-02-17-Creating_Serverless_APIs_using_GraphQL,_ApolloServer_and_Azure_Functions",
+        "photos": "2019-02-17-creating_serverless_apis_using_graphql,_apolloserver_and_azure_functions",
         "video": "",
         "tags": ["node.js", "serverless", "javascript", "graphql", "workshop"],
         "location": {
@@ -213,7 +213,7 @@
             "name": "Campus Party Minas Gerais 2017 - #CPMG2"
         },
         "slides": "https://docs.google.com/presentation/d/10oIZDmxbaTemW5aIv0d_Vp2IxM5gvzwCpwuV6AdIOu0/edit?usp=sharing",
-        "photos": "2017-11-03-Construindo_sua_própria_inteligência_artificial_como_assistente_pessoal",
+        "photos": "2017-11-03-construindo_sua_própria_inteligência_artificial_como_assistente_pessoal",
         "video": "",
         "tags": ["node.js", "aws", "typescript"],
         "location": {
@@ -259,7 +259,7 @@
             "name": "DevExperience 2017"
         },
         "slides": "http://slides.com/erickwendel/alta-performance-e-disponibilidade-de-aplicaes-nodejs-devxperience/fullscreen",
-        "photos": "2017-09-01-Alta_Performance_e_Disponibilidade_de_aplicações_Nodejs",
+        "photos": "2017-09-01-alta_performance_e_disponibilidade_de_aplicações_nodejs",
         "video": "",
         "tags": ["node.js", "performance", "hapijs"],
         "location": {
@@ -282,7 +282,7 @@
             "name": "Campus Night Itajubá"
         },
         "slides": "",
-        "photos": "2017-08-26-A_vida_e_as_aventuras_de_um_desenvolvedor_de_Software",
+        "photos": "2017-08-26-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software",
         "video": "",
         "tags": ["career"],
         "location": {
@@ -465,7 +465,7 @@
             "name": "Roadsec São Paulo 2017"
         },
         "slides": "https://docs.google.com/presentation/d/1SjRVW9Sei4wI2Lr45FdDJoShZr97gVmJ10lhYwKaoTM/edit?usp=sharing",
-        "photos": "2017-11-11-Desenvolvimento_de_Malwares_com_C#",
+        "photos": "2017-11-11-desenvolvimento_de_malwares_com_c#",
         "video": "https://www.facebook.com/EriickWendel/videos/1530672087012334/",
         "tags": ["malware", "c#"],
         "location": {
@@ -487,7 +487,7 @@
             "name": "InterCon 2017"
         },
         "slides": "https://docs.google.com/presentation/d/18Pmr-81goU0XDjABDGrcJldlYjAquoqJxLbNZ-G7XNQ/edit?usp=sharing",
-        "photos": "2017-10-15_Arquitetura_ServerlessNanoservices",
+        "photos": "2017-10-15_arquitetura_serverlessnanoservices",
         "video": "https://www.youtube.com/watch?v=mxypKdbCJOY",
         "tags": ["serverless", "node.js", "aws"],
         "location": {
@@ -579,7 +579,7 @@
             "name": "Microsoft Connect(); Brasil"
         },
         "slides": "http://bit.ly/wtf-serverless-connect",
-        "photos": "2019-01-19_-_WTF_Are_Serverless_Apps",
+        "photos": "2019-01-19_-_wtf_are_serverless_apps",
         "video": "",
         "tags": ["node.js", "serverless", "aws", "azure"],
         "location": {
@@ -1789,7 +1789,7 @@
             "name": "MSP Coding at Night 2015"
         },
         "slides": "https://www.slideshare.net/EriickWendell/desenvolvimento-de-malwares-com-c",
-        "photos": "2015-11-02-Desenvolvimento_de_Malwares_com_C#",
+        "photos": "2015-11-02-desenvolvimento_de_malwares_com_c#",
         "video": "",
         "tags": ["malware", "trojan", "c#", "dotnet"],
         "location": {
@@ -1812,7 +1812,7 @@
             "name": ".NET Coders Day"
         },
         "slides": "https://pt.slideshare.net/EriickWendell/mini-curso-webscraping",
-        "photos": "2015-06-12-WebScraping_com_C#",
+        "photos": "2015-06-12-webscraping_com_c#",
         "video": "",
         "tags": ["c#", "dotnet", "webscrapping"],
         "location": {
@@ -1858,7 +1858,7 @@
             "name": "Corujão de ASP.NET MVC 5.2 - .NETCoders"
         },
         "slides": "",
-        "photos": "2015-08-23_Corujão_de_ASP.NET_MVC",
+        "photos": "2015-08-23_corujão_de_asp.net_mvc",
         "video": "",
         "tags": [""],
         "location": {

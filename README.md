@@ -376,7 +376,7 @@ _Tags: `aspnet`, `c#`, `jquery`_
 <a href="http://200ok.us" target="_blank">Tulsa’s Web Developer Conference 2019</a>
 
 
-<a href="http://bit.ly/wtf-sls-apps-200ok" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-05-17-wtf_are_serverless_apps?" target="_blank">photos</a> 
+<a href="http://bit.ly/wtf-sls-apps-200ok" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-05-17-wtf_are_serverless_apps" target="_blank">photos</a> 
 
 
 Abstract:
@@ -391,6 +391,7 @@ Abstract:
 > <b>Links</b>
 > 
 > - <a href="http://200ok.us/speakers/erick-wendel.html" target="_blank">http://200ok.us/speakers/erick-wendel.html</a>
+> - <a href="https://github.com/ErickWendel/wtf-are-sls-apps-200ok" target="_blank">https://github.com/ErickWendel/wtf-are-sls-apps-200ok</a>
 > 
 
 
@@ -505,7 +506,7 @@ Location: <a href="https://www.google.com/maps/?q=37.782757,-122.39363" target="
 <a href="https://js-kongress.com" target="_blank">JS Kongress 2019 -  (R)evolution of Architectures</a>
 
 
-<a href="http://bit.ly/erickwendel-k8s-nodejs-jskongress2019" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-03-12-Scaling_Node.js_applications_with_Kubernetes_and_Docker" target="_blank">photos</a> |  <a href="https://youtu.be/ZgMAYQmSJO4" target="_blank">video</a>
+<a href="http://bit.ly/erickwendel-k8s-nodejs-jskongress2019" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-03-12-scaling_node.js_applications_with_kubernetes_and_docker" target="_blank">photos</a> |  <a href="https://youtu.be/ZgMAYQmSJO4" target="_blank">video</a>
 
 
 Abstract:
@@ -526,7 +527,7 @@ Location: <a href="https://www.google.com/maps/?q=48.1319997,11.5444438" target=
 <a href="https://gdgsv-devfest.appspot.com/schedule" target="_blank">GDG Silicon Valley DevFest 2019</a>
 
 
-<a href="http://bit.ly/erickwendel-gdgsv-ts-node" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-02-23-The_power_of_Typescript_to_work_with_Node.js_Applications" target="_blank">photos</a> |  <a href="https://twitter.com/i/status/1099477700652150785" target="_blank">video</a>
+<a href="http://bit.ly/erickwendel-gdgsv-ts-node" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-02-23-the_power_of_typescript_to_work_with_node.js_applications" target="_blank">photos</a> |  <a href="https://twitter.com/i/status/1099477700652150785" target="_blank">video</a>
 
 
 Abstract:
@@ -551,7 +552,7 @@ Location: <a href="https://www.google.com/maps/?q=37.4121686,-122.0206659" targe
 <a href="https://www.meetup.com/sfnodeschool/events/258536522/" target="_blank">NodeSchool SF February 2019 | 4th Anniversary</a>
 
 
-<a href="http://bit.ly/graphql-azfunction-erickwendel" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-02-17-Creating_Serverless_APIs_using_GraphQL,_ApolloServer_and_Azure_Functions" target="_blank">photos</a> 
+<a href="http://bit.ly/graphql-azfunction-erickwendel" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-02-17-creating_serverless_apis_using_graphql,_apolloserver_and_azure_functions" target="_blank">photos</a> 
 
 
 Abstract:
@@ -576,7 +577,7 @@ Location: <a href="https://www.google.com/maps/?q=37.7846235,-122.400417" target
 <a href="https://www.meetup.com/pt-BR/DevelopersBR/events/257187406/" target="_blank">Microsoft Connect(); Brasil</a>
 
 
-<a href="http://bit.ly/wtf-serverless-connect" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-01-19_-_WTF_Are_Serverless_Apps" target="_blank">photos</a> 
+<a href="http://bit.ly/wtf-serverless-connect" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-01-19_-_wtf_are_serverless_apps" target="_blank">photos</a> 
 
 
 Abstract:
@@ -1197,7 +1198,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.5882491,-46.6346657" targe
 <a href="https://roadsec.com.br/rssp17-programacao/" target="_blank">Roadsec São Paulo 2017</a>
 
 
-<a href="https://docs.google.com/presentation/d/1SjRVW9Sei4wI2Lr45FdDJoShZr97gVmJ10lhYwKaoTM/edit?usp=sharing" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2017-11-11-Desenvolvimento_de_Malwares_com_C#" target="_blank">photos</a> |  <a href="https://www.facebook.com/EriickWendel/videos/1530672087012334/" target="_blank">video</a>
+<a href="https://docs.google.com/presentation/d/1SjRVW9Sei4wI2Lr45FdDJoShZr97gVmJ10lhYwKaoTM/edit?usp=sharing" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2017-11-11-desenvolvimento_de_malwares_com_c#" target="_blank">photos</a> |  <a href="https://www.facebook.com/EriickWendel/videos/1530672087012334/" target="_blank">video</a>
 
 
 Abstract:
@@ -1221,7 +1222,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.5283405,-46.6695493" targe
 <a href="https://campuse.ro/events/campus-party-minas-gerais-2017/talk/construindo-sua-propria-inteligencia-artificial-como-assistente-pessoal-cpmg2/" target="_blank">Campus Party Minas Gerais 2017 - #CPMG2</a>
 
 
-<a href="https://docs.google.com/presentation/d/10oIZDmxbaTemW5aIv0d_Vp2IxM5gvzwCpwuV6AdIOu0/edit?usp=sharing" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2017-11-03-Construindo_sua_própria_inteligência_artificial_como_assistente_pessoal" target="_blank">photos</a> 
+<a href="https://docs.google.com/presentation/d/10oIZDmxbaTemW5aIv0d_Vp2IxM5gvzwCpwuV6AdIOu0/edit?usp=sharing" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2017-11-03-construindo_sua_própria_inteligência_artificial_como_assistente_pessoal" target="_blank">photos</a> 
 
 
 Abstract:
@@ -1263,7 +1264,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.6674085,-46.5850207" targe
 <a href="https://imasters.com.br/noticia/confira-programacao-do-intercon-2017" target="_blank">InterCon 2017</a>
 
 
-<a href="https://docs.google.com/presentation/d/18Pmr-81goU0XDjABDGrcJldlYjAquoqJxLbNZ-G7XNQ/edit?usp=sharing" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2017-10-15_Arquitetura_ServerlessNanoservices" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=mxypKdbCJOY" target="_blank">video</a>
+<a href="https://docs.google.com/presentation/d/18Pmr-81goU0XDjABDGrcJldlYjAquoqJxLbNZ-G7XNQ/edit?usp=sharing" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2017-10-15_arquitetura_serverlessnanoservices" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=mxypKdbCJOY" target="_blank">video</a>
 
 
 Abstract:
@@ -1329,7 +1330,7 @@ Location: <a href="https://www.google.com/maps/?q=-25.4332082,-49.2752017" targe
 <a href="https://www.sympla.com.br/devxperience-2017__109753#info" target="_blank">DevExperience 2017</a>
 
 
-<a href="http://slides.com/erickwendel/alta-performance-e-disponibilidade-de-aplicaes-nodejs-devxperience/fullscreen" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2017-09-01-Alta_Performance_e_Disponibilidade_de_aplicações_Nodejs" target="_blank">photos</a> 
+<a href="http://slides.com/erickwendel/alta-performance-e-disponibilidade-de-aplicaes-nodejs-devxperience/fullscreen" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2017-09-01-alta_performance_e_disponibilidade_de_aplicações_nodejs" target="_blank">photos</a> 
 
 
 Abstract:
@@ -1353,7 +1354,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.5816653,-46.6690279" targe
 <a href="https://campuse.ro/events/campus-night-itajuba-2017/talk/a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-1/" target="_blank">Campus Night Itajubá</a>
 
 
- <a href="https://github.com/ErickWendel/timeline/tree/master/2017-08-26-A_vida_e_as_aventuras_de_um_desenvolvedor_de_Software" target="_blank">photos</a> 
+ <a href="https://github.com/ErickWendel/timeline/tree/master/2017-08-26-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software" target="_blank">photos</a> 
 
 
 Abstract:
@@ -2077,7 +2078,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.9675782,-46.3342055" targe
 <a href="" target="_blank">MSP Coding at Night 2015</a>
 
 
-<a href="https://www.slideshare.net/EriickWendell/desenvolvimento-de-malwares-com-c" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2015-11-02-Desenvolvimento_de_Malwares_com_C#" target="_blank">photos</a> 
+<a href="https://www.slideshare.net/EriickWendell/desenvolvimento-de-malwares-com-c" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2015-11-02-desenvolvimento_de_malwares_com_c#" target="_blank">photos</a> 
 
 
 Abstract:
@@ -2101,7 +2102,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.9675782,-46.3342055" targe
 <a href="" target="_blank">Corujão de ASP.NET MVC 5.2 - .NETCoders</a>
 
 
- <a href="https://github.com/ErickWendel/timeline/tree/master/2015-08-23_Corujão_de_ASP.NET_MVC" target="_blank">photos</a> 
+ <a href="https://github.com/ErickWendel/timeline/tree/master/2015-08-23_corujão_de_asp.net_mvc" target="_blank">photos</a> 
 
 
 Abstract:
@@ -2122,7 +2123,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.5506339,-46.5780888" targe
 <a href="https://github.com/nerdzao/.NETCodersDay-13-06-15" target="_blank">.NET Coders Day</a>
 
 
-<a href="https://pt.slideshare.net/EriickWendell/mini-curso-webscraping" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2015-06-12-WebScraping_com_C#" target="_blank">photos</a> 
+<a href="https://pt.slideshare.net/EriickWendell/mini-curso-webscraping" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2015-06-12-webscraping_com_c#" target="_blank">photos</a> 
 
 
 Abstract:
