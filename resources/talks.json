@@ -1071,7 +1071,7 @@
         },
         "additionalLinks": [""],
         "slides": "http://bit.ly/apicon-serverless-erickwendel-slides",
-        "photos": "2018-03-28-arquitetando_aplicações_serverless_-_arquitetura,_padrões_e_organização_de_aplicações",
+        "photos": "2018-03-23-arquitetando_aplicações_serverless_-_arquitetura,_padrões_e_organização_de_aplicações",
         "video": "",
         "tags": ["serverless", "node.js", "design patterns", "javascript"],
         "location": {
