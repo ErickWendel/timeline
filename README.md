@@ -685,7 +685,7 @@ Location: <a href="https://www.google.com/maps/?q=-26.242434,-48.8812217" target
 <a href="https://cpee.unifei.edu.br/Programacao.html" target="_blank">III Congresso de Pesquisa Extensão e Ensino da Unifei-Itabira</a>
 
 
-<a href="https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-10-25-node.js_docker_containerizacao/photos" target="_blank">photos</a> 
+<a href="https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-10-25-node.js_docker_containerizacao" target="_blank">photos</a> 
 
 
 Abstract:
@@ -706,7 +706,7 @@ Location: <a href="https://www.google.com/maps/?q=-19.6743348,-43.2144952" targe
 <a href="" target="_blank">E.E. Vila Bela - Projeto [R]EVOLUÇÃO</a>
 
 
-<a href="https://docs.google.com/presentation/d/1VhpAZC1mZgmuJXy9Qt_mbPce4aC-rvtFu6RYzKAXIlE/edit?usp=sharing" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-10-18-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software/photos" target="_blank">photos</a> 
+<a href="https://docs.google.com/presentation/d/1VhpAZC1mZgmuJXy9Qt_mbPce4aC-rvtFu6RYzKAXIlE/edit?usp=sharing" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-10-18-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software" target="_blank">photos</a> 
 
 
 Abstract:
@@ -727,7 +727,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.6099272,-46.4499841" targe
 <a href="https://credencial.imasters.com.br/community-leaders-summit-2018" target="_blank">Community Leaders Summit</a>
 
 
-<a href="https://www.icloud.com/keynote/0vGhAy4B7cCUt_5B94zJvKV_A#O_que_aprendi_organizando_uma_grande_comunidade_-_Community_Summit" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-10-05-o_que_aprendi_organizando_grandes_comunidades/photos" target="_blank">photos</a> |  <a href="https://web.facebook.com/fernando.veiga.3950/videos/1122170867935213/" target="_blank">video</a>
+<a href="https://www.icloud.com/keynote/0vGhAy4B7cCUt_5B94zJvKV_A#O_que_aprendi_organizando_uma_grande_comunidade_-_Community_Summit" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-10-05-o_que_aprendi_organizando_grandes_comunidades" target="_blank">photos</a> |  <a href="https://web.facebook.com/fernando.veiga.3950/videos/1122170867935213/" target="_blank">video</a>
 
 
 Abstract:
@@ -748,7 +748,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.5816604,-46.6690279" targe
 <a href="https://www.theconf.club/" target="_blank">TheConf 2018</a>
 
 
-<a href="https://www.icloud.com/keynote/0mpRDRsKBIcIkmNCTrOstp5fQ#Scalling_your_apps_with_K8s_and_Docker_-_TheConf_-_21092018" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-09-21-scaling_your_applications_with_kubernetes_and_docker/photos" target="_blank">photos</a> |  <a href="https://youtu.be/cAwDALyoVUw" target="_blank">video</a>
+<a href="https://www.icloud.com/keynote/0mpRDRsKBIcIkmNCTrOstp5fQ#Scalling_your_apps_with_K8s_and_Docker_-_TheConf_-_21092018" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-09-21-scaling_your_applications_with_kubernetes_and_docker" target="_blank">photos</a> |  <a href="https://youtu.be/cAwDALyoVUw" target="_blank">video</a>
 
 
 Abstract:
@@ -1027,7 +1027,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.5618829,-46.6555644" targe
 <a href="http://apicon.com.br/" target="_blank">API Connect Conference 2018</a>
 
 
-<a href="http://bit.ly/apicon-serverless-erickwendel-slides" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-03-28-arquitetando_aplicações_serverless_-_arquitetura,_padrões_e_organização_de_aplicações" target="_blank">photos</a> 
+<a href="http://bit.ly/apicon-serverless-erickwendel-slides" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-03-23-arquitetando_aplicações_serverless_-_arquitetura,_padrões_e_organização_de_aplicações" target="_blank">photos</a> 
 
 
 Abstract:
