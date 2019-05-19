@@ -50,8 +50,8 @@ async function main() {
     .filter(({ photos }) => !!photos)
     .map(({ title, date, photos }) => ({ title, date, photos }));
 
-  const t = items.map(({ photos }) => console.log('photos', photos));
-  //   const t = items.map(({ photos }) => reScale(`../${photos}`, folder_600x600));
+  //   const t = items.map(({ photos }) => console.log('photos', photos));
+  const t = items.map(({ photos }) => reScale(`../${photos}`, folder_600x600));
   //   const t = items.map(({ photos }) => reScale(`../${photos}`, folder_1024x1024));
   return Promise.all(t);
   //   console.log('final', final);
