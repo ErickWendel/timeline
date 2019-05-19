@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/ErickWendel/timeline#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "jimp": "^0.6.4",
     "json2md": "^1.6.1",
     "moment": "^2.24.0"
   }
