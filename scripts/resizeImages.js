@@ -11,9 +11,10 @@ const [mkdirAsync, existsAsync, readAsync, unlinkAsync] = [
 
 const Jimp = require('jimp');
 const folder_600x600 = `600x600`;
+const folder_800x800 = `800x800`;
 const folder_1024x1024 = `1024x1024`;
 
-const sizes = [folder_1024x1024, folder_600x600];
+const sizes = [folder_1024x1024, folder_600x600, folder_800x800];
 
 async function reScale(myPath, size) {
   const finalFolder = `${myPath}/${size}`;
@@ -23,14 +24,14 @@ async function reScale(myPath, size) {
     await mkdirAsync(`${finalFolder}`);
   } catch (e) {}
   //   if (!exist) await mkdirAsync(`${finalFolder}`);
-
   const files = await readAsync(myPath);
   const items = files.filter(
-    item => item !== '.DS_Store' && !~sizes.indexOf(item),
+    item =>
+      item !== '.DS_Store' && item !== 'video.mp4' && !~sizes.indexOf(item),
   );
 
   const outPut = `${finalFolder}`;
-
+  const resolutions = [];
   for (file of items) {
     if (file === '.DS_Store') {
       await unlinkAsync(file);
@@ -40,28 +41,39 @@ async function reScale(myPath, size) {
     // console.log('file', pathFile);
     console.log('creating', `${outPut}/${file}`);
     const lenna = await Jimp.read(pathFile);
-    lenna
-      .scaleToFit(600, 600)
-      .quality(100)
-      .write(`${outPut}/${file}`);
+    const [w, h] = size.split('x').map(parseInt);
+    const result = new Promise((resolve, reject) => {
+      lenna
+        .scaleToFit(w, h)
+        // .quality(100)
+        .write(`${outPut}/${file}`, (err, res) =>
+          err ? reject(err) : resolve(res),
+        );
+    });
+
+    resolutions.push(result);
   }
+  return resolutions;
 }
 
 async function main() {
-  const items = talks.filter(({ photos }) => !!photos);
+  const items = talks
+    // .filter(item => item.photos === '2015-08-23_corujão_de_asp.net_mvc')
+    .filter(({ photos }) => !!photos);
 
-  const t = items.map(({ photos }) => reScale(`../${photos}`, folder_600x600));
-  const t2 = items.map(({ photos }) =>
-    reScale(`../${photos}`, folder_1024x1024),
-  );
-
-  try {
-    await Promise.all([...t, ...t2]);
-    process.exit(0);
-  } catch (error) {
-    console.log('error', error);
-    process.exit(0);
+  for (const { photos } of items) {
+    await reScale(`../${photos}`, folder_800x800);
   }
+  process.exit(0);
+  // const t2 = items.map(({ photos }) => reScale(`../${photos}`, folder_600x600));
+
+  // try {
+  //   await Promise.all(t);
+  //   process.exit(0);
+  // } catch (error) {
+  //   console.log('error', error);
+  //   process.exit(0);
+  // }
   //   console.log('final', final);
 }
 main();
