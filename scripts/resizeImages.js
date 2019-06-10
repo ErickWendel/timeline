@@ -18,12 +18,10 @@ const sizes = [folder_1024x1024, folder_600x600, folder_800x800];
 
 async function reScale(myPath, size) {
   const finalFolder = `${myPath}/${size}`;
-  //   const exist = await existsAsync(`${finalFolder}`);
-  //   console.log(`exist? ${exist}: ${finalFolder}`);
   try {
     await mkdirAsync(`${finalFolder}`);
   } catch (e) {}
-  //   if (!exist) await mkdirAsync(`${finalFolder}`);
+
   const files = await readAsync(myPath);
   const items = files.filter(
     item =>
@@ -45,7 +43,6 @@ async function reScale(myPath, size) {
     const result = new Promise((resolve, reject) => {
       lenna
         .scaleToFit(w, h)
-        // .quality(100)
         .write(`${outPut}/${file}`, (err, res) =>
           err ? reject(err) : resolve(res),
         );
@@ -58,22 +55,15 @@ async function reScale(myPath, size) {
 
 async function main() {
   const items = talks
-    // .filter(item => item.photos === '2015-08-23_corujão_de_asp.net_mvc')
+    // .filter(
+    //   item =>
+    //     item.photos ===
+    //     '2019-06-06-the_power_of_typescript_to_work_with_node.js_applications',
+    // )
     .filter(({ photos }) => !!photos);
 
   for (const { photos } of items) {
     await reScale(`../${photos}`, folder_800x800);
   }
-  process.exit(0);
-  // const t2 = items.map(({ photos }) => reScale(`../${photos}`, folder_600x600));
-
-  // try {
-  //   await Promise.all(t);
-  //   process.exit(0);
-  // } catch (error) {
-  //   console.log('error', error);
-  //   process.exit(0);
-  // }
-  //   console.log('final', final);
 }
 main();
