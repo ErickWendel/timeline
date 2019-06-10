@@ -18,16 +18,16 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Projects**: 2018/November - 2015/July 
 * **Demonstrations**: 2018/December - 2016/September 
 * **Blog Posts**: 2018/March - 2015/February 
-* **Conference Talks**: 2019/May - 2015/January 
+* **Conference Talks**: 2019/June - 2015/January 
 
-#### Presentations' number: 91
+#### Presentations' number: 92
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (08)](#blog-posts)
-- [Conference Talks (83)](#conference-talks)
+- [Conference Talks (84)](#conference-talks)
 
 ## Projects
 
@@ -369,6 +369,31 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2019-06-06 - The power of Typescript to work with Node.js Applications (pt-br)
+
+
+<a href="https://www.meetup.com/pt-BR/nodebr/events/260955333/" target="_blank">NodeBR #51 - Javascript vs Typescript</a>
+
+
+<a href="http://bit.ly/erickwendel-nodebr-ts-node" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-06-06-the_power_of_typescript_to_work_with_node.js_applications" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Typescript is a superset of Javascript, helping developers to make powerful applications with better organization, maintainability and solves many problems that Javascript has. In this talk you can know the power to build applications with Typescript, using design patterns and features that can help us to build better software
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/ts-power-nodebr-talk-examples" target="_blank">https://github.com/ErickWendel/ts-power-nodebr-talk-examples</a>
+> - <a href="http://bit.ly/2WXhWRC" target="_blank">http://bit.ly/2WXhWRC</a>
+> 
+
+
+_Tags: `node.js`, `typescript`, `design patterns`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.553513,-46.657505" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2019-05-17 - WTF are Serverless apps? (en-us)
 
