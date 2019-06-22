@@ -14,7 +14,7 @@ source_folder='../'
 #   --name $container_name \
 #   --account-name $AZURE_STORAGE_ACCOUNT
 
-for f in $(ls $source_folder | grep 20); do
+for f in $(ls $source_folder | grep 2019-06-29-10); do
 
   echo "Uploading $(basename $f) file..."
   az storage blob upload-batch -d $container_name \

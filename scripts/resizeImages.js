@@ -55,11 +55,11 @@ async function reScale(myPath, size) {
 
 async function main() {
   const items = talks
-    // .filter(
-    //   item =>
-    //     item.photos ===
-    //     '2019-06-06-the_power_of_typescript_to_work_with_node.js_applications',
-    // )
+    .filter(
+      item =>
+        item.photos ===
+        '2019-06-29-10_secrets_to_improve_javascript_performance',
+    )
     .filter(({ photos }) => !!photos);
 
   for (const { photos } of items) {

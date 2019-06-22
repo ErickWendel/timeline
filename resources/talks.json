@@ -1,4 +1,27 @@
 [{
+        "title": "10 secrets to improve Javascript Performance",
+        "abstract": "The Javascript is performing many upgrades in their language and asynchronous operations on each release. Thousands of developers are creating new apps using Javascript on backend, frontend and cloud platforms. On production environments, we need to think about the possible problems avoiding the network overhead, memory and CPU usage. Attendees will learn how to avoid common mistakes, how to use the util node.js core module and how to respect the Javascript workflow to write faster and productive projects. We will show examples to make applications faster with simple adjusts that could be useful in production environments.",
+        "type": "talk",
+        "event": {
+            "link": "http://nodeconf.co",
+            "name": "NodeConf Colombia 2019"
+        },
+        "slides": "http://bit.ly/10-tips-jsperf-nodeconfco",
+        "photos": "2019-06-29-10_secrets_to_improve_javascript_performance",
+        "video": "",
+        "tags": ["node.js", "javascript", "performance"],
+        "location": {
+            "latitude": 6.2646247,
+            "longitude": -75.5687959,
+            "country": "Brazil",
+            "uf": "SP",
+            "city": "São Paulo"
+        },
+        "additionalLinks": ["https://github.com/ErickWendel/10-tips-jsperf-nodeconfco-examples", "https://twitter.com/calypsobronte/status/1142525187105140742"],
+        "language": "en-us",
+        "date": "2019-06-29"
+    },
+    {
         "title": "The power of Typescript to work with Node.js Applications",
         "abstract": "Typescript is a superset of Javascript, helping developers to make powerful applications with better organization, maintainability and solves many problems that Javascript has. In this talk you can know the power to build applications with Typescript, using design patterns and features that can help us to build better software",
         "type": "talk",

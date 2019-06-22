@@ -20,14 +20,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2018/March - 2015/February 
 * **Conference Talks**: 2019/June - 2015/January 
 
-#### Presentations' number: 92
+#### Presentations' number: 93
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (08)](#blog-posts)
-- [Conference Talks (84)](#conference-talks)
+- [Conference Talks (85)](#conference-talks)
 
 ## Projects
 
@@ -369,6 +369,31 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2019-06-29 - 10 secrets to improve Javascript Performance (en-us)
+
+
+<a href="http://nodeconf.co" target="_blank">NodeConf Colombia 2019</a>
+
+
+<a href="http://bit.ly/10-tips-jsperf-nodeconfco" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-06-29-10_secrets_to_improve_javascript_performance" target="_blank">photos</a> 
+
+
+Abstract:
+
+> The Javascript is performing many upgrades in their language and asynchronous operations on each release. Thousands of developers are creating new apps using Javascript on backend, frontend and cloud platforms. On production environments, we need to think about the possible problems avoiding the network overhead, memory and CPU usage. Attendees will learn how to avoid common mistakes, how to use the util node.js core module and how to respect the Javascript workflow to write faster and productive projects. We will show examples to make applications faster with simple adjusts that could be useful in production environments.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/10-tips-jsperf-nodeconfco-examples" target="_blank">https://github.com/ErickWendel/10-tips-jsperf-nodeconfco-examples</a>
+> - <a href="https://twitter.com/calypsobronte/status/1142525187105140742" target="_blank">https://twitter.com/calypsobronte/status/1142525187105140742</a>
+> 
+
+
+_Tags: `node.js`, `javascript`, `performance`_
+
+
+Location: <a href="https://www.google.com/maps/?q=6.2646247,-75.5687959" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2019-06-06 - The power of Typescript to work with Node.js Applications (pt-br)
 
