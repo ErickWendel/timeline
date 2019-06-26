@@ -238,7 +238,7 @@ Portal:
 
 Abstract:
 
-> 
+> **NerdZão** [/nɜrdzsʌnn/](https://en.wikipedia.org/wiki/Help:IPA/English) (in English, big nerd) is a Brazillian technology community/user group initially founded in São Paulo — Brazil and now it’s a worldwide community 🌎.
 > 
 > 
 
