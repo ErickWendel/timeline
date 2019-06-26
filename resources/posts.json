@@ -1,4 +1,18 @@
 [{
+        "title": "NerdZão: Behind the Scenes of a Brazillian Technology Community",
+        "abstract": "",
+        "type": "post",
+        "link": "https://hackernoon.com/knowing-the-nerdzao-a-brazillian-tech-group-9f3704cbbcfb",
+        "additionalLinks": [""],
+        "portal": {
+            "link": "https://hackernoon.com",
+            "name": "Hackernoon"
+        },
+        "tags": ["communities", "management", "nerdzao"],
+        "language": "en-us",
+        "date": "2019-05-27"
+    },
+    {
         "title": "Patterns — Generic Repository with Typescript and Node.js",
         "abstract": "If you work with Node.js/Javascript and you have many replicated codes for different data models or create CRUDs (Create, Read, Update and Delete) at all times, then this post is for you!",
         "type": "post",

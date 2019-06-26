@@ -17,7 +17,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 * **Projects**: 2018/November - 2015/July 
 * **Demonstrations**: 2018/December - 2016/September 
-* **Blog Posts**: 2018/March - 2015/February 
+* **Blog Posts**: 2019/May - 2015/February 
 * **Conference Talks**: 2019/June - 2015/January 
 
 #### Presentations' number: 93
@@ -26,7 +26,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
-- [Blog Posts (08)](#blog-posts)
+- [Blog Posts (09)](#blog-posts)
 - [Conference Talks (85)](#conference-talks)
 
 ## Projects
@@ -228,6 +228,23 @@ _Tags: `wear`, `android`, `node.js`_
 
 ## Blog Posts
 
+### <a href="https://hackernoon.com/knowing-the-nerdzao-a-brazillian-tech-group-9f3704cbbcfb" target="_blank">2019-05-27 - NerdZão: Behind the Scenes of a Brazillian Technology Community (en-us)</a>
+
+
+Portal:
+
+> <a href="https://hackernoon.com" target="_blank">Hackernoon</a>
+
+
+Abstract:
+
+> 
+> 
+> 
+
+
+_Tags: `communities`, `management`, `nerdzao`_
+
 ### <a href="https://hackernoon.com/generic-repository-with-typescript-and-node-js-731c10a1b98e" target="_blank">2018-03-20 - Patterns — Generic Repository with Typescript and Node.js (en-us)</a>
 
 
@@ -393,7 +410,7 @@ Abstract:
 _Tags: `node.js`, `javascript`, `performance`_
 
 
-Location: <a href="https://www.google.com/maps/?q=6.2646247,-75.5687959" target="_blank">São Paulo - SP, Brazil</a>.
+Location: <a href="https://www.google.com/maps/?q=6.2646247,-75.5687959" target="_blank">Medellín - ANT, Colombia</a>.
 
 ### 2019-06-06 - The power of Typescript to work with Node.js Applications (pt-br)
 
