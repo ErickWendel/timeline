@@ -13,9 +13,9 @@
         "location": {
             "latitude": 6.2646247,
             "longitude": -75.5687959,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
+            "country": "Colombia",
+            "uf": "ANT",
+            "city": "Medellín"
         },
         "additionalLinks": ["https://github.com/ErickWendel/10-tips-jsperf-nodeconfco-examples", "https://twitter.com/calypsobronte/status/1142525187105140742"],
         "language": "en-us",

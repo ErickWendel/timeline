@@ -5,14 +5,19 @@ RESOURCE_GROUP='erickwendel'
 container_name='timeline-erickwendel'
 source_folder='../'
 
-# az storage account keys list \
-#     --account-name $AZURE_STORAGE_ACCOUNT \
-#     --resource-group $RESOURCE_GROUP \
-#     --output table
+AZURE_STORAGE_ACCESS_KEY=$(az storage account keys list \
+  --account-name $AZURE_STORAGE_ACCOUNT \
+  --resource-group $RESOURCE_GROUP \
+  --output json \
+  --query "[0].value")
+export AZURE_STORAGE_ACCESS_KEY
+export AZURE_STORAGE_ACCOUNT
 
 # az storage container create \
 #   --name $container_name \
 #   --account-name $AZURE_STORAGE_ACCOUNT
+
+# az storage blob delete-batch --pattern 2019-06-29-10_secrets_to_improve_javascript_performance -s timeline-erickwendel
 
 for f in $(ls $source_folder | grep 2019-06-29-10); do
 
