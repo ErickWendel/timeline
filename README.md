@@ -443,7 +443,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.553513,-46.657505" target=
 <a href="http://200ok.us" target="_blank">Tulsa’s Web Developer Conference 2019</a>
 
 
-<a href="http://bit.ly/wtf-sls-apps-200ok" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-05-17-wtf_are_serverless_apps" target="_blank">photos</a> 
+<a href="http://bit.ly/wtf-sls-apps-200ok" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-05-17-wtf_are_serverless_apps" target="_blank">photos</a> |  <a href="http://bit.ly/wtf-are-sls-200ok-erickwendel" target="_blank">video</a>
 
 
 Abstract:

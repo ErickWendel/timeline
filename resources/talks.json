@@ -54,7 +54,7 @@
         },
         "slides": "http://bit.ly/wtf-sls-apps-200ok",
         "photos": "2019-05-17-wtf_are_serverless_apps",
-        "video": "",
+        "video": "http://bit.ly/wtf-are-sls-200ok-erickwendel",
         "tags": ["node.js", "serverless", "javascript", "architecture", "aws", "gcp"],
         "location": {
             "latitude": 36.1505209,
