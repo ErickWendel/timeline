@@ -18,7 +18,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Projects**: 2018/November - 2015/July 
 * **Demonstrations**: 2018/December - 2016/September 
 * **Blog Posts**: 2019/May - 2015/February 
-* **Conference Talks**: 2019/June - 2015/January 
+* **Conference Talks**: 2019/August - 2015/January 
 
 #### Presentations' number: 93
 
@@ -387,55 +387,62 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 ## Conference Talks
 
-### 2019-06-29 - 10 secrets to improve Javascript Performance (en-us)
+### 2019-08-23 - GraphQL + Apollo Server + Azure Functions = Magic (pt-br)
 
 
-<a href="http://nodeconf.co" target="_blank">NodeConf Colombia 2019</a>
+<a href="https://braziljs.org/conf/#03eeca56-bfdc-ab48-a061-7f8503c5cd58" target="_blank">BrazilJS Conference 2019</a>
 
 
-<a href="http://bit.ly/10-tips-jsperf-nodeconfco" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-06-29-10_secrets_to_improve_javascript_performance" target="_blank">photos</a> 
-
-
-Abstract:
-
-> The Javascript is performing many upgrades in their language and asynchronous operations on each release. Thousands of developers are creating new apps using Javascript on backend, frontend and cloud platforms. On production environments, we need to think about the possible problems avoiding the network overhead, memory and CPU usage. Attendees will learn how to avoid common mistakes, how to use the util node.js core module and how to respect the Javascript workflow to write faster and productive projects. We will show examples to make applications faster with simple adjusts that could be useful in production environments.
-> 
-> <b>Links</b>
-> 
-> - <a href="https://github.com/ErickWendel/10-tips-jsperf-nodeconfco-examples" target="_blank">https://github.com/ErickWendel/10-tips-jsperf-nodeconfco-examples</a>
-> - <a href="https://twitter.com/calypsobronte/status/1142525187105140742" target="_blank">https://twitter.com/calypsobronte/status/1142525187105140742</a>
-> 
-
-
-_Tags: `node.js`, `javascript`, `performance`_
-
-
-Location: <a href="https://www.google.com/maps/?q=6.2646247,-75.5687959" target="_blank">Medellín - ANT, Colombia</a>.
-
-### 2019-06-06 - The power of Typescript to work with Node.js Applications (pt-br)
-
-
-<a href="https://www.meetup.com/pt-BR/nodebr/events/260955333/" target="_blank">NodeBR #51 - Javascript vs Typescript</a>
-
-
-<a href="http://bit.ly/erickwendel-nodebr-ts-node" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-06-06-the_power_of_typescript_to_work_with_node.js_applications" target="_blank">photos</a> 
+<a href="http://bit.ly/ew-graphql-azfn-brjs2019" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-08-23-graphql_+_apollo_server_+_azure_functions_=_magic" target="_blank">photos</a> |  <a href="https://youtu.be/SOq7JO7y2_o?t=2869" target="_blank">video</a>
 
 
 Abstract:
 
-> Typescript is a superset of Javascript, helping developers to make powerful applications with better organization, maintainability and solves many problems that Javascript has. In this talk you can know the power to build applications with Typescript, using design patterns and features that can help us to build better software
+> Serverless apps têm ajudado muitas empresas a gastar menos dinheiro em infraestrutura, gerenciamento de aplicativos e desempenho, passando a responsabilidade para plataformas cloud. A união entre as tecnologias GraphQL e arquiteturas serverless  é uma ótima solução para criar aplicativos sem preocupação com dimensionamento, desempenho e capacidade de manutenção. Nessa palestra, os participantes verão como iniciar no mundo da arquitetura serverless usando a plataforma do Azure Functions e expor seus serviços usando o GraphQL e Apollo Server, fornecendo um frontend rico e seguro. Focaremos nos seguintes tópicos: 
+> - Introdução ao Azure Functions 
+> - Benefícios e Desvantagens adotando arquiteturas sem servidor 
+> - Adotando o GraphQL, o Apollo Server e as Funções do Azure em cenários reais 
+> - Dicas e truques sobre experiências de em produção
 > 
 > <b>Links</b>
 > 
-> - <a href="https://github.com/ErickWendel/ts-power-nodebr-talk-examples" target="_blank">https://github.com/ErickWendel/ts-power-nodebr-talk-examples</a>
-> - <a href="http://bit.ly/2WXhWRC" target="_blank">http://bit.ly/2WXhWRC</a>
+> - <a href="https://github.com/ErickWendel/azurefn-graphql-theconf" target="_blank">https://github.com/ErickWendel/azurefn-graphql-theconf</a>
 > 
 
 
-_Tags: `node.js`, `typescript`, `design patterns`_
+_Tags: `node.js`, `graphql`, `apolloserver`, `serverless`_
 
 
-Location: <a href="https://www.google.com/maps/?q=-23.553513,-46.657505" target="_blank">São Paulo - SP, Brazil</a>.
+Location: <a href="https://www.google.com/maps/?q=-30.0846697,-51.2480271" target="_blank">Porto Alegre - POA, Brazil</a>.
+
+### 2019-08-17 - GraphQL + Apollo Server + Azure Functions = Magic (en-us)
+
+
+<a href="https://www.theconf.club/" target="_blank">TheConf 2019</a>
+
+
+  
+
+
+Abstract:
+
+> Serverless applications have been helping many companies to spend less money on infrastructure, application management and performance by passing the responsibility to their 3rd-party provider platforms. The union between GraphQL and Serverless functions is are a great solution to create applications with no worries about scaling, performance, and maintainability. In this talk attendees will see how to start in the Serverless architecture world by use of Azure Functions platform and expose their services using GraphQL and Apollo Server, providing a rich and secure frontend.
+> We will take a look at the following topics:
+> - Introduction to Azure Functions
+> - Benefits and Drawbacks adopting Serverless architectures
+> - Adopting GraphQL, Apollo Server and Azure Functions in real scenarios
+> - Tips and tricks about production experiences
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/azurefn-graphql-theconf" target="_blank">https://github.com/ErickWendel/azurefn-graphql-theconf</a>
+> 
+
+
+_Tags: `english`, `node.js`, `graphql`, `apolloserver`, `serverless`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5816151,-46.6843488" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2019-05-17 - WTF are Serverless apps? (en-us)
 

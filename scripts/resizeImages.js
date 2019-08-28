@@ -1,6 +1,13 @@
 const talks = require('./../resources/talks.json');
-const { mkdir, exists, readdir, unlink } = require('fs');
-const { promisify } = require('util');
+const {
+  mkdir,
+  exists,
+  readdir,
+  unlink
+} = require('fs');
+const {
+  promisify
+} = require('util');
 
 const [mkdirAsync, existsAsync, readAsync, unlinkAsync] = [
   promisify(mkdir),
@@ -25,7 +32,7 @@ async function reScale(myPath, size) {
   const files = await readAsync(myPath);
   const items = files.filter(
     item =>
-      item !== '.DS_Store' && item !== 'video.mp4' && !~sizes.indexOf(item),
+    item !== '.DS_Store' && item !== 'video.mp4' && !~sizes.indexOf(item),
   );
 
   const outPut = `${finalFolder}`;
@@ -57,12 +64,16 @@ async function main() {
   const items = talks
     .filter(
       item =>
-        item.photos ===
-        '2019-06-29-10_secrets_to_improve_javascript_performance',
+      item.photos ===
+      '2019-08-23-graphql_+_apollo_server_+_azure_functions_=_magic',
     )
-    .filter(({ photos }) => !!photos);
+    .filter(({
+      photos
+    }) => !!photos);
 
-  for (const { photos } of items) {
+  for (const {
+      photos
+    } of items) {
     await reScale(`../${photos}`, folder_800x800);
   }
 }
