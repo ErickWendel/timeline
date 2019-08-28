@@ -421,7 +421,7 @@ Location: <a href="https://www.google.com/maps/?q=-30.0846697,-51.2480271" targe
 <a href="https://www.theconf.club/" target="_blank">TheConf 2019</a>
 
 
-  
+<a href="http://bit.ly/graphql-serverless-apps-ew" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-08-17-graphql_+_apollo_server_+_azure_functions_=_magic" target="_blank">photos</a> 
 
 
 Abstract:

@@ -65,7 +65,7 @@ async function main() {
     .filter(
       item =>
       item.photos ===
-      '2019-08-23-graphql_+_apollo_server_+_azure_functions_=_magic',
+      '2019-08-17-graphql_+_apollo_server_+_azure_functions_=_magic',
     )
     .filter(({
       photos
