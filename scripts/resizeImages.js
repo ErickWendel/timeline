@@ -64,8 +64,7 @@ async function main() {
   const items = talks
     .filter(
       item =>
-      item.photos ===
-      '2019-08-17-graphql_+_apollo_server_+_azure_functions_=_magic',
+      ~item.photos.indexOf("2019-09"),
     )
     .filter(({
       photos

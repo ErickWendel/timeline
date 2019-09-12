@@ -18,16 +18,16 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Projects**: 2018/November - 2015/July 
 * **Demonstrations**: 2018/December - 2016/September 
 * **Blog Posts**: 2019/May - 2015/February 
-* **Conference Talks**: 2019/August - 2015/January 
+* **Conference Talks**: 2019/September - 2015/January 
 
-#### Presentations' number: 93
+#### Presentations' number: 95
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (09)](#blog-posts)
-- [Conference Talks (85)](#conference-talks)
+- [Conference Talks (87)](#conference-talks)
 
 ## Projects
 
@@ -386,6 +386,65 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2019-09-07 - Construindo Robôs automatizados para extração de informações (pt-br)
+
+
+<a href="https://hacktown.com.br/" target="_blank">Hacktown 2019</a>
+
+
+<a href="http://bit.ly/robos-com-js-hacktown2019" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-09-07-construindo_robôs_automatizados_para_extração_de_informações" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Em nossa vida, fazemos diversas ações repetitivas, seja entrar em um site para visualizar dados e registrar em uma base posterior, seja cadastrar um mesmo
+> item a cada tempo ou até mesmo publicar coisas no Facebook. Nesta palestra, você entenderá a facilidade de criar seu robô totalmente atualizado e pronto
+> para liberar aquele tempo preciso para focar no que realmente é estratégico. Vamos conhecer a ferramenta Selenium Web Driver para simular um usuário no navegador e fazer todas as suas tarefas automagicamente.
+> 
+> 
+
+
+_Tags: `node.js`, `seleniumwebdriver`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-22.2562972,-45.7056318" target="_blank">Santa Rita do Sapucaí - MG, Brazil</a>.
+
+### 2019-09-06 - Javascript, Azure Cognitive Services e RaspberryPI - Usando Javascript para reconhecer pessoas! (pt-br)
+
+
+<a href="https://brasil.campus-party.org/campus-party-goias/" target="_blank">Campus Party Goiás</a>
+
+
+ <a href="https://github.com/ErickWendel/timeline/tree/master/2019-09-06-javascript_azure_cognitive_services_e_raspberrypi" target="_blank">photos</a> |  <a href="https://t.co/pBXaXMUo31?amp=1" target="_blank">video</a>
+
+
+Abstract:
+
+> Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode! E melhor tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
+> 
+> Dentre os temas abordaremos os seguintes topicos:
+> 
+> - Visão computacional
+> 
+> - Usando Javascript e Serviços na nuvem para reconhecer pessoas
+> 
+> - Como criar seu proprio assistente pessoal em uma lata de cerveja
+> 
+> - Comunicação e segredos para a execução real do projeto. 
+> 
+> 
+> <b>Links</b>
+> 
+> - <a href="https://www.facebook.com/campuspartybrasil/photos/a.10150118337462349/10157275335627349/?type=3&theater" target="_blank">https://www.facebook.com/campuspartybrasil/photos/a.10150118337462349/10157275335627349/?type=3&theater</a>
+> - <a href="https://www.facebook.com/page.erickwendel/videos/431266671069528/" target="_blank">https://www.facebook.com/page.erickwendel/videos/431266671069528/</a>
+> 
+
+
+_Tags: `node.js`, `opencv`, `faceapi`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-16.6298953,-49.2806259" target="_blank">Goiânia - GO, Brazil</a>.
 
 ### 2019-08-23 - GraphQL + Apollo Server + Azure Functions = Magic (pt-br)
 
@@ -945,27 +1004,6 @@ _Tags: `javascript`, `async`, `node.js`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.5588643,-46.6645247" target="_blank">São Paulo - SP, Brazil</a>.
 
-### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
-
-
-<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
-
-
-<a href="https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=NexvZCJFil8" target="_blank">video</a>
-
-
-Abstract:
-
-> Já pensou em reviver os tempos antigos de uma forma mais digital? Nessa palestra os participantes aprenderão como criar aplicações em tempo real com Node.js baseado no projeto Original Potato que desenvolvemos explorando o podencial de aplicações Web e facilidades do Javascript.
-> 
-> 
-
-
-_Tags: `node.js`, `javascript`, `websocket`, `socketio`_
-
-
-Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
-
 ### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
 
 
@@ -983,6 +1021,27 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `faceapi`, `azure`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
+
+### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
+
+
+<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
+
+
+<a href="https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=NexvZCJFil8" target="_blank">video</a>
+
+
+Abstract:
+
+> Já pensou em reviver os tempos antigos de uma forma mais digital? Nessa palestra os participantes aprenderão como criar aplicações em tempo real com Node.js baseado no projeto Original Potato que desenvolvemos explorando o podencial de aplicações Web e facilidades do Javascript.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`, `websocket`, `socketio`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.

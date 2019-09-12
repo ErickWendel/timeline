@@ -1,5 +1,51 @@
 [
     {
+        "title": "Construindo Robôs automatizados para extração de informações",
+        "abstract": "Em nossa vida, fazemos diversas ações repetitivas, seja entrar em um site para visualizar dados e registrar em uma base posterior, seja cadastrar um mesmo\nitem a cada tempo ou até mesmo publicar coisas no Facebook. Nesta palestra, você entenderá a facilidade de criar seu robô totalmente atualizado e pronto\npara liberar aquele tempo preciso para focar no que realmente é estratégico. Vamos conhecer a ferramenta Selenium Web Driver para simular um usuário no navegador e fazer todas as suas tarefas automagicamente.",
+        "type": "talk",
+        "event": {
+            "link": "https://hacktown.com.br/",
+            "name": "Hacktown 2019"
+        },
+        "slides": "http://bit.ly/robos-com-js-hacktown2019",
+        "photos": "2019-09-07-construindo_robôs_automatizados_para_extração_de_informações",
+        "video": "",
+        "tags": ["node.js", "seleniumwebdriver", "javascript"],
+        "location": {
+            "latitude": -22.2562972,
+            "longitude": -45.7056318,
+            "country": "Brazil",
+            "uf": "MG",
+            "city": "Santa Rita do Sapucaí"
+        },
+        "additionalLinks": [],
+        "language": "pt-br",
+        "date": "2019-09-07"
+    },
+    {
+        "title": "Javascript, Azure Cognitive Services e RaspberryPI - Usando Javascript para reconhecer pessoas!",
+        "abstract": "Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode! E melhor tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.\n\nDentre os temas abordaremos os seguintes topicos:\n\n- Visão computacional\n\n- Usando Javascript e Serviços na nuvem para reconhecer pessoas\n\n- Como criar seu proprio assistente pessoal em uma lata de cerveja\n\n- Comunicação e segredos para a execução real do projeto. \n",
+        "type": "talk",
+        "event": {
+            "link": "https://brasil.campus-party.org/campus-party-goias/",
+            "name": "Campus Party Goiás"
+        },
+        "slides": "",
+        "photos": "2019-09-06-javascript_azure_cognitive_services_e_raspberrypi",
+        "video": "https://t.co/pBXaXMUo31?amp=1",
+        "tags": ["node.js", "opencv", "faceapi"],
+        "location": {
+            "latitude": -16.6298953,
+            "longitude": -49.2806259,
+            "country": "Brazil",
+            "uf": "GO",
+            "city": "Goiânia"
+        },
+        "additionalLinks": ["https://www.facebook.com/campuspartybrasil/photos/a.10150118337462349/10157275335627349/?type=3&theater", "https://www.facebook.com/page.erickwendel/videos/431266671069528/"],
+        "language": "pt-br",
+        "date": "2019-09-06"
+    },
+    {
         "title": "GraphQL + Apollo Server + Azure Functions = Magic",
         "abstract": "Serverless apps têm ajudado muitas empresas a gastar menos dinheiro em infraestrutura, gerenciamento de aplicativos e desempenho, passando a responsabilidade para plataformas cloud. A união entre as tecnologias GraphQL e arquiteturas serverless  é uma ótima solução para criar aplicativos sem preocupação com dimensionamento, desempenho e capacidade de manutenção. Nessa palestra, os participantes verão como iniciar no mundo da arquitetura serverless usando a plataforma do Azure Functions e expor seus serviços usando o GraphQL e Apollo Server, fornecendo um frontend rico e seguro. Focaremos nos seguintes tópicos: \n- Introdução ao Azure Functions \n- Benefícios e Desvantagens adotando arquiteturas sem servidor \n- Adotando o GraphQL, o Apollo Server e as Funções do Azure em cenários reais \n- Dicas e truques sobre experiências de em produção",
          "type": "talk",
