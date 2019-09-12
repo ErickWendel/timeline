@@ -416,7 +416,7 @@ Location: <a href="https://www.google.com/maps/?q=-22.2562972,-45.7056318" targe
 <a href="https://brasil.campus-party.org/campus-party-goias/" target="_blank">Campus Party Goiás</a>
 
 
- <a href="https://github.com/ErickWendel/timeline/tree/master/2019-09-06-javascript_azure_cognitive_services_e_raspberrypi" target="_blank">photos</a> |  <a href="https://t.co/pBXaXMUo31?amp=1" target="_blank">video</a>
+<a href="http://bit.ly/js-reconhecer-pessoas-cpgoias2019" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-09-06-javascript_azure_cognitive_services_e_raspberrypi" target="_blank">photos</a> |  <a href="https://t.co/pBXaXMUo31?amp=1" target="_blank">video</a>
 
 
 Abstract:
