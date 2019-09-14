@@ -1,5 +1,28 @@
 [
     {
+        "title": "A vida e as aventuras de um desenvolvedor de Software",
+        "abstract": "Além de produzir sistemas complexos, análises críticas e propor soluções para as maiores corporações, desenvolvedores possuem desafios contínuos, como multidisciplinaridade, estresse e prazos de entrega. Nesta apresentação, os participantes entenderão o lado divertido, inovador e fora da caixa de ser um desenvolvedor dicas de como manter-se motivado e transformar o trabalho em diversão.",
+        "type": "talk",
+        "event": {
+            "link": "http://internorte.com.br/",
+            "name": "Internorte 2019"
+        },
+        "slides": "http://bit.ly/as-aventuras-dev-internorte",
+        "photos": "",
+        "video": "",
+        "tags": ["career"],
+        "location": {
+            "latitude": -8.0385551,
+            "longitude": -50.0368336,
+            "country": "Brazil",
+            "uf": "PA",
+            "city": "Redenção"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2019-09-14"
+    },
+    {
         "title": "Construindo Robôs automatizados para extração de informações",
         "abstract": "Em nossa vida, fazemos diversas ações repetitivas, seja entrar em um site para visualizar dados e registrar em uma base posterior, seja cadastrar um mesmo\nitem a cada tempo ou até mesmo publicar coisas no Facebook. Nesta palestra, você entenderá a facilidade de criar seu robô totalmente atualizado e pronto\npara liberar aquele tempo preciso para focar no que realmente é estratégico. Vamos conhecer a ferramenta Selenium Web Driver para simular um usuário no navegador e fazer todas as suas tarefas automagicamente.",
         "type": "talk",

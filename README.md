@@ -20,14 +20,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2019/May - 2015/February 
 * **Conference Talks**: 2019/September - 2015/January 
 
-#### Presentations' number: 95
+#### Presentations' number: 96
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (09)](#blog-posts)
-- [Conference Talks (87)](#conference-talks)
+- [Conference Talks (88)](#conference-talks)
 
 ## Projects
 
@@ -386,6 +386,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2019-09-14 - A vida e as aventuras de um desenvolvedor de Software (pt-br)
+
+
+<a href="http://internorte.com.br/" target="_blank">Internorte 2019</a>
+
+
+  
+
+
+Abstract:
+
+> Além de produzir sistemas complexos, análises críticas e propor soluções para as maiores corporações, desenvolvedores possuem desafios contínuos, como multidisciplinaridade, estresse e prazos de entrega. Nesta apresentação, os participantes entenderão o lado divertido, inovador e fora da caixa de ser um desenvolvedor dicas de como manter-se motivado e transformar o trabalho em diversão.
+> 
+> 
+
+
+_Tags: `career`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-8.0385551,-50.0368336" target="_blank">Redenção - PA, Brazil</a>.
 
 ### 2019-09-07 - Construindo Robôs automatizados para extração de informações (pt-br)
 
