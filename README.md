@@ -20,14 +20,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2019/May - 2015/February 
 * **Conference Talks**: 2019/September - 2015/January 
 
-#### Presentations' number: 96
+#### Presentations' number: 97
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (09)](#blog-posts)
-- [Conference Talks (88)](#conference-talks)
+- [Conference Talks (89)](#conference-talks)
 
 ## Projects
 
@@ -387,13 +387,44 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 ## Conference Talks
 
+### 2019-09-20 - Javascript, Azure Cognitive Services and RaspberryPI - Using Javascript to recognise people!  (pt-br)
+
+
+<a href="https://abcdevelopers.org/" target="_blank">ABCDev 2019</a>
+
+
+<a href="http://bit.ly/abcdev-js-raspberry-facerecognition" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-09-20-javascript_azure_cognitive_services_and_raspberrypi" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Technologies have been increasing our power to develop new applications without a big knowledge of previous concepts. Today developers could create their own Machine Learning applications, strong and complex algorithms without knowing what is happening behind the scenes thought APIs. This talk will explore the benefits of Cognitive services by showing a real application. They will learn how is the most common challenges that we face when we need to depend on third-party APIs and low-cost devices.  
+> We will take a look at the following topics:
+> - OpenCV
+> - Challenges and concepts to recognize people
+> - Drawbacks to create a real application
+> - Demos to compare Azure FaceAPIs and OpenCV 
+> - How Azure face API helped us to be more productive
+> - How to use text to speech after recognizing someone
+> 
+> <b>Links</b>
+> 
+> - <a href="https://twitter.com/erickwendel_/status/1175224730267394049" target="_blank">https://twitter.com/erickwendel_/status/1175224730267394049</a>
+> 
+
+
+_Tags: `node.js`, `raspberrypi`, `azure`, `microsoft`, `opencv`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.612027,-46.570758" target="_blank">São Caetano do Sul - SP, Brazil</a>.
+
 ### 2019-09-14 - A vida e as aventuras de um desenvolvedor de Software (pt-br)
 
 
 <a href="http://internorte.com.br/" target="_blank">Internorte 2019</a>
 
 
-  
+<a href="http://bit.ly/as-aventuras-dev-internorte" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-09-14-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software" target="_blank">photos</a> 
 
 
 Abstract:
