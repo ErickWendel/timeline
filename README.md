@@ -424,7 +424,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.612027,-46.570758" target=
 <a href="http://internorte.com.br/" target="_blank">Internorte 2019</a>
 
 
-<a href="http://bit.ly/as-aventuras-dev-internorte" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-09-14-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software" target="_blank">photos</a> 
+<a href="http://bit.ly/as-aventuras-dev-internorte" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-09-14-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software" target="_blank">photos</a> |  <a href="https://youtu.be/DfIHMBorhoM" target="_blank">video</a>
 
 
 Abstract:
