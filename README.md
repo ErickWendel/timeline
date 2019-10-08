@@ -445,7 +445,7 @@ Location: <a href="https://www.google.com/maps/?q=-8.0385551,-50.0368336" target
 <a href="https://hacktown.com.br/" target="_blank">Hacktown 2019</a>
 
 
-<a href="http://bit.ly/robos-com-js-hacktown2019" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-09-07-construindo_robôs_automatizados_para_extração_de_informações" target="_blank">photos</a> 
+<a href="http://bit.ly/robos-com-js-hacktown2019" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-09-07-construindo_robôs_automatizados_para_extração_de_informações" target="_blank">photos</a> |  <a href="https://youtu.be/evGwqDwSitA" target="_blank">video</a>
 
 
 Abstract:
