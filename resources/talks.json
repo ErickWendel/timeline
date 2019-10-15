@@ -1,2060 +1,2158 @@
 [
-    {
-        "title": "Javascript, Azure Cognitive Services and RaspberryPI - Using Javascript to recognise people! ",
-        "abstract": "Technologies have been increasing our power to develop new applications without a big knowledge of previous concepts. Today developers could create their own Machine Learning applications, strong and complex algorithms without knowing what is happening behind the scenes thought APIs. This talk will explore the benefits of Cognitive services by showing a real application. They will learn how is the most common challenges that we face when we need to depend on third-party APIs and low-cost devices.  \nWe will take a look at the following topics:\n- OpenCV\n- Challenges and concepts to recognize people\n- Drawbacks to create a real application\n- Demos to compare Azure FaceAPIs and OpenCV \n- How Azure face API helped us to be more productive\n- How to use text to speech after recognizing someone",
-        "type": "talk",
-        "event": {
-            "link": "https://abcdevelopers.org/",
-            "name": "ABCDev 2019"
-        },
-        "slides": "http://bit.ly/abcdev-js-raspberry-facerecognition",
-        "photos": "2019-09-20-javascript_azure_cognitive_services_and_raspberrypi",
-        "video": "",
-        "tags": ["node.js", "raspberrypi", "azure", "microsoft", "opencv"],
-        "location": {
-            "latitude": -23.612027,
-            "longitude": -46.570758,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Caetano do Sul"
-        },
-        "additionalLinks": ["https://twitter.com/erickwendel_/status/1175224730267394049"],
-        "language": "pt-br",
-        "date": "2019-09-20"
+  {
+    "title": "Scaling Node.js applications with Kubernetes and Docker",
+    "abstract": "High availability and high consistency are the popular words when we think about Web Applications but when our application increase, we have many problems and situations to fix. The objective of this talk is to show the Kubernetes' power and facilities, showing the deployment features, high availability and how Kubernetes and Docker can help us.",
+    "type": "talk",
+    "event": {
+      "link": "https://apiworld.co",
+      "name": "API World 2019"
     },
-    {
-        "title": "A vida e as aventuras de um desenvolvedor de Software",
-        "abstract": "Além de produzir sistemas complexos, análises críticas e propor soluções para as maiores corporações, desenvolvedores possuem desafios contínuos, como multidisciplinaridade, estresse e prazos de entrega. Nesta apresentação, os participantes entenderão o lado divertido, inovador e fora da caixa de ser um desenvolvedor dicas de como manter-se motivado e transformar o trabalho em diversão.",
-        "type": "talk",
-        "event": {
-            "link": "http://internorte.com.br/",
-            "name": "Internorte 2019"
-        },
-        "slides": "http://bit.ly/as-aventuras-dev-internorte",
-        "photos": "2019-09-14-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software",
-        "video": "https://youtu.be/DfIHMBorhoM",
-        "tags": ["career"],
-        "location": {
-            "latitude": -8.0385551,
-            "longitude": -50.0368336,
-            "country": "Brazil",
-            "uf": "PA",
-            "city": "Redenção"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2019-09-14"
+    "slides": "http://bit.ly/k8s-apiworld-erickwendel",
+    "photos": "2019-10-09-scaling_node.js_applications_with_kubernetes_and_docker",
+    "video": "",
+    "tags": ["kubernetes", "node.js", "docker"],
+    "location": {
+      "latitude": 37.3294048,
+      "longitude": -121.8893849,
+      "country": "United States",
+      "uf": "CA",
+      "city": "San Jose"
     },
-    {
-        "title": "Construindo Robôs automatizados para extração de informações",
-        "abstract": "Em nossa vida, fazemos diversas ações repetitivas, seja entrar em um site para visualizar dados e registrar em uma base posterior, seja cadastrar um mesmo\nitem a cada tempo ou até mesmo publicar coisas no Facebook. Nesta palestra, você entenderá a facilidade de criar seu robô totalmente atualizado e pronto\npara liberar aquele tempo preciso para focar no que realmente é estratégico. Vamos conhecer a ferramenta Selenium Web Driver para simular um usuário no navegador e fazer todas as suas tarefas automagicamente.",
-        "type": "talk",
-        "event": {
-            "link": "https://hacktown.com.br/",
-            "name": "Hacktown 2019"
-        },
-        "slides": "http://bit.ly/robos-com-js-hacktown2019",
-        "photos": "2019-09-07-construindo_robôs_automatizados_para_extração_de_informações",
-        "video": "https://youtu.be/evGwqDwSitA",
-        "tags": ["node.js", "seleniumwebdriver", "javascript"],
-        "location": {
-            "latitude": -22.2562972,
-            "longitude": -45.7056318,
-            "country": "Brazil",
-            "uf": "MG",
-            "city": "Santa Rita do Sapucaí"
-        },
-        "additionalLinks": [],
-        "language": "pt-br",
-        "date": "2019-09-07"
+    "additionalLinks": ["https://sched.co/SLWf"],
+    "language": "en-us",
+    "date": "2019-10-09"
+  },
+  {
+    "title": "Javascript, Azure Cognitive Services and RaspberryPI - Using Javascript to recognise people! ",
+    "abstract": "Technologies have been increasing our power to develop new applications without a big knowledge of previous concepts. Today developers could create their own Machine Learning applications, strong and complex algorithms without knowing what is happening behind the scenes thought APIs. This talk will explore the benefits of Cognitive services by showing a real application. They will learn how is the most common challenges that we face when we need to depend on third-party APIs and low-cost devices.  \nWe will take a look at the following topics:\n- OpenCV\n- Challenges and concepts to recognize people\n- Drawbacks to create a real application\n- Demos to compare Azure FaceAPIs and OpenCV \n- How Azure face API helped us to be more productive\n- How to use text to speech after recognizing someone",
+    "type": "talk",
+    "event": {
+      "link": "https://abcdevelopers.org/",
+      "name": "ABCDev 2019"
     },
-    {
-        "title": "Javascript, Azure Cognitive Services e RaspberryPI - Usando Javascript para reconhecer pessoas!",
-        "abstract": "Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode! E melhor tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.\n\nDentre os temas abordaremos os seguintes topicos:\n\n- Visão computacional\n\n- Usando Javascript e Serviços na nuvem para reconhecer pessoas\n\n- Como criar seu proprio assistente pessoal em uma lata de cerveja\n\n- Comunicação e segredos para a execução real do projeto. \n",
-        "type": "talk",
-        "event": {
-            "link": "https://brasil.campus-party.org/campus-party-goias/",
-            "name": "Campus Party Goiás"
-        },
-        "slides": "http://bit.ly/js-reconhecer-pessoas-cpgoias2019",
-        "photos": "2019-09-06-javascript_azure_cognitive_services_e_raspberrypi",
-        "video": "https://t.co/pBXaXMUo31?amp=1",
-        "tags": ["node.js", "opencv", "faceapi"],
-        "location": {
-            "latitude": -16.6298953,
-            "longitude": -49.2806259,
-            "country": "Brazil",
-            "uf": "GO",
-            "city": "Goiânia"
-        },
-        "additionalLinks": ["https://www.facebook.com/campuspartybrasil/photos/a.10150118337462349/10157275335627349/?type=3&theater", "https://www.facebook.com/page.erickwendel/videos/431266671069528/"],
-        "language": "pt-br",
-        "date": "2019-09-06"
+    "slides": "http://bit.ly/abcdev-js-raspberry-facerecognition",
+    "photos": "2019-09-20-javascript_azure_cognitive_services_and_raspberrypi",
+    "video": "",
+    "tags": ["node.js", "raspberrypi", "azure", "microsoft", "opencv"],
+    "location": {
+      "latitude": -23.612027,
+      "longitude": -46.570758,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Caetano do Sul"
     },
-    {
-        "title": "GraphQL + Apollo Server + Azure Functions = Magic",
-        "abstract": "Serverless apps têm ajudado muitas empresas a gastar menos dinheiro em infraestrutura, gerenciamento de aplicativos e desempenho, passando a responsabilidade para plataformas cloud. A união entre as tecnologias GraphQL e arquiteturas serverless  é uma ótima solução para criar aplicativos sem preocupação com dimensionamento, desempenho e capacidade de manutenção. Nessa palestra, os participantes verão como iniciar no mundo da arquitetura serverless usando a plataforma do Azure Functions e expor seus serviços usando o GraphQL e Apollo Server, fornecendo um frontend rico e seguro. Focaremos nos seguintes tópicos: \n- Introdução ao Azure Functions \n- Benefícios e Desvantagens adotando arquiteturas sem servidor \n- Adotando o GraphQL, o Apollo Server e as Funções do Azure em cenários reais \n- Dicas e truques sobre experiências de em produção",
-         "type": "talk",
-        "event": {
-            "link": "https://braziljs.org/conf/#03eeca56-bfdc-ab48-a061-7f8503c5cd58",
-            "name": "BrazilJS Conference 2019"
-        },
-        "slides": "http://bit.ly/ew-graphql-azfn-brjs2019",
-        "photos": "2019-08-23-graphql_+_apollo_server_+_azure_functions_=_magic",
-        "video": "https://youtu.be/SOq7JO7y2_o?t=2869",
-        "tags": ["node.js", "graphql", "apolloserver", "serverless"],
-        "location": {
-            "latitude": -30.0846697,
-            "longitude": -51.2480271,
-            "country": "Brazil",
-            "uf": "POA",
-            "city": "Porto Alegre"
-        },
-        "additionalLinks": ["https://github.com/ErickWendel/azurefn-graphql-theconf"],
-        "language": "pt-br",
-        "date": "2019-08-23"
+    "additionalLinks": [
+      "https://twitter.com/erickwendel_/status/1175224730267394049"
+    ],
+    "language": "pt-br",
+    "date": "2019-09-20"
+  },
+  {
+    "title": "A vida e as aventuras de um desenvolvedor de Software",
+    "abstract": "Além de produzir sistemas complexos, análises críticas e propor soluções para as maiores corporações, desenvolvedores possuem desafios contínuos, como multidisciplinaridade, estresse e prazos de entrega. Nesta apresentação, os participantes entenderão o lado divertido, inovador e fora da caixa de ser um desenvolvedor dicas de como manter-se motivado e transformar o trabalho em diversão.",
+    "type": "talk",
+    "event": {
+      "link": "http://internorte.com.br/",
+      "name": "Internorte 2019"
     },
-    {
-        "title": "GraphQL + Apollo Server + Azure Functions = Magic",
-        "abstract": "Serverless applications have been helping many companies to spend less money on infrastructure, application management and performance by passing the responsibility to their 3rd-party provider platforms. The union between GraphQL and Serverless functions is are a great solution to create applications with no worries about scaling, performance, and maintainability. In this talk attendees will see how to start in the Serverless architecture world by use of Azure Functions platform and expose their services using GraphQL and Apollo Server, providing a rich and secure frontend.\nWe will take a look at the following topics:\n- Introduction to Azure Functions\n- Benefits and Drawbacks adopting Serverless architectures\n- Adopting GraphQL, Apollo Server and Azure Functions in real scenarios\n- Tips and tricks about production experiences",
-        "type": "talk",
-        "event": {
-            "link": "https://www.theconf.club/",
-            "name": "TheConf 2019"
-        },
-        "slides": "http://bit.ly/graphql-serverless-apps-ew",
-        "photos": "2019-08-17-graphql_+_apollo_server_+_azure_functions_=_magic",
-        "video": "",
-        "tags": ["english", "node.js", "graphql", "apolloserver", "serverless"],
-        "location": {
-            "latitude": -23.5816151,
-            "longitude": -46.6843488,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": ["https://github.com/ErickWendel/azurefn-graphql-theconf"],
-        "language": "en-us",
-        "date": "2019-08-17"
+    "slides": "http://bit.ly/as-aventuras-dev-internorte",
+    "photos": "2019-09-14-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software",
+    "video": "https://youtu.be/DfIHMBorhoM",
+    "tags": ["career"],
+    "location": {
+      "latitude": -8.0385551,
+      "longitude": -50.0368336,
+      "country": "Brazil",
+      "uf": "PA",
+      "city": "Redenção"
     },
-    {
-        "title": "WTF are Serverless apps?",
-        "abstract": "Serverless applications are changing the way that developers think about software development, release management, and infrastructure. Many myths and histories had been created around this concept and turn minds confused when choices are required to create new products in an existent environment. Attendees will learn about Serverless architecture concepts compared than traditional Microservices. By the use of real scenarios, they could understand the differences and challenges that we face in production environments and how to solve most of them as soon as possible.\nWe will explore the following topics:\n- Which are Serverless applications?\n- Best practices working in production environments\n- Avoiding common problems such: Long-running processing, latency and complex application management (versioning, releases, tests)\n- Which cases you should use Serverless applications based.",
-        "type": "talk",
-        "event": {
-            "link": "http://200ok.us",
-            "name": "Tulsa’s Web Developer Conference 2019"
-        },
-        "slides": "http://bit.ly/wtf-sls-apps-200ok",
-        "photos": "2019-05-17-wtf_are_serverless_apps",
-        "video": "http://bit.ly/wtf-are-sls-200ok-erickwendel",
-        "tags": ["node.js", "serverless", "javascript", "architecture", "aws", "gcp"],
-        "location": {
-            "latitude": 36.1505209,
-            "longitude": -95.9964198,
-            "country": "United States",
-            "uf": "OK",
-            "city": "Tulsa"
-        },
-        "additionalLinks": ["http://200ok.us/speakers/erick-wendel.html", "https://github.com/ErickWendel/wtf-are-sls-apps-200ok"],
-        "language": "en-us",
-        "date": "2019-05-17"
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2019-09-14"
+  },
+  {
+    "title": "Construindo Robôs automatizados para extração de informações",
+    "abstract": "Em nossa vida, fazemos diversas ações repetitivas, seja entrar em um site para visualizar dados e registrar em uma base posterior, seja cadastrar um mesmo\nitem a cada tempo ou até mesmo publicar coisas no Facebook. Nesta palestra, você entenderá a facilidade de criar seu robô totalmente atualizado e pronto\npara liberar aquele tempo preciso para focar no que realmente é estratégico. Vamos conhecer a ferramenta Selenium Web Driver para simular um usuário no navegador e fazer todas as suas tarefas automagicamente.",
+    "type": "talk",
+    "event": {
+      "link": "https://hacktown.com.br/",
+      "name": "Hacktown 2019"
     },
-    {
-        "title": "Building a VS Code extension using Typescript",
-        "abstract": "Our workshop at this time will be focused to create a VSCode extension using Typescript. This workshop hasn't a goal to deep understand Typescript, otherwise, we'll create and publish a VSCode extension, to explore the power and facilities that VSCode could provide :D\nThis could be executed in 90 minutes.",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/sfnodeschool/events/260312635/",
-            "name": "NodeSchool SF April 2019"
-        },
-        "slides": "http://bit.ly/workshop-vscode-ext-erickwendel",
-        "photos": "2019-04-20-building_a_vs_code_extension_using_typescript",
-        "video": "",
-        "tags": ["node.js", "vscode", "workshop", "typescript", "javascript"],
-        "location": {
-            "latitude": 37.7846235,
-            "longitude": -122.400417,
-            "country": "United States",
-            "uf": "CA",
-            "city": "San Francisco"
-        },
-        "additionalLinks": ["https://github.com/ErickWendel/sfnodescool-vscode-extension", "https://github.com/nodeschool/sanfrancisco/issues/269"],
-        "language": "en-us",
-        "date": "2019-04-20"
+    "slides": "http://bit.ly/robos-com-js-hacktown2019",
+    "photos": "2019-09-07-construindo_robôs_automatizados_para_extração_de_informações",
+    "video": "https://youtu.be/evGwqDwSitA",
+    "tags": ["node.js", "seleniumwebdriver", "javascript"],
+    "location": {
+      "latitude": -22.2562972,
+      "longitude": -45.7056318,
+      "country": "Brazil",
+      "uf": "MG",
+      "city": "Santa Rita do Sapucaí"
     },
-    {
-        "title": "WTF are Serverless apps?",
-        "abstract": "Many myths and histories are created every day about the Serverless architectures and concepts. Maybe because of the attractive price, availability metrics or the power to scale apps without additional configurations. Attendees will learn how to start in the serverless applications based and how to avoid surprises at the end of the month with high prices on their credit cards.",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/GDGBerkeley/events/260096603/",
-            "name": "GDG Berkeley April Meetup (A Double Dose of Googley Goodness)"
-        },
-        "slides": "http://bit.ly/wtf-are-sls-apps-gdgberkeley",
-        "photos": "2019-04-19-wtf_are_serverless_apps",
-        "video": "http://bit.ly/wtf-sls-apps-erickwendel",
-        "tags": ["node.js", "serverless", "architecture"],
-        "location": {
-            "latitude": 37.870922,
-            "longitude": -122.27144,
-            "country": "United States",
-            "uf": "CA",
-            "city": "Berkeley"
-        },
-        "additionalLinks": ["https://github.com/ErickWendel/wtf-are-serverless-apps-gdgberkeley"],
-        "language": "en-us",
-        "date": "2019-04-19"
+    "additionalLinks": [],
+    "language": "pt-br",
+    "date": "2019-09-07"
+  },
+  {
+    "title": "Javascript, Azure Cognitive Services e RaspberryPI - Usando Javascript para reconhecer pessoas!",
+    "abstract": "Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode! E melhor tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.\n\nDentre os temas abordaremos os seguintes topicos:\n\n- Visão computacional\n\n- Usando Javascript e Serviços na nuvem para reconhecer pessoas\n\n- Como criar seu proprio assistente pessoal em uma lata de cerveja\n\n- Comunicação e segredos para a execução real do projeto. \n",
+    "type": "talk",
+    "event": {
+      "link": "https://brasil.campus-party.org/campus-party-goias/",
+      "name": "Campus Party Goiás"
     },
-    {
-        "title": "Building VSCode Extensions with TypeScript",
-        "abstract": "Productivity, good project delivery, and Code review are words that can scare many software developers. Maybe because of the delivery time or project complexity. This talk will show you how to create visual studio code snippets, extensions, and tools using TypeScript. Attendees will learn how to be more productive and how to change their mindset to think focused on business less than only code :D",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/sfnode/events/mxstsmyzgbgb/",
-            "name": "SFNode Meetup at Capital One"
-        },
-        "slides": "http://bit.ly/vscode-ext-erickwendel-sfnode",
-        "photos": "2019-04-04-building_vscode_extensions",
-        "video": "https://www.youtube.com/watch?v=wNOaM6ZzX-Y",
-        "tags": ["node.js", "vscode", "extensions", "typescript"],
-        "location": {
-            "latitude": 37.7867895,
-            "longitude": -122.4019862,
-            "country": "United States",
-            "uf": "CA",
-            "city": "San Francisco"
-        },
-        "additionalLinks": ["https://github.com/ErickWendel/sfnode-building-vscode-ext"],
-        "language": "en-us",
-        "date": "2019-04-04"
+    "slides": "http://bit.ly/js-reconhecer-pessoas-cpgoias2019",
+    "photos": "2019-09-06-javascript_azure_cognitive_services_e_raspberrypi",
+    "video": "https://t.co/pBXaXMUo31?amp=1",
+    "tags": ["node.js", "opencv", "faceapi"],
+    "location": {
+      "latitude": -16.6298953,
+      "longitude": -49.2806259,
+      "country": "Brazil",
+      "uf": "GO",
+      "city": "Goiânia"
     },
-    {
-        "title": "Creating a complete Web API using Hapi.js and MongoDB",
-        "abstract": "My goal in this workshop is to create a complete Web API using Hapi.js, MongoDB focused on starters in Node.js and Javascript.\nWe 'll need only the Node.js 10+ installed and an account on MongoDB to get your MongoDB free instance :D",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/sfnodeschool/events/259510309/",
-            "name": "NodeSchool SF March 2019"
-        },
-        "slides": "http://bit.ly/workshop-hapijs-erickwendel-sfnodeschool",
-        "photos": "2019-03-30-creating_a_complete_web_api_using_hapijs_and_mongodb",
-        "video": "",
-        "tags": ["node.js", "hapijs", "workshop", "javascript"],
-        "location": {
-            "latitude": 37.782757,
-            "longitude": -122.39363,
-            "country": "United States",
-            "uf": "CA",
-            "city": "San Francisco"
-        },
-        "additionalLinks": ["https://github.com/ErickWendel/nodeschool-apis-hapijs-mongodb", "https://github.com/nodeschool/sanfrancisco/issues/264"],
-        "language": "en-us",
-        "date": "2019-03-30"
+    "additionalLinks": [
+      "https://www.facebook.com/campuspartybrasil/photos/a.10150118337462349/10157275335627349/?type=3&theater",
+      "https://www.facebook.com/page.erickwendel/videos/431266671069528/"
+    ],
+    "language": "pt-br",
+    "date": "2019-09-06"
+  },
+  {
+    "title": "GraphQL + Apollo Server + Azure Functions = Magic",
+    "abstract": "Serverless apps têm ajudado muitas empresas a gastar menos dinheiro em infraestrutura, gerenciamento de aplicativos e desempenho, passando a responsabilidade para plataformas cloud. A união entre as tecnologias GraphQL e arquiteturas serverless  é uma ótima solução para criar aplicativos sem preocupação com dimensionamento, desempenho e capacidade de manutenção. Nessa palestra, os participantes verão como iniciar no mundo da arquitetura serverless usando a plataforma do Azure Functions e expor seus serviços usando o GraphQL e Apollo Server, fornecendo um frontend rico e seguro. Focaremos nos seguintes tópicos: \n- Introdução ao Azure Functions \n- Benefícios e Desvantagens adotando arquiteturas sem servidor \n- Adotando o GraphQL, o Apollo Server e as Funções do Azure em cenários reais \n- Dicas e truques sobre experiências de em produção",
+    "type": "talk",
+    "event": {
+      "link": "https://braziljs.org/conf/#03eeca56-bfdc-ab48-a061-7f8503c5cd58",
+      "name": "BrazilJS Conference 2019"
     },
-    {
-        "title": "Scaling Node.js applications with Kubernetes and Docker",
-        "abstract": "We will explore the benefits of DevOps process using Kubernetes, Docker, and Node.js. Showing how Docker and Node.js can work together, using the power of Kubernetes to release and to scale automatically stateless services. At this talk we will explore the key concepts and components to start working with Kubernetes, real scenarios and the differences between the traditional approach compared to Container based applications. Attendees will learn about the basics of Kubernetes and tips to scale Node.js applications furthermore they will learn the common problems that we face when we decide to change from monoliths to microservices using Docker and JavaScript.",
-        "type": "talk",
-        "event": {
-            "link": "https://js-kongress.com",
-            "name": "JS Kongress 2019 -  (R)evolution of Architectures"
-        },
-        "slides": "http://bit.ly/erickwendel-k8s-nodejs-jskongress2019",
-        "photos": "2019-03-12-scaling_node.js_applications_with_kubernetes_and_docker",
-        "video": "https://youtu.be/ZgMAYQmSJO4",
-        "tags": ["kubernetes", "k8s", "node.js", "javascript"],
-        "location": {
-            "latitude": 48.1319997,
-            "longitude": 11.5444438,
-            "country": "Germany",
-            "uf": "MU",
-            "city": "Munich"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2019-03-12"
+    "slides": "http://bit.ly/ew-graphql-azfn-brjs2019",
+    "photos": "2019-08-23-graphql_+_apollo_server_+_azure_functions_=_magic",
+    "video": "https://youtu.be/SOq7JO7y2_o?t=2869",
+    "tags": ["node.js", "graphql", "apolloserver", "serverless"],
+    "location": {
+      "latitude": -30.0846697,
+      "longitude": -51.2480271,
+      "country": "Brazil",
+      "uf": "POA",
+      "city": "Porto Alegre"
     },
-    {
-        "title": "The power of Typescript to work with Node.js Applications",
-        "abstract": "Typescript is a superset of Javascript, helping developers to make powerful applications with better organization, maintainability and solves many problems that Javascript has. In this talk you can know the power to build applications with Typescript, using design patterns and features that can help us to build better software",
-        "type": "talk",
-        "event": {
-            "name": "GDG Silicon Valley DevFest 2019",
-            "link": "https://gdgsv-devfest.appspot.com/schedule"
-        },
-        "slides": "http://bit.ly/erickwendel-gdgsv-ts-node",
-        "photos": "2019-02-23-the_power_of_typescript_to_work_with_node.js_applications",
-        "video": "https://twitter.com/i/status/1099477700652150785",
-        "tags": ["node.js", "typescript", "javascript"],
-        "location": {
-            "latitude": 37.4121686,
-            "longitude": -122.0206659,
-            "country": "United States",
-            "uf": "CA",
-            "city": "Sunnyvale"
-        },
-        "additionalLinks": ["https://gdgsv-devfest.appspot.com", "https://github.com/ErickWendel/talk-gdgsv-typescript-and-nodejs"],
-        "language": "en-us",
-        "date": "2019-02-23"
-    }, {
-        "title": "Creating Serverless APIs using GraphQL, ApolloServer and Azure Functions",
-        "abstract": "This workshop we will explore the benefits of Serverless and Azure Functions to create web APIs. We will use the GraphQL and Apollo Server libraries to expose our services and learn how fun could be the API's creation",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/sfnodeschool/events/258536522/",
-            "name": "NodeSchool SF February 2019 | 4th Anniversary"
-        },
-        "slides": "http://bit.ly/graphql-azfunction-erickwendel",
-        "photos": "2019-02-17-creating_serverless_apis_using_graphql,_apolloserver_and_azure_functions",
-        "video": "",
-        "tags": ["node.js", "serverless", "javascript", "graphql", "workshop"],
-        "location": {
-            "latitude": 37.7846235,
-            "longitude": -122.400417,
-            "country": "United States",
-            "uf": "CA",
-            "city": "San Francisco"
-        },
-        "additionalLinks": ["https://github.com/ErickWendel/workshop-graphql-azfunctions-sfnodeschool", "https://nodeschool.io/sanfrancisco/"],
-        "language": "en-us",
-        "date": "2019-02-17"
+    "additionalLinks": [
+      "https://github.com/ErickWendel/azurefn-graphql-theconf"
+    ],
+    "language": "pt-br",
+    "date": "2019-08-23"
+  },
+  {
+    "title": "GraphQL + Apollo Server + Azure Functions = Magic",
+    "abstract": "Serverless applications have been helping many companies to spend less money on infrastructure, application management and performance by passing the responsibility to their 3rd-party provider platforms. The union between GraphQL and Serverless functions is are a great solution to create applications with no worries about scaling, performance, and maintainability. In this talk attendees will see how to start in the Serverless architecture world by use of Azure Functions platform and expose their services using GraphQL and Apollo Server, providing a rich and secure frontend.\nWe will take a look at the following topics:\n- Introduction to Azure Functions\n- Benefits and Drawbacks adopting Serverless architectures\n- Adopting GraphQL, Apollo Server and Azure Functions in real scenarios\n- Tips and tricks about production experiences",
+    "type": "talk",
+    "event": {
+      "link": "https://www.theconf.club/",
+      "name": "TheConf 2019"
     },
-    {
-        "title": "Arquitetura Serverless",
-        "abstract": "Traduzindo ao pé da letra, um sistema com arquitetura serverless, seria uma arquitetura 'sem servidores'. Mas será que é isso mesmo?Neste episódio do Alura Live, Gabs Ferreira conversa com Erick Wendel sobre o que é este tipo de arquitetura, como funciona por trás dos panos e quais suas vantagens.",
-        "type": "talk",
-        "event": {
-            "link": "https://www.youtube.com/watch?v=rwlGnRdk2U4",
-            "name": "Alura Live #56"
-        },
-        "slides": "",
-        "photos": "",
-        "video": "https://www.youtube.com/watch?v=rwlGnRdk2U4",
-        "tags": ["webinar", "serverless"],
-        "location": {
-            "latitude": -23.5882491,
-            "longitude": -46.6346657,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2017-11-16"
+    "slides": "http://bit.ly/graphql-serverless-apps-ew",
+    "photos": "2019-08-17-graphql_+_apollo_server_+_azure_functions_=_magic",
+    "video": "",
+    "tags": ["english", "node.js", "graphql", "apolloserver", "serverless"],
+    "location": {
+      "latitude": -23.5816151,
+      "longitude": -46.6843488,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
-    {
-        "title": "Construindo sua própria inteligência artificial como assistente pessoal",
-        "abstract": "Diversas tecnologias têm-se consagrado, diversas inovações e curiosidades, vamos entender como criar o próprio assistente pessoal, utilizando o Alexa (Amazon Echo), explorando os serviços, mistérios e facilidades.",
-        "type": "talk",
-        "event": {
-            "link": "https://campuse.ro/events/campus-party-minas-gerais-2017/talk/construindo-sua-propria-inteligencia-artificial-como-assistente-pessoal-cpmg2/",
-            "name": "Campus Party Minas Gerais 2017 - #CPMG2"
-        },
-        "slides": "https://docs.google.com/presentation/d/10oIZDmxbaTemW5aIv0d_Vp2IxM5gvzwCpwuV6AdIOu0/edit?usp=sharing",
-        "photos": "2017-11-03-construindo_sua_própria_inteligência_artificial_como_assistente_pessoal",
-        "video": "",
-        "tags": ["node.js", "aws", "typescript"],
-        "location": {
-            "latitude": -19.920275,
-            "longitude": -43.934066,
-            "country": "Brazil",
-            "uf": "MG",
-            "city": "Belo Horizonte"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2017-11-03"
+    "additionalLinks": [
+      "https://github.com/ErickWendel/azurefn-graphql-theconf"
+    ],
+    "language": "en-us",
+    "date": "2019-08-17"
+  },
+  {
+    "title": "WTF are Serverless apps?",
+    "abstract": "Serverless applications are changing the way that developers think about software development, release management, and infrastructure. Many myths and histories had been created around this concept and turn minds confused when choices are required to create new products in an existent environment. Attendees will learn about Serverless architecture concepts compared than traditional Microservices. By the use of real scenarios, they could understand the differences and challenges that we face in production environments and how to solve most of them as soon as possible.\nWe will explore the following topics:\n- Which are Serverless applications?\n- Best practices working in production environments\n- Avoiding common problems such: Long-running processing, latency and complex application management (versioning, releases, tests)\n- Which cases you should use Serverless applications based.",
+    "type": "talk",
+    "event": {
+      "link": "http://200ok.us",
+      "name": "Tulsa’s Web Developer Conference 2019"
     },
-    {
-        "title": "Building VSCode Extensions with TypeScript",
-        "abstract": "",
-        "type": "talk",
-        "event": {
-            "link": "https://www.sympla.com.br/capiconf-mini__169988#info",
-            "name": "#CapiConf Mini 2017"
-        },
-        "slides": "https://slides.com/erickwendel/building-vscode-extensions-with-typescript-capiconf-mini/",
-        "photos": "",
-        "video": "",
-        "tags": ["node.js", "vscode", "typescript"],
-        "location": {
-            "latitude": -25.4332082,
-            "longitude": -49.2752017,
-            "country": "Brazil",
-            "uf": "PR",
-            "city": "Curitiba"
-        },
-        "additionalLinks": ["https://github.com/ErickWendel/palestra-vscode-extensions"],
-        "language": "pt-br",
-        "date": "2017-09-16"
+    "slides": "http://bit.ly/wtf-sls-apps-200ok",
+    "photos": "2019-05-17-wtf_are_serverless_apps",
+    "video": "http://bit.ly/wtf-are-sls-200ok-erickwendel",
+    "tags": [
+      "node.js",
+      "serverless",
+      "javascript",
+      "architecture",
+      "aws",
+      "gcp"
+    ],
+    "location": {
+      "latitude": 36.1505209,
+      "longitude": -95.9964198,
+      "country": "United States",
+      "uf": "OK",
+      "city": "Tulsa"
     },
-    {
-        "title": "Alta Performance e Disponibilidade de aplicações Node.js",
-        "abstract": "Palestra que rolou no DevXperience em 01/09/17, onde falei sobre como dar aquela 'tunada' em suas aplicações Node.js, melhorando o tempo de resposta, velocidade em carregamento e concorrência de usuários :D",
-        "type": "talk",
-        "event": {
-            "link": "https://www.sympla.com.br/devxperience-2017__109753#info",
-            "name": "DevExperience 2017"
-        },
-        "slides": "http://slides.com/erickwendel/alta-performance-e-disponibilidade-de-aplicaes-nodejs-devxperience/fullscreen",
-        "photos": "2017-09-01-alta_performance_e_disponibilidade_de_aplicações_nodejs",
-        "video": "",
-        "tags": ["node.js", "performance", "hapijs"],
-        "location": {
-            "latitude": -23.5816653,
-            "longitude": -46.6690279,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": ["https://github.com/ErickWendel/palestra-performance-nodejs"],
-        "language": "pt-br",
-        "date": "2017-09-01"
+    "additionalLinks": [
+      "http://200ok.us/speakers/erick-wendel.html",
+      "https://github.com/ErickWendel/wtf-are-sls-apps-200ok"
+    ],
+    "language": "en-us",
+    "date": "2019-05-17"
+  },
+  {
+    "title": "Building a VS Code extension using Typescript",
+    "abstract": "Our workshop at this time will be focused to create a VSCode extension using Typescript. This workshop hasn't a goal to deep understand Typescript, otherwise, we'll create and publish a VSCode extension, to explore the power and facilities that VSCode could provide :D\nThis could be executed in 90 minutes.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/sfnodeschool/events/260312635/",
+      "name": "NodeSchool SF April 2019"
     },
-    {
-        "title": "A vida e as aventuras de um desenvolvedor de Software",
-        "abstract": "Além de produzir sistemas complexos, análises críticas e propor soluções para as maiores corporações, desenvolvedores possuem desafios contínuos, como multidisciplinaridade, estresse e prazos de entrega. Nesta apresentação, os participantes entenderão o lado divertido, inovador e fora da caixa de ser um desenvolvedor dicas de como manter-se motivado e transformar o trabalho em diversão.",
-        "type": "talk",
-        "event": {
-            "link": "https://campuse.ro/events/campus-night-itajuba-2017/talk/a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-1/",
-            "name": "Campus Night Itajubá"
-        },
-        "slides": "",
-        "photos": "2017-08-26-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software",
-        "video": "",
-        "tags": ["career"],
-        "location": {
-            "latitude": -22.4290082,
-            "longitude": -45.4568706,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2017-08-26"
+    "slides": "http://bit.ly/workshop-vscode-ext-erickwendel",
+    "photos": "2019-04-20-building_a_vs_code_extension_using_typescript",
+    "video": "",
+    "tags": ["node.js", "vscode", "workshop", "typescript", "javascript"],
+    "location": {
+      "latitude": 37.7846235,
+      "longitude": -122.400417,
+      "country": "United States",
+      "uf": "CA",
+      "city": "San Francisco"
     },
-    {
-        "title": "Job/Task Queue com Bee-Queue - Performance e Resiliência em aplicações Node.js",
-        "abstract": "Caso de sucesso, explicando a arquitetura que solucionou os problemas de concorrência entre processos, resistência a erros e performance de execução. Passando da lib Straw.js, correndo para o Celery em Python para finalmente encontrar a solução mais ideal com Bee-queue em Node.js.",
-        "type": "talk",
-        "event": {
-            "link": "http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-node-js",
-            "name": "The Developers Conference 2017 | São Paulo "
-        },
-        "slides": "https://slides.com/erickwendel/jobtask-queue-with-nodejs-tdc-2017",
-        "photos": "",
-        "video": "",
-        "tags": ["node.js", "performance"],
-        "location": {
-            "latitude": -23.6002334,
-            "longitude": -46.6788224,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": ["https://github.com/ErickWendel/task-job-queue-tdc2017"],
-        "language": "pt-br",
-        "date": "2017-07-19"
+    "additionalLinks": [
+      "https://github.com/ErickWendel/sfnodescool-vscode-extension",
+      "https://github.com/nodeschool/sanfrancisco/issues/269"
+    ],
+    "language": "en-us",
+    "date": "2019-04-20"
+  },
+  {
+    "title": "WTF are Serverless apps?",
+    "abstract": "Many myths and histories are created every day about the Serverless architectures and concepts. Maybe because of the attractive price, availability metrics or the power to scale apps without additional configurations. Attendees will learn how to start in the serverless applications based and how to avoid surprises at the end of the month with high prices on their credit cards.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/GDGBerkeley/events/260096603/",
+      "name": "GDG Berkeley April Meetup (A Double Dose of Googley Goodness)"
     },
-    {
-        "title": "A vida e as aventuras de um desenvolvedor de software",
-        "abstract": "",
-        "type": "talk",
-        "event": {
-            "link": "https://www.youtube.com/channel/UCVAwnfMBdeA7Zz2fQf8fo_w",
-            "name": "Mastertech"
-        },
-        "slides": "",
-        "photos": "",
-        "video": "https://youtu.be/H66DlBkJYCk?t=704",
-        "tags": ["webinar", "career"],
-        "location": {
-            "latitude": -23.5625707,
-            "longitude": -46.6565045,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2017-08-10"
+    "slides": "http://bit.ly/wtf-are-sls-apps-gdgberkeley",
+    "photos": "2019-04-19-wtf_are_serverless_apps",
+    "video": "http://bit.ly/wtf-sls-apps-erickwendel",
+    "tags": ["node.js", "serverless", "architecture"],
+    "location": {
+      "latitude": 37.870922,
+      "longitude": -122.27144,
+      "country": "United States",
+      "uf": "CA",
+      "city": "Berkeley"
     },
-    {
-        "title": "Construindo APIs com NodeJs e TypeScript",
-        "abstract": "",
-        "type": "talk",
-        "event": {
-            "link": "https://www.sympla.com.br/virada-tecnologica-sao-paulo---2017__144564#info",
-            "name": "Virada Tecnológica São Paulo - 2017 - PUCSP"
-        },
-        "slides": "",
-        "photos": "",
-        "video": "",
-        "tags": ["node.js", "workshop", "typescript"],
-        "location": {
-            "latitude": -23.5493645,
-            "longitude": -46.6498912,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": ["https://github.com/ErickWendel/laboratorio-nodejs-typescript-pucsp"],
-        "language": "pt-br",
-        "date": "2017-07-02"
-    }, {
-        "title": "Construindo RestFull APIs com NodeJs e TypeScript",
-        "abstract": "Falando um conteúdo sobre NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/235415233/",
-            "name": "11º Connecting Knowledge"
-        },
-        "slides": "http://slides.com/erickwendel/apis-com-nodejs-typescript/fullscreen",
-        "photos": "",
-        "video": "",
-        "tags": ["node.js", "typescript"],
-        "location": {
-            "latitude": -23.5542518,
-            "longitude": -46.7330228,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": ["https://github.com/ErickWendel/meetup-nodejs-typescript"],
-        "language": "pt-br",
-        "date": "2016-12-10"
+    "additionalLinks": [
+      "https://github.com/ErickWendel/wtf-are-serverless-apps-gdgberkeley"
+    ],
+    "language": "en-us",
+    "date": "2019-04-19"
+  },
+  {
+    "title": "Building VSCode Extensions with TypeScript",
+    "abstract": "Productivity, good project delivery, and Code review are words that can scare many software developers. Maybe because of the delivery time or project complexity. This talk will show you how to create visual studio code snippets, extensions, and tools using TypeScript. Attendees will learn how to be more productive and how to change their mindset to think focused on business less than only code :D",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/sfnode/events/mxstsmyzgbgb/",
+      "name": "SFNode Meetup at Capital One"
     },
-    {
-        "title": "Hands-on de Angular 1.x",
-        "abstract": "",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/GDG-SP/events/238268519/",
-            "name": "HTML5 Study Group #58 - HandsOn de Angular 1.x"
-        },
-        "slides": "https://slides.com/erickwendel/hands-on-angularjs-html5-study-group/fullscreen",
-        "photos": "",
-        "video": "",
-        "tags": ["angular"],
-        "location": {
-            "latitude": -23.5452767,
-            "longitude": -46.6373743,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": ["https://slides.com/erickwendel/hands-on-angularjs-html5-study-group/fullscreen"],
-        "language": "pt-br",
-        "date": "2017-03-13"
+    "slides": "http://bit.ly/vscode-ext-erickwendel-sfnode",
+    "photos": "2019-04-04-building_vscode_extensions",
+    "video": "https://www.youtube.com/watch?v=wNOaM6ZzX-Y",
+    "tags": ["node.js", "vscode", "extensions", "typescript"],
+    "location": {
+      "latitude": 37.7867895,
+      "longitude": -122.4019862,
+      "country": "United States",
+      "uf": "CA",
+      "city": "San Francisco"
     },
-    {
-        "title": "Desenvolvimento (Segredos e boas práticas)",
-        "abstract": "Descubra Todos Os Segredos De Desenvolvimento De Software, Sua Evolução, Benefícios E Como É O Profissional De Desenvolvimento De Software",
-        "type": "talk",
-        "event": {
-            "link": "https://www.youtube.com/channel/UCU7JNMbT7nk-R0KqWa7zjWw",
-            "name": "ARQENGTI - Comunidade de Governança-Gestão-Técnica"
-        },
-        "slides": "",
-        "photos": "",
-        "video": "https://youtu.be/VLqX2oTtvz8?t=625",
-        "tags": ["webinar", "career"],
-        "location": {
-            "latitude": -23.5555873,
-            "longitude": -46.6635681,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2016-11-03"
+    "additionalLinks": [
+      "https://github.com/ErickWendel/sfnode-building-vscode-ext"
+    ],
+    "language": "en-us",
+    "date": "2019-04-04"
+  },
+  {
+    "title": "Creating a complete Web API using Hapi.js and MongoDB",
+    "abstract": "My goal in this workshop is to create a complete Web API using Hapi.js, MongoDB focused on starters in Node.js and Javascript.\nWe 'll need only the Node.js 10+ installed and an account on MongoDB to get your MongoDB free instance :D",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/sfnodeschool/events/259510309/",
+      "name": "NodeSchool SF March 2019"
     },
-    {
-        "title": "Typescript – 1 Minuto de Tecnologia",
-        "abstract": "Você já ouviu falar sobre Typescript, a tecnologia que promete reinventar seu modo de escrever Javascript? Acompanhe o #1MinutodeTecnologia desta semana e descubra o poder que essa tecnologia possui para os seus projetos. ",
-        "type": "talk",
-        "event": {
-            "link": "https://www.youtube.com/channel/UCHsQ04xha1YKv48dSzQFlpw",
-            "name": "1 Minuto de Tecnologia"
-        },
-        "slides": "",
-        "photos": "",
-        "video": "https://youtu.be/TshiaAMiFR4",
-        "tags": ["typescript", "webinar"],
-        "location": {
-            "latitude": -23.5555873,
-            "longitude": -46.6635681,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2016-11-14"
+    "slides": "http://bit.ly/workshop-hapijs-erickwendel-sfnodeschool",
+    "photos": "2019-03-30-creating_a_complete_web_api_using_hapijs_and_mongodb",
+    "video": "",
+    "tags": ["node.js", "hapijs", "workshop", "javascript"],
+    "location": {
+      "latitude": 37.782757,
+      "longitude": -122.39363,
+      "country": "United States",
+      "uf": "CA",
+      "city": "San Francisco"
     },
-    {
-        "title": "Desenvolvimento de Malwares com C#",
-        "abstract": "",
-        "type": "talk",
-        "event": {
-            "link": "https://roadsec.com.br/rssp17-programacao/",
-            "name": "Roadsec São Paulo 2017"
-        },
-        "slides": "https://docs.google.com/presentation/d/1SjRVW9Sei4wI2Lr45FdDJoShZr97gVmJ10lhYwKaoTM/edit?usp=sharing",
-        "photos": "2017-11-11-desenvolvimento_de_malwares_com_c#",
-        "video": "https://www.facebook.com/EriickWendel/videos/1530672087012334/",
-        "tags": ["malware", "c#"],
-        "location": {
-            "latitude": -23.5283405,
-            "longitude": -46.6695493,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": ["http://bit.ly/malwares-com-csharp-roadsec-erickwendel"],
-        "language": "pt-br",
-        "date": "2017-11-11"
-    }, {
-        "title": "Arquitetura Serverless/Nanoservices",
-        "abstract": "",
-        "type": "talk",
-        "event": {
-            "link": "https://imasters.com.br/noticia/confira-programacao-do-intercon-2017",
-            "name": "InterCon 2017"
-        },
-        "slides": "https://docs.google.com/presentation/d/18Pmr-81goU0XDjABDGrcJldlYjAquoqJxLbNZ-G7XNQ/edit?usp=sharing",
-        "photos": "2017-10-15_arquitetura_serverlessnanoservices",
-        "video": "https://www.youtube.com/watch?v=mxypKdbCJOY",
-        "tags": ["serverless", "node.js", "aws"],
-        "location": {
-            "latitude": -23.5816653,
-            "longitude": -46.6690279,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2017-10-15"
+    "additionalLinks": [
+      "https://github.com/ErickWendel/nodeschool-apis-hapijs-mongodb",
+      "https://github.com/nodeschool/sanfrancisco/issues/264"
+    ],
+    "language": "en-us",
+    "date": "2019-03-30"
+  },
+  {
+    "title": "Scaling Node.js applications with Kubernetes and Docker",
+    "abstract": "We will explore the benefits of DevOps process using Kubernetes, Docker, and Node.js. Showing how Docker and Node.js can work together, using the power of Kubernetes to release and to scale automatically stateless services. At this talk we will explore the key concepts and components to start working with Kubernetes, real scenarios and the differences between the traditional approach compared to Container based applications. Attendees will learn about the basics of Kubernetes and tips to scale Node.js applications furthermore they will learn the common problems that we face when we decide to change from monoliths to microservices using Docker and JavaScript.",
+    "type": "talk",
+    "event": {
+      "link": "https://js-kongress.com",
+      "name": "JS Kongress 2019 -  (R)evolution of Architectures"
     },
-    {
-        "title": "Node.js e Typescript na prática",
-        "abstract": "ERick Wendel vai mostrar na prática como desenvolver API usando Node.js e TypeScript. Impeerdível.",
-        "type": "talk",
-        "event": {
-            "link": "https://www.facebook.com/events/1935243993391853/",
-            "name": "Node.js e TypeScript na prática com Erick Wendel e Sergio Gama"
-        },
-        "slides": "https://docs.google.com/presentation/d/1GgngBBGz-qK_7dahn3hTSJOGwL7B7MjnlE2L5HfXDRU/edit?usp=sharing",
-        "photos": "",
-        "video": "https://www.facebook.com/StartupWithIBM/videos/1498309570256837",
-        "tags": ["node.js", "javascript", "typescript"],
-        "location": {
-            "latitude": -23.5805414,
-            "longitude": -46.6461597,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2017-09-27"
+    "slides": "http://bit.ly/erickwendel-k8s-nodejs-jskongress2019",
+    "photos": "2019-03-12-scaling_node.js_applications_with_kubernetes_and_docker",
+    "video": "https://youtu.be/ZgMAYQmSJO4",
+    "tags": ["kubernetes", "k8s", "node.js", "javascript"],
+    "location": {
+      "latitude": 48.1319997,
+      "longitude": 11.5444438,
+      "country": "Germany",
+      "uf": "MU",
+      "city": "Munich"
     },
-    {
-        "title": "Git crypt",
-        "abstract": "",
-        "type": "talk",
-        "event": {
-            "link": "https://setemasters.imasters.com.br/conversas/git-crypt-por-erick-wendel/",
-            "name": "7Masters Git"
-        },
-        "slides": "https://docs.google.com/presentation/d/1SlNX3L5UC4QL1CjDdVI_GS4GhuOt366icyGSLv04kUY/edit?usp=sharing",
-        "photos": "",
-        "video": "https://www.youtube.com/watch?v=Gv6pfL5QxRs",
-        "tags": ["git", "gitcrypt"],
-        "location": {
-            "latitude": -23.5523916,
-            "longitude": -46.6800878,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2018-02-02"
+    "additionalLinks": [""],
+    "language": "en-us",
+    "date": "2019-03-12"
+  },
+  {
+    "title": "The power of Typescript to work with Node.js Applications",
+    "abstract": "Typescript is a superset of Javascript, helping developers to make powerful applications with better organization, maintainability and solves many problems that Javascript has. In this talk you can know the power to build applications with Typescript, using design patterns and features that can help us to build better software",
+    "type": "talk",
+    "event": {
+      "name": "GDG Silicon Valley DevFest 2019",
+      "link": "https://gdgsv-devfest.appspot.com/schedule"
     },
-    {
-        "title": "The Velopers #21 - Erick Wendel",
-        "abstract": "Erick Wendel fala sobre seu começo com desenvolvimento, comunidades, carreira, meetups, nodeJS, o programa MVP,  palestras,em inglês e muito mais.",
-        "type": "talk",
-        "event": {
-            "link": "https://youtu.be/_x60NFtZwb4",
-            "name": "The Velopers #21"
-        },
-        "slides": "",
-        "photos": "",
-        "video": "http://bit.ly/thevelopers-erickwendel",
-        "tags": ["webinar"],
-        "location": {
-            "latitude": -23.5523916,
-            "longitude": -46.6800878,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2019-01-02"
+    "slides": "http://bit.ly/erickwendel-gdgsv-ts-node",
+    "photos": "2019-02-23-the_power_of_typescript_to_work_with_node.js_applications",
+    "video": "https://twitter.com/i/status/1099477700652150785",
+    "tags": ["node.js", "typescript", "javascript"],
+    "location": {
+      "latitude": 37.4121686,
+      "longitude": -122.0206659,
+      "country": "United States",
+      "uf": "CA",
+      "city": "Sunnyvale"
     },
-    {
-        "title": "WTF Are Serverless Apps?",
-        "abstract": "Many myths and histories are created every day about the Serverless architectures and concepts. Maybe because the attractive price,  availability metrics or the power to scale apps without additional configurations. Attendees will learn how to deep in the serverless architecture, how to start and how to avoid surprises at the end of the month with high prices on their credit cards.",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/DevelopersBR/events/257187406/",
-            "name": "Microsoft Connect(); Brasil"
-        },
-        "slides": "http://bit.ly/wtf-serverless-connect",
-        "photos": "2019-01-19_-_wtf_are_serverless_apps",
-        "video": "",
-        "tags": ["node.js", "serverless", "aws", "azure"],
-        "location": {
-            "latitude": -23.5512,
-            "longitude": -46.73564,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": ["https://github.com/ErickWendel/wtf-serverless-talk"],
-        "language": "pt-br",
-        "date": "2019-01-19"
+    "additionalLinks": [
+      "https://gdgsv-devfest.appspot.com",
+      "https://github.com/ErickWendel/talk-gdgsv-typescript-and-nodejs"
+    ],
+    "language": "en-us",
+    "date": "2019-02-23"
+  },
+  {
+    "title": "Creating Serverless APIs using GraphQL, ApolloServer and Azure Functions",
+    "abstract": "This workshop we will explore the benefits of Serverless and Azure Functions to create web APIs. We will use the GraphQL and Apollo Server libraries to expose our services and learn how fun could be the API's creation",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/sfnodeschool/events/258536522/",
+      "name": "NodeSchool SF February 2019 | 4th Anniversary"
     },
-    {
-        "title": "Coding Dojo Online - #VSLiveShare",
-        "abstract": "E chegou o PRIMEIRO Coding Dojo Online usando o Visual Studio #LiveShare. Já pensou em resolver desafios de forma interativa, usando o Visual Studio ou VSCode, com até 5 pessoas conectadas ao mesmo tempo? Nosso encontro online focará em desafios de lógica seguindo a metodologia TDD.",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/Nerdzao/events/256124808/",
-            "name": "Nerdzão Live #8 - Coding Dojo Online - #VSLiveShare"
-        },
-        "slides": "https://www.icloud.com/keynote/0cu5MB1vmU-Znze_o5ETuYZaw#Dojo-online_-_liveshare_10012019",
-        "photos": "",
-        "video": "https://youtu.be/-JehgrelrfU",
-        "tags": ["codingdojo", "online", "webinar", "vscode"],
-        "location": {
-            "latitude": -23.5542256,
-            "longitude": -46.6744607,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2019-01-10"
+    "slides": "http://bit.ly/graphql-azfunction-erickwendel",
+    "photos": "2019-02-17-creating_serverless_apis_using_graphql,_apolloserver_and_azure_functions",
+    "video": "",
+    "tags": ["node.js", "serverless", "javascript", "graphql", "workshop"],
+    "location": {
+      "latitude": 37.7846235,
+      "longitude": -122.400417,
+      "country": "United States",
+      "uf": "CA",
+      "city": "San Francisco"
     },
-    {
-        "title": "Node.js, Observables e RxJs - Programação reativa no Backend!",
-        "abstract": "Ouvimos bastante a galera que trabalha com Angular e outros frameworks Javascript voltados a front end falando sobre programação reativa e sobre RxjS. Os participantes entenderão na prática o uso dos principais operadores para trabalhar com Node.js, manipulando promises, eventos e conhecendo a fundo o padrão observer.",
-        "type": "talk",
-        "event": {
-            "link": "https://braziljs.org/eventos/braziljs-on-the-road-joinville/",
-            "name": "Braziljs on the road Joinville"
-        },
-        "additionalLinks": [""],
-        "slides": "http://bit.ly/talk-rxjs-braziljs-24112018",
-        "photos": "2018-11-24-node.js_observables_e_rxjs_-_programação_reativa_no_backend!",
-        "video": "https://youtu.be/1we5tC1oyYA",
-        "tags": ["node.js", "rxjs", "javascript", "observable"],
-        "location": {
-            "latitude": -26.242434,
-            "longitude": -48.8812217,
-            "country": "Brazil",
-            "uf": "SC",
-            "city": "Joinville"
-        },
-        "language": "pt-br",
-        "date": "2018-11-24"
+    "additionalLinks": [
+      "https://github.com/ErickWendel/workshop-graphql-azfunctions-sfnodeschool",
+      "https://nodeschool.io/sanfrancisco/"
+    ],
+    "language": "en-us",
+    "date": "2019-02-17"
+  },
+  {
+    "title": "Arquitetura Serverless",
+    "abstract": "Traduzindo ao pé da letra, um sistema com arquitetura serverless, seria uma arquitetura 'sem servidores'. Mas será que é isso mesmo?Neste episódio do Alura Live, Gabs Ferreira conversa com Erick Wendel sobre o que é este tipo de arquitetura, como funciona por trás dos panos e quais suas vantagens.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.youtube.com/watch?v=rwlGnRdk2U4",
+      "name": "Alura Live #56"
     },
-    {
-        "title": "Building VSCode Extensions with TypeScript",
-        "abstract": "Em nossa vida de desenvolvedor (a), fazemos diversos trabalhos repetitivos, que com este editor, vamos entender o valor da automatização de código a partir de Code Snippets criados com TypeScript, desde a análise sintática de códigos, à ganho de produtividade a partir de tarefas dentro da ferramenta",
-        "type": "talk",
-        "event": {
-            "link": "https://developerssergipe.com",
-            "name": "Developers Sergipe Summit 2018"
-        },
-        "additionalLinks": [""],
-        "slides": " http://bit.ly/talk-vscode-ext-erickwendel-devsergipe2018",
-        "photos": "2018-12-15-building_vscode_extensions_with_typescript",
-        "video": "",
-        "tags": ["node.js", "vscode", "javascript", "siri", "extensions"],
-        "location": {
-            "latitude": -10.900247,
-            "longitude": -37.055603,
-            "country": "Brazil",
-            "uf": "SE",
-            "city": "Aracajú"
-        },
-        "language": "pt-br",
-        "date": "2018-12-15"
+    "slides": "",
+    "photos": "",
+    "video": "https://www.youtube.com/watch?v=rwlGnRdk2U4",
+    "tags": ["webinar", "serverless"],
+    "location": {
+      "latitude": -23.5882491,
+      "longitude": -46.6346657,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
-    {
-        "title": "Node.js, Docker e Containerização",
-        "abstract": "É importante entender como as aplicações funcionam e como a arquitetura está evoluindo. Pensando nisto, abordaremos sobre os benefícios de Docker para criação de microserviços com Node.js",
-        "type": "talk",
-        "event": {
-            "link": "https://cpee.unifei.edu.br/Programacao.html",
-            "name": "III Congresso de Pesquisa Extensão e Ensino da Unifei-Itabira"
-        },
-        "additionalLinks": [""],
-        "slides": "https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw",
-        "photos": "2018-10-25-node.js_docker_containerizacao",
-        "video": "",
-        "tags": ["node.js", "javascript", "docker", "microservices"],
-        "location": {
-            "latitude": -19.6743348,
-            "longitude": -43.2144952,
-            "country": "Brazil",
-            "uf": "MG",
-            "city": "Itabira"
-        },
-        "language": "pt-br",
-        "date": "2018-10-25"
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2017-11-16"
+  },
+  {
+    "title": "Construindo sua própria inteligência artificial como assistente pessoal",
+    "abstract": "Diversas tecnologias têm-se consagrado, diversas inovações e curiosidades, vamos entender como criar o próprio assistente pessoal, utilizando o Alexa (Amazon Echo), explorando os serviços, mistérios e facilidades.",
+    "type": "talk",
+    "event": {
+      "link": "https://campuse.ro/events/campus-party-minas-gerais-2017/talk/construindo-sua-propria-inteligencia-artificial-como-assistente-pessoal-cpmg2/",
+      "name": "Campus Party Minas Gerais 2017 - #CPMG2"
     },
-    {
-        "title": "A vida e as aventuras de um desenvolvedor de Software",
-        "abstract": "De volta à E.E. Vila Bela escola em que fiz o ensino médio, falando um pouco sobre a carreira em desenvolvimento de software, mostrando o quão divertida nossa vida pode ser se focar no que realmente gosta. Estou super animado pois é uma grande oportunidade de converter mais gente para nosso lado negro da força haha! E melhor, mostrar que existe um mundão além daquilo que vemos, que sempre podemos evoluir e correr atrás das paradas.",
-        "type": "talk",
-        "event": {
-            "link": "",
-            "name": "E.E. Vila Bela - Projeto [R]EVOLUÇÃO"
-        },
-        "additionalLinks": [""],
-        "slides": "https://docs.google.com/presentation/d/1VhpAZC1mZgmuJXy9Qt_mbPce4aC-rvtFu6RYzKAXIlE/edit?usp=sharing",
-        "photos": "2018-10-18-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software",
-        "video": "",
-        "tags": ["career", "javascript"],
-        "location": {
-            "latitude": -23.6099272,
-            "longitude": -46.4499841,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2018-10-18"
+    "slides": "https://docs.google.com/presentation/d/10oIZDmxbaTemW5aIv0d_Vp2IxM5gvzwCpwuV6AdIOu0/edit?usp=sharing",
+    "photos": "2017-11-03-construindo_sua_própria_inteligência_artificial_como_assistente_pessoal",
+    "video": "",
+    "tags": ["node.js", "aws", "typescript"],
+    "location": {
+      "latitude": -19.920275,
+      "longitude": -43.934066,
+      "country": "Brazil",
+      "uf": "MG",
+      "city": "Belo Horizonte"
     },
-    {
-        "title": "O que aprendi organizando grandes comunidades",
-        "abstract": "Comunidades, são grandes desafios, lidar com pessoas nem sempre é fácil. Nesta conversa, os participantes conhecerão os bastidores das tretas e desafios de um grupo de usuários de 3 mil membros que chegou a 100 mil membros impactando milhares de pessoas pelo país, lidar com palestrantes e eventos simultaneos.",
-        "type": "talk",
-        "event": {
-            "link": "https://credencial.imasters.com.br/community-leaders-summit-2018",
-            "name": "Community Leaders Summit"
-        },
-        "additionalLinks": [""],
-        "slides": "https://www.icloud.com/keynote/0vGhAy4B7cCUt_5B94zJvKV_A#O_que_aprendi_organizando_uma_grande_comunidade_-_Community_Summit",
-        "photos": "2018-10-05-o_que_aprendi_organizando_grandes_comunidades",
-        "video": "https://web.facebook.com/fernando.veiga.3950/videos/1122170867935213/",
-        "tags": ["career", "communities"],
-        "location": {
-            "latitude": -23.5816604,
-            "longitude": -46.6690279,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2018-10-05"
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2017-11-03"
+  },
+  {
+    "title": "Building VSCode Extensions with TypeScript",
+    "abstract": "",
+    "type": "talk",
+    "event": {
+      "link": "https://www.sympla.com.br/capiconf-mini__169988#info",
+      "name": "#CapiConf Mini 2017"
     },
-    {
-        "title": "Scaling your applications with Kubernetes and Docker",
-        "abstract": "High availability, high consistency, high disponibility are the popular words when we think about Web Applications but when our application increase, we have many problems and situations to solve. The objective of this talk is show the Kubernetes' power and facility to you can get conquer all of this keywords in your projects, exploring the best of Kubernetes has to you",
-        "type": "talk",
-        "event": {
-            "link": "https://www.theconf.club/",
-            "name": "TheConf 2018"
-        },
-        "additionalLinks": ["https://www.infoq.com/br/presentations/scaling-your-applications-with-kubernetes-and-docker"],
-        "slides": "https://www.icloud.com/keynote/0mpRDRsKBIcIkmNCTrOstp5fQ#Scalling_your_apps_with_K8s_and_Docker_-_TheConf_-_21092018",
-        "photos": "2018-09-21-scaling_your_applications_with_kubernetes_and_docker",
-        "video": "https://youtu.be/cAwDALyoVUw",
-        "tags": ["english", "node.js", "docker", "kubernetes"],
-        "location": {
-            "latitude": -23.5816151,
-            "longitude": -46.6843488,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "en-us",
-        "date": "2018-09-21"
+    "slides": "https://slides.com/erickwendel/building-vscode-extensions-with-typescript-capiconf-mini/",
+    "photos": "",
+    "video": "",
+    "tags": ["node.js", "vscode", "typescript"],
+    "location": {
+      "latitude": -25.4332082,
+      "longitude": -49.2752017,
+      "country": "Brazil",
+      "uf": "PR",
+      "city": "Curitiba"
     },
-    {
-        "title": "Usando Javascript para reconhecer pessoas",
-        "abstract": "Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.",
-        "type": "talk",
-        "event": {
-            "link": "https://hacktown.com.br/programacao/dia/8-Sep/",
-            "name": "Hack Town 2018"
-        },
-        "additionalLinks": [""],
-        "slides": "https://www.icloud.com/keynote/0geBVltLvSHcKRwabA4OCfppA#Usando_Javascript_para_reconhecer_pessoas!_-_HackTown_-_07092018.key",
-        "photos": "2018-09-08-usando_javascript_para_reconhecer_pessoas",
-        "video": "https://youtu.be/1gC1kOZDZEA",
-        "tags": ["node.js", "azure", "faceapi", "opencv", "javascript"],
-        "location": {
-            "latitude": -22.2562972,
-            "longitude": -45.7056318,
-            "country": "Brazil",
-            "uf": "MG",
-            "city": "Santa Rita do Sapucaí"
-        },
-        "language": "pt-br",
-        "date": "2018-09-08"
+    "additionalLinks": [
+      "https://github.com/ErickWendel/palestra-vscode-extensions"
+    ],
+    "language": "pt-br",
+    "date": "2017-09-16"
+  },
+  {
+    "title": "Alta Performance e Disponibilidade de aplicações Node.js",
+    "abstract": "Palestra que rolou no DevXperience em 01/09/17, onde falei sobre como dar aquela 'tunada' em suas aplicações Node.js, melhorando o tempo de resposta, velocidade em carregamento e concorrência de usuários :D",
+    "type": "talk",
+    "event": {
+      "link": "https://www.sympla.com.br/devxperience-2017__109753#info",
+      "name": "DevExperience 2017"
     },
-    {
-        "title": "Node.js, Microservicos e Containerização",
-        "abstract": "É importante entender como aplicações funcionam e como a arquitetura está evoluindo. Pensando nisto, abordaremos os beneficios de Docker para criação de microserviços com Node.js, abordando o fluxo de desenvolvimento e facilidades em deploy de suas aplicações",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/DevelopersBR/events/253660887/",
-            "name": "MSP Tech Days"
-        },
-        "additionalLinks": [""],
-        "slides": "https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw",
-        "photos": "2018-09-01-node.js-microservicos-e-containerizacao",
-        "video": "",
-        "tags": ["node.js", "javascript", "docker", "microservices"],
-        "location": {
-            "latitude": -23.54645,
-            "longitude": -46.623615,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2018-09-01"
+    "slides": "http://slides.com/erickwendel/alta-performance-e-disponibilidade-de-aplicaes-nodejs-devxperience/fullscreen",
+    "photos": "2017-09-01-alta_performance_e_disponibilidade_de_aplicações_nodejs",
+    "video": "",
+    "tags": ["node.js", "performance", "hapijs"],
+    "location": {
+      "latitude": -23.5816653,
+      "longitude": -46.6690279,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
-    {
-        "title": "Node.js, Observables e RxJs - Programação reativa no Backend!",
-        "abstract": "Ouvimos bastante a galera que trabalha com Angular e outros frameworks Javascript voltados a front end falando sobre programação reativa e sobre RxjS. Os participantes entenderão na prática o uso dos principais operadores para trabalhar com Node.js, manipulando promises, eventos e conhecendo a fundo o padrão observer",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/FCTech/events/252754164",
-            "name": "FC Tech #2 - Poderes do JS"
-        },
-        "additionalLinks": [""],
-        "slides": "https://www.icloud.com/keynote/09M3Bdis-aIhQa85AUZ1v792w#Nodejs%2C_Rxjs_e_Reactive_Programming_-_FCTech_18082018.key",
-        "photos": "2018-08-18-node.js_observables_e_rxjs_-_programação_reativa_no_backend!",
-        "video": "",
-        "tags": ["node.js", "rxjs", "reactive", "observable"],
-        "location": {
-            "latitude": -23.5556096,
-            "longitude": -46.6613902,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2018-08-18"
+    "additionalLinks": [
+      "https://github.com/ErickWendel/palestra-performance-nodejs"
+    ],
+    "language": "pt-br",
+    "date": "2017-09-01"
+  },
+  {
+    "title": "A vida e as aventuras de um desenvolvedor de Software",
+    "abstract": "Além de produzir sistemas complexos, análises críticas e propor soluções para as maiores corporações, desenvolvedores possuem desafios contínuos, como multidisciplinaridade, estresse e prazos de entrega. Nesta apresentação, os participantes entenderão o lado divertido, inovador e fora da caixa de ser um desenvolvedor dicas de como manter-se motivado e transformar o trabalho em diversão.",
+    "type": "talk",
+    "event": {
+      "link": "https://campuse.ro/events/campus-night-itajuba-2017/talk/a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-1/",
+      "name": "Campus Night Itajubá"
     },
-    {
-        "title": "Managing the flow of asynchronous operations in Node.js",
-        "abstract": "We know that Javascript flow's is different comparing with another languages, such a Java, Python and etc. When we make started write async apps in Javascript some strange things happens, like a undefined values and unsynchronised results. This talk helps you to know how Javascript works and how synchronize resutls with Callbacks, Promises, Events and Reactive things in practice!",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/sfnode/events/mxstsmyxlbdb/",
-            "name": "San Francisco Node at Mixmax"
-        },
-        "additionalLinks": [""],
-        "slides": "https://www.icloud.com/keynote/02WBW9IrCGUW9Q2Z9DsPvkcqA#Manage_the_Javascript_Asynchronous_flow.key",
-        "photos": "2018-08-02-managing_the_flow_of_asynchronous_operations_in_node.js",
-        "video": "2018-08-02-managing_the_flow_of_asynchronous_operations_in_node.js/video.mp4",
-        "tags": ["node.js", "javascript", "async", "english"],
-        "location": {
-            "latitude": 37.7827092,
-            "longitude": -122.3935642,
-            "country": "United States",
-            "uf": "CA",
-            "city": "San Francisco"
-        },
-        "language": "en-us",
-        "date": "2018-08-02"
+    "slides": "",
+    "photos": "2017-08-26-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software",
+    "video": "",
+    "tags": ["career"],
+    "location": {
+      "latitude": -22.4290082,
+      "longitude": -45.4568706,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
-    {
-        "title": "Gerenciando o fluxo assincrono de operações Javascript",
-        "abstract": "Sabemos que o fluxo de Javascript é diferente em comparação com outras linguagens, como Java, Python e etc. Quando começamos a escrever funções assíncronas em Javascript, algumas coisas estranhas acontecem, como valores indefinidos, resultados não sincronizados, etc. Esta palestra ajuda você a saber como o Javascript funciona e como sincronizar resultados trabalhando com Callbacks, Promises, Eventos e Observables.",
-        "type": "talk",
-        "event": {
-            "link": "https://eventos.imasters.com.br/jsexperience/",
-            "name": "JS Experience – 7Masters - Edição 2018"
-        },
-        "additionalLinks": [""],
-        "slides": "https://www.icloud.com/keynote/0a-nP8fSdgrIwtbcdLcp2025w#7Masters_-_Gerenciando_o_Fluxo_Assincrono_de_operac%CC%A7o%CC%83es_JS.key",
-        "photos": "2018-07-05-gerenciando_o_fluxo_assincrono_de_operações_javascript",
-        "video": "",
-        "tags": ["javascript", "async", "node.js"],
-        "location": {
-            "latitude": -23.5588643,
-            "longitude": -46.6645247,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2018-07-05"
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2017-08-26"
+  },
+  {
+    "title": "Job/Task Queue com Bee-Queue - Performance e Resiliência em aplicações Node.js",
+    "abstract": "Caso de sucesso, explicando a arquitetura que solucionou os problemas de concorrência entre processos, resistência a erros e performance de execução. Passando da lib Straw.js, correndo para o Celery em Python para finalmente encontrar a solução mais ideal com Bee-queue em Node.js.",
+    "type": "talk",
+    "event": {
+      "link": "http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-node-js",
+      "name": "The Developers Conference 2017 | São Paulo "
     },
+    "slides": "https://slides.com/erickwendel/jobtask-queue-with-nodejs-tdc-2017",
+    "photos": "",
+    "video": "",
+    "tags": ["node.js", "performance"],
+    "location": {
+      "latitude": -23.6002334,
+      "longitude": -46.6788224,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [
+      "https://github.com/ErickWendel/task-job-queue-tdc2017"
+    ],
+    "language": "pt-br",
+    "date": "2017-07-19"
+  },
+  {
+    "title": "A vida e as aventuras de um desenvolvedor de software",
+    "abstract": "",
+    "type": "talk",
+    "event": {
+      "link": "https://www.youtube.com/channel/UCVAwnfMBdeA7Zz2fQf8fo_w",
+      "name": "Mastertech"
+    },
+    "slides": "",
+    "photos": "",
+    "video": "https://youtu.be/H66DlBkJYCk?t=704",
+    "tags": ["webinar", "career"],
+    "location": {
+      "latitude": -23.5625707,
+      "longitude": -46.6565045,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2017-08-10"
+  },
+  {
+    "title": "Construindo APIs com NodeJs e TypeScript",
+    "abstract": "",
+    "type": "talk",
+    "event": {
+      "link": "https://www.sympla.com.br/virada-tecnologica-sao-paulo---2017__144564#info",
+      "name": "Virada Tecnológica São Paulo - 2017 - PUCSP"
+    },
+    "slides": "",
+    "photos": "",
+    "video": "",
+    "tags": ["node.js", "workshop", "typescript"],
+    "location": {
+      "latitude": -23.5493645,
+      "longitude": -46.6498912,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [
+      "https://github.com/ErickWendel/laboratorio-nodejs-typescript-pucsp"
+    ],
+    "language": "pt-br",
+    "date": "2017-07-02"
+  },
+  {
+    "title": "Construindo RestFull APIs com NodeJs e TypeScript",
+    "abstract": "Falando um conteúdo sobre NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/235415233/",
+      "name": "11º Connecting Knowledge"
+    },
+    "slides": "http://slides.com/erickwendel/apis-com-nodejs-typescript/fullscreen",
+    "photos": "",
+    "video": "",
+    "tags": ["node.js", "typescript"],
+    "location": {
+      "latitude": -23.5542518,
+      "longitude": -46.7330228,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [
+      "https://github.com/ErickWendel/meetup-nodejs-typescript"
+    ],
+    "language": "pt-br",
+    "date": "2016-12-10"
+  },
+  {
+    "title": "Hands-on de Angular 1.x",
+    "abstract": "",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/GDG-SP/events/238268519/",
+      "name": "HTML5 Study Group #58 - HandsOn de Angular 1.x"
+    },
+    "slides": "https://slides.com/erickwendel/hands-on-angularjs-html5-study-group/fullscreen",
+    "photos": "",
+    "video": "",
+    "tags": ["angular"],
+    "location": {
+      "latitude": -23.5452767,
+      "longitude": -46.6373743,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [
+      "https://slides.com/erickwendel/hands-on-angularjs-html5-study-group/fullscreen"
+    ],
+    "language": "pt-br",
+    "date": "2017-03-13"
+  },
+  {
+    "title": "Desenvolvimento (Segredos e boas práticas)",
+    "abstract": "Descubra Todos Os Segredos De Desenvolvimento De Software, Sua Evolução, Benefícios E Como É O Profissional De Desenvolvimento De Software",
+    "type": "talk",
+    "event": {
+      "link": "https://www.youtube.com/channel/UCU7JNMbT7nk-R0KqWa7zjWw",
+      "name": "ARQENGTI - Comunidade de Governança-Gestão-Técnica"
+    },
+    "slides": "",
+    "photos": "",
+    "video": "https://youtu.be/VLqX2oTtvz8?t=625",
+    "tags": ["webinar", "career"],
+    "location": {
+      "latitude": -23.5555873,
+      "longitude": -46.6635681,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2016-11-03"
+  },
+  {
+    "title": "Typescript – 1 Minuto de Tecnologia",
+    "abstract": "Você já ouviu falar sobre Typescript, a tecnologia que promete reinventar seu modo de escrever Javascript? Acompanhe o #1MinutodeTecnologia desta semana e descubra o poder que essa tecnologia possui para os seus projetos. ",
+    "type": "talk",
+    "event": {
+      "link": "https://www.youtube.com/channel/UCHsQ04xha1YKv48dSzQFlpw",
+      "name": "1 Minuto de Tecnologia"
+    },
+    "slides": "",
+    "photos": "",
+    "video": "https://youtu.be/TshiaAMiFR4",
+    "tags": ["typescript", "webinar"],
+    "location": {
+      "latitude": -23.5555873,
+      "longitude": -46.6635681,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2016-11-14"
+  },
+  {
+    "title": "Desenvolvimento de Malwares com C#",
+    "abstract": "",
+    "type": "talk",
+    "event": {
+      "link": "https://roadsec.com.br/rssp17-programacao/",
+      "name": "Roadsec São Paulo 2017"
+    },
+    "slides": "https://docs.google.com/presentation/d/1SjRVW9Sei4wI2Lr45FdDJoShZr97gVmJ10lhYwKaoTM/edit?usp=sharing",
+    "photos": "2017-11-11-desenvolvimento_de_malwares_com_c#",
+    "video": "https://www.facebook.com/EriickWendel/videos/1530672087012334/",
+    "tags": ["malware", "c#"],
+    "location": {
+      "latitude": -23.5283405,
+      "longitude": -46.6695493,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [
+      "http://bit.ly/malwares-com-csharp-roadsec-erickwendel"
+    ],
+    "language": "pt-br",
+    "date": "2017-11-11"
+  },
+  {
+    "title": "Arquitetura Serverless/Nanoservices",
+    "abstract": "",
+    "type": "talk",
+    "event": {
+      "link": "https://imasters.com.br/noticia/confira-programacao-do-intercon-2017",
+      "name": "InterCon 2017"
+    },
+    "slides": "https://docs.google.com/presentation/d/18Pmr-81goU0XDjABDGrcJldlYjAquoqJxLbNZ-G7XNQ/edit?usp=sharing",
+    "photos": "2017-10-15_arquitetura_serverlessnanoservices",
+    "video": "https://www.youtube.com/watch?v=mxypKdbCJOY",
+    "tags": ["serverless", "node.js", "aws"],
+    "location": {
+      "latitude": -23.5816653,
+      "longitude": -46.6690279,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2017-10-15"
+  },
+  {
+    "title": "Node.js e Typescript na prática",
+    "abstract": "ERick Wendel vai mostrar na prática como desenvolver API usando Node.js e TypeScript. Impeerdível.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.facebook.com/events/1935243993391853/",
+      "name": "Node.js e TypeScript na prática com Erick Wendel e Sergio Gama"
+    },
+    "slides": "https://docs.google.com/presentation/d/1GgngBBGz-qK_7dahn3hTSJOGwL7B7MjnlE2L5HfXDRU/edit?usp=sharing",
+    "photos": "",
+    "video": "https://www.facebook.com/StartupWithIBM/videos/1498309570256837",
+    "tags": ["node.js", "javascript", "typescript"],
+    "location": {
+      "latitude": -23.5805414,
+      "longitude": -46.6461597,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2017-09-27"
+  },
+  {
+    "title": "Git crypt",
+    "abstract": "",
+    "type": "talk",
+    "event": {
+      "link": "https://setemasters.imasters.com.br/conversas/git-crypt-por-erick-wendel/",
+      "name": "7Masters Git"
+    },
+    "slides": "https://docs.google.com/presentation/d/1SlNX3L5UC4QL1CjDdVI_GS4GhuOt366icyGSLv04kUY/edit?usp=sharing",
+    "photos": "",
+    "video": "https://www.youtube.com/watch?v=Gv6pfL5QxRs",
+    "tags": ["git", "gitcrypt"],
+    "location": {
+      "latitude": -23.5523916,
+      "longitude": -46.6800878,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2018-02-02"
+  },
+  {
+    "title": "The Velopers #21 - Erick Wendel",
+    "abstract": "Erick Wendel fala sobre seu começo com desenvolvimento, comunidades, carreira, meetups, nodeJS, o programa MVP,  palestras,em inglês e muito mais.",
+    "type": "talk",
+    "event": {
+      "link": "https://youtu.be/_x60NFtZwb4",
+      "name": "The Velopers #21"
+    },
+    "slides": "",
+    "photos": "",
+    "video": "http://bit.ly/thevelopers-erickwendel",
+    "tags": ["webinar"],
+    "location": {
+      "latitude": -23.5523916,
+      "longitude": -46.6800878,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2019-01-02"
+  },
+  {
+    "title": "WTF Are Serverless Apps?",
+    "abstract": "Many myths and histories are created every day about the Serverless architectures and concepts. Maybe because the attractive price,  availability metrics or the power to scale apps without additional configurations. Attendees will learn how to deep in the serverless architecture, how to start and how to avoid surprises at the end of the month with high prices on their credit cards.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/DevelopersBR/events/257187406/",
+      "name": "Microsoft Connect(); Brasil"
+    },
+    "slides": "http://bit.ly/wtf-serverless-connect",
+    "photos": "2019-01-19_-_wtf_are_serverless_apps",
+    "video": "",
+    "tags": ["node.js", "serverless", "aws", "azure"],
+    "location": {
+      "latitude": -23.5512,
+      "longitude": -46.73564,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": ["https://github.com/ErickWendel/wtf-serverless-talk"],
+    "language": "pt-br",
+    "date": "2019-01-19"
+  },
+  {
+    "title": "Coding Dojo Online - #VSLiveShare",
+    "abstract": "E chegou o PRIMEIRO Coding Dojo Online usando o Visual Studio #LiveShare. Já pensou em resolver desafios de forma interativa, usando o Visual Studio ou VSCode, com até 5 pessoas conectadas ao mesmo tempo? Nosso encontro online focará em desafios de lógica seguindo a metodologia TDD.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/Nerdzao/events/256124808/",
+      "name": "Nerdzão Live #8 - Coding Dojo Online - #VSLiveShare"
+    },
+    "slides": "https://www.icloud.com/keynote/0cu5MB1vmU-Znze_o5ETuYZaw#Dojo-online_-_liveshare_10012019",
+    "photos": "",
+    "video": "https://youtu.be/-JehgrelrfU",
+    "tags": ["codingdojo", "online", "webinar", "vscode"],
+    "location": {
+      "latitude": -23.5542256,
+      "longitude": -46.6744607,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2019-01-10"
+  },
+  {
+    "title": "Node.js, Observables e RxJs - Programação reativa no Backend!",
+    "abstract": "Ouvimos bastante a galera que trabalha com Angular e outros frameworks Javascript voltados a front end falando sobre programação reativa e sobre RxjS. Os participantes entenderão na prática o uso dos principais operadores para trabalhar com Node.js, manipulando promises, eventos e conhecendo a fundo o padrão observer.",
+    "type": "talk",
+    "event": {
+      "link": "https://braziljs.org/eventos/braziljs-on-the-road-joinville/",
+      "name": "Braziljs on the road Joinville"
+    },
+    "additionalLinks": [""],
+    "slides": "http://bit.ly/talk-rxjs-braziljs-24112018",
+    "photos": "2018-11-24-node.js_observables_e_rxjs_-_programação_reativa_no_backend!",
+    "video": "https://youtu.be/1we5tC1oyYA",
+    "tags": ["node.js", "rxjs", "javascript", "observable"],
+    "location": {
+      "latitude": -26.242434,
+      "longitude": -48.8812217,
+      "country": "Brazil",
+      "uf": "SC",
+      "city": "Joinville"
+    },
+    "language": "pt-br",
+    "date": "2018-11-24"
+  },
+  {
+    "title": "Building VSCode Extensions with TypeScript",
+    "abstract": "Em nossa vida de desenvolvedor (a), fazemos diversos trabalhos repetitivos, que com este editor, vamos entender o valor da automatização de código a partir de Code Snippets criados com TypeScript, desde a análise sintática de códigos, à ganho de produtividade a partir de tarefas dentro da ferramenta",
+    "type": "talk",
+    "event": {
+      "link": "https://developerssergipe.com",
+      "name": "Developers Sergipe Summit 2018"
+    },
+    "additionalLinks": [""],
+    "slides": " http://bit.ly/talk-vscode-ext-erickwendel-devsergipe2018",
+    "photos": "2018-12-15-building_vscode_extensions_with_typescript",
+    "video": "",
+    "tags": ["node.js", "vscode", "javascript", "siri", "extensions"],
+    "location": {
+      "latitude": -10.900247,
+      "longitude": -37.055603,
+      "country": "Brazil",
+      "uf": "SE",
+      "city": "Aracajú"
+    },
+    "language": "pt-br",
+    "date": "2018-12-15"
+  },
+  {
+    "title": "Node.js, Docker e Containerização",
+    "abstract": "É importante entender como as aplicações funcionam e como a arquitetura está evoluindo. Pensando nisto, abordaremos sobre os benefícios de Docker para criação de microserviços com Node.js",
+    "type": "talk",
+    "event": {
+      "link": "https://cpee.unifei.edu.br/Programacao.html",
+      "name": "III Congresso de Pesquisa Extensão e Ensino da Unifei-Itabira"
+    },
+    "additionalLinks": [""],
+    "slides": "https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw",
+    "photos": "2018-10-25-node.js_docker_containerizacao",
+    "video": "",
+    "tags": ["node.js", "javascript", "docker", "microservices"],
+    "location": {
+      "latitude": -19.6743348,
+      "longitude": -43.2144952,
+      "country": "Brazil",
+      "uf": "MG",
+      "city": "Itabira"
+    },
+    "language": "pt-br",
+    "date": "2018-10-25"
+  },
+  {
+    "title": "A vida e as aventuras de um desenvolvedor de Software",
+    "abstract": "De volta à E.E. Vila Bela escola em que fiz o ensino médio, falando um pouco sobre a carreira em desenvolvimento de software, mostrando o quão divertida nossa vida pode ser se focar no que realmente gosta. Estou super animado pois é uma grande oportunidade de converter mais gente para nosso lado negro da força haha! E melhor, mostrar que existe um mundão além daquilo que vemos, que sempre podemos evoluir e correr atrás das paradas.",
+    "type": "talk",
+    "event": {
+      "link": "",
+      "name": "E.E. Vila Bela - Projeto [R]EVOLUÇÃO"
+    },
+    "additionalLinks": [""],
+    "slides": "https://docs.google.com/presentation/d/1VhpAZC1mZgmuJXy9Qt_mbPce4aC-rvtFu6RYzKAXIlE/edit?usp=sharing",
+    "photos": "2018-10-18-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software",
+    "video": "",
+    "tags": ["career", "javascript"],
+    "location": {
+      "latitude": -23.6099272,
+      "longitude": -46.4499841,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "2018-10-18"
+  },
+  {
+    "title": "O que aprendi organizando grandes comunidades",
+    "abstract": "Comunidades, são grandes desafios, lidar com pessoas nem sempre é fácil. Nesta conversa, os participantes conhecerão os bastidores das tretas e desafios de um grupo de usuários de 3 mil membros que chegou a 100 mil membros impactando milhares de pessoas pelo país, lidar com palestrantes e eventos simultaneos.",
+    "type": "talk",
+    "event": {
+      "link": "https://credencial.imasters.com.br/community-leaders-summit-2018",
+      "name": "Community Leaders Summit"
+    },
+    "additionalLinks": [""],
+    "slides": "https://www.icloud.com/keynote/0vGhAy4B7cCUt_5B94zJvKV_A#O_que_aprendi_organizando_uma_grande_comunidade_-_Community_Summit",
+    "photos": "2018-10-05-o_que_aprendi_organizando_grandes_comunidades",
+    "video": "https://web.facebook.com/fernando.veiga.3950/videos/1122170867935213/",
+    "tags": ["career", "communities"],
+    "location": {
+      "latitude": -23.5816604,
+      "longitude": -46.6690279,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "2018-10-05"
+  },
+  {
+    "title": "Scaling your applications with Kubernetes and Docker",
+    "abstract": "High availability, high consistency, high disponibility are the popular words when we think about Web Applications but when our application increase, we have many problems and situations to solve. The objective of this talk is show the Kubernetes' power and facility to you can get conquer all of this keywords in your projects, exploring the best of Kubernetes has to you",
+    "type": "talk",
+    "event": {
+      "link": "https://www.theconf.club/",
+      "name": "TheConf 2018"
+    },
+    "additionalLinks": [
+      "https://www.infoq.com/br/presentations/scaling-your-applications-with-kubernetes-and-docker"
+    ],
+    "slides": "https://www.icloud.com/keynote/0mpRDRsKBIcIkmNCTrOstp5fQ#Scalling_your_apps_with_K8s_and_Docker_-_TheConf_-_21092018",
+    "photos": "2018-09-21-scaling_your_applications_with_kubernetes_and_docker",
+    "video": "https://youtu.be/cAwDALyoVUw",
+    "tags": ["english", "node.js", "docker", "kubernetes"],
+    "location": {
+      "latitude": -23.5816151,
+      "longitude": -46.6843488,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "en-us",
+    "date": "2018-09-21"
+  },
+  {
+    "title": "Usando Javascript para reconhecer pessoas",
+    "abstract": "Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.",
+    "type": "talk",
+    "event": {
+      "link": "https://hacktown.com.br/programacao/dia/8-Sep/",
+      "name": "Hack Town 2018"
+    },
+    "additionalLinks": [""],
+    "slides": "https://www.icloud.com/keynote/0geBVltLvSHcKRwabA4OCfppA#Usando_Javascript_para_reconhecer_pessoas!_-_HackTown_-_07092018.key",
+    "photos": "2018-09-08-usando_javascript_para_reconhecer_pessoas",
+    "video": "https://youtu.be/1gC1kOZDZEA",
+    "tags": ["node.js", "azure", "faceapi", "opencv", "javascript"],
+    "location": {
+      "latitude": -22.2562972,
+      "longitude": -45.7056318,
+      "country": "Brazil",
+      "uf": "MG",
+      "city": "Santa Rita do Sapucaí"
+    },
+    "language": "pt-br",
+    "date": "2018-09-08"
+  },
+  {
+    "title": "Node.js, Microservicos e Containerização",
+    "abstract": "É importante entender como aplicações funcionam e como a arquitetura está evoluindo. Pensando nisto, abordaremos os beneficios de Docker para criação de microserviços com Node.js, abordando o fluxo de desenvolvimento e facilidades em deploy de suas aplicações",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/DevelopersBR/events/253660887/",
+      "name": "MSP Tech Days"
+    },
+    "additionalLinks": [""],
+    "slides": "https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw",
+    "photos": "2018-09-01-node.js-microservicos-e-containerizacao",
+    "video": "",
+    "tags": ["node.js", "javascript", "docker", "microservices"],
+    "location": {
+      "latitude": -23.54645,
+      "longitude": -46.623615,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "2018-09-01"
+  },
+  {
+    "title": "Node.js, Observables e RxJs - Programação reativa no Backend!",
+    "abstract": "Ouvimos bastante a galera que trabalha com Angular e outros frameworks Javascript voltados a front end falando sobre programação reativa e sobre RxjS. Os participantes entenderão na prática o uso dos principais operadores para trabalhar com Node.js, manipulando promises, eventos e conhecendo a fundo o padrão observer",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/FCTech/events/252754164",
+      "name": "FC Tech #2 - Poderes do JS"
+    },
+    "additionalLinks": [""],
+    "slides": "https://www.icloud.com/keynote/09M3Bdis-aIhQa85AUZ1v792w#Nodejs%2C_Rxjs_e_Reactive_Programming_-_FCTech_18082018.key",
+    "photos": "2018-08-18-node.js_observables_e_rxjs_-_programação_reativa_no_backend!",
+    "video": "",
+    "tags": ["node.js", "rxjs", "reactive", "observable"],
+    "location": {
+      "latitude": -23.5556096,
+      "longitude": -46.6613902,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "2018-08-18"
+  },
+  {
+    "title": "Managing the flow of asynchronous operations in Node.js",
+    "abstract": "We know that Javascript flow's is different comparing with another languages, such a Java, Python and etc. When we make started write async apps in Javascript some strange things happens, like a undefined values and unsynchronised results. This talk helps you to know how Javascript works and how synchronize resutls with Callbacks, Promises, Events and Reactive things in practice!",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/sfnode/events/mxstsmyxlbdb/",
+      "name": "San Francisco Node at Mixmax"
+    },
+    "additionalLinks": [""],
+    "slides": "https://www.icloud.com/keynote/02WBW9IrCGUW9Q2Z9DsPvkcqA#Manage_the_Javascript_Asynchronous_flow.key",
+    "photos": "2018-08-02-managing_the_flow_of_asynchronous_operations_in_node.js",
+    "video": "2018-08-02-managing_the_flow_of_asynchronous_operations_in_node.js/video.mp4",
+    "tags": ["node.js", "javascript", "async", "english"],
+    "location": {
+      "latitude": 37.7827092,
+      "longitude": -122.3935642,
+      "country": "United States",
+      "uf": "CA",
+      "city": "San Francisco"
+    },
+    "language": "en-us",
+    "date": "2018-08-02"
+  },
+  {
+    "title": "Gerenciando o fluxo assincrono de operações Javascript",
+    "abstract": "Sabemos que o fluxo de Javascript é diferente em comparação com outras linguagens, como Java, Python e etc. Quando começamos a escrever funções assíncronas em Javascript, algumas coisas estranhas acontecem, como valores indefinidos, resultados não sincronizados, etc. Esta palestra ajuda você a saber como o Javascript funciona e como sincronizar resultados trabalhando com Callbacks, Promises, Eventos e Observables.",
+    "type": "talk",
+    "event": {
+      "link": "https://eventos.imasters.com.br/jsexperience/",
+      "name": "JS Experience – 7Masters - Edição 2018"
+    },
+    "additionalLinks": [""],
+    "slides": "https://www.icloud.com/keynote/0a-nP8fSdgrIwtbcdLcp2025w#7Masters_-_Gerenciando_o_Fluxo_Assincrono_de_operac%CC%A7o%CC%83es_JS.key",
+    "photos": "2018-07-05-gerenciando_o_fluxo_assincrono_de_operações_javascript",
+    "video": "",
+    "tags": ["javascript", "async", "node.js"],
+    "location": {
+      "latitude": -23.5588643,
+      "longitude": -46.6645247,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "2018-07-05"
+  },
 
-    {
-        "title": "Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos",
-        "abstract": "Já pensou em reviver os tempos antigos de uma forma mais digital? Nessa palestra os participantes aprenderão como criar aplicações em tempo real com Node.js baseado no projeto Original Potato que desenvolvemos explorando o podencial de aplicações Web e facilidades do Javascript.",
-        "type": "talk",
-        "event": {
-            "link": "https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/",
-            "name": "Campus Party Brasilia 2018"
-        },
-        "additionalLinks": [""],
-        "slides": "https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key",
-        "photos": "2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos",
-        "video": "https://www.youtube.com/watch?v=NexvZCJFil8",
-        "tags": ["node.js", "javascript", "websocket", "socketio"],
-        "location": {
-            "latitude": -15.7835191,
-            "longitude": -47.9013997,
-            "country": "Brazil",
-            "uf": "DF",
-            "city": "Brasília"
-        },
-        "language": "pt-br",
-        "date": "2018-06-29"
+  {
+    "title": "Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos",
+    "abstract": "Já pensou em reviver os tempos antigos de uma forma mais digital? Nessa palestra os participantes aprenderão como criar aplicações em tempo real com Node.js baseado no projeto Original Potato que desenvolvemos explorando o podencial de aplicações Web e facilidades do Javascript.",
+    "type": "talk",
+    "event": {
+      "link": "https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/",
+      "name": "Campus Party Brasilia 2018"
     },
-    {
-        "title": "Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas!",
-        "abstract": "Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.",
-        "type": "talk",
-        "event": {
-            "link": "https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/",
-            "name": "Campus Party Brasilia 2018"
-        },
-        "additionalLinks": [""],
-        "slides": "https://erickwendel.github.io/palestra-criciumadev-Javascript-para-reconhecer-pessoas/",
-        "photos": "2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!",
-        "video": "",
-        "tags": ["node.js", "javascript", "faceapi", "azure"],
-        "location": {
-            "latitude": -15.7835191,
-            "longitude": -47.9013997,
-            "country": "Brazil",
-            "uf": "DF",
-            "city": "Brasília"
-        },
-        "language": "pt-br",
-        "date": "2018-06-29"
+    "additionalLinks": [""],
+    "slides": "https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key",
+    "photos": "2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos",
+    "video": "https://www.youtube.com/watch?v=NexvZCJFil8",
+    "tags": ["node.js", "javascript", "websocket", "socketio"],
+    "location": {
+      "latitude": -15.7835191,
+      "longitude": -47.9013997,
+      "country": "Brazil",
+      "uf": "DF",
+      "city": "Brasília"
     },
-    {
-        "title": "Node.js e Typescript - Extraindo informações da Marvel Comics com Web Scrapping",
-        "abstract": "Em nossa vida, fazemos diversas ações repetitivas, seja entrar em um site para visualizar dados e registrar em uma base posterior, seja cadastrar um mesmo item a cada tempo ou até mesmo publicar coisas no Facebook. Nesta palestra, você entenderá a facilidade de criar seu robô totalmente atualizado e pronto para liberar aquele tempo preciso para focar no que realmente é estratégico. Vamos conhecer a ferramenta Selenium Web Driver para simular um usuário no navegador e fazer todas as suas tarefas automagicamente.",
-        "type": "talk",
-        "event": {
-            "link": "https://www.eventbrite.com.br/e/building-devs-do-front-end-ao-back-end-tickets-46591861512#",
-            "name": "Building Devs"
-        },
-        "additionalLinks": [""],
-        "slides": "http://bit.ly/building-devs-contruindo-robos-automatizados-erickwendel",
-        "photos": "2018-06-16-node.js_e_typescript_-_extraindo_informações_da_marvel_comics_com_web-scrapping",
-        "video": "",
-        "tags": ["node.js", "webscrapping", "typescript"],
-        "location": {
-            "latitude": -23.9438135,
-            "longitude": -46.3299362,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "Santos"
-        },
-        "language": "pt-br",
-        "date": "2018-06-16"
+    "language": "pt-br",
+    "date": "2018-06-29"
+  },
+  {
+    "title": "Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas!",
+    "abstract": "Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.",
+    "type": "talk",
+    "event": {
+      "link": "https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/",
+      "name": "Campus Party Brasilia 2018"
     },
-    {
-        "title": "Escalando Microservices no Kubernetes",
-        "abstract": "Vivemos em uma era de constante evolução de dados, crescimento exponencial de requisições e nos deparamos com diversos desafios no caminho ao lidar com milhares de clientes e alta disponibilidade de aplicações. Nesta palestra você entenderá como trabalhar com Kubernetes, escalando seus micro-serviços, de  forma simples e robusta a partir da plataforma AKS (Azure Container Services), entendendo na prática seus principais segredos e desafios.",
-        "type": "talk",
-        "event": {
-            "link": "https://www.sympla.com.br/devprimeone--vssummit-2018__235493#info",
-            "name": "Visual Studio Summit 2018"
-        },
-        "additionalLinks": [""],
-        "slides": "https://www.icloud.com/keynote/0GGt3v3cs19jzWzcsrOsFSVXA#VSSUMMIT2018V1.key",
-        "photos": "2018-06-02-escalando_microservices_no_kubernetes",
-        "video": "",
-        "tags": ["kubernetes", "devops", "docker"],
-        "location": {
-            "latitude": -23.6092811,
-            "longitude": -46.6989541,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2018-06-02"
+    "additionalLinks": [""],
+    "slides": "https://erickwendel.github.io/palestra-criciumadev-Javascript-para-reconhecer-pessoas/",
+    "photos": "2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!",
+    "video": "",
+    "tags": ["node.js", "javascript", "faceapi", "azure"],
+    "location": {
+      "latitude": -15.7835191,
+      "longitude": -47.9013997,
+      "country": "Brazil",
+      "uf": "DF",
+      "city": "Brasília"
     },
-    {
-        "title": "Javascript, Azure Cognitive Services e RaspberryPI - Usando Javascript para reconhecer pessoas!",
-        "abstract": "Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo. https://criciumadev.com.br/conference",
-        "type": "talk",
-        "event": {
-            "link": "https://www.sympla.com.br/criciuma-dev-conference__213460",
-            "name": "Criciúma Dev Conference"
-        },
-        "additionalLinks": [""],
-        "slides": "http://bit.ly/criciumadev2018-erickwendel-slides",
-        "photos": "2018-05-19-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!",
-        "video": "https://www.youtube.com/watch?v=0agHnvbHIQg&list=PL1B8Ym-og4vJ-V_uLM1LQUo9wNzLNTDEr&index=7",
-        "tags": [
-            "javascript",
-            "node.js",
-            "faceapi",
-            "azure",
-            "raspberrypi",
-            "opencv"
-        ],
-        "location": {
-            "latitude": -28.6796323,
-            "longitude": -49.3553406,
-            "country": "Brazil",
-            "uf": "SC",
-            "city": "Criciúma"
-        },
-        "language": "pt-br",
-        "date": "2018-05-19"
+    "language": "pt-br",
+    "date": "2018-06-29"
+  },
+  {
+    "title": "Node.js e Typescript - Extraindo informações da Marvel Comics com Web Scrapping",
+    "abstract": "Em nossa vida, fazemos diversas ações repetitivas, seja entrar em um site para visualizar dados e registrar em uma base posterior, seja cadastrar um mesmo item a cada tempo ou até mesmo publicar coisas no Facebook. Nesta palestra, você entenderá a facilidade de criar seu robô totalmente atualizado e pronto para liberar aquele tempo preciso para focar no que realmente é estratégico. Vamos conhecer a ferramenta Selenium Web Driver para simular um usuário no navegador e fazer todas as suas tarefas automagicamente.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.eventbrite.com.br/e/building-devs-do-front-end-ao-back-end-tickets-46591861512#",
+      "name": "Building Devs"
     },
-    {
-        "title": "Conhecendo o poder do Typescript para aplicações Node.Js",
-        "abstract": "Aplicações Javascript, ao longo de seu crescimento, tendem a mostrar diversos problemas ao longo do tempo, seja organização, seja validação ou até mesmo problemas que a própria linguagem tem. Nesta palestra, você entenderá como criar um código mais seguro, melhor manutenção, códigos mais testáveis e sempre trabalhando  com as versões mais atuais do Javascript em seus projetos.",
-        "type": "talk",
-        "event": {
-            "link": "https://www.sympla.com.br/microsoft-mvp-conference__246657#info",
-            "name": "Microsoft MVP Conference 2018"
-        },
-        "additionalLinks": [""],
-        "slides": "http://bit.ly/mvpconf-slides-erickwendel-typescript",
-        "photos": "2018-04-06-conhecendo_o_poder_do_typescript_para_aplicações_nodejs",
-        "video": "",
-        "tags": ["node.js", "typescript", "javascript", "vscode"],
-        "location": {
-            "latitude": -23.5283295,
-            "longitude": -46.5675101,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2018-04-06"
+    "additionalLinks": [""],
+    "slides": "http://bit.ly/building-devs-contruindo-robos-automatizados-erickwendel",
+    "photos": "2018-06-16-node.js_e_typescript_-_extraindo_informações_da_marvel_comics_com_web-scrapping",
+    "video": "",
+    "tags": ["node.js", "webscrapping", "typescript"],
+    "location": {
+      "latitude": -23.9438135,
+      "longitude": -46.3299362,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "Santos"
     },
-    {
-        "title": "O poder do MongoDB Aggregation Framework",
-        "abstract": "Trabalhando com MongoDB, nos deparamos com alguns métodos repetitivos, operações complexas e na maioria das vezes, causa uma perda grande de memória e processamento ao realizá-la. Nessa live você entenderá quando usar e como usar o melhor do MongoDB, com exemplos práticos, facilitando as operações do dia-a-dia e melhorando a entrega de seus projetos.",
-        "type": "talk",
-        "event": {
-            "link": "http://bit.ly/live-mongodb",
-            "name": "Canal.NET"
-        },
-        "additionalLinks": ["https://github.com/erickwendel/palestra-mongodb-aggregation-canal.net"],
-        "slides": "http://bit.ly/canalnet-aggregation-framework-slides-erickwendel",
-        "photos": "2018-03-28-o_poder_do_mongodb_aggregation_framework",
-        "video": "http://bit.ly/live-mongodb",
-        "tags": ["mongodb", "database", "webinar"],
-        "location": {
-            "latitude": -23.5618829,
-            "longitude": -46.6555644,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2018-03-28"
+    "language": "pt-br",
+    "date": "2018-06-16"
+  },
+  {
+    "title": "Escalando Microservices no Kubernetes",
+    "abstract": "Vivemos em uma era de constante evolução de dados, crescimento exponencial de requisições e nos deparamos com diversos desafios no caminho ao lidar com milhares de clientes e alta disponibilidade de aplicações. Nesta palestra você entenderá como trabalhar com Kubernetes, escalando seus micro-serviços, de  forma simples e robusta a partir da plataforma AKS (Azure Container Services), entendendo na prática seus principais segredos e desafios.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.sympla.com.br/devprimeone--vssummit-2018__235493#info",
+      "name": "Visual Studio Summit 2018"
     },
-    {
-        "title": "Docker Registry: Adeus deploy via ssh!",
-        "abstract": "Em nosso cotidiano, conhecemos algumas formas de deploy que talvez podem ser repetitivas demais. Um grande exemplo é: Temos nossa aplicação (nossos arquivos que devem ser executadas no servidor de produção), criamos uma máquina virtual, acessamos esta máquina via SSH (linha de comando), fazemos um git clone (ou pull) e rodamos cada projeto separado. O objetivo desta palestra é automatizar todo este processo, garantindo a entrega e viabilidade de publicação de projetos. ",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/Nerdzao/events/247993427",
-            "name": "Nerdzão #36 - Cloud & DevOps"
-        },
-        "additionalLinks": [""],
-        "slides": "http://bit.ly/slides-docker-registry-erickwendel",
-        "photos": "2018-02-26-docker_registry:_adeus_deploy_via_ssh!",
-        "video": "",
-        "tags": ["docker", "node.js", "javascript", "devops"],
-        "location": {
-            "latitude": -23.5541617,
-            "longitude": -46.6622279,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2018-02-26"
+    "additionalLinks": [""],
+    "slides": "https://www.icloud.com/keynote/0GGt3v3cs19jzWzcsrOsFSVXA#VSSUMMIT2018V1.key",
+    "photos": "2018-06-02-escalando_microservices_no_kubernetes",
+    "video": "",
+    "tags": ["kubernetes", "devops", "docker"],
+    "location": {
+      "latitude": -23.6092811,
+      "longitude": -46.6989541,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
-    {
-        "title": "Arquitetando aplicações Serverless - Arquitetura, padrões e organização de aplicações",
-        "abstract": "Ao trabalhar com aplicações Serverless em nossos projetos lidamos com alguns desafios de arquitetura, organização e manutenção ao longo do crescimento de aplicações. Você aprenderá diversos pontos a considerar ao criar aplicações deste tipo, pensando em uma arquitetura mais concisa, testável e escalável, conhecendo os principais beneficios e desafios da nova era de aplicações.",
-        "type": "talk",
-        "event": {
-            "link": "http://apicon.com.br/",
-            "name": "API Connect Conference 2018"
-        },
-        "additionalLinks": [""],
-        "slides": "http://bit.ly/apicon-serverless-erickwendel-slides",
-        "photos": "2018-03-23-arquitetando_aplicações_serverless_-_arquitetura,_padrões_e_organização_de_aplicações",
-        "video": "",
-        "tags": ["serverless", "node.js", "design patterns", "javascript"],
-        "location": {
-            "latitude": -23.5958279,
-            "longitude": -46.6869613,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2018-03-23"
+    "language": "pt-br",
+    "date": "2018-06-02"
+  },
+  {
+    "title": "Javascript, Azure Cognitive Services e RaspberryPI - Usando Javascript para reconhecer pessoas!",
+    "abstract": "Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo. https://criciumadev.com.br/conference",
+    "type": "talk",
+    "event": {
+      "link": "https://www.sympla.com.br/criciuma-dev-conference__213460",
+      "name": "Criciúma Dev Conference"
     },
-    {
-        "title": "Construindo Robôs automatizados com Selenium Web Driver e Typescript",
-        "abstract": "Em nossa vida, fazemos diversas ações repetitivas, seja entrar em um site para visualizar dados e registrar em uma base posterior, seja cadastrar um mesmo item a cada tempo ou até mesmo publicar coisas no Facebook. Nesta palestra, você entenderá a facilidade de criar seu robô totalmente atualizado e pronto para liberar aquele tempo preciso para focar no que realmente é estratégico. Vamos conhecer a ferramenta Selenium Web Driver para simular um usuário no navegador e fazer todas as suas tarefas automagicamente.",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/Nerdzao/events/247508769",
-            "name": "Nerdzão #28 - Conhecendo o poder de Node.js"
-        },
-        "additionalLinks": [""],
-        "slides": "http://bit.ly/cpbr-erickwendel-robos-automatizados-slides",
-        "photos": "2018-02-07-construindo_robôs_automatizados_com_selenium_web_driver_e_typescript",
-        "video": "",
-        "tags": ["node.js", "typescript", "mongodb", "javascript", "web scrapping"],
-        "location": {
-            "latitude": -23.594657,
-            "longitude": -46.6859886,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2018-02-07"
+    "additionalLinks": [""],
+    "slides": "http://bit.ly/criciumadev2018-erickwendel-slides",
+    "photos": "2018-05-19-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!",
+    "video": "https://www.youtube.com/watch?v=0agHnvbHIQg&list=PL1B8Ym-og4vJ-V_uLM1LQUo9wNzLNTDEr&index=7",
+    "tags": [
+      "javascript",
+      "node.js",
+      "faceapi",
+      "azure",
+      "raspberrypi",
+      "opencv"
+    ],
+    "location": {
+      "latitude": -28.6796323,
+      "longitude": -49.3553406,
+      "country": "Brazil",
+      "uf": "SC",
+      "city": "Criciúma"
     },
-    {
-        "title": "Construindo Robôs automatizados para extração de informações",
-        "abstract": "Em nossa vida, fazemos diversas ações repetitivas, seja entrar em um site para visualizar dados e registrar em uma base posterior, seja cadastrar um mesmo item a cada tempo ou até mesmo publicar coisas no Facebook. Nesta palestra, você entenderá a facilidade de criar seu robô totalmente atualizado e pronto para liberar aquele tempo preciso para focar no que realmente é estratégico. Vamos conhecer a ferramenta Selenium Web Driver para simular um usuário no navegador e fazer todas as suas tarefas automagicamente.",
-        "type": "talk",
-        "event": {
-            "link": "http://bit.ly/erickwendel-robos-extração-campusparty",
-            "name": "Campus Party BR - 2018"
-        },
-        "additionalLinks": ["https://github.com/ErickWendel/palestra-robos-com-selenium-cpbr11"],
-        "slides": "http://bit.ly/cpbr-erickwendel-robos-automatizados-slides",
-        "photos": "2018-02-01-Construindo_Robôs_automatizados_para_extração_de_informações",
-        "video": "https://youtu.be/FANolqvoQQA",
-        "tags": ["node.js", "javascript", "web scrapping"],
-        "location": {
-            "latitude": -23.5161769,
-            "longitude": -46.6388346,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2018-02-01"
+    "language": "pt-br",
+    "date": "2018-05-19"
+  },
+  {
+    "title": "Conhecendo o poder do Typescript para aplicações Node.Js",
+    "abstract": "Aplicações Javascript, ao longo de seu crescimento, tendem a mostrar diversos problemas ao longo do tempo, seja organização, seja validação ou até mesmo problemas que a própria linguagem tem. Nesta palestra, você entenderá como criar um código mais seguro, melhor manutenção, códigos mais testáveis e sempre trabalhando  com as versões mais atuais do Javascript em seus projetos.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.sympla.com.br/microsoft-mvp-conference__246657#info",
+      "name": "Microsoft MVP Conference 2018"
     },
-    {
-        "title": "Pensando além do código, dicas e segredos para criação de um desenvolvedor de software",
-        "abstract": "Sabemos que escrever código é sempre desafiador e na maioria das vezes divertido. Programadores se concentram na entrega e escala de seus software, mas sabemos que software é só um dos pilares para a entrega de um produto,nessa palestra, voce entenderá quais são os passos para montar seu produto de ponta a ponta, mudando o Mindset, pensando além do código.",
-        "type": "talk",
-        "event": {
-            "link": "https://campuse.ro/events/campus-party-brasil-2018/talk/pensando-alem-do-codigo-dicas-e-segredos-para-criacao-de-um-software-cpbr11/",
-            "name": "Campus Party BR - 2018"
-        },
-        "additionalLinks": [""],
-        "slides": "http://bit.ly/cpbr11-erickwendel-pensando-alem-do-codigo",
-        "photos": "2018-01-31-pensando_além_do_código,_dicas_e_segredos_para_criação_de_um_software",
-        "video": "",
-        "tags": ["node.js", "career"],
-        "location": {
-            "latitude": -23.5161769,
-            "longitude": -46.6388346,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2018-01-31"
+    "additionalLinks": [""],
+    "slides": "http://bit.ly/mvpconf-slides-erickwendel-typescript",
+    "photos": "2018-04-06-conhecendo_o_poder_do_typescript_para_aplicações_nodejs",
+    "video": "",
+    "tags": ["node.js", "typescript", "javascript", "vscode"],
+    "location": {
+      "latitude": -23.5283295,
+      "longitude": -46.5675101,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
-    {
-        "title": "Coding Dojo com Javascript",
-        "abstract": "Coding dojo é uma prática que incentiva a realização de desafios focados em algoritmos, onde usamos técnicas como o TDD. Participantes sobem ao palco em duplas e cada um tem 5 minutos para resolver/continuar o desafio da pessoa anterior",
-        "type": "talk",
-        "event": {
-            "link": "http://erickwendel.com.br/2017/08/15/js-challenge1-coding-dojo-com-javascript/",
-            "name": "JS Challenge #1"
-        },
-        "additionalLinks": ["https://github.com/ErickWendel/coding-dojo-js-purple99"],
-        "slides": "http://slides.com/erickwendel/coding-dojo-com-javascript-purple99#/",
-        "photos": "2017-08-15-coding_dojo_com_javascript",
-        "video": "",
-        "tags": ["node.js", "javascript"],
-        "location": {
-            "latitude": -23.551343,
-            "longitude": -46.6361995,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São paulo"
-        },
-        "language": "pt-br",
-        "date": "2017-08-15"
+    "language": "pt-br",
+    "date": "2018-04-06"
+  },
+  {
+    "title": "O poder do MongoDB Aggregation Framework",
+    "abstract": "Trabalhando com MongoDB, nos deparamos com alguns métodos repetitivos, operações complexas e na maioria das vezes, causa uma perda grande de memória e processamento ao realizá-la. Nessa live você entenderá quando usar e como usar o melhor do MongoDB, com exemplos práticos, facilitando as operações do dia-a-dia e melhorando a entrega de seus projetos.",
+    "type": "talk",
+    "event": {
+      "link": "http://bit.ly/live-mongodb",
+      "name": "Canal.NET"
     },
-    {
-        "title": "Job/Task Queue com Bee-Queue - Performance e Resiliência em aplicações Node.js",
-        "abstract": "Caso de sucesso, explicando a arquitetura que solucionou os problemas de concorrência entre processos, resistência a erros e performance de execução. Passando da lib Straw.js, correndo para o Celery em Python para finalmente encontrar a solução mais ideal com Bee-queue em Node.js.",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/nodebr/events/240490452/",
-            "name": "NodeBR #27 - Performance e Escalabilidade"
-        },
-        "additionalLinks": ["https://github.com/ErickWendel/palestra-nodejs-jobqueue-lambda3"],
-        "slides": "http://slides.com/erickwendel/jobtask-queue-with-nodejs#/",
-        "photos": "2017-06-26-performance_e_resiliência_em_aplicações_nodejs",
-        "video": "",
-        "tags": ["node.js", "javascript", "beequeue", "performance"],
-        "location": {
-            "latitude": -23.5522844,
-            "longitude": -46.6613565,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2017-06-26"
+    "additionalLinks": [
+      "https://github.com/erickwendel/palestra-mongodb-aggregation-canal.net"
+    ],
+    "slides": "http://bit.ly/canalnet-aggregation-framework-slides-erickwendel",
+    "photos": "2018-03-28-o_poder_do_mongodb_aggregation_framework",
+    "video": "http://bit.ly/live-mongodb",
+    "tags": ["mongodb", "database", "webinar"],
+    "location": {
+      "latitude": -23.5618829,
+      "longitude": -46.6555644,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
-    {
-        "title": "Conhecendo o Node.js",
-        "abstract": "Conheceremos na prática o uso da plataforma Node.js para aplicações escaláveis, abordando desde o ciclo de vida aos principais frameworks e segredos do Javascript.",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/totvsdevelopers/events/240360503/",
-            "name": "TOTVS Developers #1"
-        },
-        "additionalLinks": [""],
-        "slides": "http://slides.com/erickwendel/introducao-ao-nodejs-totvs#/",
-        "photos": "2017-06-19-conhecendo_o_nodejs",
-        "video": "",
-        "tags": ["node.js", "javascript"],
-        "location": {
-            "latitude": -23.5086459,
-            "longitude": -46.6509652,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2017-06-19"
+    "language": "pt-br",
+    "date": "2018-03-28"
+  },
+  {
+    "title": "Docker Registry: Adeus deploy via ssh!",
+    "abstract": "Em nosso cotidiano, conhecemos algumas formas de deploy que talvez podem ser repetitivas demais. Um grande exemplo é: Temos nossa aplicação (nossos arquivos que devem ser executadas no servidor de produção), criamos uma máquina virtual, acessamos esta máquina via SSH (linha de comando), fazemos um git clone (ou pull) e rodamos cada projeto separado. O objetivo desta palestra é automatizar todo este processo, garantindo a entrega e viabilidade de publicação de projetos. ",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/Nerdzao/events/247993427",
+      "name": "Nerdzão #36 - Cloud & DevOps"
     },
-    {
-        "title": "Node.js, Microserviços e containerização",
-        "abstract": "É importante entender como as aplicações funcionam e como a arquitetura está evoluindo. Pensando nisto, abordaremos sobre os benefícios de Docker para criação de microserviços com Node.js\nhttps://flic.kr/s/aHsm2yPkFW",
-        "type": "talk",
-        "event": {
-            "link": "https://www.facebook.com/fullstackexperience",
-            "name": "Full Stack Experience"
-        },
-        "additionalLinks": ["https://github.com/ErickWendel/nodejs-microservicos-docker"],
-        "slides": "http://slides.com/erickwendel/nodejs-microservicos-e-containerizao#/",
-        "photos": "2017-06-09-nodejs,_microserviços_e_containerização",
-        "video": "",
-        "tags": ["node.js", "docker", "javascript"],
-        "location": {
-            "latitude": -23.6101631,
-            "longitude": -46.6990182,
-            "country": "Brazil",
-            "uf": "Sp",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2017-06-09"
+    "additionalLinks": [""],
+    "slides": "http://bit.ly/slides-docker-registry-erickwendel",
+    "photos": "2018-02-26-docker_registry:_adeus_deploy_via_ssh!",
+    "video": "",
+    "tags": ["docker", "node.js", "javascript", "devops"],
+    "location": {
+      "latitude": -23.5541617,
+      "longitude": -46.6622279,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
-    {
-        "title": "Trabalhando com Docker e aplicações Node.js no Microsoft Azure",
-        "abstract": "Nesta apresentação focaremos em como docker e node.js podem ser uteis trabalhando com Microsoft Azure. Vamos aprender na prática como containerizar uma aplicação usando dockerfile, docker-compose e container services.",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/Mobile-Brasil/photos/27768346/459991691/",
-            "name": "[ESPECIAL] Internet of Everything"
-        },
-        "additionalLinks": ["https://github.com/ErickWendel/workshop-docker-nodejs-azure"],
-        "slides": "http://slides.com/erickwendel/workshop-docker-nodejs-azure-microsoft",
-        "photos": "2017-04-12-docker_e_aplicações_node.js_no_microsoft_azure",
-        "video": "https://www.facebook.com/MicrosoftDeveloper.Brasil/videos/1437245592963996/",
-        "tags": ["node.js", "azure", "microsoft"],
-        "location": {
-            "latitude": -23.6101631,
-            "longitude": -46.6990182,
-            "country": "Brazil",
-            "uf": "Sp",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2017-04-12"
+    "language": "pt-br",
+    "date": "2018-02-26"
+  },
+  {
+    "title": "Arquitetando aplicações Serverless - Arquitetura, padrões e organização de aplicações",
+    "abstract": "Ao trabalhar com aplicações Serverless em nossos projetos lidamos com alguns desafios de arquitetura, organização e manutenção ao longo do crescimento de aplicações. Você aprenderá diversos pontos a considerar ao criar aplicações deste tipo, pensando em uma arquitetura mais concisa, testável e escalável, conhecendo os principais beneficios e desafios da nova era de aplicações.",
+    "type": "talk",
+    "event": {
+      "link": "http://apicon.com.br/",
+      "name": "API Connect Conference 2018"
     },
-    {
-        "title": "Criando Aplicações distribuídas com Node.js – Feira de Oportunidades Impacta",
-        "abstract": "Nesta palestra, focaremos em desenvolvimento de APIs com Node.js, Javascript e Hapi.js na prática!",
-        "type": "talk",
-        "event": {
-            "link": "http://erickwendel.com.br/2017/04/05/criando-aplicacoes-distribuidas-com-node-js-feira-de-oportunidades-impacta/",
-            "name": "Feira de Oportunidades - Faculdade Impacta"
-        },
-        "additionalLinks": [""],
-        "slides": "http://slides.com/erickwendel/desenvolvendo-web-apis-com-nodejs",
-        "photos": "",
-        "video": "",
-        "tags": ["node.js", "javascript", "hapijs"],
-        "location": {
-            "latitude": -23.5257509,
-            "longitude": -46.6517142,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2017-04-05"
+    "additionalLinks": [""],
+    "slides": "http://bit.ly/apicon-serverless-erickwendel-slides",
+    "photos": "2018-03-23-arquitetando_aplicações_serverless_-_arquitetura,_padrões_e_organização_de_aplicações",
+    "video": "",
+    "tags": ["serverless", "node.js", "design patterns", "javascript"],
+    "location": {
+      "latitude": -23.5958279,
+      "longitude": -46.6869613,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
-    {
-        "title": "HandsOn de Angular 1.x",
-        "abstract": "Nesse encontro #58 vamos ter um Hands On de Angular 1.x com Erick Wendel explorando as práticas e benefícios do Angular 1.x",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/GDG-SP/events/238268519/",
-            "name": "HTML5 Study Group #58"
-        },
-        "additionalLinks": [""],
-        "slides": "https://slides.com/erickwendel/hands-on-angularjs-html5-study-group/fullscreen#/",
-        "photos": "",
-        "video": "",
-        "tags": ["node.js", "angular", "javascript"],
-        "location": {
-            "latitude": -23.5452767,
-            "longitude": -46.6373743,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2017-03-13"
+    "language": "pt-br",
+    "date": "2018-03-23"
+  },
+  {
+    "title": "Construindo Robôs automatizados com Selenium Web Driver e Typescript",
+    "abstract": "Em nossa vida, fazemos diversas ações repetitivas, seja entrar em um site para visualizar dados e registrar em uma base posterior, seja cadastrar um mesmo item a cada tempo ou até mesmo publicar coisas no Facebook. Nesta palestra, você entenderá a facilidade de criar seu robô totalmente atualizado e pronto para liberar aquele tempo preciso para focar no que realmente é estratégico. Vamos conhecer a ferramenta Selenium Web Driver para simular um usuário no navegador e fazer todas as suas tarefas automagicamente.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/Nerdzao/events/247508769",
+      "name": "Nerdzão #28 - Conhecendo o poder de Node.js"
     },
-    {
-        "title": "Typescript para aplicações Node.js na era de ECMAScript 7",
-        "abstract": "Nesta palestra falaremos sobre a linha do tempo do ECMAScript e como typescript pode ajudar no desenvolvimento e acompanhamento das novas features do Javascript",
-        "type": "talk",
-        "event": {
-            "link": "",
-            "name": "MVP Community Summit 2017"
-        },
-        "additionalLinks": [""],
-        "slides": "https://1drv.ms/p/s!AjT_1Ts1KuWNjRYRHlWdFl7oqBR9",
-        "photos": "2017-03-25-typescript_para_aplicações_node.js_na_era_do_es7",
-        "video": "",
-        "tags": ["node.js", "javascript", "typescript"],
-        "location": {
-            "latitude": -23.5283295,
-            "longitude": -46.5675101,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2017-03-25"
+    "additionalLinks": [""],
+    "slides": "http://bit.ly/cpbr-erickwendel-robos-automatizados-slides",
+    "photos": "2018-02-07-construindo_robôs_automatizados_com_selenium_web_driver_e_typescript",
+    "video": "",
+    "tags": ["node.js", "typescript", "mongodb", "javascript", "web scrapping"],
+    "location": {
+      "latitude": -23.594657,
+      "longitude": -46.6859886,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
-    {
-        "title": "A vida e as aventuras de um desenvolvedor de Software – #CPBR10",
-        "abstract": "Além de produzir sistemas complexos, análises críticas e propor soluções para as maiores corporações, desenvolvedores possuem desafios contínuos, como multidisciplinaridade, estresse e prazos de entrega. Nesta apresentação, os participantes entenderão o lado divertido, inovador e 'fora da caixa' de 'ser um desenvolvedor', dicas de como manter-se motivado e transformar o trabalho em diversão.",
-        "type": "talk",
-        "event": {
-            "link": "http://campuse.ro/events/campus-party-brasil-2017/talk/a-vida-e-as-aventuras-de-um-desenvolvedor-de-software/",
-            "name": "Campus Party SP"
-        },
-        "additionalLinks": [""],
-        "slides": "http://slides.com/erickwendel/a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-campus-party/fullscreen",
-        "photos": "2017-01-27-aventuras_de_um_desenvolvedor_de_software",
-        "video": "",
-        "tags": ["node.js", "javascript"],
-        "location": {
-            "latitude": -23.5161769,
-            "longitude": -46.6388346,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2017-01-27"
+    "language": "pt-br",
+    "date": "2018-02-07"
+  },
+  {
+    "title": "Construindo Robôs automatizados para extração de informações",
+    "abstract": "Em nossa vida, fazemos diversas ações repetitivas, seja entrar em um site para visualizar dados e registrar em uma base posterior, seja cadastrar um mesmo item a cada tempo ou até mesmo publicar coisas no Facebook. Nesta palestra, você entenderá a facilidade de criar seu robô totalmente atualizado e pronto para liberar aquele tempo preciso para focar no que realmente é estratégico. Vamos conhecer a ferramenta Selenium Web Driver para simular um usuário no navegador e fazer todas as suas tarefas automagicamente.",
+    "type": "talk",
+    "event": {
+      "link": "http://bit.ly/erickwendel-robos-extração-campusparty",
+      "name": "Campus Party BR - 2018"
     },
-    {
-        "title": "Construindo APIs Rest com Node.js e Typescript",
-        "abstract": "NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/235415233/",
-            "name": "11º Connecting Knowledge - Samsung Ocean"
-        },
-        "additionalLinks": [""],
-        "slides": "http://slides.com/erickwendel/apis-com-nodejs-typescript",
-        "photos": "",
-        "video": "",
-        "tags": ["node.js", "typescript", "javascript", "hapijs"],
-        "location": {
-            "latitude": -23.5542518,
-            "longitude": -46.7330228,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2016-12-10"
+    "additionalLinks": [
+      "https://github.com/ErickWendel/palestra-robos-com-selenium-cpbr11"
+    ],
+    "slides": "http://bit.ly/cpbr-erickwendel-robos-automatizados-slides",
+    "photos": "2018-02-01-Construindo_Robôs_automatizados_para_extração_de_informações",
+    "video": "https://youtu.be/FANolqvoQQA",
+    "tags": ["node.js", "javascript", "web scrapping"],
+    "location": {
+      "latitude": -23.5161769,
+      "longitude": -46.6388346,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
-    {
-        "title": "Web APIS with NodeJS and TypeScript",
-        "abstract": "NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/NetCoders/events/236064655/",
-            "name": "Desenvolvimento de Aplicativos com Xamarin e NodeJS - CUBO Network"
-        },
-        "additionalLinks": [""],
-        "slides": "http://slides.com/erickwendel/apis-com-nodejs-typescript",
-        "photos": "2016-12-09-web_apis_with_nodejs_and_typescript",
-        "video": "https://www.facebook.com/cyzanoni/videos/1350663608285420",
-        "tags": ["node.js", "typescript", "javascript"],
-        "location": {
-            "latitude": -23.5977308,
-            "longitude": -46.6821916,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2016-12-09"
+    "language": "pt-br",
+    "date": "2018-02-01"
+  },
+  {
+    "title": "Pensando além do código, dicas e segredos para criação de um desenvolvedor de software",
+    "abstract": "Sabemos que escrever código é sempre desafiador e na maioria das vezes divertido. Programadores se concentram na entrega e escala de seus software, mas sabemos que software é só um dos pilares para a entrega de um produto,nessa palestra, voce entenderá quais são os passos para montar seu produto de ponta a ponta, mudando o Mindset, pensando além do código.",
+    "type": "talk",
+    "event": {
+      "link": "https://campuse.ro/events/campus-party-brasil-2018/talk/pensando-alem-do-codigo-dicas-e-segredos-para-criacao-de-um-software-cpbr11/",
+      "name": "Campus Party BR - 2018"
     },
-    {
-        "title": "Software Testing with Javascript/NodeJS",
-        "abstract": "Dentre os conteúdos, foi apresentados os frameworks Mocha, chai, e Jasmine, aplicando na prática conceitos de Testes Unitários, TDD e BDD",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/VueJS-SP/events/234296196/",
-            "name": "Segundo São Paulo VueJS Meetup - Viva Real"
-        },
-        "additionalLinks": [""],
-        "slides": "http://slides.com/erickwendel/testes-com-javascript",
-        "photos": "2016-12-01-software_testing_with_javascript",
-        "video": "",
-        "tags": [
-            "node.js",
-            "mocha",
-            "tdd",
-            "tests",
-            "javascript",
-            "chai",
-            "jasmine"
-        ],
-        "location": {
-            "latitude": -23.5535189,
-            "longitude": -46.6575216,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2016-12-01"
+    "additionalLinks": [""],
+    "slides": "http://bit.ly/cpbr11-erickwendel-pensando-alem-do-codigo",
+    "photos": "2018-01-31-pensando_além_do_código,_dicas_e_segredos_para_criação_de_um_software",
+    "video": "",
+    "tags": ["node.js", "career"],
+    "location": {
+      "latitude": -23.5161769,
+      "longitude": -46.6388346,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
-    {
-        "title": "Entrevista Faculdade Impacta – Mercado em Desenvolvimento",
-        "abstract": "mercado em TI, dicas para alunos e comunidades",
-        "type": "talk",
-        "event": {
-            "link": "",
-            "name": "Feira de oportunidades - Faculdade Impacta"
-        },
-        "additionalLinks": [""],
-        "slides": "",
-        "photos": "",
-        "video": "https://www.facebook.com/FacImpacta/videos/1352590924752354/",
-        "tags": ["career"],
-        "location": {
-            "latitude": -23.5257509,
-            "longitude": -46.6517142,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2016-11-18"
+    "language": "pt-br",
+    "date": "2018-01-31"
+  },
+  {
+    "title": "Coding Dojo com Javascript",
+    "abstract": "Coding dojo é uma prática que incentiva a realização de desafios focados em algoritmos, onde usamos técnicas como o TDD. Participantes sobem ao palco em duplas e cada um tem 5 minutos para resolver/continuar o desafio da pessoa anterior",
+    "type": "talk",
+    "event": {
+      "link": "http://erickwendel.com.br/2017/08/15/js-challenge1-coding-dojo-com-javascript/",
+      "name": "JS Challenge #1"
     },
-    {
-        "title": "NodeJS e HapiJS – Construindo APIs com Javascript",
-        "abstract": "Olá galera, estive na Faculdade Impacta Tecnologia ministrando um workshop para os alunos de Análise e Desenvolvimento de Sistemas, sobre APIs com NodeJS.\nTivemos desde a configuração de ambiente, até testes de unidade com HapiJS e Mocha.",
-        "type": "talk",
-        "event": {
-            "link": "",
-            "name": "Faculdade Impacta Tecnologia"
-        },
-        "additionalLinks": [""],
-        "slides": "http://slides.com/erickwendel/web-apis-com-nodejs",
-        "photos": "2016-11-18-construindo_apis_com_javascript",
-        "video": "",
-        "tags": ["node.js", "typescript", "javascript"],
-        "location": {
-            "latitude": -23.5257509,
-            "longitude": -46.6517142,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2016-11-18"
+    "additionalLinks": [
+      "https://github.com/ErickWendel/coding-dojo-js-purple99"
+    ],
+    "slides": "http://slides.com/erickwendel/coding-dojo-com-javascript-purple99#/",
+    "photos": "2017-08-15-coding_dojo_com_javascript",
+    "video": "",
+    "tags": ["node.js", "javascript"],
+    "location": {
+      "latitude": -23.551343,
+      "longitude": -46.6361995,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São paulo"
     },
-    {
-        "title": "Desenvolvendo RESTFull APIs com NodeJs",
-        "abstract": "",
-        "type": "talk",
-        "event": {
-            "link": "http://erickwendel.com.br/2016/11/05/palestra-nodejs-feira-de-oportunidades-faculdade-impacta/",
-            "name": "Feira de Oportunidades Faculdade Impacta"
-        },
-        "additionalLinks": [""],
-        "slides": "http://slides.com/erickwendel/restfull-apis-com-nodejs",
-        "photos": "2016-11-05-desenvolvendo_restfull_apis_com_nodejs",
-        "video": "",
-        "tags": ["node.js", "typescript", "javascript"],
-        "location": {
-            "latitude": -23.5257509,
-            "longitude": -46.6517142,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2016-11-05"
+    "language": "pt-br",
+    "date": "2017-08-15"
+  },
+  {
+    "title": "Job/Task Queue com Bee-Queue - Performance e Resiliência em aplicações Node.js",
+    "abstract": "Caso de sucesso, explicando a arquitetura que solucionou os problemas de concorrência entre processos, resistência a erros e performance de execução. Passando da lib Straw.js, correndo para o Celery em Python para finalmente encontrar a solução mais ideal com Bee-queue em Node.js.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/nodebr/events/240490452/",
+      "name": "NodeBR #27 - Performance e Escalabilidade"
     },
-    {
-        "title": "Carreira em Desenvolvimento de Software",
-        "abstract": "",
-        "type": "talk",
-        "event": {
-            "link": "http://erickwendel.com.br/2016/10/29/carreira-em-desenvolvimento-de-software-universidade-anhanguera-de-sao-paulo/",
-            "name": "Universidade Anhanguera De São Paulo"
-        },
-        "additionalLinks": [""],
-        "slides": "",
-        "photos": "",
-        "video": "",
-        "tags": ["career", "node.js"],
-        "location": {
-            "latitude": -23.6674085,
-            "longitude": -46.5850207,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2017-10-29"
+    "additionalLinks": [
+      "https://github.com/ErickWendel/palestra-nodejs-jobqueue-lambda3"
+    ],
+    "slides": "http://slides.com/erickwendel/jobtask-queue-with-nodejs#/",
+    "photos": "2017-06-26-performance_e_resiliência_em_aplicações_nodejs",
+    "video": "",
+    "tags": ["node.js", "javascript", "beequeue", "performance"],
+    "location": {
+      "latitude": -23.5522844,
+      "longitude": -46.6613565,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
-    {
-        "title": "Iot e Arduino na Nuvem com NodeJS, Ionic e AngularJS",
-        "abstract": "Na área do ThinkLab da IBM, vamos consumir dados de sensores plugados em um Arduino, subir eles pra web com NodeJS e depois exibí-los em qualquer dispositivo utilizando Ionic + AngularJS, tudo programado ao vivo pelos figurões de comunidade Heider Lopes e Erick Wendel!!!",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/GDG-SP/events/234003629",
-            "name": "HTML5 Study Group #53"
-        },
-        "additionalLinks": [""],
-        "slides": "https://github.com/ErickWendel/meetup-ionic-mqtt",
-        "photos": "2016-09-12-iot_e_arduino_na_nuvem_com_nodejs,_ionic_e_angularjs",
-        "video": "https://www.youtube.com/channel/UC8yjEZ7-hroweXUgjPMwXNQ",
-        "tags": ["angular", "javascript"],
-        "location": {
-            "latitude": -23.5805414,
-            "longitude": -46.6461597,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2016-09-12"
+    "language": "pt-br",
+    "date": "2017-06-26"
+  },
+  {
+    "title": "Conhecendo o Node.js",
+    "abstract": "Conheceremos na prática o uso da plataforma Node.js para aplicações escaláveis, abordando desde o ciclo de vida aos principais frameworks e segredos do Javascript.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/totvsdevelopers/events/240360503/",
+      "name": "TOTVS Developers #1"
     },
-    {
-        "title": "Desenvolvendo BOTs com Telegram e Javascript",
-        "abstract": "Muito se descute sobre criação de BOTs (Robos automatizados) mas vemos que na prática, não pensamos nos cenários em que eles podem ser úteis. Aprenderemos na prática como funciona a API para criação de Robôs inteligentes com a API do Telegram utiizando Javascript.",
-        "type": "talk",
-        "event": {
-            "link": "http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-node-js",
-            "name": "The Developers Conference 2016"
-        },
-        "additionalLinks": [""],
-        "slides": "https://www.slideshare.net/EriickWendell/desenvolvendo-bots-com-telegram-e-javascript-tdc2016",
-        "photos": "2016-07-07-desenvolvendo_bots_com_telegram_e_javascript",
-        "video": "",
-        "tags": ["telegram", "bots", "node.js", "javascript"],
-        "location": {
-            "latitude": -23.6002334,
-            "longitude": -46.6788224,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2016-07-07"
+    "additionalLinks": [""],
+    "slides": "http://slides.com/erickwendel/introducao-ao-nodejs-totvs#/",
+    "photos": "2017-06-19-conhecendo_o_nodejs",
+    "video": "",
+    "tags": ["node.js", "javascript"],
+    "location": {
+      "latitude": -23.5086459,
+      "longitude": -46.6509652,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
-    {
-        "title": "Managing the flow of asynchronous operations in NodeJS",
-        "abstract": "Ao construir aplicações Javascript, devemos nos preocupar com alguns fatores quando falamos do workflow da linguagem. Diferente das linguagens sequenciais, resultados podem ser inesperados pelo fato da execução ser assíncrona e dependerem de callbacks, aprenderemos nesta palestra as boas práticas e soluções para criação de aplicações NodeJS.",
-        "type": "talk",
-        "event": {
-            "link": "http://brazil.nodeconf.com/",
-            "name": "NodeConf Brazil 2016"
-        },
-        "additionalLinks": [""],
-        "slides": "http://slides.com/erickwendel/control-flow-nodejs",
-        "photos": "2016-07-05-managing_the_flow_of_asynchronous_operations_in_nodejs",
-        "video": "",
-        "tags": ["node.js", "javascript"],
-        "location": {
-            "latitude": -23.5541967,
-            "longitude": -46.6547464,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2016-07-05"
+    "language": "pt-br",
+    "date": "2017-06-19"
+  },
+  {
+    "title": "Node.js, Microserviços e containerização",
+    "abstract": "É importante entender como as aplicações funcionam e como a arquitetura está evoluindo. Pensando nisto, abordaremos sobre os benefícios de Docker para criação de microserviços com Node.js\nhttps://flic.kr/s/aHsm2yPkFW",
+    "type": "talk",
+    "event": {
+      "link": "https://www.facebook.com/fullstackexperience",
+      "name": "Full Stack Experience"
     },
-    {
-        "title": "Ferramentas de Code Analysis e Code Fixed para JavaScript",
-        "abstract": "Iremos mostrar algumas ferramentas de Code Analysis e Code Fixed, voltadas para JavaScript. Enfatizando o quanto essas ferramentas podem auxiliar (velocidade e qualidade) no desenvolvimento. Iremos abordar o uso das ferramentas de code analysis, como por exemplo o JSHint e outras, nas IDE's mais utilizadas do mercado (Visual Studio, Sublime, etc).",
-        "type": "talk",
-        "event": {
-            "link": "http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-javascript",
-            "name": "The Developers Conference 2016"
-        },
-        "additionalLinks": [""],
-        "slides": "https://www.slideshare.net/EriickWendell/js-ferramentas-code-analysis-e-fixed-para-js-tdc2016",
-        "photos": "2016-07-05-ferramentas_de_code_analysis_e_code_fixed_para_javascript",
-        "video": "",
-        "tags": ["node.js", "codefix", "code analysis", "node.js"],
-        "location": {
-            "latitude": -23.6002334,
-            "longitude": -46.6788224,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2016-07-05"
+    "additionalLinks": [
+      "https://github.com/ErickWendel/nodejs-microservicos-docker"
+    ],
+    "slides": "http://slides.com/erickwendel/nodejs-microservicos-e-containerizao#/",
+    "photos": "2017-06-09-nodejs,_microserviços_e_containerização",
+    "video": "",
+    "tags": ["node.js", "docker", "javascript"],
+    "location": {
+      "latitude": -23.6101631,
+      "longitude": -46.6990182,
+      "country": "Brazil",
+      "uf": "Sp",
+      "city": "São Paulo"
     },
-    {
-        "title": "Webinário TDC Online - JavaScript, Frame JavaScript, Node.Js, Modern Web,e Cloud",
-        "abstract": "",
-        "type": "talk",
-        "event": {
-            "link": "http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-javascript",
-            "name": "The Developers Conference 2016 | Trilha Javascript"
-        },
-        "additionalLinks": [""],
-        "slides": "",
-        "photos": "",
-        "video": "https://youtu.be/9TomOahsIdY",
-        "tags": ["node.js", "webinar"],
-        "location": {
-            "latitude": -23.6002334,
-            "longitude": -46.6788224,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2016-06-23"
+    "language": "pt-br",
+    "date": "2017-06-09"
+  },
+  {
+    "title": "Trabalhando com Docker e aplicações Node.js no Microsoft Azure",
+    "abstract": "Nesta apresentação focaremos em como docker e node.js podem ser uteis trabalhando com Microsoft Azure. Vamos aprender na prática como containerizar uma aplicação usando dockerfile, docker-compose e container services.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/Mobile-Brasil/photos/27768346/459991691/",
+      "name": "[ESPECIAL] Internet of Everything"
     },
-    {
-        "title": "Plataforma Cloud9 para desenvolvedores NodeJS!",
-        "abstract": "",
-        "type": "talk",
-        "event": {
-            "link": "https://congressodeti.com.br/palestras/#1502307578034-e352a847-d2c5",
-            "name": "Congresso de TI"
-        },
-        "additionalLinks": [""],
-        "slides": "https://slides.com/erickwendel/c9-io/fullscreen",
-        "photos": "",
-        "video": "",
-        "tags": ["node.js", "javascript", "cloud9"],
-        "location": {
-            "latitude": -23.5632754,
-            "longitude": -46.6455011,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2016-06-09"
+    "additionalLinks": [
+      "https://github.com/ErickWendel/workshop-docker-nodejs-azure"
+    ],
+    "slides": "http://slides.com/erickwendel/workshop-docker-nodejs-azure-microsoft",
+    "photos": "2017-04-12-docker_e_aplicações_node.js_no_microsoft_azure",
+    "video": "https://www.facebook.com/MicrosoftDeveloper.Brasil/videos/1437245592963996/",
+    "tags": ["node.js", "azure", "microsoft"],
+    "location": {
+      "latitude": -23.6101631,
+      "longitude": -46.6990182,
+      "country": "Brazil",
+      "uf": "Sp",
+      "city": "São Paulo"
     },
-    {
-        "title": "Uber do Marlon #10 – Erick Wendel – Entrevistado na Microsoft",
-        "abstract": "Nessa edição do Uber do Marlon vc vai conhecer o Erick Wendel, um programador Microsoft que programa em Node.JS num Mac usando Visual Studio Code.",
-        "type": "talk",
-        "event": {
-            "link": "https://channel9.msdn.com/Shows/MarlonLuz/Uber-do-Marlon-10-Erick-Wendel",
-            "name": "Carona do Marlon - Microsoft"
-        },
-        "additionalLinks": [""],
-        "slides": "",
-        "photos": "",
-        "video": "https://channel9.msdn.com/Shows/MarlonLuz/Uber-do-Marlon-10-Erick-Wendel",
-        "tags": ["vscode", "webinar"],
-        "location": {
-            "latitude": -23.6101631,
-            "longitude": -46.6990182,
-            "country": "Brazil",
-            "uf": "Sp",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2018-02-25"
-    }, {
-        "title": "WebCast – Web Apps com AngularJS",
-        "abstract": "Neste hangout receberemos como convidado o MSP Erick Wendel, o qual participará de um bate-papo abordando o desenvolvimento de soluções Web empregando o framework AngularJS.",
-        "type": "talk",
-        "event": {
-            "link": "https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg",
-            "name": "Canal dotNET"
-        },
-        "additionalLinks": [""],
-        "slides": "https://slides.com/erickwendel/introducao-ao-angularjs#/",
-        "photos": "",
-        "video": "https://youtu.be/DGR6Bu8nb14",
-        "tags": ["angular", "javascript", "webinar"],
-        "location": {
-            "latitude": -23.5632754,
-            "longitude": -46.6455011,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2016-02-19"
-    }, {
-        "title": "Mini Curso Gratuito de Node.js e TypeScript",
-        "abstract": "Nesse MINI CURSO PRESENCIAL e GRATUITO faremos uma introdução a linguagem Typescript e veremos como usá-la em aplicações reais no dia a dia.",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/NetCoders/events/227844050/",
-            "name": "NETCoders"
-        },
-        "additionalLinks": [""],
-        "slides": "https://slides.com/erickwendel/introduce-typescript-vscode-netcoders/fullscreen#/",
-        "photos": "2016-02-13-mini_curso_gratuito_de_node.js_e_typescript",
-        "video": "",
-        "tags": ["node.js", "typescript", "javascript"],
-        "location": {
-            "latitude": -23.5506312,
-            "longitude": -46.5758785,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "language": "pt-br",
-        "date": "2016-02-13"
+    "language": "pt-br",
+    "date": "2017-04-12"
+  },
+  {
+    "title": "Criando Aplicações distribuídas com Node.js – Feira de Oportunidades Impacta",
+    "abstract": "Nesta palestra, focaremos em desenvolvimento de APIs com Node.js, Javascript e Hapi.js na prática!",
+    "type": "talk",
+    "event": {
+      "link": "http://erickwendel.com.br/2017/04/05/criando-aplicacoes-distribuidas-com-node-js-feira-de-oportunidades-impacta/",
+      "name": "Feira de Oportunidades - Faculdade Impacta"
     },
-    {
-        "title": "NodeJS com TypeScript e VSCode",
-        "abstract": "Com intuito de aprender um pouco mais sobre tecnologias Javascript, nos reunimos na comunidade NodeBR onde realizamos diversas apresentações. Dentre as apresentações, mostrei a partir de  palestra os benefícios da utilização de TypeScript em projetos NodeJS. Falamos sobre os diversos benefícios, features e os diferenciais da linguagem.",
-        "type": "talk",
-        "event": {
-            "link": "https://www.meetup.com/pt-BR/nodebr/events/227824582/",
-            "name": "Meetup Janeiro: let year = new Year();"
-        },
-        "slides": "http://1drv.ms/1RWSAZv%C2%AD",
-        "photos": "",
-        "video": "",
-        "tags": ["vscode", "node.js", "typescript"],
-        "location": {
-            "latitude": -23.5660935,
-            "longitude": -46.6525401,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2016-01-16"
+    "additionalLinks": [""],
+    "slides": "http://slides.com/erickwendel/desenvolvendo-web-apis-com-nodejs",
+    "photos": "",
+    "video": "",
+    "tags": ["node.js", "javascript", "hapijs"],
+    "location": {
+      "latitude": -23.5257509,
+      "longitude": -46.6517142,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
-    {
-        "title": "Mini curso gratuito sobre Web Scrapping",
-        "abstract": "",
-        "type": "talk",
-        "event": {
-            "link": "",
-            "name": "MSP Coding Day 2015"
-        },
-        "slides": "https://1drv.ms/p/s!AjT_1Ts1KuWNjFHYTOqhRSLOCaVz",
-        "photos": "",
-        "video": "",
-        "tags": ["c#", "dotnet", ".net"],
-        "location": {
-            "latitude": -23.9675782,
-            "longitude": -46.3342055,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "Santos"
-        },
-        "additionalLinks": ["http://bit.ly/WebScraping-Erick", "http://www.jornalvicentino.com.br/sao-vicente/msp-coding-day-e-realizado-na-comunidade-net-baixada-em-sv/", "http://www.jornalvicentino.com.br/sao-vicente/apaixonados-por-tecnologia-viraram-a-noite-codificando-em-sao-vicente/"],
-        "language": "pt-br",
-        "date": "2015-11-30"
+    "language": "pt-br",
+    "date": "2017-04-05"
+  },
+  {
+    "title": "HandsOn de Angular 1.x",
+    "abstract": "Nesse encontro #58 vamos ter um Hands On de Angular 1.x com Erick Wendel explorando as práticas e benefícios do Angular 1.x",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/GDG-SP/events/238268519/",
+      "name": "HTML5 Study Group #58"
     },
-    {
-        "title": "Desenvolvimento de Malwares com C#",
-        "abstract": "Uma madrugada de programação voltada a desenvolvimento de trojans e botnets",
-        "type": "talk",
-        "event": {
-            "link": "",
-            "name": "MSP Coding at Night 2015"
-        },
-        "slides": "https://www.slideshare.net/EriickWendell/desenvolvimento-de-malwares-com-c",
-        "photos": "2015-11-02-desenvolvimento_de_malwares_com_c#",
-        "video": "",
-        "tags": ["malware", "trojan", "c#", "dotnet"],
-        "location": {
-            "latitude": -23.9675782,
-            "longitude": -46.3342055,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "Santos"
-        },
-        "additionalLinks": ["https://goo.gl/photos/rcmee57s4PTJvakZ9"],
-        "language": "pt-br",
-        "date": "2015-11-02"
+    "additionalLinks": [""],
+    "slides": "https://slides.com/erickwendel/hands-on-angularjs-html5-study-group/fullscreen#/",
+    "photos": "",
+    "video": "",
+    "tags": ["node.js", "angular", "javascript"],
+    "location": {
+      "latitude": -23.5452767,
+      "longitude": -46.6373743,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
-    {
-        "title": "WebScraping com C#",
-        "abstract": "Criamos uma aplicação para extração de dados de um determinado Web Site (com informações públicas) e armazenamos numa base de dados local, a fim de mostrar as facilidades da linguagem de programação C#(C sharp) juntamente com a biblioteca Html Agility Pack.",
-        "type": "talk",
-        "event": {
-            "link": "https://github.com/nerdzao/.NETCodersDay-13-06-15",
-            "name": ".NET Coders Day"
-        },
-        "slides": "https://pt.slideshare.net/EriickWendell/mini-curso-webscraping",
-        "photos": "2015-06-12-webscraping_com_c#",
-        "video": "",
-        "tags": ["c#", "dotnet", "webscrapping"],
-        "location": {
-            "latitude": -23.5092369,
-            "longitude": -46.62805,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": ["http://bit.ly/WebScraping-Erick", "https://github.com/nerdzao/.NETCodersDay-13-06-15"],
-        "language": "pt-br",
-        "date": "2015-06-12"
+    "language": "pt-br",
+    "date": "2017-03-13"
+  },
+  {
+    "title": "Typescript para aplicações Node.js na era de ECMAScript 7",
+    "abstract": "Nesta palestra falaremos sobre a linha do tempo do ECMAScript e como typescript pode ajudar no desenvolvimento e acompanhamento das novas features do Javascript",
+    "type": "talk",
+    "event": {
+      "link": "",
+      "name": "MVP Community Summit 2017"
     },
-    {
-        "title": "O grupo .NET Coders",
-        "abstract": "",
-        "type": "talk",
-        "event": {
-            "link": "https://github.com/nerdzao/.NETCodersDay-13-06-15",
-            "name": ".NET Coders Day"
-        },
-        "slides": "http://pt.slideshare.net/EriickWendell/net-coders",
-        "photos": "2015-06-12-WebScraping_com_C#",
-        "video": "",
-        "tags": ["c#", "dotnet", "webscrapping"],
-        "location": {
-            "latitude": -23.5092369,
-            "longitude": -46.62805,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": ["https://github.com/nerdzao/.NETCodersDay-13-06-15"],
-        "language": "pt-br",
-        "date": "2015-06-12"
+    "additionalLinks": [""],
+    "slides": "https://1drv.ms/p/s!AjT_1Ts1KuWNjRYRHlWdFl7oqBR9",
+    "photos": "2017-03-25-typescript_para_aplicações_node.js_na_era_do_es7",
+    "video": "",
+    "tags": ["node.js", "javascript", "typescript"],
+    "location": {
+      "latitude": -23.5283295,
+      "longitude": -46.5675101,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
-    {
-        "title": "Corujão de ASP.NET MVC 5.2",
-        "abstract": "Madrugada, das 23:00 as 04:00 com Hands-on de ASP.net MVC 5.2",
-        "type": "talk",
-        "event": {
-            "link": "",
-            "name": "Corujão de ASP.NET MVC 5.2 - .NETCoders"
-        },
-        "slides": "",
-        "photos": "2015-08-23_corujão_de_asp.net_mvc",
-        "video": "",
-        "tags": [""],
-        "location": {
-            "latitude": -23.5506339,
-            "longitude": -46.5780888,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2015-08-23"
+    "language": "pt-br",
+    "date": "2017-03-25"
+  },
+  {
+    "title": "A vida e as aventuras de um desenvolvedor de Software – #CPBR10",
+    "abstract": "Além de produzir sistemas complexos, análises críticas e propor soluções para as maiores corporações, desenvolvedores possuem desafios contínuos, como multidisciplinaridade, estresse e prazos de entrega. Nesta apresentação, os participantes entenderão o lado divertido, inovador e 'fora da caixa' de 'ser um desenvolvedor', dicas de como manter-se motivado e transformar o trabalho em diversão.",
+    "type": "talk",
+    "event": {
+      "link": "http://campuse.ro/events/campus-party-brasil-2017/talk/a-vida-e-as-aventuras-de-um-desenvolvedor-de-software/",
+      "name": "Campus Party SP"
     },
-    {
-        "title": "Google Adwords para desenvolvedores",
-        "abstract": "Em 30/01/2015, realizei uma apresentação junto ao Albert Bitencourt , na sede da Comunidade .NET Coders, onde falamos sobre regras de Marketing, o porque de desenvolvedores saberem o mínimo de SEO, facilitação ao estruturar uma campanha de marketing com o Google Adwords, métricas de campanhas, tipos de redes e por aí vai. Também sorteamos diversos prêmios aos participantes, como cursos (da patrocinadora LGroup), canecas e camisas do grupo, squeezes e fones de ouvido pelo Evangelista Microsoft Marlon Luz.",
-        "type": "talk",
-        "event": {
-            "link": "",
-            "name": "Google Adwords para desenvolvedores - .NETCoders"
-        },
-        "slides": "https://pt.slideshare.net/EriickWendell/palestra-de-google-adwords",
-        "photos": "",
-        "video": "",
-        "tags": ["adwords"],
-        "location": {
-            "latitude": -23.5506339,
-            "longitude": -46.5780888,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2015-01-30"
+    "additionalLinks": [""],
+    "slides": "http://slides.com/erickwendel/a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-campus-party/fullscreen",
+    "photos": "2017-01-27-aventuras_de_um_desenvolvedor_de_software",
+    "video": "",
+    "tags": ["node.js", "javascript"],
+    "location": {
+      "latitude": -23.5161769,
+      "longitude": -46.6388346,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
-    {
-        "title": "WebCast sobre Desenvolvimento Hibrido com Ionic",
-        "abstract": "Esse video é um bate-papo organizado pela .NetCoders e Watermelon, que aborda os conceitos do desenvolvimento de aplicações híbridas utilizando o Ionic Framework",
-        "type": "talk",
-        "event": {
-            "link": "",
-            "name": "WebCast sobre Desenvolvimento Hibrido com Ionic"
-        },
-        "slides": "",
-        "photos": "",
-        "video": "https://www.youtube.com/watch?v=WhwwwNyWroc",
-        "tags": ["webinar", "ionic"],
-        "location": {
-            "latitude": -23.5506339,
-            "longitude": -46.5780888,
-            "country": "Brazil",
-            "uf": "SP",
-            "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2015-03-31"
-    }
+    "language": "pt-br",
+    "date": "2017-01-27"
+  },
+  {
+    "title": "Construindo APIs Rest com Node.js e Typescript",
+    "abstract": "NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/235415233/",
+      "name": "11º Connecting Knowledge - Samsung Ocean"
+    },
+    "additionalLinks": [""],
+    "slides": "http://slides.com/erickwendel/apis-com-nodejs-typescript",
+    "photos": "",
+    "video": "",
+    "tags": ["node.js", "typescript", "javascript", "hapijs"],
+    "location": {
+      "latitude": -23.5542518,
+      "longitude": -46.7330228,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "2016-12-10"
+  },
+  {
+    "title": "Web APIS with NodeJS and TypeScript",
+    "abstract": "NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/NetCoders/events/236064655/",
+      "name": "Desenvolvimento de Aplicativos com Xamarin e NodeJS - CUBO Network"
+    },
+    "additionalLinks": [""],
+    "slides": "http://slides.com/erickwendel/apis-com-nodejs-typescript",
+    "photos": "2016-12-09-web_apis_with_nodejs_and_typescript",
+    "video": "https://www.facebook.com/cyzanoni/videos/1350663608285420",
+    "tags": ["node.js", "typescript", "javascript"],
+    "location": {
+      "latitude": -23.5977308,
+      "longitude": -46.6821916,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "2016-12-09"
+  },
+  {
+    "title": "Software Testing with Javascript/NodeJS",
+    "abstract": "Dentre os conteúdos, foi apresentados os frameworks Mocha, chai, e Jasmine, aplicando na prática conceitos de Testes Unitários, TDD e BDD",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/VueJS-SP/events/234296196/",
+      "name": "Segundo São Paulo VueJS Meetup - Viva Real"
+    },
+    "additionalLinks": [""],
+    "slides": "http://slides.com/erickwendel/testes-com-javascript",
+    "photos": "2016-12-01-software_testing_with_javascript",
+    "video": "",
+    "tags": [
+      "node.js",
+      "mocha",
+      "tdd",
+      "tests",
+      "javascript",
+      "chai",
+      "jasmine"
+    ],
+    "location": {
+      "latitude": -23.5535189,
+      "longitude": -46.6575216,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "2016-12-01"
+  },
+  {
+    "title": "Entrevista Faculdade Impacta – Mercado em Desenvolvimento",
+    "abstract": "mercado em TI, dicas para alunos e comunidades",
+    "type": "talk",
+    "event": {
+      "link": "",
+      "name": "Feira de oportunidades - Faculdade Impacta"
+    },
+    "additionalLinks": [""],
+    "slides": "",
+    "photos": "",
+    "video": "https://www.facebook.com/FacImpacta/videos/1352590924752354/",
+    "tags": ["career"],
+    "location": {
+      "latitude": -23.5257509,
+      "longitude": -46.6517142,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "2016-11-18"
+  },
+  {
+    "title": "NodeJS e HapiJS – Construindo APIs com Javascript",
+    "abstract": "Olá galera, estive na Faculdade Impacta Tecnologia ministrando um workshop para os alunos de Análise e Desenvolvimento de Sistemas, sobre APIs com NodeJS.\nTivemos desde a configuração de ambiente, até testes de unidade com HapiJS e Mocha.",
+    "type": "talk",
+    "event": {
+      "link": "",
+      "name": "Faculdade Impacta Tecnologia"
+    },
+    "additionalLinks": [""],
+    "slides": "http://slides.com/erickwendel/web-apis-com-nodejs",
+    "photos": "2016-11-18-construindo_apis_com_javascript",
+    "video": "",
+    "tags": ["node.js", "typescript", "javascript"],
+    "location": {
+      "latitude": -23.5257509,
+      "longitude": -46.6517142,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "2016-11-18"
+  },
+  {
+    "title": "Desenvolvendo RESTFull APIs com NodeJs",
+    "abstract": "",
+    "type": "talk",
+    "event": {
+      "link": "http://erickwendel.com.br/2016/11/05/palestra-nodejs-feira-de-oportunidades-faculdade-impacta/",
+      "name": "Feira de Oportunidades Faculdade Impacta"
+    },
+    "additionalLinks": [""],
+    "slides": "http://slides.com/erickwendel/restfull-apis-com-nodejs",
+    "photos": "2016-11-05-desenvolvendo_restfull_apis_com_nodejs",
+    "video": "",
+    "tags": ["node.js", "typescript", "javascript"],
+    "location": {
+      "latitude": -23.5257509,
+      "longitude": -46.6517142,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "2016-11-05"
+  },
+  {
+    "title": "Carreira em Desenvolvimento de Software",
+    "abstract": "",
+    "type": "talk",
+    "event": {
+      "link": "http://erickwendel.com.br/2016/10/29/carreira-em-desenvolvimento-de-software-universidade-anhanguera-de-sao-paulo/",
+      "name": "Universidade Anhanguera De São Paulo"
+    },
+    "additionalLinks": [""],
+    "slides": "",
+    "photos": "",
+    "video": "",
+    "tags": ["career", "node.js"],
+    "location": {
+      "latitude": -23.6674085,
+      "longitude": -46.5850207,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "2017-10-29"
+  },
+  {
+    "title": "Iot e Arduino na Nuvem com NodeJS, Ionic e AngularJS",
+    "abstract": "Na área do ThinkLab da IBM, vamos consumir dados de sensores plugados em um Arduino, subir eles pra web com NodeJS e depois exibí-los em qualquer dispositivo utilizando Ionic + AngularJS, tudo programado ao vivo pelos figurões de comunidade Heider Lopes e Erick Wendel!!!",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/GDG-SP/events/234003629",
+      "name": "HTML5 Study Group #53"
+    },
+    "additionalLinks": [""],
+    "slides": "https://github.com/ErickWendel/meetup-ionic-mqtt",
+    "photos": "2016-09-12-iot_e_arduino_na_nuvem_com_nodejs,_ionic_e_angularjs",
+    "video": "https://www.youtube.com/channel/UC8yjEZ7-hroweXUgjPMwXNQ",
+    "tags": ["angular", "javascript"],
+    "location": {
+      "latitude": -23.5805414,
+      "longitude": -46.6461597,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "2016-09-12"
+  },
+  {
+    "title": "Desenvolvendo BOTs com Telegram e Javascript",
+    "abstract": "Muito se descute sobre criação de BOTs (Robos automatizados) mas vemos que na prática, não pensamos nos cenários em que eles podem ser úteis. Aprenderemos na prática como funciona a API para criação de Robôs inteligentes com a API do Telegram utiizando Javascript.",
+    "type": "talk",
+    "event": {
+      "link": "http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-node-js",
+      "name": "The Developers Conference 2016"
+    },
+    "additionalLinks": [""],
+    "slides": "https://www.slideshare.net/EriickWendell/desenvolvendo-bots-com-telegram-e-javascript-tdc2016",
+    "photos": "2016-07-07-desenvolvendo_bots_com_telegram_e_javascript",
+    "video": "",
+    "tags": ["telegram", "bots", "node.js", "javascript"],
+    "location": {
+      "latitude": -23.6002334,
+      "longitude": -46.6788224,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "2016-07-07"
+  },
+  {
+    "title": "Managing the flow of asynchronous operations in NodeJS",
+    "abstract": "Ao construir aplicações Javascript, devemos nos preocupar com alguns fatores quando falamos do workflow da linguagem. Diferente das linguagens sequenciais, resultados podem ser inesperados pelo fato da execução ser assíncrona e dependerem de callbacks, aprenderemos nesta palestra as boas práticas e soluções para criação de aplicações NodeJS.",
+    "type": "talk",
+    "event": {
+      "link": "http://brazil.nodeconf.com/",
+      "name": "NodeConf Brazil 2016"
+    },
+    "additionalLinks": [""],
+    "slides": "http://slides.com/erickwendel/control-flow-nodejs",
+    "photos": "2016-07-05-managing_the_flow_of_asynchronous_operations_in_nodejs",
+    "video": "",
+    "tags": ["node.js", "javascript"],
+    "location": {
+      "latitude": -23.5541967,
+      "longitude": -46.6547464,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "2016-07-05"
+  },
+  {
+    "title": "Ferramentas de Code Analysis e Code Fixed para JavaScript",
+    "abstract": "Iremos mostrar algumas ferramentas de Code Analysis e Code Fixed, voltadas para JavaScript. Enfatizando o quanto essas ferramentas podem auxiliar (velocidade e qualidade) no desenvolvimento. Iremos abordar o uso das ferramentas de code analysis, como por exemplo o JSHint e outras, nas IDE's mais utilizadas do mercado (Visual Studio, Sublime, etc).",
+    "type": "talk",
+    "event": {
+      "link": "http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-javascript",
+      "name": "The Developers Conference 2016"
+    },
+    "additionalLinks": [""],
+    "slides": "https://www.slideshare.net/EriickWendell/js-ferramentas-code-analysis-e-fixed-para-js-tdc2016",
+    "photos": "2016-07-05-ferramentas_de_code_analysis_e_code_fixed_para_javascript",
+    "video": "",
+    "tags": ["node.js", "codefix", "code analysis", "node.js"],
+    "location": {
+      "latitude": -23.6002334,
+      "longitude": -46.6788224,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "2016-07-05"
+  },
+  {
+    "title": "Webinário TDC Online - JavaScript, Frame JavaScript, Node.Js, Modern Web,e Cloud",
+    "abstract": "",
+    "type": "talk",
+    "event": {
+      "link": "http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-javascript",
+      "name": "The Developers Conference 2016 | Trilha Javascript"
+    },
+    "additionalLinks": [""],
+    "slides": "",
+    "photos": "",
+    "video": "https://youtu.be/9TomOahsIdY",
+    "tags": ["node.js", "webinar"],
+    "location": {
+      "latitude": -23.6002334,
+      "longitude": -46.6788224,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "2016-06-23"
+  },
+  {
+    "title": "Plataforma Cloud9 para desenvolvedores NodeJS!",
+    "abstract": "",
+    "type": "talk",
+    "event": {
+      "link": "https://congressodeti.com.br/palestras/#1502307578034-e352a847-d2c5",
+      "name": "Congresso de TI"
+    },
+    "additionalLinks": [""],
+    "slides": "https://slides.com/erickwendel/c9-io/fullscreen",
+    "photos": "",
+    "video": "",
+    "tags": ["node.js", "javascript", "cloud9"],
+    "location": {
+      "latitude": -23.5632754,
+      "longitude": -46.6455011,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "2016-06-09"
+  },
+  {
+    "title": "Uber do Marlon #10 – Erick Wendel – Entrevistado na Microsoft",
+    "abstract": "Nessa edição do Uber do Marlon vc vai conhecer o Erick Wendel, um programador Microsoft que programa em Node.JS num Mac usando Visual Studio Code.",
+    "type": "talk",
+    "event": {
+      "link": "https://channel9.msdn.com/Shows/MarlonLuz/Uber-do-Marlon-10-Erick-Wendel",
+      "name": "Carona do Marlon - Microsoft"
+    },
+    "additionalLinks": [""],
+    "slides": "",
+    "photos": "",
+    "video": "https://channel9.msdn.com/Shows/MarlonLuz/Uber-do-Marlon-10-Erick-Wendel",
+    "tags": ["vscode", "webinar"],
+    "location": {
+      "latitude": -23.6101631,
+      "longitude": -46.6990182,
+      "country": "Brazil",
+      "uf": "Sp",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "2018-02-25"
+  },
+  {
+    "title": "WebCast – Web Apps com AngularJS",
+    "abstract": "Neste hangout receberemos como convidado o MSP Erick Wendel, o qual participará de um bate-papo abordando o desenvolvimento de soluções Web empregando o framework AngularJS.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg",
+      "name": "Canal dotNET"
+    },
+    "additionalLinks": [""],
+    "slides": "https://slides.com/erickwendel/introducao-ao-angularjs#/",
+    "photos": "",
+    "video": "https://youtu.be/DGR6Bu8nb14",
+    "tags": ["angular", "javascript", "webinar"],
+    "location": {
+      "latitude": -23.5632754,
+      "longitude": -46.6455011,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "2016-02-19"
+  },
+  {
+    "title": "Mini Curso Gratuito de Node.js e TypeScript",
+    "abstract": "Nesse MINI CURSO PRESENCIAL e GRATUITO faremos uma introdução a linguagem Typescript e veremos como usá-la em aplicações reais no dia a dia.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/NetCoders/events/227844050/",
+      "name": "NETCoders"
+    },
+    "additionalLinks": [""],
+    "slides": "https://slides.com/erickwendel/introduce-typescript-vscode-netcoders/fullscreen#/",
+    "photos": "2016-02-13-mini_curso_gratuito_de_node.js_e_typescript",
+    "video": "",
+    "tags": ["node.js", "typescript", "javascript"],
+    "location": {
+      "latitude": -23.5506312,
+      "longitude": -46.5758785,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "2016-02-13"
+  },
+  {
+    "title": "NodeJS com TypeScript e VSCode",
+    "abstract": "Com intuito de aprender um pouco mais sobre tecnologias Javascript, nos reunimos na comunidade NodeBR onde realizamos diversas apresentações. Dentre as apresentações, mostrei a partir de  palestra os benefícios da utilização de TypeScript em projetos NodeJS. Falamos sobre os diversos benefícios, features e os diferenciais da linguagem.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/nodebr/events/227824582/",
+      "name": "Meetup Janeiro: let year = new Year();"
+    },
+    "slides": "http://1drv.ms/1RWSAZv%C2%AD",
+    "photos": "",
+    "video": "",
+    "tags": ["vscode", "node.js", "typescript"],
+    "location": {
+      "latitude": -23.5660935,
+      "longitude": -46.6525401,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2016-01-16"
+  },
+  {
+    "title": "Mini curso gratuito sobre Web Scrapping",
+    "abstract": "",
+    "type": "talk",
+    "event": {
+      "link": "",
+      "name": "MSP Coding Day 2015"
+    },
+    "slides": "https://1drv.ms/p/s!AjT_1Ts1KuWNjFHYTOqhRSLOCaVz",
+    "photos": "",
+    "video": "",
+    "tags": ["c#", "dotnet", ".net"],
+    "location": {
+      "latitude": -23.9675782,
+      "longitude": -46.3342055,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "Santos"
+    },
+    "additionalLinks": [
+      "http://bit.ly/WebScraping-Erick",
+      "http://www.jornalvicentino.com.br/sao-vicente/msp-coding-day-e-realizado-na-comunidade-net-baixada-em-sv/",
+      "http://www.jornalvicentino.com.br/sao-vicente/apaixonados-por-tecnologia-viraram-a-noite-codificando-em-sao-vicente/"
+    ],
+    "language": "pt-br",
+    "date": "2015-11-30"
+  },
+  {
+    "title": "Desenvolvimento de Malwares com C#",
+    "abstract": "Uma madrugada de programação voltada a desenvolvimento de trojans e botnets",
+    "type": "talk",
+    "event": {
+      "link": "",
+      "name": "MSP Coding at Night 2015"
+    },
+    "slides": "https://www.slideshare.net/EriickWendell/desenvolvimento-de-malwares-com-c",
+    "photos": "2015-11-02-desenvolvimento_de_malwares_com_c#",
+    "video": "",
+    "tags": ["malware", "trojan", "c#", "dotnet"],
+    "location": {
+      "latitude": -23.9675782,
+      "longitude": -46.3342055,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "Santos"
+    },
+    "additionalLinks": ["https://goo.gl/photos/rcmee57s4PTJvakZ9"],
+    "language": "pt-br",
+    "date": "2015-11-02"
+  },
+  {
+    "title": "WebScraping com C#",
+    "abstract": "Criamos uma aplicação para extração de dados de um determinado Web Site (com informações públicas) e armazenamos numa base de dados local, a fim de mostrar as facilidades da linguagem de programação C#(C sharp) juntamente com a biblioteca Html Agility Pack.",
+    "type": "talk",
+    "event": {
+      "link": "https://github.com/nerdzao/.NETCodersDay-13-06-15",
+      "name": ".NET Coders Day"
+    },
+    "slides": "https://pt.slideshare.net/EriickWendell/mini-curso-webscraping",
+    "photos": "2015-06-12-webscraping_com_c#",
+    "video": "",
+    "tags": ["c#", "dotnet", "webscrapping"],
+    "location": {
+      "latitude": -23.5092369,
+      "longitude": -46.62805,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [
+      "http://bit.ly/WebScraping-Erick",
+      "https://github.com/nerdzao/.NETCodersDay-13-06-15"
+    ],
+    "language": "pt-br",
+    "date": "2015-06-12"
+  },
+  {
+    "title": "O grupo .NET Coders",
+    "abstract": "",
+    "type": "talk",
+    "event": {
+      "link": "https://github.com/nerdzao/.NETCodersDay-13-06-15",
+      "name": ".NET Coders Day"
+    },
+    "slides": "http://pt.slideshare.net/EriickWendell/net-coders",
+    "photos": "2015-06-12-WebScraping_com_C#",
+    "video": "",
+    "tags": ["c#", "dotnet", "webscrapping"],
+    "location": {
+      "latitude": -23.5092369,
+      "longitude": -46.62805,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": ["https://github.com/nerdzao/.NETCodersDay-13-06-15"],
+    "language": "pt-br",
+    "date": "2015-06-12"
+  },
+  {
+    "title": "Corujão de ASP.NET MVC 5.2",
+    "abstract": "Madrugada, das 23:00 as 04:00 com Hands-on de ASP.net MVC 5.2",
+    "type": "talk",
+    "event": {
+      "link": "",
+      "name": "Corujão de ASP.NET MVC 5.2 - .NETCoders"
+    },
+    "slides": "",
+    "photos": "2015-08-23_corujão_de_asp.net_mvc",
+    "video": "",
+    "tags": [""],
+    "location": {
+      "latitude": -23.5506339,
+      "longitude": -46.5780888,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2015-08-23"
+  },
+  {
+    "title": "Google Adwords para desenvolvedores",
+    "abstract": "Em 30/01/2015, realizei uma apresentação junto ao Albert Bitencourt , na sede da Comunidade .NET Coders, onde falamos sobre regras de Marketing, o porque de desenvolvedores saberem o mínimo de SEO, facilitação ao estruturar uma campanha de marketing com o Google Adwords, métricas de campanhas, tipos de redes e por aí vai. Também sorteamos diversos prêmios aos participantes, como cursos (da patrocinadora LGroup), canecas e camisas do grupo, squeezes e fones de ouvido pelo Evangelista Microsoft Marlon Luz.",
+    "type": "talk",
+    "event": {
+      "link": "",
+      "name": "Google Adwords para desenvolvedores - .NETCoders"
+    },
+    "slides": "https://pt.slideshare.net/EriickWendell/palestra-de-google-adwords",
+    "photos": "",
+    "video": "",
+    "tags": ["adwords"],
+    "location": {
+      "latitude": -23.5506339,
+      "longitude": -46.5780888,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2015-01-30"
+  },
+  {
+    "title": "WebCast sobre Desenvolvimento Hibrido com Ionic",
+    "abstract": "Esse video é um bate-papo organizado pela .NetCoders e Watermelon, que aborda os conceitos do desenvolvimento de aplicações híbridas utilizando o Ionic Framework",
+    "type": "talk",
+    "event": {
+      "link": "",
+      "name": "WebCast sobre Desenvolvimento Hibrido com Ionic"
+    },
+    "slides": "",
+    "photos": "",
+    "video": "https://www.youtube.com/watch?v=WhwwwNyWroc",
+    "tags": ["webinar", "ionic"],
+    "location": {
+      "latitude": -23.5506339,
+      "longitude": -46.5780888,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2015-03-31"
+  }
 ]
