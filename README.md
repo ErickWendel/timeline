@@ -18,16 +18,16 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Projects**: 2018/November - 2015/July 
 * **Demonstrations**: 2018/December - 2016/September 
 * **Blog Posts**: 2019/May - 2015/February 
-* **Conference Talks**: 2019/September - 2015/January 
+* **Conference Talks**: 2019/October - 2015/January 
 
-#### Presentations' number: 97
+#### Presentations' number: 98
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (09)](#blog-posts)
-- [Conference Talks (89)](#conference-talks)
+- [Conference Talks (90)](#conference-talks)
 
 ## Projects
 
@@ -386,6 +386,30 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2019-10-09 - Scaling Node.js applications with Kubernetes and Docker (en-us)
+
+
+<a href="https://apiworld.co" target="_blank">API World 2019</a>
+
+
+<a href="http://bit.ly/k8s-apiworld-erickwendel" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-10-09-scaling_node.js_applications_with_kubernetes_and_docker" target="_blank">photos</a> 
+
+
+Abstract:
+
+> High availability and high consistency are the popular words when we think about Web Applications but when our application increase, we have many problems and situations to fix. The objective of this talk is to show the Kubernetes' power and facilities, showing the deployment features, high availability and how Kubernetes and Docker can help us.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://sched.co/SLWf" target="_blank">https://sched.co/SLWf</a>
+> 
+
+
+_Tags: `kubernetes`, `node.js`, `docker`_
+
+
+Location: <a href="https://www.google.com/maps/?q=37.3294048,-121.8893849" target="_blank">San Jose - CA, United States</a>.
 
 ### 2019-09-20 - Javascript, Azure Cognitive Services and RaspberryPI - Using Javascript to recognise people!  (pt-br)
 
