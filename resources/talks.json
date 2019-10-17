@@ -1,5 +1,30 @@
 [
   {
+    "title": "NerdZão: Behind the Scenes of a Brazillian Technology Community",
+    "abstract": "**NerdZão** [/nɜrdzsʌnn/](https://en.wikipedia.org/wiki/Help:IPA/English) (in English, big nerd) is a Brazillian technology community/user group initially founded in São Paulo — Brazil and now it’s a worldwide community 🌎.",
+    "type": "talk",
+    "event": {
+      "link": "http://devclatam.splashthat.com",
+      "name": "Developer Circles LATAM edition"
+    },
+    "slides": "http://bit.ly/nerdzao-behind-scenes-slides",
+    "photos": "2019-10-15-nerdzao_behind_the_scenes_of_a_brazillian_technology_community",
+    "video": "",
+    "tags": ["communities", "english", "career"],
+    "location": {
+      "latitude": -23.562573,
+      "longitude": -46.6569407,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [
+      "https://medium.com/nerdzao/knowing-the-nerdzao-a-brazillian-tech-group-9f3704cbbcfb"
+    ],
+    "language": "en-us",
+    "date": "2019-10-15"
+  },
+  {
     "title": "Scaling Node.js applications with Kubernetes and Docker",
     "abstract": "High availability and high consistency are the popular words when we think about Web Applications but when our application increase, we have many problems and situations to fix. The objective of this talk is to show the Kubernetes' power and facilities, showing the deployment features, high availability and how Kubernetes and Docker can help us.",
     "type": "talk",

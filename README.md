@@ -20,14 +20,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2019/May - 2015/February 
 * **Conference Talks**: 2019/October - 2015/January 
 
-#### Presentations' number: 98
+#### Presentations' number: 99
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (09)](#blog-posts)
-- [Conference Talks (90)](#conference-talks)
+- [Conference Talks (91)](#conference-talks)
 
 ## Projects
 
@@ -228,7 +228,7 @@ _Tags: `wear`, `android`, `node.js`_
 
 ## Blog Posts
 
-### <a href="https://hackernoon.com/knowing-the-nerdzao-a-brazillian-tech-group-9f3704cbbcfb" target="_blank">2019-05-27 - NerdZão: Behind the Scenes of a Brazillian Technology Community (en-us)</a>
+### <a href="http://bit.ly/nerdzao-community-behind-the-scenes" target="_blank">2019-05-27 - NerdZão: Behind the Scenes of a Brazillian Technology Community (en-us)</a>
 
 
 Portal:
@@ -245,12 +245,12 @@ Abstract:
 
 _Tags: `communities`, `management`, `nerdzao`_
 
-### <a href="https://hackernoon.com/generic-repository-with-typescript-and-node-js-731c10a1b98e" target="_blank">2018-03-20 - Patterns — Generic Repository with Typescript and Node.js (en-us)</a>
+### <a href="https://medium.com/@erickwendel/generic-repository-with-typescript-and-node-js-731c10a1b98e" target="_blank">2018-03-20 - Patterns — Generic Repository with Typescript and Node.js (en-us)</a>
 
 
 Portal:
 
-> <a href="https://hackernoon.com/" target="_blank">Hackernoon</a>
+> <a href="https://medium.com/@erickwendel" target="_blank">Medium Blog</a>
 
 
 Abstract:
@@ -386,6 +386,30 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2019-10-15 - NerdZão: Behind the Scenes of a Brazillian Technology Community (en-us)
+
+
+<a href="http://devclatam.splashthat.com" target="_blank">Developer Circles LATAM edition</a>
+
+
+<a href="http://bit.ly/nerdzao-behind-scenes-slides" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-10-15-nerdzao_behind_the_scenes_of_a_brazillian_technology_community" target="_blank">photos</a> 
+
+
+Abstract:
+
+> **NerdZão** [/nɜrdzsʌnn/](https://en.wikipedia.org/wiki/Help:IPA/English) (in English, big nerd) is a Brazillian technology community/user group initially founded in São Paulo — Brazil and now it’s a worldwide community 🌎.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://medium.com/nerdzao/knowing-the-nerdzao-a-brazillian-tech-group-9f3704cbbcfb" target="_blank">https://medium.com/nerdzao/knowing-the-nerdzao-a-brazillian-tech-group-9f3704cbbcfb</a>
+> 
+
+
+_Tags: `communities`, `english`, `career`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.562573,-46.6569407" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2019-10-09 - Scaling Node.js applications with Kubernetes and Docker (en-us)
 
@@ -1960,6 +1984,27 @@ _Tags: `node.js`, `mocha`, `tdd`, `tests`, `javascript`, `chai`, `jasmine`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.5535189,-46.6575216" target="_blank">São Paulo - SP, Brazil</a>.
 
+### 2016-11-18 - Entrevista Faculdade Impacta – Mercado em Desenvolvimento (pt-br)
+
+
+<a href="" target="_blank">Feira de oportunidades - Faculdade Impacta</a>
+
+
+  <a href="https://www.facebook.com/FacImpacta/videos/1352590924752354/" target="_blank">video</a>
+
+
+Abstract:
+
+> mercado em TI, dicas para alunos e comunidades
+> 
+> 
+
+
+_Tags: `career`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5257509,-46.6517142" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2016-11-18 - NodeJS e HapiJS – Construindo APIs com Javascript (pt-br)
 
 
@@ -1978,27 +2023,6 @@ Abstract:
 
 
 _Tags: `node.js`, `typescript`, `javascript`_
-
-
-Location: <a href="https://www.google.com/maps/?q=-23.5257509,-46.6517142" target="_blank">São Paulo - SP, Brazil</a>.
-
-### 2016-11-18 - Entrevista Faculdade Impacta – Mercado em Desenvolvimento (pt-br)
-
-
-<a href="" target="_blank">Feira de oportunidades - Faculdade Impacta</a>
-
-
-  <a href="https://www.facebook.com/FacImpacta/videos/1352590924752354/" target="_blank">video</a>
-
-
-Abstract:
-
-> mercado em TI, dicas para alunos e comunidades
-> 
-> 
-
-
-_Tags: `career`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-23.5257509,-46.6517142" target="_blank">São Paulo - SP, Brazil</a>.
