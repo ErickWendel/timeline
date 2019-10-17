@@ -398,7 +398,7 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 Abstract:
 
-> **NerdZão** [/nɜrdzsʌnn/](https://en.wikipedia.org/wiki/Help:IPA/English) (in English, big nerd) is a Brazillian technology community/user group initially founded in São Paulo — Brazil and now it’s a worldwide community 🌎.
+> **NerdZão** [/nɜrdzsʌnn/](https://en.wikipedia.org/wiki/Help:IPA/English) (in English, big nerd) is a Brazillian technology community/user group initially founded in São Paulo — Brazil and now it’s a worldwide community 🌎. in this talk we'll present how do we organize more than 40 coordinators and 14.000+ members
 > 
 > <b>Links</b>
 > 
