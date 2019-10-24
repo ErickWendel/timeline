@@ -58,7 +58,7 @@ async function main() {
     .filter(
       item =>
         ~item.photos.indexOf(
-          "2019-10-22-javascript,-azure-cognitive-services-and-raspberrypi---using-javascript-to-recognise-people!"
+          "2019-10-23-10_secrets_to_improve_javascript_performance"
         )
     )
     .filter(({ photos }) => !!photos);

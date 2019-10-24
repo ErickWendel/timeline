@@ -20,14 +20,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2019/May - 2015/February 
 * **Conference Talks**: 2019/October - 2015/January 
 
-#### Presentations' number: 100
+#### Presentations' number: 101
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (09)](#blog-posts)
-- [Conference Talks (92)](#conference-talks)
+- [Conference Talks (93)](#conference-talks)
 
 ## Projects
 
@@ -386,6 +386,34 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2019-10-23 - 10 secrets to improve Javascript Performance (en-us)
+
+
+<a href="https://www.meetup.com/pt-BR/montevideojs/events/265672334/" target="_blank">JS Internacional (🇧🇷) y local (🇺🇾) - MontevideoJS</a>
+
+
+<a href="http://bit.ly/10-tips-jsperf-montevideojs" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-10-23-10_secrets_to_improve_javascript_performance" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Javascript language is the most popular language in the world. Thousands of developers are creating new Web APIs, Desktop applications, Web frameworks using Javascript based applications. The current speed to delivery applications, time-to-production or just because the language's simplicity in a majority of the cases are neglecting some important application concepts such as performance, network overhead, memory and CPU usage, security and maintainability. Attendees will see real use cases of a set of tools to improve their performance and a few adjustments that they could add to their existent applications and earn a better experience.
+> 
+> We will explore the following topics:
+> - How to avoid async operations problems in Node.js
+> - How to avoid performance problems in Javascript loops
+> - API Caching
+> - Node.js Diagnostics
+> - Best practices when creating Node.js applications
+> 
+> 
+
+
+_Tags: `node.js`, `performance`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-34.90712,-56.201138" target="_blank">Montevideo - MVD, Uruguay</a>.
 
 ### 2019-10-22 - Javascript, Azure Cognitive Services and RaspberryPI - Using Javascript to recognise people! (en-us)
 

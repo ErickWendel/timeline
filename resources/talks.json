@@ -1,5 +1,28 @@
 [
   {
+    "title": "10 secrets to improve Javascript Performance",
+    "abstract": "Javascript language is the most popular language in the world. Thousands of developers are creating new Web APIs, Desktop applications, Web frameworks using Javascript based applications. The current speed to delivery applications, time-to-production or just because the language's simplicity in a majority of the cases are neglecting some important application concepts such as performance, network overhead, memory and CPU usage, security and maintainability. Attendees will see real use cases of a set of tools to improve their performance and a few adjustments that they could add to their existent applications and earn a better experience.\n\nWe will explore the following topics:\n- How to avoid async operations problems in Node.js\n- How to avoid performance problems in Javascript loops\n- API Caching\n- Node.js Diagnostics\n- Best practices when creating Node.js applications",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/montevideojs/events/265672334/",
+      "name": "JS Internacional (🇧🇷) y local (🇺🇾) - MontevideoJS"
+    },
+    "slides": "http://bit.ly/10-tips-jsperf-montevideojs",
+    "photos": "2019-10-23-10_secrets_to_improve_javascript_performance",
+    "video": "",
+    "tags": ["node.js", "performance"],
+    "location": {
+      "latitude": -34.90712,
+      "longitude": -56.201138,
+      "country": "Uruguay",
+      "uf": "MVD",
+      "city": "Montevideo"
+    },
+    "additionalLinks": [""],
+    "language": "en-us",
+    "date": "2019-10-23"
+  },
+  {
     "title": "Javascript, Azure Cognitive Services and RaspberryPI - Using Javascript to recognise people!",
     "abstract": "Technologies have been increasing our power to develop new applications without a big knowledge of previous concepts. Today developers could create their own Machine Learning applications, strong and complex algorithms without knowing what is happening behind the scenes thought APIs. This talk will explore the benefits of Cognitive services by showing a real application. They will learn how is the most common challenges that we face when we need to depend on third-party APIs and low-cost devices. We will take a look at the following topics: OpenCV, challenges and concepts to recognize people, drawbacks to create a real application, demos to compare Azure FaceAPIs and OpenCV, how Azure face API helped us to be more productive, how to use text to speech after recognizing someone.",
     "type": "talk",

@@ -19,7 +19,7 @@ export AZURE_STORAGE_ACCOUNT
 
 # az storage blob delete-batch --pattern 2019-06-29-10_secrets_to_improve_javascript_performance -s timeline-erickwendel
 
-for f in $(ls $source_folder | grep 2019-10-22-javascript); do
+for f in $(ls $source_folder | grep 2019-10-23-10); do
 
   echo "Uploading $(basename $f) file..."
   az storage blob upload-batch -d $container_name \
