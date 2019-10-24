@@ -20,14 +20,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2019/May - 2015/February 
 * **Conference Talks**: 2019/October - 2015/January 
 
-#### Presentations' number: 99
+#### Presentations' number: 100
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (09)](#blog-posts)
-- [Conference Talks (91)](#conference-talks)
+- [Conference Talks (92)](#conference-talks)
 
 ## Projects
 
@@ -386,6 +386,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2019-10-22 - Javascript, Azure Cognitive Services and RaspberryPI - Using Javascript to recognise people! (en-us)
+
+
+<a href="https://uy.vopen.tech/" target="_blank">vOpenTech UY 2019</a>
+
+
+<a href="http://bit.ly/using-js-to-recognize-people-erickwendel" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-10-22-javascript,-azure-cognitive-services-and-raspberrypi---using-javascript-to-recognise-people!" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Technologies have been increasing our power to develop new applications without a big knowledge of previous concepts. Today developers could create their own Machine Learning applications, strong and complex algorithms without knowing what is happening behind the scenes thought APIs. This talk will explore the benefits of Cognitive services by showing a real application. They will learn how is the most common challenges that we face when we need to depend on third-party APIs and low-cost devices. We will take a look at the following topics: OpenCV, challenges and concepts to recognize people, drawbacks to create a real application, demos to compare Azure FaceAPIs and OpenCV, how Azure face API helped us to be more productive, how to use text to speech after recognizing someone.
+> 
+> 
+
+
+_Tags: `node.js`, `raspberrypi`, `azure`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-34.891944,-56.1969107" target="_blank">Montevideo - MVD, Uruguay</a>.
 
 ### 2019-10-15 - NerdZão: Behind the Scenes of a Brazillian Technology Community (en-us)
 

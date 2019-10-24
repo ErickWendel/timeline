@@ -1,5 +1,28 @@
 [
   {
+    "title": "Javascript, Azure Cognitive Services and RaspberryPI - Using Javascript to recognise people!",
+    "abstract": "Technologies have been increasing our power to develop new applications without a big knowledge of previous concepts. Today developers could create their own Machine Learning applications, strong and complex algorithms without knowing what is happening behind the scenes thought APIs. This talk will explore the benefits of Cognitive services by showing a real application. They will learn how is the most common challenges that we face when we need to depend on third-party APIs and low-cost devices. We will take a look at the following topics: OpenCV, challenges and concepts to recognize people, drawbacks to create a real application, demos to compare Azure FaceAPIs and OpenCV, how Azure face API helped us to be more productive, how to use text to speech after recognizing someone.",
+    "type": "talk",
+    "event": {
+      "link": "https://uy.vopen.tech/",
+      "name": "vOpenTech UY 2019"
+    },
+    "slides": "http://bit.ly/using-js-to-recognize-people-erickwendel",
+    "photos": "2019-10-22-javascript,-azure-cognitive-services-and-raspberrypi---using-javascript-to-recognise-people!",
+    "video": "",
+    "tags": ["node.js", "raspberrypi", "azure", "javascript"],
+    "location": {
+      "latitude": -34.891944,
+      "longitude": -56.1969107,
+      "country": "Uruguay",
+      "uf": "MVD",
+      "city": "Montevideo"
+    },
+    "additionalLinks": [""],
+    "language": "en-us",
+    "date": "2019-10-22"
+  },
+  {
     "title": "NerdZão: Behind the Scenes of a Brazillian Technology Community",
     "abstract": "**NerdZão** [/nɜrdzsʌnn/](https://en.wikipedia.org/wiki/Help:IPA/English) (in English, big nerd) is a Brazillian technology community/user group initially founded in São Paulo — Brazil and now it’s a worldwide community 🌎. in this talk we'll present how do we organize more than 40 coordinators and 14.000+ members",
     "type": "talk",

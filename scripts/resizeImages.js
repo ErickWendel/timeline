@@ -58,7 +58,7 @@ async function main() {
     .filter(
       item =>
         ~item.photos.indexOf(
-          "2019-10-15-nerdzao_behind_the_scenes_of_a_brazillian_technology_community"
+          "2019-10-22-javascript,-azure-cognitive-services-and-raspberrypi---using-javascript-to-recognise-people!"
         )
     )
     .filter(({ photos }) => !!photos);
