@@ -1,6 +1,29 @@
 [
   {
     "title": "10 secrets to improve Javascript Performance",
+    "abstract": "In this talk, attendees will see examples to improve their Javascript Performance making a few changes in their existent application. We will talk about Cache, Node.js common flow, and best practices. They'll see how to avoid performance problems working in Javascript loops, tips to work with Web APIs and best practices javascript applications.",
+    "type": "talk",
+    "event": {
+      "link": "https://jsfest.com.ua/indexe.html",
+      "name": "JSFest Ukraine 2019"
+    },
+    "slides": "http://bit.ly/10-tips-jsperf-jsfestua",
+    "photos": "",
+    "video": "",
+    "tags": ["node.js", "performance", "javascript"],
+    "location": {
+      "latitude": 50.450245,
+      "longitude": 30.442075,
+      "country": "Ukraine",
+      "uf": "UA",
+      "city": "Kyiv"
+    },
+    "additionalLinks": ["https://github.com/ErickWendel/10-tips-js-perf-jsfest-ukraine"],
+    "language": "en-us",
+    "date": "2019-11-09"
+  },
+  {
+    "title": "10 secrets to improve Javascript Performance",
     "abstract": "Javascript language is the most popular language in the world. Thousands of developers are creating new Web APIs, Desktop applications, Web frameworks using Javascript based applications. The current speed to delivery applications, time-to-production or just because the language's simplicity in a majority of the cases are neglecting some important application concepts such as performance, network overhead, memory and CPU usage, security and maintainability. Attendees will see real use cases of a set of tools to improve their performance and a few adjustments that they could add to their existent applications and earn a better experience.\n\nWe will explore the following topics:\n- How to avoid async operations problems in Node.js\n- How to avoid performance problems in Javascript loops\n- API Caching\n- Node.js Diagnostics\n- Best practices when creating Node.js applications",
     "type": "talk",
     "event": {

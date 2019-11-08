@@ -18,16 +18,16 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Projects**: 2018/November - 2015/July 
 * **Demonstrations**: 2018/December - 2016/September 
 * **Blog Posts**: 2019/May - 2015/February 
-* **Conference Talks**: 2019/October - 2015/January 
+* **Conference Talks**: 2019/November - 2015/January 
 
-#### Presentations' number: 101
+#### Presentations' number: 102
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (09)](#blog-posts)
-- [Conference Talks (93)](#conference-talks)
+- [Conference Talks (94)](#conference-talks)
 
 ## Projects
 
@@ -386,6 +386,30 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2019-11-09 - 10 secrets to improve Javascript Performance (en-us)
+
+
+<a href="https://jsfest.com.ua/indexe.html" target="_blank">JSFest Ukraine 2019</a>
+
+
+  
+
+
+Abstract:
+
+> In this talk, attendees will see examples to improve their Javascript Performance making a few changes in their existent application. We will talk about Cache, Node.js common flow, and best practices. They'll see how to avoid performance problems working in Javascript loops, tips to work with Web APIs and best practices javascript applications.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/10-tips-js-perf-jsfest-ukraine" target="_blank">https://github.com/ErickWendel/10-tips-js-perf-jsfest-ukraine</a>
+> 
+
+
+_Tags: `node.js`, `performance`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=50.450245,30.442075" target="_blank">Kyiv - UA, Ukraine</a>.
 
 ### 2019-10-23 - 10 secrets to improve Javascript Performance (en-us)
 
