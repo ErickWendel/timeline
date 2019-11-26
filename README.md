@@ -20,14 +20,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2019/May - 2015/February 
 * **Conference Talks**: 2019/November - 2015/January 
 
-#### Presentations' number: 102
+#### Presentations' number: 103
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (09)](#blog-posts)
-- [Conference Talks (94)](#conference-talks)
+- [Conference Talks (95)](#conference-talks)
 
 ## Projects
 
@@ -387,13 +387,34 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 ## Conference Talks
 
+### 2019-11-15 - Javascript, Serviços Cognitivos do Azure e RaspberryPI - Usando Javascript para reconhecer pessoas! (pt-br)
+
+
+<a href="https://developerssergipe.com" target="_blank">Developers Sergipe Summit 2019</a>
+
+
+<a href="http://bit.ly/js-recognise-people-erickwendel" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-11-15-javascript,_serviços_cognitivos_do_azure_e_raspberrypi" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
+> 
+> 
+
+
+_Tags: `node.js`, `opencv`, `faceapi`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-10.9695271,-37.0607327" target="_blank">Aracajú - SE, Brazil</a>.
+
 ### 2019-11-09 - 10 secrets to improve Javascript Performance (en-us)
 
 
 <a href="https://jsfest.com.ua/indexe.html" target="_blank">JSFest Ukraine 2019</a>
 
 
-  
+<a href="http://bit.ly/10-tips-jsperf-jsfestua" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-11-09-10_secrets_to_improve_javascript_performance" target="_blank">photos</a> 
 
 
 Abstract:
@@ -403,6 +424,7 @@ Abstract:
 > <b>Links</b>
 > 
 > - <a href="https://github.com/ErickWendel/10-tips-js-perf-jsfest-ukraine" target="_blank">https://github.com/ErickWendel/10-tips-js-perf-jsfest-ukraine</a>
+> - <a href="https://dou.ua/forums/topic/28911/" target="_blank">https://dou.ua/forums/topic/28911/</a>
 > 
 
 
@@ -1177,27 +1199,6 @@ _Tags: `javascript`, `async`, `node.js`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.5588643,-46.6645247" target="_blank">São Paulo - SP, Brazil</a>.
 
-### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
-
-
-<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
-
-
-<a href="https://erickwendel.github.io/palestra-criciumadev-Javascript-para-reconhecer-pessoas/" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> 
-
-
-Abstract:
-
-> Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
-> 
-> 
-
-
-_Tags: `node.js`, `javascript`, `faceapi`, `azure`_
-
-
-Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
-
 ### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
 
 
@@ -1215,6 +1216,27 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `websocket`, `socketio`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
+
+### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
+
+
+<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
+
+
+<a href="https://erickwendel.github.io/palestra-criciumadev-Javascript-para-reconhecer-pessoas/" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`, `faceapi`, `azure`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
@@ -1970,6 +1992,27 @@ _Tags: `node.js`, `javascript`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.5161769,-46.6388346" target="_blank">São Paulo - SP, Brazil</a>.
 
+### 2016-12-10 - Construindo APIs Rest com Node.js e Typescript (pt-br)
+
+
+<a href="https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/235415233/" target="_blank">11º Connecting Knowledge - Samsung Ocean</a>
+
+
+  
+
+
+Abstract:
+
+> NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.
+> 
+> 
+
+
+_Tags: `node.js`, `typescript`, `javascript`, `hapijs`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5542518,-46.7330228" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2016-12-10 - Construindo RestFull APIs com NodeJs e TypeScript (pt-br)
 
 
@@ -1990,27 +2033,6 @@ Abstract:
 
 
 _Tags: `node.js`, `typescript`_
-
-
-Location: <a href="https://www.google.com/maps/?q=-23.5542518,-46.7330228" target="_blank">São Paulo - SP, Brazil</a>.
-
-### 2016-12-10 - Construindo APIs Rest com Node.js e Typescript (pt-br)
-
-
-<a href="https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/235415233/" target="_blank">11º Connecting Knowledge - Samsung Ocean</a>
-
-
-  
-
-
-Abstract:
-
-> NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.
-> 
-> 
-
-
-_Tags: `node.js`, `typescript`, `javascript`, `hapijs`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-23.5542518,-46.7330228" target="_blank">São Paulo - SP, Brazil</a>.
@@ -2205,27 +2227,6 @@ _Tags: `telegram`, `bots`, `node.js`, `javascript`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.6002334,-46.6788224" target="_blank">São Paulo - SP, Brazil</a>.
 
-### 2016-07-05 - Ferramentas de Code Analysis e Code Fixed para JavaScript (pt-br)
-
-
-<a href="http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-javascript" target="_blank">The Developers Conference 2016</a>
-
-
-<a href="https://www.slideshare.net/EriickWendell/js-ferramentas-code-analysis-e-fixed-para-js-tdc2016" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2016-07-05-ferramentas_de_code_analysis_e_code_fixed_para_javascript" target="_blank">photos</a> 
-
-
-Abstract:
-
-> Iremos mostrar algumas ferramentas de Code Analysis e Code Fixed, voltadas para JavaScript. Enfatizando o quanto essas ferramentas podem auxiliar (velocidade e qualidade) no desenvolvimento. Iremos abordar o uso das ferramentas de code analysis, como por exemplo o JSHint e outras, nas IDE's mais utilizadas do mercado (Visual Studio, Sublime, etc).
-> 
-> 
-
-
-_Tags: `node.js`, `codefix`, `code analysis`, `node.js`_
-
-
-Location: <a href="https://www.google.com/maps/?q=-23.6002334,-46.6788224" target="_blank">São Paulo - SP, Brazil</a>.
-
 ### 2016-07-05 - Managing the flow of asynchronous operations in NodeJS (pt-br)
 
 
@@ -2246,6 +2247,27 @@ _Tags: `node.js`, `javascript`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-23.5541967,-46.6547464" target="_blank">São Paulo - SP, Brazil</a>.
+
+### 2016-07-05 - Ferramentas de Code Analysis e Code Fixed para JavaScript (pt-br)
+
+
+<a href="http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-javascript" target="_blank">The Developers Conference 2016</a>
+
+
+<a href="https://www.slideshare.net/EriickWendell/js-ferramentas-code-analysis-e-fixed-para-js-tdc2016" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2016-07-05-ferramentas_de_code_analysis_e_code_fixed_para_javascript" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Iremos mostrar algumas ferramentas de Code Analysis e Code Fixed, voltadas para JavaScript. Enfatizando o quanto essas ferramentas podem auxiliar (velocidade e qualidade) no desenvolvimento. Iremos abordar o uso das ferramentas de code analysis, como por exemplo o JSHint e outras, nas IDE's mais utilizadas do mercado (Visual Studio, Sublime, etc).
+> 
+> 
+
+
+_Tags: `node.js`, `codefix`, `code analysis`, `node.js`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.6002334,-46.6788224" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2016-06-23 - Webinário TDC Online - JavaScript, Frame JavaScript, Node.Js, Modern Web,e Cloud (pt-br)
 
