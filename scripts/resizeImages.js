@@ -55,7 +55,12 @@ async function reScale(myPath, size) {
 
 async function main() {
   const items = talks
-    .filter(item => ~item.photos.indexOf("2019-10-22-javascript"))
+    .filter(
+      item =>
+        ~item.photos.indexOf(
+          "2019-11-09-10_secrets_to_improve_javascript_performance"
+        )
+    )
     .filter(({ photos }) => !!photos);
 
   for (const { photos } of items) {
