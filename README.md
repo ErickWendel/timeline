@@ -20,14 +20,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2019/May - 2015/February 
 * **Conference Talks**: 2019/November - 2015/January 
 
-#### Presentations' number: 96
+#### Presentations' number: 94
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (09)](#blog-posts)
-- [Conference Talks (96)](#conference-talks)
+- [Conference Talks (94)](#conference-talks)
 
 ## Projects
 
@@ -228,12 +228,12 @@ _Tags: `wear`, `android`, `node.js`_
 
 ## Blog Posts
 
-### <a href="http://bit.ly/nerdzao-community-behind-the-scenes" target="_blank">2019-05-27 - NerdZão: Behind the Scenes of a Brazillian Technology Community (en-us)</a>
+### <a href="https://medium.com/nerdzao/knowing-the-nerdzao-a-brazillian-tech-group-9f3704cbbcfb" target="_blank">2019-05-27 - NerdZão: Behind the Scenes of a Brazillian Technology Community (en-us)</a>
 
 
 Portal:
 
-> <a href="https://hackernoon.com" target="_blank">Hackernoon</a>
+> <a href="https://medium.com/nerdzao" target="_blank">Nerdzão Portal</a>
 
 
 Abstract:
@@ -250,7 +250,7 @@ _Tags: `communities`, `management`, `nerdzao`_
 
 Portal:
 
-> <a href="https://medium.com/@erickwendel" target="_blank">Medium Blog</a>
+> <a href="https://medium.com/@erickwendel" target="_blank">Erick Wendel Portal</a>
 
 
 Abstract:
@@ -1223,27 +1223,6 @@ _Tags: `javascript`, `async`, `node.js`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.5588643,-46.6645247" target="_blank">São Paulo - SP, Brazil</a>.
 
-### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
-
-
-<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
-
-
-<a href="https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=NexvZCJFil8" target="_blank">video</a>
-
-
-Abstract:
-
-> Já pensou em reviver os tempos antigos de uma forma mais digital? Nessa palestra os participantes aprenderão como criar aplicações em tempo real com Node.js baseado no projeto Original Potato que desenvolvemos explorando o podencial de aplicações Web e facilidades do Javascript.
-> 
-> 
-
-
-_Tags: `node.js`, `javascript`, `websocket`, `socketio`_
-
-
-Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
-
 ### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
 
 
@@ -1261,6 +1240,27 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `faceapi`, `azure`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
+
+### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
+
+
+<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
+
+
+<a href="https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=NexvZCJFil8" target="_blank">video</a>
+
+
+Abstract:
+
+> Já pensou em reviver os tempos antigos de uma forma mais digital? Nessa palestra os participantes aprenderão como criar aplicações em tempo real com Node.js baseado no projeto Original Potato que desenvolvemos explorando o podencial de aplicações Web e facilidades do Javascript.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`, `websocket`, `socketio`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
@@ -1743,7 +1743,7 @@ Abstract:
 _Tags: `node.js`, `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=-23.551343,-46.6361995" target="_blank">São paulo - SP, Brazil</a>.
+Location: <a href="https://www.google.com/maps/?q=-23.551343,-46.6361995" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2017-08-10 - A vida e as aventuras de um desenvolvedor de software (pt-br)
 
@@ -1950,27 +1950,6 @@ _Tags: `node.js`, `javascript`, `typescript`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.5283295,-46.5675101" target="_blank">São Paulo - SP, Brazil</a>.
 
-### 2017-03-13 - HandsOn de Angular 1.x (pt-br)
-
-
-<a href="https://www.meetup.com/pt-BR/GDG-SP/events/238268519/" target="_blank">HTML5 Study Group #58</a>
-
-
-  
-
-
-Abstract:
-
-> Nesse encontro #58 vamos ter um Hands On de Angular 1.x com Erick Wendel explorando as práticas e benefícios do Angular 1.x
-> 
-> 
-
-
-_Tags: `node.js`, `angular`, `javascript`_
-
-
-Location: <a href="https://www.google.com/maps/?q=-23.5452767,-46.6373743" target="_blank">São Paulo - SP, Brazil</a>.
-
 ### 2017-03-13 - Hands-on de Angular 1.x (pt-br)
 
 
@@ -1982,7 +1961,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.5452767,-46.6373743" targe
 
 Abstract:
 
-> 
+> Nesse encontro #58 vamos ter um Hands On de Angular 1.x com Erick Wendel explorando as práticas e benefícios do Angular 1.x
 > 
 > <b>Links</b>
 > 
@@ -1990,7 +1969,7 @@ Abstract:
 > 
 
 
-_Tags: `angular`_
+_Tags: `node.js`, `angular`, `javascript`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-23.5452767,-46.6373743" target="_blank">São Paulo - SP, Brazil</a>.
@@ -2016,28 +1995,7 @@ _Tags: `node.js`, `javascript`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.5161769,-46.6388346" target="_blank">São Paulo - SP, Brazil</a>.
 
-### 2016-12-10 - Construindo APIs Rest com Node.js e Typescript (pt-br)
-
-
-<a href="https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/235415233/" target="_blank">11º Connecting Knowledge - Samsung Ocean</a>
-
-
-  
-
-
-Abstract:
-
-> NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.
-> 
-> 
-
-
-_Tags: `node.js`, `typescript`, `javascript`, `hapijs`_
-
-
-Location: <a href="https://www.google.com/maps/?q=-23.5542518,-46.7330228" target="_blank">São Paulo - SP, Brazil</a>.
-
-### 2016-12-10 - Construindo RestFull APIs com NodeJs e TypeScript (pt-br)
+### 2016-12-10 - Construindo RestFul APIs com NodeJs e TypeScript (pt-br)
 
 
 <a href="https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/235415233/" target="_blank">11º Connecting Knowledge</a>

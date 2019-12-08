@@ -717,7 +717,7 @@
     "date": "2017-07-02"
   },
   {
-    "title": "Construindo RestFull APIs com NodeJs e TypeScript",
+    "title": "Construindo RestFul APIs com NodeJs e TypeScript",
     "abstract": "Falando um conteúdo sobre NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.",
     "type": "talk",
     "event": {
@@ -743,7 +743,7 @@
   },
   {
     "title": "Hands-on de Angular 1.x",
-    "abstract": "",
+    "abstract": "Nesse encontro #58 vamos ter um Hands On de Angular 1.x com Erick Wendel explorando as práticas e benefícios do Angular 1.x",
     "type": "talk",
     "event": {
       "link": "https://www.meetup.com/pt-BR/GDG-SP/events/238268519/",
@@ -752,7 +752,7 @@
     "slides": "https://slides.com/erickwendel/hands-on-angularjs-html5-study-group/fullscreen",
     "photos": "",
     "video": "",
-    "tags": ["angular"],
+    "tags": ["node.js", "angular", "javascript"],
     "location": {
       "latitude": -23.5452767,
       "longitude": -46.6373743,
@@ -1538,7 +1538,7 @@
       "longitude": -46.6361995,
       "country": "Brazil",
       "uf": "SP",
-      "city": "São paulo"
+      "city": "São Paulo"
     },
     "language": "pt-br",
     "date": "2017-08-15"
@@ -1664,29 +1664,7 @@
     "language": "pt-br",
     "date": "2017-04-05"
   },
-  {
-    "title": "HandsOn de Angular 1.x",
-    "abstract": "Nesse encontro #58 vamos ter um Hands On de Angular 1.x com Erick Wendel explorando as práticas e benefícios do Angular 1.x",
-    "type": "talk",
-    "event": {
-      "link": "https://www.meetup.com/pt-BR/GDG-SP/events/238268519/",
-      "name": "HTML5 Study Group #58"
-    },
-    "additionalLinks": [""],
-    "slides": "https://slides.com/erickwendel/hands-on-angularjs-html5-study-group/fullscreen#/",
-    "photos": "",
-    "video": "",
-    "tags": ["node.js", "angular", "javascript"],
-    "location": {
-      "latitude": -23.5452767,
-      "longitude": -46.6373743,
-      "country": "Brazil",
-      "uf": "SP",
-      "city": "São Paulo"
-    },
-    "language": "pt-br",
-    "date": "2017-03-13"
-  },
+
   {
     "title": "Typescript para aplicações Node.js na era de ECMAScript 7",
     "abstract": "Nesta palestra falaremos sobre a linha do tempo do ECMAScript e como typescript pode ajudar no desenvolvimento e acompanhamento das novas features do Javascript",
@@ -1733,29 +1711,7 @@
     "language": "pt-br",
     "date": "2017-01-27"
   },
-  {
-    "title": "Construindo APIs Rest com Node.js e Typescript",
-    "abstract": "NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.",
-    "type": "talk",
-    "event": {
-      "link": "https://www.meetup.com/pt-BR/THT-Things-Hacker-Team/events/235415233/",
-      "name": "11º Connecting Knowledge - Samsung Ocean"
-    },
-    "additionalLinks": [""],
-    "slides": "http://slides.com/erickwendel/apis-com-nodejs-typescript",
-    "photos": "",
-    "video": "",
-    "tags": ["node.js", "typescript", "javascript", "hapijs"],
-    "location": {
-      "latitude": -23.5542518,
-      "longitude": -46.7330228,
-      "country": "Brazil",
-      "uf": "SP",
-      "city": "São Paulo"
-    },
-    "language": "pt-br",
-    "date": "2016-12-10"
-  },
+
   {
     "title": "Web APIS with NodeJS and TypeScript",
     "abstract": "NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.",

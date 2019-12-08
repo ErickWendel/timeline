@@ -3,11 +3,11 @@
     "title": "NerdZão: Behind the Scenes of a Brazillian Technology Community",
     "abstract": "**NerdZão** [/nɜrdzsʌnn/](https://en.wikipedia.org/wiki/Help:IPA/English) (in English, big nerd) is a Brazillian technology community/user group initially founded in São Paulo — Brazil and now it’s a worldwide community 🌎.",
     "type": "post",
-    "link": "http://bit.ly/nerdzao-community-behind-the-scenes",
+    "link": "https://medium.com/nerdzao/knowing-the-nerdzao-a-brazillian-tech-group-9f3704cbbcfb",
     "additionalLinks": [""],
     "portal": {
-      "link": "https://hackernoon.com",
-      "name": "Hackernoon"
+      "link": "https://medium.com/nerdzao",
+      "name": "Nerdzão Portal"
     },
     "tags": ["communities", "management", "nerdzao"],
     "language": "en-us",
@@ -21,7 +21,7 @@
     "link": "https://medium.com/@erickwendel/generic-repository-with-typescript-and-node-js-731c10a1b98e",
     "portal": {
       "link": "https://medium.com/@erickwendel",
-      "name": "Medium Blog"
+      "name": "Erick Wendel Portal"
     },
     "tags": ["typescript", "javascript", "node.js", "design patterns"],
     "language": "en-us",
