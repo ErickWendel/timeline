@@ -20,14 +20,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2019/May - 2015/February 
 * **Conference Talks**: 2019/November - 2015/January 
 
-#### Presentations' number: 94
+#### Presentations' number: 95
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (09)](#blog-posts)
-- [Conference Talks (94)](#conference-talks)
+- [Conference Talks (95)](#conference-talks)
 
 ## Projects
 
@@ -722,6 +722,31 @@ _Tags: `english`, `node.js`, `graphql`, `apolloserver`, `serverless`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.5816151,-46.6843488" target="_blank">São Paulo - SP, Brazil</a>.
 
+### 2019-06-06 - The power of Typescript to work with Node.js Applications (pt-br)
+
+
+<a href="https://www.meetup.com/pt-BR/nodebr/events/260955333/" target="_blank">NodeBR #51 - Javascript vs Typescript</a>
+
+
+<a href="http://bit.ly/erickwendel-nodebr-ts-node" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-06-06-the_power_of_typescript_to_work_with_node.js_applications" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Typescript is a superset of Javascript, helping developers to make powerful applications with better organization, maintainability and solves many problems that Javascript has. In this talk you can know the power to build applications with Typescript, using design patterns and features that can help us to build better software
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/ts-power-nodebr-talk-examples" target="_blank">https://github.com/ErickWendel/ts-power-nodebr-talk-examples</a>
+> - <a href="http://bit.ly/2WXhWRC" target="_blank">http://bit.ly/2WXhWRC</a>
+> 
+
+
+_Tags: `node.js`, `typescript`, `design patterns`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.553513,-46.657505" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2019-05-17 - WTF are Serverless apps? (en-us)
 
 
@@ -1223,27 +1248,6 @@ _Tags: `javascript`, `async`, `node.js`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.5588643,-46.6645247" target="_blank">São Paulo - SP, Brazil</a>.
 
-### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
-
-
-<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
-
-
-<a href="https://erickwendel.github.io/palestra-criciumadev-Javascript-para-reconhecer-pessoas/" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> 
-
-
-Abstract:
-
-> Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
-> 
-> 
-
-
-_Tags: `node.js`, `javascript`, `faceapi`, `azure`_
-
-
-Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
-
 ### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
 
 
@@ -1261,6 +1265,27 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `websocket`, `socketio`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
+
+### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
+
+
+<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
+
+
+<a href="https://erickwendel.github.io/palestra-criciumadev-Javascript-para-reconhecer-pessoas/" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`, `faceapi`, `azure`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
@@ -2209,27 +2234,6 @@ _Tags: `telegram`, `bots`, `node.js`, `javascript`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.6002334,-46.6788224" target="_blank">São Paulo - SP, Brazil</a>.
 
-### 2016-07-05 - Managing the flow of asynchronous operations in NodeJS (pt-br)
-
-
-<a href="http://brazil.nodeconf.com/" target="_blank">NodeConf Brazil 2016</a>
-
-
-<a href="http://slides.com/erickwendel/control-flow-nodejs" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2016-07-05-managing_the_flow_of_asynchronous_operations_in_nodejs" target="_blank">photos</a> 
-
-
-Abstract:
-
-> Ao construir aplicações Javascript, devemos nos preocupar com alguns fatores quando falamos do workflow da linguagem. Diferente das linguagens sequenciais, resultados podem ser inesperados pelo fato da execução ser assíncrona e dependerem de callbacks, aprenderemos nesta palestra as boas práticas e soluções para criação de aplicações NodeJS.
-> 
-> 
-
-
-_Tags: `node.js`, `javascript`_
-
-
-Location: <a href="https://www.google.com/maps/?q=-23.5541967,-46.6547464" target="_blank">São Paulo - SP, Brazil</a>.
-
 ### 2016-07-05 - Ferramentas de Code Analysis e Code Fixed para JavaScript (pt-br)
 
 
@@ -2250,6 +2254,27 @@ _Tags: `node.js`, `codefix`, `code analysis`, `node.js`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-23.6002334,-46.6788224" target="_blank">São Paulo - SP, Brazil</a>.
+
+### 2016-07-05 - Managing the flow of asynchronous operations in NodeJS (pt-br)
+
+
+<a href="http://brazil.nodeconf.com/" target="_blank">NodeConf Brazil 2016</a>
+
+
+<a href="http://slides.com/erickwendel/control-flow-nodejs" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2016-07-05-managing_the_flow_of_asynchronous_operations_in_nodejs" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Ao construir aplicações Javascript, devemos nos preocupar com alguns fatores quando falamos do workflow da linguagem. Diferente das linguagens sequenciais, resultados podem ser inesperados pelo fato da execução ser assíncrona e dependerem de callbacks, aprenderemos nesta palestra as boas práticas e soluções para criação de aplicações NodeJS.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5541967,-46.6547464" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2016-06-23 - Webinário TDC Online - JavaScript, Frame JavaScript, Node.Js, Modern Web,e Cloud (pt-br)
 

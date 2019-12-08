@@ -315,6 +315,32 @@
     "date": "2019-08-17"
   },
   {
+    "title": "The power of Typescript to work with Node.js Applications",
+    "abstract": "Typescript is a superset of Javascript, helping developers to make powerful applications with better organization, maintainability and solves many problems that Javascript has. In this talk you can know the power to build applications with Typescript, using design patterns and features that can help us to build better software",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/nodebr/events/260955333/",
+      "name": "NodeBR #51 - Javascript vs Typescript"
+    },
+    "slides": "http://bit.ly/erickwendel-nodebr-ts-node",
+    "photos": "2019-06-06-the_power_of_typescript_to_work_with_node.js_applications",
+    "video": "",
+    "tags": ["node.js", "typescript", "design patterns"],
+    "location": {
+      "latitude": -23.553513,
+      "longitude": -46.657505,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [
+      "https://github.com/ErickWendel/ts-power-nodebr-talk-examples",
+      "http://bit.ly/2WXhWRC"
+    ],
+    "language": "pt-br",
+    "date": "2019-06-06"
+  },
+  {
     "title": "WTF are Serverless apps?",
     "abstract": "Serverless applications are changing the way that developers think about software development, release management, and infrastructure. Many myths and histories had been created around this concept and turn minds confused when choices are required to create new products in an existent environment. Attendees will learn about Serverless architecture concepts compared than traditional Microservices. By the use of real scenarios, they could understand the differences and challenges that we face in production environments and how to solve most of them as soon as possible.\nWe will explore the following topics:\n- Which are Serverless applications?\n- Best practices working in production environments\n- Avoiding common problems such: Long-running processing, latency and complex application management (versioning, releases, tests)\n- Which cases you should use Serverless applications based.",
     "type": "talk",
