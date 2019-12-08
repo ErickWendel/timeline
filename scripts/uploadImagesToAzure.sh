@@ -4,7 +4,7 @@ AZURE_STORAGE_ACCOUNT='ewtimeline'
 RESOURCE_GROUP='erickwendel'
 container_name='timeline-erickwendel'
 source_folder='../'
-
+FOLDER="2019-11-30-10_secrets_to_improve_javascript_performance"
 AZURE_STORAGE_ACCESS_KEY=$(az storage account keys list \
   --account-name $AZURE_STORAGE_ACCOUNT \
   --resource-group $RESOURCE_GROUP \
@@ -19,7 +19,7 @@ export AZURE_STORAGE_ACCOUNT
 
 # az storage blob delete-batch --pattern 2019-06-29-10_secrets_to_improve_javascript_performance -s timeline-erickwendel
 
-for f in $(ls $source_folder | grep 2019-11-09-10_secrets_to_improve_javascript_performance); do
+for f in $(ls $source_folder | grep $FOLDER); do
 
   echo "Uploading $(basename $f) file..."
   az storage blob upload-batch -d $container_name \

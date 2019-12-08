@@ -20,14 +20,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2019/May - 2015/February 
 * **Conference Talks**: 2019/November - 2015/January 
 
-#### Presentations' number: 103
+#### Presentations' number: 96
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (09)](#blog-posts)
-- [Conference Talks (95)](#conference-talks)
+- [Conference Talks (96)](#conference-talks)
 
 ## Projects
 
@@ -387,6 +387,30 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 ## Conference Talks
 
+### 2019-11-30 - 10 secrets to improve Javascript Performance (pt-br)
+
+
+<a href="https://devfestpantanal.com/" target="_blank">DevFest Pantanal 2019</a>
+
+
+<a href="http://bit.ly/10-secrets-perf-js-devfestpantanal" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-11-30-10_secrets_to_improve_javascript_performance" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Javascript has become strong, trustable and super powerful for Web/Desktop/IoT/Wearable/etc applications. Attendees will see real cases of security problems that would be fixed with small changes and powerful tools for their existent applications.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/10-tips-js-perf-jsfest-ukraine" target="_blank">https://github.com/ErickWendel/10-tips-js-perf-jsfest-ukraine</a>
+> 
+
+
+_Tags: `node.js`, `performance`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-15.565715,-56.1085687" target="_blank">Cuiabá - MT, Brazil</a>.
+
 ### 2019-11-15 - Javascript, Serviços Cognitivos do Azure e RaspberryPI - Usando Javascript para reconhecer pessoas! (pt-br)
 
 
@@ -414,7 +438,7 @@ Location: <a href="https://www.google.com/maps/?q=-10.9695271,-37.0607327" targe
 <a href="https://jsfest.com.ua/indexe.html" target="_blank">JSFest Ukraine 2019</a>
 
 
-<a href="http://bit.ly/10-tips-jsperf-jsfestua" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-11-09-10_secrets_to_improve_javascript_performance" target="_blank">photos</a> 
+<a href="http://bit.ly/10-tips-jsperf-jsfestua" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-11-09-10_secrets_to_improve_javascript_performance" target="_blank">photos</a> |  <a href="https://youtu.be/GQlgR_69dmI" target="_blank">video</a>
 
 
 Abstract:

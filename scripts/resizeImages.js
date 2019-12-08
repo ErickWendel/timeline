@@ -8,7 +8,7 @@ const [mkdirAsync, existsAsync, readAsync, unlinkAsync] = [
   promisify(readdir),
   promisify(unlink)
 ];
-
+const FOLDER = "2019-11-30-10";
 const Jimp = require("jimp");
 const folder_600x600 = `600x600`;
 const folder_800x800 = `800x800`;
@@ -55,12 +55,7 @@ async function reScale(myPath, size) {
 
 async function main() {
   const items = talks
-    .filter(
-      item =>
-        ~item.photos.indexOf(
-          "2019-11-09-10_secrets_to_improve_javascript_performance"
-        )
-    )
+    .filter(item => ~item.photos.indexOf(FOLDER))
     .filter(({ photos }) => !!photos);
 
   for (const { photos } of items) {
