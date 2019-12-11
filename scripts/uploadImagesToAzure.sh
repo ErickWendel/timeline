@@ -4,7 +4,7 @@ AZURE_STORAGE_ACCOUNT='ewtimeline'
 RESOURCE_GROUP='erickwendel'
 container_name='timeline-erickwendel'
 source_folder='../'
-FOLDER="2019-11-30-10_secrets_to_improve_javascript_performance"
+FOLDER="2019-12-09"
 AZURE_STORAGE_ACCESS_KEY=$(az storage account keys list \
   --account-name $AZURE_STORAGE_ACCOUNT \
   --resource-group $RESOURCE_GROUP \

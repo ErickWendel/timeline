@@ -18,16 +18,16 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Projects**: 2018/November - 2015/July 
 * **Demonstrations**: 2018/December - 2016/September 
 * **Blog Posts**: 2019/May - 2015/February 
-* **Conference Talks**: 2019/November - 2015/January 
+* **Conference Talks**: 2019/December - 2015/January 
 
-#### Presentations' number: 95
+#### Presentations' number: 96
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (09)](#blog-posts)
-- [Conference Talks (95)](#conference-talks)
+- [Conference Talks (96)](#conference-talks)
 
 ## Projects
 
@@ -386,6 +386,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2019-12-09 - From Monoliths to Microservices with Docker (en-us)
+
+
+<a href="https://www.meetup.com/pt-BR/Open-Source-Montreal/events/266414521/" target="_blank">Open Source Montreal #4 | Node+JS special</a>
+
+
+<a href="http://bit.ly/livecoding-docker-erickwendel" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-12-09-from_monoliths_to_microservices_with_docker" target="_blank">photos</a> 
+
+
+Abstract:
+
+> In this talk, attendees will learn how to move their applications to the cloud using Docker. They'll see a brief introduction about Docker and Kubernetes. By using a real application, they will learn the steps to move a legacy application and scale it using Docker and kubernetes. They'll see tips and tricks to improve their performance and outcome.
+> 
+> 
+
+
+_Tags: `node.js`, `docker`, `devops`_
+
+
+Location: <a href="https://www.google.com/maps/?q=45.50239,-73.56539" target="_blank">Montréal - MTL, Canada</a>.
 
 ### 2019-11-30 - 10 secrets to improve Javascript Performance (pt-br)
 
