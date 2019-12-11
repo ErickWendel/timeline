@@ -20,14 +20,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2019/May - 2015/February 
 * **Conference Talks**: 2019/December - 2015/January 
 
-#### Presentations' number: 96
+#### Presentations' number: 97
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (09)](#blog-posts)
-- [Conference Talks (96)](#conference-talks)
+- [Conference Talks (97)](#conference-talks)
 
 ## Projects
 
@@ -387,6 +387,30 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 ## Conference Talks
 
+### 2019-12-11 - Scaling Node.js Applications with Kubernetes and Docker (en-us)
+
+
+<a href="https://events19.linuxfoundation.org/events/nodejs-interactive-2019/" target="_blank">Node+JS Interactive 2019</a>
+
+
+<a href="http://bit.ly/scaling-nodejs-k8s-erickwendel-njsi2019" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-12-11-scaling_node.js_applications_with_kubernetes_and_docker" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Node.js and Microservices are a beautiful combination and a common reality of many developers. When we talk about Microservices, we need to consider many concepts such as release management, monitoring, and scale. Thus, could be good for some people and a terrible experience for others. Attendees will learn how Node.js, containers, and Kubernetes working together could help them to be more productive, scaling applications by configuration files without worries to deliver new features and make changes. On this talk using a production environment scenario as an example, attendees will learn the Kubernetes' basic components, tips to scale applications and useful Kubernetes configurations.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://sched.co/XgHG" target="_blank">https://sched.co/XgHG</a>
+> 
+
+
+_Tags: `docker`, `kubernetes`, `k8s`, `node.js`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=45.5023889,-73.5675776" target="_blank">Montréal - MTL, Canadá</a>.
+
 ### 2019-12-09 - From Monoliths to Microservices with Docker (en-us)
 
 
@@ -406,7 +430,7 @@ Abstract:
 _Tags: `node.js`, `docker`, `devops`_
 
 
-Location: <a href="https://www.google.com/maps/?q=45.50239,-73.56539" target="_blank">Montréal - MTL, Canada</a>.
+Location: <a href="https://www.google.com/maps/?q=45.50239,-73.56539" target="_blank">Montréal - MTL, Canadá</a>.
 
 ### 2019-11-30 - 10 secrets to improve Javascript Performance (pt-br)
 
@@ -1269,27 +1293,6 @@ _Tags: `javascript`, `async`, `node.js`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.5588643,-46.6645247" target="_blank">São Paulo - SP, Brazil</a>.
 
-### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
-
-
-<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
-
-
-<a href="https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=NexvZCJFil8" target="_blank">video</a>
-
-
-Abstract:
-
-> Já pensou em reviver os tempos antigos de uma forma mais digital? Nessa palestra os participantes aprenderão como criar aplicações em tempo real com Node.js baseado no projeto Original Potato que desenvolvemos explorando o podencial de aplicações Web e facilidades do Javascript.
-> 
-> 
-
-
-_Tags: `node.js`, `javascript`, `websocket`, `socketio`_
-
-
-Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
-
 ### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
 
 
@@ -1307,6 +1310,27 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `faceapi`, `azure`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
+
+### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
+
+
+<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
+
+
+<a href="https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=NexvZCJFil8" target="_blank">video</a>
+
+
+Abstract:
+
+> Já pensou em reviver os tempos antigos de uma forma mais digital? Nessa palestra os participantes aprenderão como criar aplicações em tempo real com Node.js baseado no projeto Original Potato que desenvolvemos explorando o podencial de aplicações Web e facilidades do Javascript.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`, `websocket`, `socketio`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
@@ -2255,27 +2279,6 @@ _Tags: `telegram`, `bots`, `node.js`, `javascript`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.6002334,-46.6788224" target="_blank">São Paulo - SP, Brazil</a>.
 
-### 2016-07-05 - Ferramentas de Code Analysis e Code Fixed para JavaScript (pt-br)
-
-
-<a href="http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-javascript" target="_blank">The Developers Conference 2016</a>
-
-
-<a href="https://www.slideshare.net/EriickWendell/js-ferramentas-code-analysis-e-fixed-para-js-tdc2016" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2016-07-05-ferramentas_de_code_analysis_e_code_fixed_para_javascript" target="_blank">photos</a> 
-
-
-Abstract:
-
-> Iremos mostrar algumas ferramentas de Code Analysis e Code Fixed, voltadas para JavaScript. Enfatizando o quanto essas ferramentas podem auxiliar (velocidade e qualidade) no desenvolvimento. Iremos abordar o uso das ferramentas de code analysis, como por exemplo o JSHint e outras, nas IDE's mais utilizadas do mercado (Visual Studio, Sublime, etc).
-> 
-> 
-
-
-_Tags: `node.js`, `codefix`, `code analysis`, `node.js`_
-
-
-Location: <a href="https://www.google.com/maps/?q=-23.6002334,-46.6788224" target="_blank">São Paulo - SP, Brazil</a>.
-
 ### 2016-07-05 - Managing the flow of asynchronous operations in NodeJS (pt-br)
 
 
@@ -2296,6 +2299,27 @@ _Tags: `node.js`, `javascript`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-23.5541967,-46.6547464" target="_blank">São Paulo - SP, Brazil</a>.
+
+### 2016-07-05 - Ferramentas de Code Analysis e Code Fixed para JavaScript (pt-br)
+
+
+<a href="http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-javascript" target="_blank">The Developers Conference 2016</a>
+
+
+<a href="https://www.slideshare.net/EriickWendell/js-ferramentas-code-analysis-e-fixed-para-js-tdc2016" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2016-07-05-ferramentas_de_code_analysis_e_code_fixed_para_javascript" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Iremos mostrar algumas ferramentas de Code Analysis e Code Fixed, voltadas para JavaScript. Enfatizando o quanto essas ferramentas podem auxiliar (velocidade e qualidade) no desenvolvimento. Iremos abordar o uso das ferramentas de code analysis, como por exemplo o JSHint e outras, nas IDE's mais utilizadas do mercado (Visual Studio, Sublime, etc).
+> 
+> 
+
+
+_Tags: `node.js`, `codefix`, `code analysis`, `node.js`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.6002334,-46.6788224" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2016-06-23 - Webinário TDC Online - JavaScript, Frame JavaScript, Node.Js, Modern Web,e Cloud (pt-br)
 

@@ -1,5 +1,28 @@
 [
   {
+    "title": "Scaling Node.js Applications with Kubernetes and Docker",
+    "abstract": "Node.js and Microservices are a beautiful combination and a common reality of many developers. When we talk about Microservices, we need to consider many concepts such as release management, monitoring, and scale. Thus, could be good for some people and a terrible experience for others. Attendees will learn how Node.js, containers, and Kubernetes working together could help them to be more productive, scaling applications by configuration files without worries to deliver new features and make changes. On this talk using a production environment scenario as an example, attendees will learn the Kubernetes' basic components, tips to scale applications and useful Kubernetes configurations.",
+    "type": "talk",
+    "event": {
+      "link": "https://events19.linuxfoundation.org/events/nodejs-interactive-2019/",
+      "name": "Node+JS Interactive 2019"
+    },
+    "slides": "http://bit.ly/scaling-nodejs-k8s-erickwendel-njsi2019",
+    "photos": "2019-12-11-scaling_node.js_applications_with_kubernetes_and_docker",
+    "video": "",
+    "tags": ["docker", "kubernetes", "k8s", "node.js", "javascript"],
+    "location": {
+      "latitude": 45.5023889,
+      "longitude": -73.5675776,
+      "country": "Canadá",
+      "uf": "MTL",
+      "city": "Montréal"
+    },
+    "additionalLinks": ["https://sched.co/XgHG"],
+    "language": "en-us",
+    "date": "2019-12-11"
+  },
+  {
     "title": "From Monoliths to Microservices with Docker",
     "abstract": "In this talk, attendees will learn how to move their applications to the cloud using Docker. They'll see a brief introduction about Docker and Kubernetes. By using a real application, they will learn the steps to move a legacy application and scale it using Docker and kubernetes. They'll see tips and tricks to improve their performance and outcome.",
     "type": "talk",
@@ -14,7 +37,7 @@
     "location": {
       "latitude": 45.50239,
       "longitude": -73.56539,
-      "country": "Canada",
+      "country": "Canadá",
       "uf": "MTL",
       "city": "Montréal"
     },
