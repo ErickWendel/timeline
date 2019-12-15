@@ -14,7 +14,7 @@
     "location": {
       "latitude": 45.5023889,
       "longitude": -73.5675776,
-      "country": "Canadá",
+      "country": "Canada",
       "uf": "MTL",
       "city": "Montréal"
     },
@@ -37,7 +37,7 @@
     "location": {
       "latitude": 45.50239,
       "longitude": -73.56539,
-      "country": "Canadá",
+      "country": "Canada",
       "uf": "MTL",
       "city": "Montréal"
     },
@@ -359,6 +359,32 @@
     ],
     "language": "en-us",
     "date": "2019-08-17"
+  },
+  {
+    "title": "10 secrets to improve Javascript Performance",
+    "abstract": "The Javascript is performing many upgrades in their language and asynchronous operations on each release. Thousands of developers are creating new apps using Javascript on backend, frontend and cloud platforms. On production environments, we need to think about the possible problems avoiding the network overhead, memory and CPU usage. Attendees will learn how to avoid common mistakes, how to use the util node.js core module and how to respect the Javascript workflow to write faster and productive projects. We will show examples to make applications faster with simple adjusts that could be useful in production environments.",
+    "type": "talk",
+    "event": {
+      "link": "http://nodeconf.co",
+      "name": "NodeConf Colombia 2019"
+    },
+    "slides": "http://bit.ly/10-tips-jsperf-nodeconfco",
+    "photos": "2019-06-22-10_secrets_to_improve_javascript_performance",
+    "video": "",
+    "tags": ["node.js", "javascript", "performance"],
+    "location": {
+      "latitude": 6.2648627,
+      "longitude": -75.5687837,
+      "country": "Colombia",
+      "uf": "ME",
+      "city": "Medellin"
+    },
+    "additionalLinks": [
+      "https://github.com/ErickWendel/10-tips-jsperf-nodeconfco-examples",
+      "https://twitter.com/calypsobronte/status/1142525187105140742"
+    ],
+    "language": "en-us",
+    "date": "2019-06-22"
   },
   {
     "title": "The power of Typescript to work with Node.js Applications",
@@ -1349,6 +1375,7 @@
     "language": "pt-br",
     "date": "2018-06-29"
   },
+
   {
     "title": "Node.js e Typescript - Extraindo informações da Marvel Comics com Web Scrapping",
     "abstract": "Em nossa vida, fazemos diversas ações repetitivas, seja entrar em um site para visualizar dados e registrar em uma base posterior, seja cadastrar um mesmo item a cada tempo ou até mesmo publicar coisas no Facebook. Nesta palestra, você entenderá a facilidade de criar seu robô totalmente atualizado e pronto para liberar aquele tempo preciso para focar no que realmente é estratégico. Vamos conhecer a ferramenta Selenium Web Driver para simular um usuário no navegador e fazer todas as suas tarefas automagicamente.",

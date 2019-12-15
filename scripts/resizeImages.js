@@ -8,7 +8,7 @@ const [mkdirAsync, existsAsync, readAsync, unlinkAsync] = [
   promisify(readdir),
   promisify(unlink)
 ];
-const FOLDER = "2019-12-11";
+const FOLDER = "2019-06-22";
 const Jimp = require("jimp");
 const folder_600x600 = `600x600`;
 const folder_800x800 = `800x800`;
