@@ -17,7 +17,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 * **Projects**: 2018/November - 2015/July 
 * **Demonstrations**: 2018/December - 2016/September 
-* **Blog Posts**: 2019/May - 2015/February 
+* **Blog Posts**: 2020/January - 2015/February 
 * **Conference Talks**: 2019/December - 2015/January 
 
 #### Presentations' number: 98
@@ -26,7 +26,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
-- [Blog Posts (09)](#blog-posts)
+- [Blog Posts (11)](#blog-posts)
 - [Conference Talks (98)](#conference-talks)
 
 ## Projects
@@ -227,6 +227,40 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="http://bit.ly/looking-back-on-2019-erick-wendel" target="_blank">2020-01-06 - Looking back on 2019 — by Erick Wendel (en-us)</a>
+
+
+Portal:
+
+> <a href="http://bit.ly/looking-back-on-2019-erick-wendel" target="_blank">Medium</a>
+
+
+Abstract:
+
+> 7 countries, 98 talks, over 100 thousand people reached, two software awards, one software competition in Silicon Valley, and overwhelming joy! Yes, my friends… This year has gone down in history and I would like to share with you all the excitement of having so many achievements in so little time! I want to tell you about some of the most incredible moments of my life, and I hope you enjoy it and share with your friends.
+> 
+> 
+
+
+_Tags: `career`_
+
+### <a href="http://bit.ly/retrospectiva-erickwendel-2019" target="_blank">2019-12-20 - Minha retrospectiva de 2019 - Erick Wendel (pt-br)</a>
+
+
+Portal:
+
+> <a href="Linkedin" target="_blank">http://bit.ly/retrospectiva-erickwendel-2019</a>
+
+
+Abstract:
+
+> 7 países alcançados, 98 apresentações acumuladas, mais de 100 mil pessoas impactadas, dois prêmios na área de software, uma competição de software no Vale do Silício e uma alegria sem tamanho! Sim meus amigos. Este ano entrou para a história e vou aqui compartilhar a emoção que foi conseguir tantas conquistas em tão pouco tempo! Vou apresentar alguns dos momentos mais incríveis da minha vida e espero que você goste e compartilhe com os amigos.
+> 
+> 
+
+
+_Tags: `career`_
 
 ### <a href="https://medium.com/nerdzao/knowing-the-nerdzao-a-brazillian-tech-group-9f3704cbbcfb" target="_blank">2019-05-27 - NerdZão: Behind the Scenes of a Brazillian Technology Community (en-us)</a>
 

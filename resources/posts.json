@@ -1,5 +1,33 @@
 [
   {
+    "title": "Looking back on 2019 — by Erick Wendel",
+    "abstract": "7 countries, 98 talks, over 100 thousand people reached, two software awards, one software competition in Silicon Valley, and overwhelming joy! Yes, my friends… This year has gone down in history and I would like to share with you all the excitement of having so many achievements in so little time! I want to tell you about some of the most incredible moments of my life, and I hope you enjoy it and share with your friends.",
+    "type": "post",
+    "link": "http://bit.ly/looking-back-on-2019-erick-wendel",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "http://bit.ly/looking-back-on-2019-erick-wendel",
+      "name": "Medium"
+    },
+    "tags": ["career"],
+    "language": "en-us",
+    "date": "2020-01-06"
+  },
+  {
+    "title": "Minha retrospectiva de 2019 - Erick Wendel",
+    "abstract": "7 países alcançados, 98 apresentações acumuladas, mais de 100 mil pessoas impactadas, dois prêmios na área de software, uma competição de software no Vale do Silício e uma alegria sem tamanho! Sim meus amigos. Este ano entrou para a história e vou aqui compartilhar a emoção que foi conseguir tantas conquistas em tão pouco tempo! Vou apresentar alguns dos momentos mais incríveis da minha vida e espero que você goste e compartilhe com os amigos.",
+    "type": "post",
+    "link": "http://bit.ly/retrospectiva-erickwendel-2019",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "Linkedin",
+      "name": "http://bit.ly/retrospectiva-erickwendel-2019"
+    },
+    "tags": ["career"],
+    "language": "pt-br",
+    "date": "2019-12-20"
+  },
+  {
     "title": "NerdZão: Behind the Scenes of a Brazillian Technology Community",
     "abstract": "**NerdZão** [/nɜrdzsʌnn/](https://en.wikipedia.org/wiki/Help:IPA/English) (in English, big nerd) is a Brazillian technology community/user group initially founded in São Paulo — Brazil and now it’s a worldwide community 🌎.",
     "type": "post",
