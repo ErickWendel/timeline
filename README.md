@@ -1484,7 +1484,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.5283295,-46.5675101" targe
 <a href="http://bit.ly/live-mongodb" target="_blank">Canal.NET</a>
 
 
-<a href="http://bit.ly/canalnet-aggregation-framework-slides-erickwendel" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-03-28-o_poder_do_mongodb_aggregation_framework" target="_blank">photos</a> |  <a href="http://bit.ly/live-mongodb" target="_blank">video</a>
+<a href="http://bit.ly/canalnet-aggregation-framework-slides-erickwendel" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-03-28-o_poder_do_mongodb_aggregation_framework" target="_blank">photos</a> |  <a href="https://youtu.be/pWT-KF0Z2fA" target="_blank">video</a>
 
 
 Abstract:
