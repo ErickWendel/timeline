@@ -18,16 +18,16 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Projects**: 2018/November - 2015/July 
 * **Demonstrations**: 2018/December - 2016/September 
 * **Blog Posts**: 2020/January - 2015/February 
-* **Conference Talks**: 2019/December - 2015/January 
+* **Conference Talks**: 2020/January - 2015/January 
 
-#### Presentations' number: 98
+#### Presentations' number: 99
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (11)](#blog-posts)
-- [Conference Talks (98)](#conference-talks)
+- [Conference Talks (99)](#conference-talks)
 
 ## Projects
 
@@ -421,13 +421,34 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 ## Conference Talks
 
+### 2020-01-28 - A lenda do desenvolvimento orientado a testes (pt-br)
+
+
+<a href="https://cubofordevs.gama.academy/#" target="_blank">Cubo for Devs</a>
+
+
+<a href="http://bit.ly/a-lenda-do-tdd-erickwendel" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2020-01-28-a_lenda_do_desenvolvimento_orientado_a_testes" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Muitos mitos e lendas ao redor do conceito de testes. Mas você realmente usa TDD no seu dia a dia? Qual é a principal diferença entre testar primeiro ou testar depois? Todas essas duvidas, vamos conversar direto dessa apresentação inédita online e gratuita!
+> 
+> 
+
+
+_Tags: `tdd`, `node.js`, `tests`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5966179,-46.6890048" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2019-12-11 - Scaling Node.js Applications with Kubernetes and Docker (en-us)
 
 
 <a href="https://events19.linuxfoundation.org/events/nodejs-interactive-2019/" target="_blank">Node+JS Interactive 2019</a>
 
 
-<a href="http://bit.ly/scaling-nodejs-k8s-erickwendel-njsi2019" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-12-11-scaling_node.js_applications_with_kubernetes_and_docker" target="_blank">photos</a> 
+<a href="http://bit.ly/scaling-nodejs-k8s-erickwendel-njsi2019" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-12-11-scaling_node.js_applications_with_kubernetes_and_docker" target="_blank">photos</a> |  <a href="https://youtu.be/Jmf9jilQUsU" target="_blank">video</a>
 
 
 Abstract:
@@ -2190,27 +2211,6 @@ _Tags: `node.js`, `mocha`, `tdd`, `tests`, `javascript`, `chai`, `jasmine`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.5535189,-46.6575216" target="_blank">São Paulo - SP, Brazil</a>.
 
-### 2016-11-18 - Entrevista Faculdade Impacta – Mercado em Desenvolvimento (pt-br)
-
-
-<a href="" target="_blank">Feira de oportunidades - Faculdade Impacta</a>
-
-
-  <a href="https://www.facebook.com/FacImpacta/videos/1352590924752354/" target="_blank">video</a>
-
-
-Abstract:
-
-> mercado em TI, dicas para alunos e comunidades
-> 
-> 
-
-
-_Tags: `career`_
-
-
-Location: <a href="https://www.google.com/maps/?q=-23.5257509,-46.6517142" target="_blank">São Paulo - SP, Brazil</a>.
-
 ### 2016-11-18 - NodeJS e HapiJS – Construindo APIs com Javascript (pt-br)
 
 
@@ -2229,6 +2229,27 @@ Abstract:
 
 
 _Tags: `node.js`, `typescript`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5257509,-46.6517142" target="_blank">São Paulo - SP, Brazil</a>.
+
+### 2016-11-18 - Entrevista Faculdade Impacta – Mercado em Desenvolvimento (pt-br)
+
+
+<a href="" target="_blank">Feira de oportunidades - Faculdade Impacta</a>
+
+
+  <a href="https://www.facebook.com/FacImpacta/videos/1352590924752354/" target="_blank">video</a>
+
+
+Abstract:
+
+> mercado em TI, dicas para alunos e comunidades
+> 
+> 
+
+
+_Tags: `career`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-23.5257509,-46.6517142" target="_blank">São Paulo - SP, Brazil</a>.

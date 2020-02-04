@@ -1,5 +1,28 @@
 [
   {
+    "title": "A lenda do desenvolvimento orientado a testes",
+    "abstract": "Muitos mitos e lendas ao redor do conceito de testes. Mas você realmente usa TDD no seu dia a dia? Qual é a principal diferença entre testar primeiro ou testar depois? Todas essas duvidas, vamos conversar direto dessa apresentação inédita online e gratuita!",
+    "type": "talk",
+    "event": {
+      "link": "https://cubofordevs.gama.academy/#",
+      "name": "Cubo for Devs"
+    },
+    "slides": "http://bit.ly/a-lenda-do-tdd-erickwendel",
+    "photos": "2020-01-28-a_lenda_do_desenvolvimento_orientado_a_testes",
+    "video": "",
+    "tags": ["tdd", "node.js", "tests"],
+    "location": {
+      "latitude": -23.5966179,
+      "longitude": -46.6890048,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2020-01-28"
+  },
+  {
     "title": "Scaling Node.js Applications with Kubernetes and Docker",
     "abstract": "Node.js and Microservices are a beautiful combination and a common reality of many developers. When we talk about Microservices, we need to consider many concepts such as release management, monitoring, and scale. Thus, could be good for some people and a terrible experience for others. Attendees will learn how Node.js, containers, and Kubernetes working together could help them to be more productive, scaling applications by configuration files without worries to deliver new features and make changes. On this talk using a production environment scenario as an example, attendees will learn the Kubernetes' basic components, tips to scale applications and useful Kubernetes configurations.",
     "type": "talk",
@@ -9,7 +32,7 @@
     },
     "slides": "http://bit.ly/scaling-nodejs-k8s-erickwendel-njsi2019",
     "photos": "2019-12-11-scaling_node.js_applications_with_kubernetes_and_docker",
-    "video": "",
+    "video": "https://youtu.be/Jmf9jilQUsU",
     "tags": ["docker", "kubernetes", "k8s", "node.js", "javascript"],
     "location": {
       "latitude": 45.5023889,

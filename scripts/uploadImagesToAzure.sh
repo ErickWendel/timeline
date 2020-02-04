@@ -4,7 +4,7 @@ AZURE_STORAGE_ACCOUNT='ewtimeline'
 RESOURCE_GROUP='erickwendel'
 container_name='timeline-erickwendel'
 source_folder='../'
-FOLDER="2019-06-22"
+FOLDER="2020-01-28"
 AZURE_STORAGE_ACCESS_KEY=$(az storage account keys list \
   --account-name $AZURE_STORAGE_ACCOUNT \
   --resource-group $RESOURCE_GROUP \
