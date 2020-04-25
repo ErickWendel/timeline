@@ -343,7 +343,7 @@
     },
     "slides": "http://bit.ly/ew-graphql-azfn-brjs2019",
     "photos": "2019-08-23-graphql_+_apollo_server_+_azure_functions_=_magic",
-    "video": "https://youtu.be/SOq7JO7y2_o?t=2869",
+    "video": "https://youtu.be/ApGZeBH_HeI",
     "tags": ["node.js", "graphql", "apolloserver", "serverless"],
     "location": {
       "latitude": -30.0846697,
@@ -353,7 +353,8 @@
       "city": "Porto Alegre"
     },
     "additionalLinks": [
-      "https://github.com/ErickWendel/azurefn-graphql-theconf"
+      "https://github.com/ErickWendel/azurefn-graphql-theconf",
+      "https://youtu.be/SOq7JO7y2_o?t=2869"
     ],
     "language": "pt-br",
     "date": "2019-08-23"
