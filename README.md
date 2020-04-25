@@ -771,7 +771,7 @@ Location: <a href="https://www.google.com/maps/?q=-16.6298953,-49.2806259" targe
 <a href="https://braziljs.org/conf/#03eeca56-bfdc-ab48-a061-7f8503c5cd58" target="_blank">BrazilJS Conference 2019</a>
 
 
-<a href="http://bit.ly/ew-graphql-azfn-brjs2019" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-08-23-graphql_+_apollo_server_+_azure_functions_=_magic" target="_blank">photos</a> |  <a href="https://youtu.be/SOq7JO7y2_o?t=2869" target="_blank">video</a>
+<a href="http://bit.ly/ew-graphql-azfn-brjs2019" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2019-08-23-graphql_+_apollo_server_+_azure_functions_=_magic" target="_blank">photos</a> |  <a href="https://youtu.be/ApGZeBH_HeI" target="_blank">video</a>
 
 
 Abstract:
@@ -785,6 +785,7 @@ Abstract:
 > <b>Links</b>
 > 
 > - <a href="https://github.com/ErickWendel/azurefn-graphql-theconf" target="_blank">https://github.com/ErickWendel/azurefn-graphql-theconf</a>
+> - <a href="https://youtu.be/SOq7JO7y2_o?t=2869" target="_blank">https://youtu.be/SOq7JO7y2_o?t=2869</a>
 > 
 
 
@@ -1373,27 +1374,6 @@ _Tags: `javascript`, `async`, `node.js`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.5588643,-46.6645247" target="_blank">São Paulo - SP, Brazil</a>.
 
-### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
-
-
-<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
-
-
-<a href="https://erickwendel.github.io/palestra-criciumadev-Javascript-para-reconhecer-pessoas/" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> 
-
-
-Abstract:
-
-> Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
-> 
-> 
-
-
-_Tags: `node.js`, `javascript`, `faceapi`, `azure`_
-
-
-Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
-
 ### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
 
 
@@ -1411,6 +1391,27 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `websocket`, `socketio`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
+
+### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
+
+
+<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
+
+
+<a href="https://erickwendel.github.io/palestra-criciumadev-Javascript-para-reconhecer-pessoas/" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`, `faceapi`, `azure`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
@@ -2211,6 +2212,27 @@ _Tags: `node.js`, `mocha`, `tdd`, `tests`, `javascript`, `chai`, `jasmine`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.5535189,-46.6575216" target="_blank">São Paulo - SP, Brazil</a>.
 
+### 2016-11-18 - Entrevista Faculdade Impacta – Mercado em Desenvolvimento (pt-br)
+
+
+<a href="" target="_blank">Feira de oportunidades - Faculdade Impacta</a>
+
+
+  <a href="https://www.facebook.com/FacImpacta/videos/1352590924752354/" target="_blank">video</a>
+
+
+Abstract:
+
+> mercado em TI, dicas para alunos e comunidades
+> 
+> 
+
+
+_Tags: `career`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5257509,-46.6517142" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2016-11-18 - NodeJS e HapiJS – Construindo APIs com Javascript (pt-br)
 
 
@@ -2229,27 +2251,6 @@ Abstract:
 
 
 _Tags: `node.js`, `typescript`, `javascript`_
-
-
-Location: <a href="https://www.google.com/maps/?q=-23.5257509,-46.6517142" target="_blank">São Paulo - SP, Brazil</a>.
-
-### 2016-11-18 - Entrevista Faculdade Impacta – Mercado em Desenvolvimento (pt-br)
-
-
-<a href="" target="_blank">Feira de oportunidades - Faculdade Impacta</a>
-
-
-  <a href="https://www.facebook.com/FacImpacta/videos/1352590924752354/" target="_blank">video</a>
-
-
-Abstract:
-
-> mercado em TI, dicas para alunos e comunidades
-> 
-> 
-
-
-_Tags: `career`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-23.5257509,-46.6517142" target="_blank">São Paulo - SP, Brazil</a>.
