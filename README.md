@@ -157,6 +157,7 @@ Abstract:
 > <b>Links</b>
 > 
 > - <a href="https://github.com/ErickWendel/USBHacker" target="_blank">https://github.com/ErickWendel/USBHacker</a>
+> - <a href="https://vimeo.com/244524436" target="_blank">https://vimeo.com/244524436</a>
 > 
 
 
@@ -174,19 +175,22 @@ Abstract:
 
 _Tags: `malware`, `alexa`, `c#`, `aws`_
 
-### <a href="http://erickwendel.com.br/2016/07/07/telegram-bot-api-nodejs-apis-do-ibm-watson-tone-analyser-e-language-translation/" target="_blank">2017-07-07 - Telegram Bot Api + NodeJS + APIs do IBM Watson (Tone Analyser e Language Translation) (pt-br)</a>
+### <a href="https://vimeo.com/173722945" target="_blank">2017-07-07 - Telegram Bot Api + NodeJS + APIs do IBM Watson (Tone Analyser e Language Translation) (pt-br)</a>
 
 
 Abstract:
 
 > Telegram Bot Api + NodeJS + APIs do IBM Watson (Tone Analyser e Language Translation). Demonstração da minha palestra para a trilha de NodeJS que aconteceu em 07/07/2016 no The Developer’s Conference 
 > 
+> <b>Links</b>
+> 
+> - <a href="http://erickwendel.com.br/2016/07/07/telegram-bot-api-nodejs-apis-do-ibm-watson-tone-analyser-e-language-translation/" target="_blank">http://erickwendel.com.br/2016/07/07/telegram-bot-api-nodejs-apis-do-ibm-watson-tone-analyser-e-language-translation/</a>
 > 
 
 
 _Tags: `telegram`, `bot`, `node.js`, `ibm`_
 
-### <a href="http://erickwendel.com.br/2017/02/04/malwares-com-android-utilizando-ionic-framework-javascript-c-websocket/" target="_blank">2017-02-04 - Malwares com Android utilizando Ionic Framework + Javascript + C# + WebSocket (pt-br)</a>
+### <a href="https://vimeo.com/241557117" target="_blank">2017-02-04 - Malwares com Android utilizando Ionic Framework + Javascript + C# + WebSocket (pt-br)</a>
 
 
 Abstract:
@@ -196,30 +200,37 @@ Abstract:
 > <b>Links</b>
 > 
 > - <a href="https://github.com/ErickWendel/Trojan.Android-CampusParty" target="_blank">https://github.com/ErickWendel/Trojan.Android-CampusParty</a>
+> - <a href="http://erickwendel.com.br/2017/02/04/malwares-com-android-utilizando-ionic-framework-javascript-c-websocket/" target="_blank">http://erickwendel.com.br/2017/02/04/malwares-com-android-utilizando-ionic-framework-javascript-c-websocket/</a>
 > 
 
 
 _Tags: `c#`, `ionic`, `malware`, `virus`_
 
-### <a href="http://erickwendel.com.br/2016/11/06/trojan-com-comandos-de-voz-utilizando-android-wear-java-net-protocolo-websocket/" target="_blank">2016-11-06 - Trojan com Comandos de Voz utilizando Android Wear + Java + .NET + Protocolo WebSocket (pt-br)</a>
+### <a href="https://vimeo.com/241556950" target="_blank">2016-11-06 - Trojan com Comandos de Voz utilizando Android Wear + Java + .NET + Protocolo WebSocket (pt-br)</a>
 
 
 Abstract:
 
 > Na madrugada de sábado para domingo, junto ao Leonardo Lourenço, contruímos uma brincadeira com Android, C# e Comandos de voz
 > 
+> <b>Links</b>
+> 
+> - <a href="http://erickwendel.com.br/2016/11/06/trojan-com-comandos-de-voz-utilizando-android-wear-java-net-protocolo-websocket/" target="_blank">http://erickwendel.com.br/2016/11/06/trojan-com-comandos-de-voz-utilizando-android-wear-java-net-protocolo-websocket/</a>
 > 
 
 
 _Tags: `trojan`, `c#`, `android`_
 
-### <a href="http://erickwendel.com.br/2016/09/20/wearpresentation-android-wear-device-nodejs-websocket-desktop-e-restfull-api/" target="_blank">2016-09-20 - WearPresentation – Android Wear + Device + NodeJS (WebSocket, Desktop e RestFull API) (pt-br)</a>
+### <a href="https://vimeo.com/177959241" target="_blank">2016-09-20 - WearPresentation – Android Wear + Device + NodeJS (WebSocket, Desktop e RestFull API) (pt-br)</a>
 
 
 Abstract:
 
 > Para a galera que faz apresentações, essa é uma pequena demonstração do app que estou criando. Basicamente, o objetivo principal é controlar a apresentação usando gestos e movimentos e dar todo suporte ao palestrante durante a apresentação. Mostramos somente a funcionalidade mais básica do aplicativo, algumas ainda são “secretas” e inovadoras comparadas aos concorrentes
 > 
+> <b>Links</b>
+> 
+> - <a href="http://erickwendel.com.br/2016/09/20/wearpresentation-android-wear-device-nodejs-websocket-desktop-e-restfull-api/" target="_blank">http://erickwendel.com.br/2016/09/20/wearpresentation-android-wear-device-nodejs-websocket-desktop-e-restfull-api/</a>
 > 
 
 
