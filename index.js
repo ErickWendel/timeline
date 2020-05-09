@@ -111,7 +111,7 @@ function mapTalkMarkdown(item) {
         : ``
     }`;
     const slidesSection =
-      (photoText || videoText) && slidesText ? slidesText.concat(" | ") : "";
+      (photoText || videoText) && slidesText ? slidesText.concat(" | ") : slidesText;
     const photosSection =
       videoText && photoText ? photoText.concat(" | ") : photoText;
     const contentSession = `${slidesSection} ${photosSection} ${videoText}`;
