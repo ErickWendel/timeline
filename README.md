@@ -17,7 +17,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 * **Projects**: 2018/November - 2015/July 
 * **Demonstrations**: 2018/December - 2016/September 
-* **Blog Posts**: 2020/January - 2015/February 
+* **Blog Posts**: 2020/May - 2015/February 
 * **Conference Talks**: 2020/January - 2015/January 
 
 #### Presentations' number: 99
@@ -26,7 +26,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
-- [Blog Posts (11)](#blog-posts)
+- [Blog Posts (53)](#blog-posts)
 - [Conference Talks (99)](#conference-talks)
 
 ## Projects
@@ -238,6 +238,816 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_docker-java-nginx-activity-6668533134931353600-kO4u/" target="_blank">2020-05-20 - Como transformei uma aplicação React de 300MB em somente 16MB no Docker 😱🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_docker-java-nginx-activity-6668533134931353600-kO4u/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Já ouviu falar sobre multistage builds no #Docker? Esta semana, ajudei um amigo que trabalha com #Java. Notei que...
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/eTNyhi6" target="_blank">https://lnkd.in/eTNyhi6</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_seleniumwebdriver-puppeteer-ffmpeg-activity-6666324534066466816-srhr/" target="_blank">2020-05-04 - Como fazer upload de binários pesados para uma função na AWS? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_seleniumwebdriver-puppeteer-ffmpeg-activity-6666324534066466816-srhr/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Talvez você já tenha pensado sobre como trabalhar com #SeleniumWebDriver, #Puppeteer, ou até manipular videos com...
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dmuAZ-3" target="_blank">https://lnkd.in/dmuAZ-3</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-tivesse-que-fazer-download-de-um-activity-6664192126273761280-mLJs/" target="_blank">2020-05-03 - E se você tivesse que fazer download de um arquivo com gigabytes de informação, como faria? 😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-tivesse-que-fazer-download-de-um-activity-6664192126273761280-mLJs/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> O post de hoje, me custou um tempão para produzir, mas é realmente importante para você que trabalha com...
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/djCCF7e" target="_blank">https://lnkd.in/djCCF7e</a>
+> - <a href="https://lnkd.in/d-QuUwm" target="_blank">https://lnkd.in/d-QuUwm</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-typescript-mvpbr-activity-6663418745911816192-Ak_P/" target="_blank">2020-05-02 - Erick Wendel na Hipsters.tech!! (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-typescript-mvpbr-activity-6663418745911816192-Ak_P/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Participei de um bate papo com a galera do podcast Hipsters.tech ! Foi um papo bem bacana e descontraído sobre Node.js in depth...
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dAhaUNu" target="_blank">https://lnkd.in/dAhaUNu</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_awscloud-rds-mysql-activity-6663079472087998464-5Qn7/" target="_blank">2020-05-01 - Serverless Apps Ok, mas Serverless Databases? 😱🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_awscloud-rds-mysql-activity-6663079472087998464-5Qn7/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sim meus amigos, temos Front-end, Back-end, containers, e bancos de dados Serverless 😱
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-fosse-comercializar-uma-api-activity-6662000697078231040--MYm/" target="_blank">2020-04-20 - E se você fosse comercializar uma API? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-fosse-comercializar-uma-api-activity-6662000697078231040--MYm/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Esta é uma dúvida comum de clientes que vendem serviços, como processamento ou enriquecimento de dados...
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_o-que-%C3%A9-um-serverless-front-end-aplica%C3%A7%C3%B5es-activity-6659460239575793664-a4mv/" target="_blank">2020-04-10 - O que é um serverless front-end? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_o-que-%C3%A9-um-serverless-front-end-aplica%C3%A7%C3%B5es-activity-6659460239575793664-a4mv/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Aplicações vão e vem e aparentemente, com objetivo de ganhar produtividade e melhor preço. O desenvolvimento de apps, seja front ou back-end, podem...
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-100daysofcode-activity-6658680687509458944-U3gW/" target="_blank">2020-04-03 - Node 14 saiu do forno com novas features do Javascript e melhorias no runtime  😱🎉 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-100daysofcode-activity-6658680687509458944-U3gW/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Ontem, 21/04/2020, saiu a versão com todas as features da plataforma. Meus amigos, confesso que eu pessoalmente estava...
+> 
+> <b>Links</b>
+> 
+> - <a href="https://bit.ly/2XTPW13" target="_blank">https://bit.ly/2XTPW13</a>
+> - <a href="https://bit.ly/3cC1Vo5" target="_blank">https://bit.ly/3cC1Vo5</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-serverlessapps-activity-6651489595278020608-KUgR/" target="_blank">2020-04-02 - Um dos meus padrões de projeto preferidos, o Decorator 🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-serverlessapps-activity-6651489595278020608-KUgR/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Para a galera de Java e Python, `@function`, para a galera de C#, `[Function]`, e Javascript, ainda em ...
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dUEPbwA" target="_blank">https://lnkd.in/dUEPbwA</a>
+> - <a href="https://lnkd.in/d-QuUwm" target="_blank">https://lnkd.in/d-QuUwm</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-criar-um-boilerplate-de-projetos-de-activity-6651109475514109953-V4Wc/" target="_blank">2020-04-01 - Como criar um boilerplate de projetos de software para ganhar produtividade e eficiência 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-criar-um-boilerplate-de-projetos-de-activity-6651109475514109953-V4Wc/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Já imaginou nunca mais precisar fazer uma API ou Tela de Login? Nunca mais fazer CRUD? Pois bem...
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6647861709157486592-Jvwq/" target="_blank">2020-03-23 - Como aprender uma nova linguagem de programação me fez dominar minha linguagem nativa 🔥🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6647861709157486592-Jvwq/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Em 2015, eu era um programador júnior focado em C# e .NET, contratado para trabalhar no App Renda Fixa . O desafio era ser o único programador além...
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_malware-com-android-ionic-framework-javascript-activity-6646771265807892480-nFbZ/" target="_blank">2020-03-22 - Venho vos apresentar um Malware que criei usando com C# + Ionic Framework + Javascript (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_malware-com-android-ionic-framework-javascript-activity-6646771265807892480-nFbZ/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Era Fevereiro de 2017, estava preparando minha apresentação na Campus Party Brasil sobre 'A vida e as aventuras de um desenvolvedor de software'. Meu objetivo era mostrar como...
+> 
+> <b>Links</b>
+> 
+> - <a href="https://bit.ly/393bUk9" target="_blank">https://bit.ly/393bUk9</a>
+> - <a href="http://bit.ly/2l7tjka" target="_blank">http://bit.ly/2l7tjka</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_hoje-%C3%A9-dia-de-avan%C3%A7ar-um-pouco-mais-em-javascript-activity-6645662310452994048-qMSH/" target="_blank">2020-03-21 - Você sabe para que serve o tipo Symbol do Javascript? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_hoje-%C3%A9-dia-de-avan%C3%A7ar-um-pouco-mais-em-javascript-activity-6645662310452994048-qMSH/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Seu objetivo principal é ser um identificador único e, na maioria dos casos, criar propriedades (metadados) em objetos que...
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/2TTGE2E" target="_blank">http://bit.ly/2TTGE2E</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-mvpbr-activity-6645292542025883648-j33z/" target="_blank">2020-03-20 - Como é meu processo para aprender uma nova tecnologia 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-mvpbr-activity-6645292542025883648-j33z/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Olhando meu site, https://erickwendel.com você pode encontrar todas as palestras que ja fiz na vida e pode perceber que os conteúdos são bem...
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6644205084827758594-b1Lo/" target="_blank">2020-03-18 - ...B3 aciona circuit breaker pela segunda vez esta semana... (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6644205084827758594-b1Lo/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Você sabia que o termo 'Circuit Breaker' também é usado para nomear um padrão de projeto bem famoso no mundo de software? 🤯
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-vscode-activity-6643860844784439298-45cT/" target="_blank">2020-03-17 - Quais são os atalhos do VSCode que você mais usa? 🤩🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-vscode-activity-6643860844784439298-45cT/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> A maioria das pessoas que trabalha com tecnologia ama usar atalhos nos editores, afinal, isso aumenta produtividade. Eu pessoalmente, tento aprender um atalho novo sempre...
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-docker-nodejs-activity-6643466002791186432-O7lr/" target="_blank">2020-03-16 - Você realmente sabe depurar uma aplicação Node.js? 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-docker-nodejs-activity-6643466002791186432-O7lr/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Você já deve ter percebido que sou totalmente a favor de ter SOMENTE o Docker instalado na máquina, para que...
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/33fjZBa" target="_blank">http://bit.ly/33fjZBa</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_o-que-mais-me-motiva-de-trabalhar-com-javascript-activity-6642795126013874176-Attm/" target="_blank">2020-03-15 - Hoje vamos falar sobre a proposta `top-level await` (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_o-que-mais-me-motiva-de-trabalhar-com-javascript-activity-6642795126013874176-Attm/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> O objetivo principal é usar async/await fora de funções assíncronas. Até então, você necessariamente precisava...
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/2wGRK1U" target="_blank">http://bit.ly/2wGRK1U</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6641637164163575810-EZE3/" target="_blank">2020-03-14 - Docker + Node.js + front-end + live reload 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6641637164163575810-EZE3/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Há duas semanas, fiz um post sobre a importância de Docker para desenvolvedores (http://bit.ly/3atxEXy) e muita gente pediu uma demo sobre, para tornar o assunto menos abstrato.
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/38qnTIl" target="_blank">http://bit.ly/38qnTIl</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-%C3%A9-o-processo-de-cria%C3%A7%C3%A3o-de-treinamentos-activity-6640926857971683328-Ub8N/" target="_blank">2020-03-13 - Como é o processo de criação de treinamentos online? 🤯😎 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-%C3%A9-o-processo-de-cria%C3%A7%C3%A3o-de-treinamentos-activity-6640926857971683328-Ub8N/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Vou compartilhar com você como é meu passo a passo 🤩
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/da39wk4" target="_blank">https://lnkd.in/da39wk4</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_js-protips-activity-6640333601680433152-uYO4/" target="_blank">2020-03-12 - Você conhece os tipos Map e WeakMap do Javascript? 🤯? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_js-protips-activity-6640333601680433152-uYO4/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Introduzidos no ES6, Map e WeakMap são estruturas de dados criadas como alternativa a Objetos (plain Objects) do Javascript para ganhar performance e...
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/39cBYKB" target="_blank">http://bit.ly/39cBYKB</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-funapp-js-activity-6639204926159372288-99k_/" target="_blank">2020-03-11 - Criando um jogo de batata quente com Node.js Web Sockets (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-funapp-js-activity-6639204926159372288-99k_/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> ...é conhecido pela facilidade de trabalhar com aplicações real-time na Web usando Sockets. Tive a ideia de mostrar como Web Sockets podem ser maneiros sem...
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/d82iPQF" target="_blank">https://lnkd.in/d82iPQF</a>
+> - <a href="https://lnkd.in/dMm8QZJ" target="_blank">https://lnkd.in/dMm8QZJ</a>
+> - <a href="https://lnkd.in/dWrPFqb" target="_blank">https://lnkd.in/dWrPFqb</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6635911441784291328-Sznw/" target="_blank">2020-03-10 - Você sabe o que é uma propriedade calculada em Javascript?🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6635911441784291328-Sznw/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Os métodos acessores, também conhecidos como getters e setters são muito populares em linguagens como C#, Java, C++ e mais. No Javascript em si, o uso dessa feature é bem...
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/329jjfQ" target="_blank">http://bit.ly/329jjfQ</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-realmente-vale-a-pena-usar-docker-activity-6635530851524333568-C4z_/" target="_blank">2020-03-09 - Será que realmente vale a pena usar Docker? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-realmente-vale-a-pena-usar-docker-activity-6635530851524333568-C4z_/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Um problema venho tentando resolver em times de software, é o tempo que um desenvolvedor(a) demora para...
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6635162184794030080-0uyA/" target="_blank">2020-03-08 - Como usar ActiveMQ e instâncias do Node.js rodando em paralelo (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6635162184794030080-0uyA/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Muito se fala sobre o Node.js ser single-thread e não ser ideal para operações que demandem muito CPU e memória...
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/d-SmwCD" target="_blank">https://lnkd.in/d-SmwCD</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6633381229720813568-Kkkv/" target="_blank">2020-03-07 - Afinal, para que servem os Design Patterns? 🤨 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6633381229720813568-Kkkv/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Se você é aquela pessoa que está tentando se aprimorar em programação e conhecer o 'avançado' das coisas, ja deve ter feito essa pergunta a si mesmo...
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/2wbUrZb" target="_blank">http://bit.ly/2wbUrZb</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6632999921446330368-5Wgo/" target="_blank">2020-03-06 - Meu GitHub é meu próprio guia de referência e pesquisa! 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6632999921446330368-5Wgo/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Quando eu estava iniciando no mundo da programação, queria encontrar um jeito de mostrar aos recrutadores que eu conhecia uma tecnologia X, embora até aquele momento, eu não tinha experiência...
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/erickwendel" target="_blank">https://github.com/erickwendel</a>
+> - <a href="https://lnkd.in/d_ArSji" target="_blank">https://lnkd.in/d_ArSji</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_zsh-ohmyzsh-mvpbr-activity-6632672930041999360-xP5N/" target="_blank">2020-02-15 - Conhecendo ZSH e OhMyZSH (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_zsh-ohmyzsh-mvpbr-activity-6632672930041999360-xP5N/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Tenho usado bastante o #zsh (ou zshell) com o #ohmyzsh no Mac e Linux, ele modifica meu terminal adicionando algumas ferramentas como...
+> 
+> <b>Links</b>
+> 
+> - <a href="https://ohmyz.sh/" target="_blank">https://ohmyz.sh/</a>
+> - <a href="https://lnkd.in/dDA3QQs" target="_blank">https://lnkd.in/dDA3QQs</a>
+> - <a href="https://lnkd.in/dQKSEwv" target="_blank">https://lnkd.in/dQKSEwv</a>
+> - <a href="https://lnkd.in/d84hSJD" target="_blank">https://lnkd.in/d84hSJD</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6631570029534031875-7In5/" target="_blank">2020-02-14 - Chegou a hora de contribuir para projetos Open Source! 🥳 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6631570029534031875-7In5/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Para muitos é uma palavra complicada de lidar por alguns pensamentos: Tempo, trabalhar de 'graça' ou não saber como contribuir.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dp5wxm7" target="_blank">https://lnkd.in/dp5wxm7</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-js-activity-6631194330407157760-U7fY/" target="_blank">2020-02-13 - Qual foi a aplicação mais divertida que você criou fora do trabalho? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-js-activity-6631194330407157760-U7fY/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Nem só de trabalho vive um(a) programador(a). Uma vez, tive uma ideia de criar uma aplicação para zoar meus amigos no trabalho e ficou bem divertido haha.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dy-aBqr" target="_blank">https://lnkd.in/dy-aBqr</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-js-activity-6629031141254934528-Ud3H/" target="_blank">2020-02-12 - Uma ferramenta para matar processos travados com um simples comando! 😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-js-activity-6629031141254934528-Ud3H/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> O fkill é um pacote npm que lista todos os processos e seus sub processos. Executando o comando `fkill` em seu terminal ele lista todos os apps abertos.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dMpwEzD" target="_blank">https://lnkd.in/dMpwEzD</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-js-activity-6628654880942772224-GCEG/" target="_blank">2020-02-11 - Você sabe o motivo de `new Date(0)` ser 01/01/1970? 😬? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-js-activity-6628654880942772224-GCEG/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Em 03 de Novembro de 1971, a primeira versão do Unix foi entregue. Foi algo tão histórico que...
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-js-activity-6628311241796407298-f30x/" target="_blank">2020-02-10 - Eaí, você também sofre para saber o que tem no `this` do Javascript? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-js-activity-6628311241796407298-f30x/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> No exemplo do código/video abaixo, eu demonstro uma função que irá ser chamada quando a página for carregada. Quando ela carregar, A função deverá...
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dgBgZAy" target="_blank">https://lnkd.in/dgBgZAy</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-nodejs-activity-6627939105932095489-_Ixj/" target="_blank">2020-02-09 - Você sabe o que significa a expressão '5/1 * * * 1'? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-nodejs-activity-6627939105932095489-_Ixj/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Hoje, quero te mostrar uma forma de não precisar lidar com expressões como essa e facilitar seu trabalho, através do Cron Jobs no Node.js!
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dMnRyfy" target="_blank">https://lnkd.in/dMnRyfy</a>
+> - <a href="https://lnkd.in/duG8T8Y" target="_blank">https://lnkd.in/duG8T8Y</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-javascript-activity-6626457488730411008-O0QQ" target="_blank">2020-02-08 - Como se remove uma propriedade de um objeto em Javascript? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-javascript-activity-6626457488730411008-O0QQ" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Existe uma outra forma de fazer, que vejo poucos usando, que se pode usar Destructuring assignment junto ao Spread Operator para remover de uma forma mais 'bonita'...
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_js-nodejs-javascript-activity-6625059822620426240-upVO/" target="_blank">2020-02-07 - Pare de usar o `npm install -g` 😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_js-nodejs-javascript-activity-6625059822620426240-upVO/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Ok, não é exatamente para você parar de instalar pacotes globais no NPM, mas que existe uma alternativa fantástica para você.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_sdk-mvpbr-googledevexpert-activity-6622884065890586624-trYN/" target="_blank">2020-02-06 - Exemplo de código para interceptação de request (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_sdk-mvpbr-googledevexpert-activity-6622884065890586624-trYN/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Precisei fazer uma interceptação de request  para toda vez que uma função fosse chamada, executar primeiro uma função customizada minha e só depois chamar a função verdadeira e criei esse exmplo de código maroto (um pouquinho avançado hehe). 🔥
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/du6aihU" target="_blank">https://lnkd.in/du6aihU</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-nodejs-npm-activity-6621047462985506819-s6_H" target="_blank">2020-02-05 - Trabalhando com pacote npm npkill (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-nodejs-npm-activity-6621047462985506819-s6_H" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Agora aquela dica de OURO! Quer remover as pastas node_modules que não usa mais para liberar aquele espaço maroto da máquina?
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/d8NZb58" target="_blank">https://lnkd.in/d8NZb58</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-nodejs-activity-6620345400161251328-F58G/" target="_blank">2020-02-04 - Você sabe o que é GitCrypt? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-nodejs-activity-6620345400161251328-F58G/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Eai, ainda tem duvidas sobre como lidar com variáveis de ambiente, chaves de API ou senhas de forma segura?
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_sinon-tdd-test-activity-6618901791859843077-wfzn/" target="_blank">2020-02-03 - Test Driven Development vs somente testar código (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_sinon-tdd-test-activity-6618901791859843077-wfzn/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Você sabe a diferença entre trabalhar com Test Driven Development e somente testar código?
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_code-standards-padronizando-sua-equipe-activity-6612685044882395136-xCgQ" target="_blank">2020-02-02 - #Prettier + #ESLint + #VSCode == 🚀 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_code-standards-padronizando-sua-equipe-activity-6612685044882395136-xCgQ" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Ta aí uma dos posts que mais gostei de escrever, mesmo sendo escrito em 2017 ainda tem uma relevância gigantesca!
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dU2Vnba" target="_blank">https://lnkd.in/dU2Vnba</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_rxjs-nodejs-designpatterns-activity-6608682453135568896-RO-5" target="_blank">2020-02-01 - Você conhece RxJS? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_rxjs-nodejs-designpatterns-activity-6608682453135568896-RO-5" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Você sabia que RxJS não funciona apenas em aplicações Angular ou apenas no frontend?
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dy2WtPw" target="_blank">https://lnkd.in/dy2WtPw</a>
+> - <a href="https://lnkd.in/dsXQjpZ" target="_blank">https://lnkd.in/dsXQjpZ</a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="http://bit.ly/looking-back-on-2019-erick-wendel" target="_blank">2020-01-06 - Looking back on 2019 — by Erick Wendel (en-us)</a>
 
