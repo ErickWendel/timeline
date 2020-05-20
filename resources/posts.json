@@ -1,5 +1,605 @@
 [
   {
+    "title": "Como transformei uma aplicação React de 300MB em somente 16MB no Docker 😱🔥",
+    "abstract": "Já ouviu falar sobre multistage builds no #Docker? Esta semana, ajudei um amigo que trabalha com #Java. Notei que...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_docker-java-nginx-activity-6668533134931353600-kO4u/",
+    "additionalLinks": ["https://lnkd.in/eTNyhi6"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_docker-java-nginx-activity-6668533134931353600-kO4u/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-05-20"
+  },
+  {
+    "title": "Como fazer upload de binários pesados para uma função na AWS? 🔥",
+    "abstract": "Talvez você já tenha pensado sobre como trabalhar com #SeleniumWebDriver, #Puppeteer, ou até manipular videos com...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_seleniumwebdriver-puppeteer-ffmpeg-activity-6666324534066466816-srhr/",
+    "additionalLinks": ["https://lnkd.in/dmuAZ-3"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_seleniumwebdriver-puppeteer-ffmpeg-activity-6666324534066466816-srhr/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-05-04"
+  },
+  {
+    "title": "E se você tivesse que fazer download de um arquivo com gigabytes de informação, como faria? 😱",
+    "abstract": "O post de hoje, me custou um tempão para produzir, mas é realmente importante para você que trabalha com...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-tivesse-que-fazer-download-de-um-activity-6664192126273761280-mLJs/",
+    "additionalLinks": ["https://lnkd.in/djCCF7e", "https://lnkd.in/d-QuUwm"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-tivesse-que-fazer-download-de-um-activity-6664192126273761280-mLJs/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-05-03"
+  },
+  {
+    "title": "Erick Wendel na Hipsters.tech!!",
+    "abstract": "Participei de um bate papo com a galera do podcast Hipsters.tech ! Foi um papo bem bacana e descontraído sobre Node.js in depth...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-typescript-mvpbr-activity-6663418745911816192-Ak_P/",
+    "additionalLinks": ["https://lnkd.in/dAhaUNu"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-typescript-mvpbr-activity-6663418745911816192-Ak_P/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-05-02"
+  },
+  {
+    "title": "Serverless Apps Ok, mas Serverless Databases? 😱🔥",
+    "abstract": "Sim meus amigos, temos Front-end, Back-end, containers, e bancos de dados Serverless 😱",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_awscloud-rds-mysql-activity-6663079472087998464-5Qn7/",
+    "additionalLinks": [],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_awscloud-rds-mysql-activity-6663079472087998464-5Qn7/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-05-01"
+  },
+  {
+    "title": "E se você fosse comercializar uma API? 🔥",
+    "abstract": "Esta é uma dúvida comum de clientes que vendem serviços, como processamento ou enriquecimento de dados...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-fosse-comercializar-uma-api-activity-6662000697078231040--MYm/",
+    "additionalLinks": [],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-fosse-comercializar-uma-api-activity-6662000697078231040--MYm/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-04-20"
+  },
+  {
+    "title": "O que é um serverless front-end? 🔥",
+    "abstract": "Aplicações vão e vem e aparentemente, com objetivo de ganhar produtividade e melhor preço. O desenvolvimento de apps, seja front ou back-end, podem...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_o-que-%C3%A9-um-serverless-front-end-aplica%C3%A7%C3%B5es-activity-6659460239575793664-a4mv/",
+    "additionalLinks": [],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_o-que-%C3%A9-um-serverless-front-end-aplica%C3%A7%C3%B5es-activity-6659460239575793664-a4mv/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-04-10"
+  },
+  {
+    "title": "Node 14 saiu do forno com novas features do Javascript e melhorias no runtime  😱🎉",
+    "abstract": "Ontem, 21/04/2020, saiu a versão com todas as features da plataforma. Meus amigos, confesso que eu pessoalmente estava...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-100daysofcode-activity-6658680687509458944-U3gW/",
+    "additionalLinks": ["https://bit.ly/2XTPW13", "https://bit.ly/3cC1Vo5"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-100daysofcode-activity-6658680687509458944-U3gW/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-04-03"
+  },
+  {
+    "title": "Um dos meus padrões de projeto preferidos, o Decorator 🤩",
+    "abstract": "Para a galera de Java e Python, `@function`, para a galera de C#, `[Function]`, e Javascript, ainda em ...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-serverlessapps-activity-6651489595278020608-KUgR/",
+    "additionalLinks": ["https://lnkd.in/dUEPbwA", "https://lnkd.in/d-QuUwm"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-serverlessapps-activity-6651489595278020608-KUgR/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-04-02"
+  },
+  {
+    "title": "Como criar um boilerplate de projetos de software para ganhar produtividade e eficiência 🤯",
+    "abstract": "Já imaginou nunca mais precisar fazer uma API ou Tela de Login? Nunca mais fazer CRUD? Pois bem...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-criar-um-boilerplate-de-projetos-de-activity-6651109475514109953-V4Wc/",
+    "additionalLinks": [],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_como-criar-um-boilerplate-de-projetos-de-activity-6651109475514109953-V4Wc/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-04-01"
+  },
+  {
+    "title": "Como aprender uma nova linguagem de programação me fez dominar minha linguagem nativa 🔥🤩",
+    "abstract": "Em 2015, eu era um programador júnior focado em C# e .NET, contratado para trabalhar no App Renda Fixa . O desafio era ser o único programador além...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6647861709157486592-Jvwq/",
+    "additionalLinks": [],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6647861709157486592-Jvwq/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-03-23"
+  },
+  {
+    "title": "Venho vos apresentar um Malware que criei usando com C# + Ionic Framework + Javascript",
+    "abstract": "Era Fevereiro de 2017, estava preparando minha apresentação na Campus Party Brasil sobre 'A vida e as aventuras de um desenvolvedor de software'. Meu objetivo era mostrar como...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_malware-com-android-ionic-framework-javascript-activity-6646771265807892480-nFbZ/",
+    "additionalLinks": ["https://bit.ly/393bUk9", "http://bit.ly/2l7tjka"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_malware-com-android-ionic-framework-javascript-activity-6646771265807892480-nFbZ/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-03-22"
+  },
+  {
+    "title": "Você sabe para que serve o tipo Symbol do Javascript?",
+    "abstract": "Seu objetivo principal é ser um identificador único e, na maioria dos casos, criar propriedades (metadados) em objetos que...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_hoje-%C3%A9-dia-de-avan%C3%A7ar-um-pouco-mais-em-javascript-activity-6645662310452994048-qMSH/",
+    "additionalLinks": ["http://bit.ly/2TTGE2E"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_hoje-%C3%A9-dia-de-avan%C3%A7ar-um-pouco-mais-em-javascript-activity-6645662310452994048-qMSH/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-03-21"
+  },
+  {
+    "title": "Como é meu processo para aprender uma nova tecnologia 🤯",
+    "abstract": "Olhando meu site, https://erickwendel.com você pode encontrar todas as palestras que ja fiz na vida e pode perceber que os conteúdos são bem...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-mvpbr-activity-6645292542025883648-j33z/",
+    "additionalLinks": [],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-mvpbr-activity-6645292542025883648-j33z/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-03-20"
+  },
+  {
+    "title": "...B3 aciona circuit breaker pela segunda vez esta semana...",
+    "abstract": "Você sabia que o termo 'Circuit Breaker' também é usado para nomear um padrão de projeto bem famoso no mundo de software? 🤯",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6644205084827758594-b1Lo/",
+    "additionalLinks": [],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6644205084827758594-b1Lo/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-03-18"
+  },
+  {
+    "title": "Quais são os atalhos do VSCode que você mais usa? 🤩🔥",
+    "abstract": "A maioria das pessoas que trabalha com tecnologia ama usar atalhos nos editores, afinal, isso aumenta produtividade. Eu pessoalmente, tento aprender um atalho novo sempre...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-vscode-activity-6643860844784439298-45cT/",
+    "additionalLinks": [],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-vscode-activity-6643860844784439298-45cT/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-03-17"
+  },
+  {
+    "title": "Você realmente sabe depurar uma aplicação Node.js? 🤯",
+    "abstract": "Você já deve ter percebido que sou totalmente a favor de ter SOMENTE o Docker instalado na máquina, para que...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-docker-nodejs-activity-6643466002791186432-O7lr/",
+    "additionalLinks": ["http://bit.ly/33fjZBa"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-docker-nodejs-activity-6643466002791186432-O7lr/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-03-16"
+  },
+  {
+    "title": "Hoje vamos falar sobre a proposta `top-level await`",
+    "abstract": "O objetivo principal é usar async/await fora de funções assíncronas. Até então, você necessariamente precisava...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_o-que-mais-me-motiva-de-trabalhar-com-javascript-activity-6642795126013874176-Attm/",
+    "additionalLinks": ["http://bit.ly/2wGRK1U"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_o-que-mais-me-motiva-de-trabalhar-com-javascript-activity-6642795126013874176-Attm/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-03-15"
+  },
+  {
+    "title": "Docker + Node.js + front-end + live reload 🔥",
+    "abstract": "Há duas semanas, fiz um post sobre a importância de Docker para desenvolvedores (http://bit.ly/3atxEXy) e muita gente pediu uma demo sobre, para tornar o assunto menos abstrato.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6641637164163575810-EZE3/",
+    "additionalLinks": ["http://bit.ly/38qnTIl"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6641637164163575810-EZE3/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-03-14"
+  },
+  {
+    "title": "Como é o processo de criação de treinamentos online? 🤯😎",
+    "abstract": "Vou compartilhar com você como é meu passo a passo 🤩",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-%C3%A9-o-processo-de-cria%C3%A7%C3%A3o-de-treinamentos-activity-6640926857971683328-Ub8N/",
+    "additionalLinks": ["https://lnkd.in/da39wk4"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_como-%C3%A9-o-processo-de-cria%C3%A7%C3%A3o-de-treinamentos-activity-6640926857971683328-Ub8N/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-03-13"
+  },
+  {
+    "title": "Você conhece os tipos Map e WeakMap do Javascript? 🤯?",
+    "abstract": "Introduzidos no ES6, Map e WeakMap são estruturas de dados criadas como alternativa a Objetos (plain Objects) do Javascript para ganhar performance e...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_js-protips-activity-6640333601680433152-uYO4/",
+    "additionalLinks": ["http://bit.ly/39cBYKB"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_js-protips-activity-6640333601680433152-uYO4/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-03-12"
+  },
+  {
+    "title": "Criando um jogo de batata quente com Node.js Web Sockets",
+    "abstract": "...é conhecido pela facilidade de trabalhar com aplicações real-time na Web usando Sockets. Tive a ideia de mostrar como Web Sockets podem ser maneiros sem...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-funapp-js-activity-6639204926159372288-99k_/",
+    "additionalLinks": [
+      "https://lnkd.in/d82iPQF",
+      "https://lnkd.in/dMm8QZJ",
+      "https://lnkd.in/dWrPFqb"
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-funapp-js-activity-6639204926159372288-99k_/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-03-11"
+  },
+  {
+    "title": "Você sabe o que é uma propriedade calculada em Javascript?🤯",
+    "abstract": "Os métodos acessores, também conhecidos como getters e setters são muito populares em linguagens como C#, Java, C++ e mais. No Javascript em si, o uso dessa feature é bem...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6635911441784291328-Sznw/",
+    "additionalLinks": ["http://bit.ly/329jjfQ"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6635911441784291328-Sznw/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-03-10"
+  },
+  {
+    "title": "Será que realmente vale a pena usar Docker? 🔥",
+    "abstract": "Um problema venho tentando resolver em times de software, é o tempo que um desenvolvedor(a) demora para...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-realmente-vale-a-pena-usar-docker-activity-6635530851524333568-C4z_/",
+    "additionalLinks": [],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-realmente-vale-a-pena-usar-docker-activity-6635530851524333568-C4z_/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-03-09"
+  },
+  {
+    "title": "Como usar ActiveMQ e instâncias do Node.js rodando em paralelo",
+    "abstract": "Muito se fala sobre o Node.js ser single-thread e não ser ideal para operações que demandem muito CPU e memória...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6635162184794030080-0uyA/",
+    "additionalLinks": ["https://lnkd.in/d-SmwCD"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6635162184794030080-0uyA/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-03-08"
+  },
+  {
+    "title": "Afinal, para que servem os Design Patterns? 🤨",
+    "abstract": "Se você é aquela pessoa que está tentando se aprimorar em programação e conhecer o 'avançado' das coisas, ja deve ter feito essa pergunta a si mesmo...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6633381229720813568-Kkkv/",
+    "additionalLinks": ["http://bit.ly/2wbUrZb"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6633381229720813568-Kkkv/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-03-07"
+  },
+  {
+    "title": "Meu GitHub é meu próprio guia de referência e pesquisa! 🤯",
+    "abstract": "Quando eu estava iniciando no mundo da programação, queria encontrar um jeito de mostrar aos recrutadores que eu conhecia uma tecnologia X, embora até aquele momento, eu não tinha experiência...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6632999921446330368-5Wgo/",
+    "additionalLinks": [
+      "https://github.com/erickwendel",
+      "https://lnkd.in/d_ArSji"
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6632999921446330368-5Wgo/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-03-06"
+  },
+  {
+    "title": "Conhecendo ZSH e OhMyZSH",
+    "abstract": "Tenho usado bastante o #zsh (ou zshell) com o #ohmyzsh no Mac e Linux, ele modifica meu terminal adicionando algumas ferramentas como...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_zsh-ohmyzsh-mvpbr-activity-6632672930041999360-xP5N/",
+    "additionalLinks": [
+      "https://ohmyz.sh/",
+      "https://lnkd.in/dDA3QQs",
+      "https://lnkd.in/dQKSEwv",
+      "https://lnkd.in/d84hSJD"
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_zsh-ohmyzsh-mvpbr-activity-6632672930041999360-xP5N/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-02-15"
+  },
+  {
+    "title": "Chegou a hora de contribuir para projetos Open Source! 🥳",
+    "abstract": "Para muitos é uma palavra complicada de lidar por alguns pensamentos: Tempo, trabalhar de 'graça' ou não saber como contribuir.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6631570029534031875-7In5/",
+    "additionalLinks": ["https://lnkd.in/dp5wxm7"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-activity-6631570029534031875-7In5/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-02-14"
+  },
+  {
+    "title": "Qual foi a aplicação mais divertida que você criou fora do trabalho?",
+    "abstract": "Nem só de trabalho vive um(a) programador(a). Uma vez, tive uma ideia de criar uma aplicação para zoar meus amigos no trabalho e ficou bem divertido haha.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-js-activity-6631194330407157760-U7fY/",
+    "additionalLinks": ["https://lnkd.in/dy-aBqr"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-js-activity-6631194330407157760-U7fY/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-02-13"
+  },
+  {
+    "title": "Uma ferramenta para matar processos travados com um simples comando! 😱",
+    "abstract": "O fkill é um pacote npm que lista todos os processos e seus sub processos. Executando o comando `fkill` em seu terminal ele lista todos os apps abertos.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-js-activity-6629031141254934528-Ud3H/",
+    "additionalLinks": ["https://lnkd.in/dMpwEzD"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-js-activity-6629031141254934528-Ud3H/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-02-12"
+  },
+  {
+    "title": "Você sabe o motivo de `new Date(0)` ser 01/01/1970? 😬?",
+    "abstract": "Em 03 de Novembro de 1971, a primeira versão do Unix foi entregue. Foi algo tão histórico que...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-js-activity-6628654880942772224-GCEG/",
+    "additionalLinks": [],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-js-activity-6628654880942772224-GCEG/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-02-11"
+  },
+  {
+    "title": "Eaí, você também sofre para saber o que tem no `this` do Javascript?",
+    "abstract": "No exemplo do código/video abaixo, eu demonstro uma função que irá ser chamada quando a página for carregada. Quando ela carregar, A função deverá...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-js-activity-6628311241796407298-f30x/",
+    "additionalLinks": ["https://lnkd.in/dgBgZAy"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-js-activity-6628311241796407298-f30x/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-02-10"
+  },
+  {
+    "title": "Você sabe o que significa a expressão '5/1 * * * 1'?",
+    "abstract": "Hoje, quero te mostrar uma forma de não precisar lidar com expressões como essa e facilitar seu trabalho, através do Cron Jobs no Node.js!",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-nodejs-activity-6627939105932095489-_Ixj/",
+    "additionalLinks": ["https://lnkd.in/dMnRyfy", "https://lnkd.in/duG8T8Y"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-nodejs-activity-6627939105932095489-_Ixj/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-02-09"
+  },
+  {
+    "title": "Como se remove uma propriedade de um objeto em Javascript?",
+    "abstract": "Existe uma outra forma de fazer, que vejo poucos usando, que se pode usar Destructuring assignment junto ao Spread Operator para remover de uma forma mais 'bonita'...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-javascript-activity-6626457488730411008-O0QQ",
+    "additionalLinks": [],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-javascript-activity-6626457488730411008-O0QQ",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-02-08"
+  },
+  {
+    "title": "Pare de usar o `npm install -g` 😱",
+    "abstract": "Ok, não é exatamente para você parar de instalar pacotes globais no NPM, mas que existe uma alternativa fantástica para você.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_js-nodejs-javascript-activity-6625059822620426240-upVO/",
+    "additionalLinks": [],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_js-nodejs-javascript-activity-6625059822620426240-upVO/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-02-07"
+  },
+  {
+    "title": "Exemplo de código para interceptação de request",
+    "abstract": "Precisei fazer uma interceptação de request  para toda vez que uma função fosse chamada, executar primeiro uma função customizada minha e só depois chamar a função verdadeira e criei esse exmplo de código maroto (um pouquinho avançado hehe). 🔥",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_sdk-mvpbr-googledevexpert-activity-6622884065890586624-trYN/",
+    "additionalLinks": ["https://lnkd.in/du6aihU"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_sdk-mvpbr-googledevexpert-activity-6622884065890586624-trYN/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-02-06"
+  },
+  {
+    "title": "Trabalhando com pacote npm npkill",
+    "abstract": "Agora aquela dica de OURO! Quer remover as pastas node_modules que não usa mais para liberar aquele espaço maroto da máquina?",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-nodejs-npm-activity-6621047462985506819-s6_H",
+    "additionalLinks": ["https://lnkd.in/d8NZb58"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-nodejs-npm-activity-6621047462985506819-s6_H",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-02-05"
+  },
+  {
+    "title": "Você sabe o que é GitCrypt?",
+    "abstract": "Eai, ainda tem duvidas sobre como lidar com variáveis de ambiente, chaves de API ou senhas de forma segura?",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-nodejs-activity-6620345400161251328-F58G/",
+    "additionalLinks": [],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_mvpbr-googledevexpert-nodejs-activity-6620345400161251328-F58G/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-02-04"
+  },
+  {
+    "title": "Test Driven Development vs somente testar código",
+    "abstract": "Você sabe a diferença entre trabalhar com Test Driven Development e somente testar código?",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_sinon-tdd-test-activity-6618901791859843077-wfzn/",
+    "additionalLinks": [],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_sinon-tdd-test-activity-6618901791859843077-wfzn/",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-02-03"
+  },
+  {
+    "title": "#Prettier + #ESLint + #VSCode == 🚀",
+    "abstract": "Ta aí uma dos posts que mais gostei de escrever, mesmo sendo escrito em 2017 ainda tem uma relevância gigantesca!",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_code-standards-padronizando-sua-equipe-activity-6612685044882395136-xCgQ",
+    "additionalLinks": ["https://lnkd.in/dU2Vnba"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_code-standards-padronizando-sua-equipe-activity-6612685044882395136-xCgQ",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-02-02"
+  },
+  {
+    "title": "Você conhece RxJS?",
+    "abstract": "Você sabia que RxJS não funciona apenas em aplicações Angular ou apenas no frontend?",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_rxjs-nodejs-designpatterns-activity-6608682453135568896-RO-5",
+    "additionalLinks": ["https://lnkd.in/dy2WtPw", "https://lnkd.in/dsXQjpZ"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_rxjs-nodejs-designpatterns-activity-6608682453135568896-RO-5",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-02-01"
+  },
+  {
     "title": "Looking back on 2019 — by Erick Wendel",
     "abstract": "7 countries, 98 talks, over 100 thousand people reached, two software awards, one software competition in Silicon Valley, and overwhelming joy! Yes, my friends… This year has gone down in history and I would like to share with you all the excitement of having so many achievements in so little time! I want to tell you about some of the most incredible moments of my life, and I hope you enjoy it and share with your friends.",
     "type": "post",
