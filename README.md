@@ -18,16 +18,16 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Projects**: 2018/November - 2015/July 
 * **Demonstrations**: 2018/December - 2016/September 
 * **Blog Posts**: 2020/May - 2015/February 
-* **Conference Talks**: 2020/January - 2015/January 
+* **Conference Talks**: 2020/May - 2015/January 
 
-#### Presentations' number: 99
+#### Presentations' number: 100
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (53)](#blog-posts)
-- [Conference Talks (99)](#conference-talks)
+- [Conference Talks (100)](#conference-talks)
 
 ## Projects
 
@@ -1241,6 +1241,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2020-05-07 - 10 secrets to improve Javascript Performance (pt-br)
+
+
+<a href="http://jsvidcon.com/" target="_blank">JSVidCon 2020</a>
+
+
+  
+
+
+Abstract:
+
+> Javascript language is the most popular language in the world. Thousands of developers are creating new Web APIs, Desktop applications, Web frameworks using Javascript-based applications. The current speed to delivery applications, time-to-production or just because the language’s simplicity in the majority cases are neglecting important application concepts such as performance, network overhead, memory, CPU usage, security, and maintainability. Attendees will see real use cases of a set of tools to improve their performance and a few changes that they could add to their existing applications and earn a better experience.
+> 
+> 
+
+
+_Tags: `node.js`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5966179,-46.6890048" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2020-01-28 - A lenda do desenvolvimento orientado a testes (pt-br)
 

@@ -1,5 +1,28 @@
 [
   {
+    "title": "10 secrets to improve Javascript Performance",
+    "abstract": "Javascript language is the most popular language in the world. Thousands of developers are creating new Web APIs, Desktop applications, Web frameworks using Javascript-based applications. The current speed to delivery applications, time-to-production or just because the language’s simplicity in the majority cases are neglecting important application concepts such as performance, network overhead, memory, CPU usage, security, and maintainability. Attendees will see real use cases of a set of tools to improve their performance and a few changes that they could add to their existing applications and earn a better experience.",
+    "type": "talk",
+    "event": {
+      "link": "http://jsvidcon.com/",
+      "name": "JSVidCon 2020"
+    },
+    "slides": "https://bit.ly/10-tips-perf-jsvidcon2020",
+    "photos": "",
+    "video": "",
+    "tags": ["node.js"],
+    "location": {
+      "latitude": -23.5966179,
+      "longitude": -46.6890048,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2020-05-07"
+  },
+  {
     "title": "A lenda do desenvolvimento orientado a testes",
     "abstract": "Muitos mitos e lendas ao redor do conceito de testes. Mas você realmente usa TDD no seu dia a dia? Qual é a principal diferença entre testar primeiro ou testar depois? Todas essas duvidas, vamos conversar direto dessa apresentação inédita online e gratuita!",
     "type": "talk",
