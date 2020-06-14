@@ -1,5 +1,28 @@
 [
   {
+    "title": "Deep dive into Node.js Streams",
+    "abstract": "Node.js was built to solve a specific problem to handle on-demand processing. Streams in Node.js are the most powerful and most scary feature of the entire platform. Many developers have avoided using Streams because it's run a little bit different and weird than the Promises approach. In this talk, attendees will learn about the native Node.js API stream and tools to help them create and understand the asynchronous flow. \nWe will explore the following takeaways\n- What are Node.js Streams?\n- Understanding Node.js events\n- Types of Streams on Node: Writable, Readable and Transform\n- Node.js Async Iterators ",
+    "type": "talk",
+    "event": {
+      "link": "https://geekle.us/",
+      "name": "Node.js Global Summit"
+    },
+    "slides": "https://bit.ly/nodejs-streams-ew-01",
+    "photos": "2020-05-30-deep_dive_into_nodejs_streams",
+    "video": "",
+    "tags": ["node.js", "english", "javascript"],
+    "location": {
+      "latitude": -23.5966179,
+      "longitude": -46.6890048,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": ["https://bit.ly/ew-nodejs-streams-code", "https://bit.ly/nodejs-streams-free-course"],
+    "language": "en-us",
+    "date": "2020-05-30"
+  },
+  {
     "title": "10 secrets to improve Javascript Performance",
     "abstract": "Javascript language is the most popular language in the world. Thousands of developers are creating new Web APIs, Desktop applications, Web frameworks using Javascript-based applications. The current speed to delivery applications, time-to-production or just because the language’s simplicity in the majority cases are neglecting important application concepts such as performance, network overhead, memory, CPU usage, security, and maintainability. Attendees will see real use cases of a set of tools to improve their performance and a few changes that they could add to their existing applications and earn a better experience.",
     "type": "talk",

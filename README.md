@@ -20,14 +20,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2020/June - 2015/February 
 * **Conference Talks**: 2020/May - 2015/January 
 
-#### Presentations' number: 100
+#### Presentations' number: 101
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
 - [Blog Posts (64)](#blog-posts)
-- [Conference Talks (100)](#conference-talks)
+- [Conference Talks (101)](#conference-talks)
 
 ## Projects
 
@@ -1444,6 +1444,36 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2020-05-30 - Deep dive into Node.js Streams (en-us)
+
+
+<a href="https://geekle.us/" target="_blank">Node.js Global Summit</a>
+
+
+<a href="https://bit.ly/nodejs-streams-ew-01" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2020-05-30-deep_dive_into_nodejs_streams" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Node.js was built to solve a specific problem to handle on-demand processing. Streams in Node.js are the most powerful and most scary feature of the entire platform. Many developers have avoided using Streams because it's run a little bit different and weird than the Promises approach. In this talk, attendees will learn about the native Node.js API stream and tools to help them create and understand the asynchronous flow. 
+> We will explore the following takeaways
+> - What are Node.js Streams?
+> - Understanding Node.js events
+> - Types of Streams on Node: Writable, Readable and Transform
+> - Node.js Async Iterators 
+> 
+> <b>Links</b>
+> 
+> - <a href="https://bit.ly/ew-nodejs-streams-code" target="_blank">https://bit.ly/ew-nodejs-streams-code</a>
+> - <a href="https://bit.ly/nodejs-streams-free-course" target="_blank">https://bit.ly/nodejs-streams-free-course</a>
+> 
+
+
+_Tags: `node.js`, `english`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5966179,-46.6890048" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2020-05-07 - 10 secrets to improve Javascript Performance (pt-br)
 
