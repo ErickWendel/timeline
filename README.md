@@ -16,7 +16,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Demonstrations**: 2018/December - 2016/September 
+* **Demonstrations**: 2020/June - 2016/September 
 * **Blog Posts**: 2020/June - 2015/February 
 * **Conference Talks**: 2020/May - 2015/January 
 
@@ -25,7 +25,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Demonstrations (08)](#demonstrations)
+- [Demonstrations (10)](#demonstrations)
 - [Blog Posts (64)](#blog-posts)
 - [Conference Talks (101)](#conference-talks)
 
@@ -122,6 +122,30 @@ _Tags: `translation`, `javascript`_
 
 
 ## Demonstrations
+
+### <a href="https://youtu.be/lx_zZvz5MFY" target="_blank">2020-06-12 - Como depurar aplicações Node.js com VSCode, Docker e seu terminal (pt-br)</a>
+
+
+Abstract:
+
+> Uma das coisas mais comuns na vida de pessoas desenvolvedoras de software é gastar um bom tempo tentando encontrar motivos de um programa não funcionar. Neste vídeo você vai aprender as principais formas de depurar aplicações Node.js usando Docker, VSCode, Browsers e até remote debug com o melhor que o Node.js tem a oferecer!
+> 
+> 
+
+
+_Tags: `node.js`, `vscode`, `docker`_
+
+### <a href="https://youtu.be/heiMGR5u6B8" target="_blank">2020-05-29 - NÃO FAÇA A CERTIFICAÇÃO DE NODE.JS... dizem os leigos (pt-br)</a>
+
+
+Abstract:
+
+> Resolvi contar como foi minha experiência em tirar a certificação de Node.js. Agrupei todas as principais dificuldades, possíveis dúvidas e claro dicas chaves para você que tem dúvida se quer fazer ou não.
+> 
+> 
+
+
+_Tags: `node.js`, `career`_
 
 ### <a href="https://www.facebook.com/page.erickwendel/videos/2248556708749766/" target="_blank">2018-12-14 - Demo - VSCode extensions: Cognitive Services + Siri + VSCode + Node.js - Criando uma extensão de tradução de texto no editor (pt-br)</a>
 

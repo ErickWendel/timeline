@@ -1,4 +1,25 @@
-[{
+[
+    {
+        "title": "NÃO FAÇA A CERTIFICAÇÃO DE NODE.JS... dizem os leigos",
+        "abstract": "Resolvi contar como foi minha experiência em tirar a certificação de Node.js. Agrupei todas as principais dificuldades, possíveis dúvidas e claro dicas chaves para você que tem dúvida se quer fazer ou não.",
+        "type": "video",
+        "link": "https://youtu.be/heiMGR5u6B8",
+        "additionalLinks": [""],
+        "tags": ["node.js", "career"],
+        "language": "pt-br",
+        "date": "2020-05-29"
+    },
+    {
+        "title": "Como depurar aplicações Node.js com VSCode, Docker e seu terminal",
+        "abstract": "Uma das coisas mais comuns na vida de pessoas desenvolvedoras de software é gastar um bom tempo tentando encontrar motivos de um programa não funcionar. Neste vídeo você vai aprender as principais formas de depurar aplicações Node.js usando Docker, VSCode, Browsers e até remote debug com o melhor que o Node.js tem a oferecer!",
+        "type": "video",
+        "link": "https://youtu.be/lx_zZvz5MFY",
+        "additionalLinks": [""],
+        "tags": ["node.js", "vscode", "docker"],
+        "language": "pt-br",
+        "date": "2020-06-12"
+    },
+    {
         "title": "Original Potato - Jogando Batata Quente em tempo real!",
         "abstract": "Está no ar, mais um aplicativo da ZOEIRA! Sabe aquela galera que sai com você e fica o tempo todo no celular? Que tal interagir com a galera, revivendo os tempos de batata quente     mas de uma forma mais digital ?",
         "type": "video",
