@@ -17,7 +17,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 * **Projects**: 2018/November - 2015/July 
 * **Demonstrations**: 2018/December - 2016/September 
-* **Blog Posts**: 2020/May - 2015/February 
+* **Blog Posts**: 2020/June - 2015/February 
 * **Conference Talks**: 2020/May - 2015/January 
 
 #### Presentations' number: 100
@@ -26,7 +26,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 - [Projects (06)](#projects)
 - [Demonstrations (08)](#demonstrations)
-- [Blog Posts (53)](#blog-posts)
+- [Blog Posts (64)](#blog-posts)
 - [Conference Talks (100)](#conference-talks)
 
 ## Projects
@@ -238,6 +238,209 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.freecodecamp.org/news/node-js-debugging/" target="_blank">2020-06-12 - How to Debug a Node.js Application with VSCode, Docker, and your Terminal (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.freecodecamp.org/news/node-js-debugging/" target="_blank">freeCodeCamp.org</a>
+
+
+Abstract:
+
+> In this article, we'll get into some powerful tools to help you find and fix bugs using VSCode, Docker, and your terminal. We'll also learn (and put into practice) the 6 ways to debug a Node.js application.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-n%C3%A3o-sabia-sobre-debugging-de-aplica%C3%A7%C3%B5es-activity-6677204437842325504-h6gA" target="_blank">2020-06-12 - Você conhece as 6 principais formas de depurar aplicações Node.js? 🔥🎉 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-n%C3%A3o-sabia-sobre-debugging-de-aplica%C3%A7%C3%B5es-activity-6677204437842325504-h6gA" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Criei uma super vídeo aula mostrando uma linha de pensamento que uso para encontrar e resolver problemas em programação. Na grande parte dos...
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dbdQ3PW" target="_blank">https://lnkd.in/dbdQ3PW</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-falar-ingl%C3%AAs-n%C3%A3o-me-ajudou-em-pa%C3%ADses-activity-6676475279449305090-3Yio" target="_blank">2020-06-10 - Como falar inglês não me ajudou em países da América Latina 😱🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-falar-ingl%C3%AAs-n%C3%A3o-me-ajudou-em-pa%C3%ADses-activity-6676475279449305090-3Yio" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sempre ouvi falar que o Inglês é uma língua universal. Estive em países como Uruguay, México, Colômbia e até do outro lado do mundo, na ...
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_kubernetes-ftp-sftp-activity-6675754495357534208-uYlU" target="_blank">2020-06-08 - Como funciona a esteira de CI & CD no Kubernetes? ⚙🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_kubernetes-ftp-sftp-activity-6675754495357534208-uYlU" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Trabalhei com clientes que criavam suas esteiras de pipeline de formas diferentes. Desde simples às complexas/confusas, entendi que...
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_code-standards-padronizando-sua-equipe-activity-6673967979908100096-zWZw" target="_blank">2020-06-07 - Você já teve problemas com padronização de código na sua equipe? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_code-standards-padronizando-sua-equipe-activity-6673967979908100096-zWZw" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Conforme os projetos e as equipes começam a crescer, fica mais difícil conseguir atualizar e manter o código. Um exemplo disso é a diferença de espaçamento e indentação em ...
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dWJuMhh" target="_blank">https://lnkd.in/dWJuMhh</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-fazer-plannings-semanais-sobre-minha-activity-6673583940743299072-htcy" target="_blank">2020-06-06 - Como fazer plannings semanais sobre minha vida tem me ajudado ser mais produtivo 🎉 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-fazer-plannings-semanais-sobre-minha-activity-6673583940743299072-htcy" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Trabalhar remoto em meio a tantos problemas acontecendo pelo mundo, não tem sido uma tarefa fácil. São notícias e mais notícias chegando e fica fácil se desmotivar, desfocar ou até...
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-a-vida-e-as-aventuras-de-um-desenvolvedor-activity-6671791626857328640-TzHZ" target="_blank">2020-06-03 - Conheça a vida e as aventuras de um desenvolvedor de software 🎉 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-a-vida-e-as-aventuras-de-um-desenvolvedor-activity-6671791626857328640-TzHZ" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sempre gostei de fazer projetos pessoais que me dessem algum tipo de motivação para continuar estudando. Alguns aparentemente...
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/eSY_Gmb" target="_blank">https://lnkd.in/eSY_Gmb</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_a-pior-apresenta%C3%A7%C3%A3o-da-minha-vida-nessa-activity-6671427504923820032-UJPb" target="_blank">2020-06-02 - A pior apresentação da minha vida 🙁 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_a-pior-apresenta%C3%A7%C3%A3o-da-minha-vida-nessa-activity-6671427504923820032-UJPb" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Nessa jornada, nem tudo são flores. Muitas vitórias, mas também muitos fracassos. Esta história foi um grande marco na minha vida e pude tirar várias lições.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b?source=friends_link&sk=6986b760d9468e9ec96a5c7482d1c541" target="_blank">2020-06-01 - Node v14.x is up — deep diving into new features 🎉 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b?source=friends_link&sk=6986b760d9468e9ec96a5c7482d1c541" target="_blank">Medium portal</a>
+
+
+Abstract:
+
+> Node v14 came with lots of new exciting features. Let’s dive into some of those features by creating a real app.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-fosse-fazer-upload-de-arquivos-activity-6671046670186287104-oHfP" target="_blank">2020-06-01 - E se você fosse fazer upload de arquivos em Node.js, como faria? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-fosse-fazer-upload-de-arquivos-activity-6671046670186287104-oHfP" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Upload assusta muita gente quando falamos de processar arquivos com mais de gigabytes de informação em memória. Isso porque o...
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/eHRQDZE" target="_blank">https://lnkd.in/eHRQDZE</a>
+> - <a href="https://lnkd.in/d-QuUwm" target="_blank">https://lnkd.in/d-QuUwm</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_se-o-seu-computador-parasse-de-funcionar-activity-6670697584409030656-v3iG" target="_blank">2020-05-31 - Se o seu computador parasse de funcionar agora, você seria capaz de recriar todo ambiente de desenvolvimento/pessoal em menos de 15 minutos em uma nova máquina? 😨 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_se-o-seu-computador-parasse-de-funcionar-activity-6670697584409030656-v3iG" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Trabalhei muitos anos com Ubuntu e Windows. Senti na pele o que é ter máquinas parando o tempo inteiro, drivers deixando de funcionar e sistemas corrompidos por alguma bobeira minha...
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/ekAFu4A" target="_blank">https://lnkd.in/ekAFu4A</a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_docker-java-nginx-activity-6668533134931353600-kO4u/" target="_blank">2020-05-20 - Como transformei uma aplicação React de 300MB em somente 16MB no Docker 😱🔥 (pt-br)</a>
 

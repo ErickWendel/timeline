@@ -1,5 +1,159 @@
 [
   {
+    "title": "How to Debug a Node.js Application with VSCode, Docker, and your Terminal",
+    "abstract": "In this article, we'll get into some powerful tools to help you find and fix bugs using VSCode, Docker, and your terminal. We'll also learn (and put into practice) the 6 ways to debug a Node.js application.",
+    "type": "post",
+    "link": "https://www.freecodecamp.org/news/node-js-debugging/",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.freecodecamp.org/news/node-js-debugging/",
+      "name": "freeCodeCamp.org"
+    },
+    "tags": ["linkedinPost"],
+    "language": "en-us",
+    "date": "2020-06-12"
+  },
+  {
+    "title": "Node v14.x is up — deep diving into new features 🎉",
+    "abstract": "Node v14 came with lots of new exciting features. Let’s dive into some of those features by creating a real app.",
+    "type": "post",
+    "link": "https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b?source=friends_link&sk=6986b760d9468e9ec96a5c7482d1c541",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b?source=friends_link&sk=6986b760d9468e9ec96a5c7482d1c541",
+      "name": "Medium portal"
+    },
+    "tags": ["linkedinPost"],
+    "language": "en-us",
+    "date": "2020-06-01"
+  },
+  {
+    "title": "Você conhece as 6 principais formas de depurar aplicações Node.js? 🔥🎉",
+    "abstract": "Criei uma super vídeo aula mostrando uma linha de pensamento que uso para encontrar e resolver problemas em programação. Na grande parte dos...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-n%C3%A3o-sabia-sobre-debugging-de-aplica%C3%A7%C3%B5es-activity-6677204437842325504-h6gA",
+    "additionalLinks": ["https://lnkd.in/dbdQ3PW"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-n%C3%A3o-sabia-sobre-debugging-de-aplica%C3%A7%C3%B5es-activity-6677204437842325504-h6gA",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-06-12"
+  },
+  {
+    "title": "Como falar inglês não me ajudou em países da América Latina 😱🔥",
+    "abstract": "Sempre ouvi falar que o Inglês é uma língua universal. Estive em países como Uruguay, México, Colômbia e até do outro lado do mundo, na ...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-falar-ingl%C3%AAs-n%C3%A3o-me-ajudou-em-pa%C3%ADses-activity-6676475279449305090-3Yio",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_como-falar-ingl%C3%AAs-n%C3%A3o-me-ajudou-em-pa%C3%ADses-activity-6676475279449305090-3Yio",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-06-10"
+  },
+  {
+    "title": "Como funciona a esteira de CI & CD no Kubernetes? ⚙🔥",
+    "abstract": "Trabalhei com clientes que criavam suas esteiras de pipeline de formas diferentes. Desde simples às complexas/confusas, entendi que...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_kubernetes-ftp-sftp-activity-6675754495357534208-uYlU",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_kubernetes-ftp-sftp-activity-6675754495357534208-uYlU",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-06-08"
+  },
+  {
+    "title": "Você já teve problemas com padronização de código na sua equipe? 🔥",
+    "abstract": "Conforme os projetos e as equipes começam a crescer, fica mais difícil conseguir atualizar e manter o código. Um exemplo disso é a diferença de espaçamento e indentação em ...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_code-standards-padronizando-sua-equipe-activity-6673967979908100096-zWZw",
+    "additionalLinks": ["https://lnkd.in/dWJuMhh"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_code-standards-padronizando-sua-equipe-activity-6673967979908100096-zWZw",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-06-07"
+  },
+  {
+    "title": "Como fazer plannings semanais sobre minha vida tem me ajudado ser mais produtivo 🎉",
+    "abstract": "Trabalhar remoto em meio a tantos problemas acontecendo pelo mundo, não tem sido uma tarefa fácil. São notícias e mais notícias chegando e fica fácil se desmotivar, desfocar ou até...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-fazer-plannings-semanais-sobre-minha-activity-6673583940743299072-htcy",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_como-fazer-plannings-semanais-sobre-minha-activity-6673583940743299072-htcy",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-06-06"
+  },
+  {
+    "title": "Conheça a vida e as aventuras de um desenvolvedor de software 🎉",
+    "abstract": "Sempre gostei de fazer projetos pessoais que me dessem algum tipo de motivação para continuar estudando. Alguns aparentemente...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-a-vida-e-as-aventuras-de-um-desenvolvedor-activity-6671791626857328640-TzHZ",
+    "additionalLinks": ["https://lnkd.in/eSY_Gmb"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-a-vida-e-as-aventuras-de-um-desenvolvedor-activity-6671791626857328640-TzHZ",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-06-03"
+  },
+  {
+    "title": "A pior apresentação da minha vida 🙁",
+    "abstract": "Nessa jornada, nem tudo são flores. Muitas vitórias, mas também muitos fracassos. Esta história foi um grande marco na minha vida e pude tirar várias lições.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_a-pior-apresenta%C3%A7%C3%A3o-da-minha-vida-nessa-activity-6671427504923820032-UJPb",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_a-pior-apresenta%C3%A7%C3%A3o-da-minha-vida-nessa-activity-6671427504923820032-UJPb",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-06-02"
+  },
+  {
+    "title": "E se você fosse fazer upload de arquivos em Node.js, como faria? 🔥",
+    "abstract": "Upload assusta muita gente quando falamos de processar arquivos com mais de gigabytes de informação em memória. Isso porque o...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-fosse-fazer-upload-de-arquivos-activity-6671046670186287104-oHfP",
+    "additionalLinks": ["https://lnkd.in/eHRQDZE", "https://lnkd.in/d-QuUwm"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-fosse-fazer-upload-de-arquivos-activity-6671046670186287104-oHfP",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-06-01"
+  },
+  {
+    "title": "Se o seu computador parasse de funcionar agora, você seria capaz de recriar todo ambiente de desenvolvimento/pessoal em menos de 15 minutos em uma nova máquina? 😨",
+    "abstract": "Trabalhei muitos anos com Ubuntu e Windows. Senti na pele o que é ter máquinas parando o tempo inteiro, drivers deixando de funcionar e sistemas corrompidos por alguma bobeira minha...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_se-o-seu-computador-parasse-de-funcionar-activity-6670697584409030656-v3iG",
+    "additionalLinks": ["https://lnkd.in/ekAFu4A"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_se-o-seu-computador-parasse-de-funcionar-activity-6670697584409030656-v3iG",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-05-31"
+  },
+  {
     "title": "Como transformei uma aplicação React de 300MB em somente 16MB no Docker 😱🔥",
     "abstract": "Já ouviu falar sobre multistage builds no #Docker? Esta semana, ajudei um amigo que trabalha com #Java. Notei que...",
     "type": "post",
