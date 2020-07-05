@@ -1,103 +1,135 @@
 [
-    {
-        "title": "NÃO FAÇA A CERTIFICAÇÃO DE NODE.JS... dizem os leigos",
-        "abstract": "Resolvi contar como foi minha experiência em tirar a certificação de Node.js. Agrupei todas as principais dificuldades, possíveis dúvidas e claro dicas chaves para você que tem dúvida se quer fazer ou não.",
-        "type": "video",
-        "link": "https://youtu.be/heiMGR5u6B8",
-        "additionalLinks": [""],
-        "tags": ["node.js", "career"],
-        "language": "pt-br",
-        "date": "2020-05-29"
-    },
-    {
-        "title": "Como depurar aplicações Node.js com VSCode, Docker e seu terminal",
-        "abstract": "Uma das coisas mais comuns na vida de pessoas desenvolvedoras de software é gastar um bom tempo tentando encontrar motivos de um programa não funcionar. Neste vídeo você vai aprender as principais formas de depurar aplicações Node.js usando Docker, VSCode, Browsers e até remote debug com o melhor que o Node.js tem a oferecer!",
-        "type": "video",
-        "link": "https://youtu.be/lx_zZvz5MFY",
-        "additionalLinks": [""],
-        "tags": ["node.js", "vscode", "docker"],
-        "language": "pt-br",
-        "date": "2020-06-12"
-    },
-    {
-        "title": "Original Potato - Jogando Batata Quente em tempo real!",
-        "abstract": "Está no ar, mais um aplicativo da ZOEIRA! Sabe aquela galera que sai com você e fica o tempo todo no celular? Que tal interagir com a galera, revivendo os tempos de batata quente     mas de uma forma mais digital ?",
-        "type": "video",
-       "additionalLinks": [""],
-        "link": "https://www.facebook.com/page.erickwendel/videos/1202597676537643/",
-        "tags": ["node.js", "websocket", "typescript"],
-        "language": "pt-br",
-        "date": "2018-01-09"
-    },
-    {
-        "title": "USBHacker - Virus para manipular quando um carregador é conectado",
-        "abstract": "Basicamente, o usuario em algum momento deixou o celular desbloqueado em sua mão e voce instalou o #USBHacker. Feito isso, quando ele for dormir, colocar o celular para carregar, nosso malware dispara ações, como GRITAR sem parar, faz com que o usuário não consiga fechar a aplicação, não consiga diminuir o volume, pisca com a nossa foto (manipulando o brilho), vibra, pisca a lanterna do celular e o MAIS LEGAL! Enquanto a pessoa está desesperada, suas fotos são tiradas em segundo plano e enviadas direto para um site em tempo real, para o mundo inteiro rir de sua reação.",
-        "type": "video",
-       "additionalLinks": ["https://github.com/ErickWendel/USBHacker", "https://vimeo.com/244524436"],
-        "link": "https://www.facebook.com/page.erickwendel/videos/1176045485859529/",
-        "tags": ["node.js", "android", "malware", "firebase"],
-        "language": "pt-br",
-        "date": "2017-11-27"
-    },
-    {
-        "title": "EvilAlexa - Comandos de voz para manipular serviços do Windows",
-        "abstract": "Malware a partir de comandos de voz usando os serviços da Amazon Web Services para Manipular serviços do Windows a partir da Internet hehehhe. A demo do projeto que fizemos na Campus Party 2017 BH",
-        "type": "video",
-       "additionalLinks": [""],
-        "link": "https://www.facebook.com/page.erickwendel/videos/1166364923494252/",
-        "tags": ["malware", "alexa", "c#", "aws"],
-        "language": "pt-br",
-        "date": "2017-11-11"
-    },
-    {
-        "title": "Malwares com Android utilizando Ionic Framework + Javascript + C# + WebSocket",
-        "abstract": "Olá galera, estive no The Big Hackathon realizado na Campus Party BR 10, como mentor. Na madrugada de 03/02 para 04/02, desenvolvi uma aplicação para mostrar o poder de um desenvolvedor de software, para a palestra também realizada na CPBR10 (link abaixo). No video, demonstramos a arquitetura e como foi desenvolvido, a demonstração voce encontra logo abaixo.",
-        "type": "video",
-       "additionalLinks": ["https://github.com/ErickWendel/Trojan.Android-CampusParty", "http://erickwendel.com.br/2017/02/04/malwares-com-android-utilizando-ionic-framework-javascript-c-websocket/"],
-        "link": "https://vimeo.com/241557117",
-        "tags": ["c#", "ionic", "malware", "virus"],
-        "language": "pt-br",
-        "date": "2017-02-04"
-    },
-    {
-        "title": "Trojan com Comandos de Voz utilizando Android Wear + Java + .NET + Protocolo WebSocket",
-        "abstract": "Na madrugada de sábado para domingo, junto ao Leonardo Lourenço, contruímos uma brincadeira com Android, C# e Comandos de voz",
-        "type": "video",
-       "additionalLinks": ["http://erickwendel.com.br/2016/11/06/trojan-com-comandos-de-voz-utilizando-android-wear-java-net-protocolo-websocket/"],
-        "link": "https://vimeo.com/241556950",
-        "tags": ["trojan", "c#", "android"],
-        "language": "pt-br",
-        "date": "2016-11-06"
-    },
-    {
-        "title": "WearPresentation – Android Wear + Device + NodeJS (WebSocket, Desktop e RestFull API)",
-        "abstract": "Para a galera que faz apresentações, essa é uma pequena demonstração do app que estou criando. Basicamente, o objetivo principal é controlar a apresentação usando gestos e movimentos e dar todo suporte ao palestrante durante a apresentação. Mostramos somente a funcionalidade mais básica do aplicativo, algumas ainda são “secretas” e inovadoras comparadas aos concorrentes",
-        "type": "video",
-       "additionalLinks": ["http://erickwendel.com.br/2016/09/20/wearpresentation-android-wear-device-nodejs-websocket-desktop-e-restfull-api/"],
-        "link": "https://vimeo.com/177959241",
-        "tags": ["wear", "android", "node.js"],
-        "language": "pt-br",
-        "date": "2016-09-20"
-    },
-    {
-        "title": "Telegram Bot Api + NodeJS + APIs do IBM Watson (Tone Analyser e Language Translation)",
-        "abstract": "Telegram Bot Api + NodeJS + APIs do IBM Watson (Tone Analyser e Language Translation). Demonstração da minha palestra para a trilha de NodeJS que aconteceu em 07/07/2016 no The Developer’s Conference ",
-        "type": "video",
-       "additionalLinks": ["http://erickwendel.com.br/2016/07/07/telegram-bot-api-nodejs-apis-do-ibm-watson-tone-analyser-e-language-translation/"],
-        "link": "https://vimeo.com/173722945",
-        "tags": ["telegram", "bot", "node.js", "ibm"],
-        "language": "pt-br",
-        "date": "2017-07-07"
-    },
-     
-    {
-        "title": "Demo - VSCode extensions: Cognitive Services + Siri + VSCode + Node.js - Criando uma extensão de tradução de texto no editor",
-        "abstract": "Amanha (15/12) acontece o Developers Sergipe e estamos mais que animados! Preparei uma demonstração integrando o #vscode, o serviço de tradução do #azure e a #siri, para a partir da seleção de um texto, traduzir automaticamente e falar o resultado em nosso idioma, é claro que é uma demo bem simples, mas mostra o poder e as ideias que vem em mente para brincar 😀 ",
-        "type": "video",
-       "additionalLinks": [""],
-        "link": "https://www.facebook.com/page.erickwendel/videos/2248556708749766/",
-        "tags": ["node.js", "microsoft", "siri", "vscode"],
-        "language": "pt-br",
-        "date": "2018-12-14"
-    }
+  {
+    "title": "A minha experiência como consultor em performance de aplicações",
+    "abstract": "Você sabe o que faz um consultor em performance de aplicações? Para muitos é um mistério como descobrir o que há de errado em aplicações e até difícil saber por onde começar.",
+    "type": "video",
+    "link": "https://youtu.be/90rdb0o4Arc",
+    "additionalLinks": [""],
+    "tags": ["node.js", "docker", "career"],
+    "language": "pt-br",
+    "date": "2020-07-03"
+  },
+  {
+    "title": "Como configurar seu ambiente de desenvolvimento Javascript para usar Docker",
+    "abstract": "Alguns desenvolvedores não gostam de usar o Docker como seu ambiente de desenvolvimento, pois acham o processo improdutivo e lento. Mas não precisa ser assim!",
+    "type": "video",
+    "link": "https://youtu.be/Bp2bU6fQcSo",
+    "additionalLinks": [""],
+    "tags": ["node.js", "javascript"],
+    "language": "pt-br",
+    "date": "2020-06-26"
+  },
+  {
+    "title": "NÃO FAÇA A CERTIFICAÇÃO DE NODE.JS... dizem os leigos",
+    "abstract": "Resolvi contar como foi minha experiência em tirar a certificação de Node.js. Agrupei todas as principais dificuldades, possíveis dúvidas e claro dicas chaves para você que tem dúvida se quer fazer ou não.",
+    "type": "video",
+    "link": "https://youtu.be/heiMGR5u6B8",
+    "additionalLinks": [""],
+    "tags": ["node.js", "career"],
+    "language": "pt-br",
+    "date": "2020-05-29"
+  },
+  {
+    "title": "Como depurar aplicações Node.js com VSCode, Docker e seu terminal",
+    "abstract": "Uma das coisas mais comuns na vida de pessoas desenvolvedoras de software é gastar um bom tempo tentando encontrar motivos de um programa não funcionar. Neste vídeo você vai aprender as principais formas de depurar aplicações Node.js usando Docker, VSCode, Browsers e até remote debug com o melhor que o Node.js tem a oferecer!",
+    "type": "video",
+    "link": "https://youtu.be/lx_zZvz5MFY",
+    "additionalLinks": [""],
+    "tags": ["node.js", "vscode", "docker"],
+    "language": "pt-br",
+    "date": "2020-06-12"
+  },
+  {
+    "title": "Original Potato - Jogando Batata Quente em tempo real!",
+    "abstract": "Está no ar, mais um aplicativo da ZOEIRA! Sabe aquela galera que sai com você e fica o tempo todo no celular? Que tal interagir com a galera, revivendo os tempos de batata quente     mas de uma forma mais digital ?",
+    "type": "video",
+    "additionalLinks": [""],
+    "link": "https://www.facebook.com/page.erickwendel/videos/1202597676537643/",
+    "tags": ["node.js", "websocket", "typescript"],
+    "language": "pt-br",
+    "date": "2018-01-09"
+  },
+  {
+    "title": "USBHacker - Virus para manipular quando um carregador é conectado",
+    "abstract": "Basicamente, o usuario em algum momento deixou o celular desbloqueado em sua mão e voce instalou o #USBHacker. Feito isso, quando ele for dormir, colocar o celular para carregar, nosso malware dispara ações, como GRITAR sem parar, faz com que o usuário não consiga fechar a aplicação, não consiga diminuir o volume, pisca com a nossa foto (manipulando o brilho), vibra, pisca a lanterna do celular e o MAIS LEGAL! Enquanto a pessoa está desesperada, suas fotos são tiradas em segundo plano e enviadas direto para um site em tempo real, para o mundo inteiro rir de sua reação.",
+    "type": "video",
+    "additionalLinks": [
+      "https://github.com/ErickWendel/USBHacker",
+      "https://vimeo.com/244524436"
+    ],
+    "link": "https://www.facebook.com/page.erickwendel/videos/1176045485859529/",
+    "tags": ["node.js", "android", "malware", "firebase"],
+    "language": "pt-br",
+    "date": "2017-11-27"
+  },
+  {
+    "title": "EvilAlexa - Comandos de voz para manipular serviços do Windows",
+    "abstract": "Malware a partir de comandos de voz usando os serviços da Amazon Web Services para Manipular serviços do Windows a partir da Internet hehehhe. A demo do projeto que fizemos na Campus Party 2017 BH",
+    "type": "video",
+    "additionalLinks": [""],
+    "link": "https://www.facebook.com/page.erickwendel/videos/1166364923494252/",
+    "tags": ["malware", "alexa", "c#", "aws"],
+    "language": "pt-br",
+    "date": "2017-11-11"
+  },
+  {
+    "title": "Malwares com Android utilizando Ionic Framework + Javascript + C# + WebSocket",
+    "abstract": "Olá galera, estive no The Big Hackathon realizado na Campus Party BR 10, como mentor. Na madrugada de 03/02 para 04/02, desenvolvi uma aplicação para mostrar o poder de um desenvolvedor de software, para a palestra também realizada na CPBR10 (link abaixo). No video, demonstramos a arquitetura e como foi desenvolvido, a demonstração voce encontra logo abaixo.",
+    "type": "video",
+    "additionalLinks": [
+      "https://github.com/ErickWendel/Trojan.Android-CampusParty",
+      "http://erickwendel.com.br/2017/02/04/malwares-com-android-utilizando-ionic-framework-javascript-c-websocket/"
+    ],
+    "link": "https://vimeo.com/241557117",
+    "tags": ["c#", "ionic", "malware", "virus"],
+    "language": "pt-br",
+    "date": "2017-02-04"
+  },
+  {
+    "title": "Trojan com Comandos de Voz utilizando Android Wear + Java + .NET + Protocolo WebSocket",
+    "abstract": "Na madrugada de sábado para domingo, junto ao Leonardo Lourenço, contruímos uma brincadeira com Android, C# e Comandos de voz",
+    "type": "video",
+    "additionalLinks": [
+      "http://erickwendel.com.br/2016/11/06/trojan-com-comandos-de-voz-utilizando-android-wear-java-net-protocolo-websocket/"
+    ],
+    "link": "https://vimeo.com/241556950",
+    "tags": ["trojan", "c#", "android"],
+    "language": "pt-br",
+    "date": "2016-11-06"
+  },
+  {
+    "title": "WearPresentation – Android Wear + Device + NodeJS (WebSocket, Desktop e RestFull API)",
+    "abstract": "Para a galera que faz apresentações, essa é uma pequena demonstração do app que estou criando. Basicamente, o objetivo principal é controlar a apresentação usando gestos e movimentos e dar todo suporte ao palestrante durante a apresentação. Mostramos somente a funcionalidade mais básica do aplicativo, algumas ainda são “secretas” e inovadoras comparadas aos concorrentes",
+    "type": "video",
+    "additionalLinks": [
+      "http://erickwendel.com.br/2016/09/20/wearpresentation-android-wear-device-nodejs-websocket-desktop-e-restfull-api/"
+    ],
+    "link": "https://vimeo.com/177959241",
+    "tags": ["wear", "android", "node.js"],
+    "language": "pt-br",
+    "date": "2016-09-20"
+  },
+  {
+    "title": "Telegram Bot Api + NodeJS + APIs do IBM Watson (Tone Analyser e Language Translation)",
+    "abstract": "Telegram Bot Api + NodeJS + APIs do IBM Watson (Tone Analyser e Language Translation). Demonstração da minha palestra para a trilha de NodeJS que aconteceu em 07/07/2016 no The Developer’s Conference ",
+    "type": "video",
+    "additionalLinks": [
+      "http://erickwendel.com.br/2016/07/07/telegram-bot-api-nodejs-apis-do-ibm-watson-tone-analyser-e-language-translation/"
+    ],
+    "link": "https://vimeo.com/173722945",
+    "tags": ["telegram", "bot", "node.js", "ibm"],
+    "language": "pt-br",
+    "date": "2017-07-07"
+  },
+
+  {
+    "title": "Demo - VSCode extensions: Cognitive Services + Siri + VSCode + Node.js - Criando uma extensão de tradução de texto no editor",
+    "abstract": "Amanha (15/12) acontece o Developers Sergipe e estamos mais que animados! Preparei uma demonstração integrando o #vscode, o serviço de tradução do #azure e a #siri, para a partir da seleção de um texto, traduzir automaticamente e falar o resultado em nosso idioma, é claro que é uma demo bem simples, mas mostra o poder e as ideias que vem em mente para brincar 😀 ",
+    "type": "video",
+    "additionalLinks": [""],
+    "link": "https://www.facebook.com/page.erickwendel/videos/2248556708749766/",
+    "tags": ["node.js", "microsoft", "siri", "vscode"],
+    "language": "pt-br",
+    "date": "2018-12-14"
+  }
 ]

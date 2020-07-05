@@ -1,12 +1,152 @@
 [
   {
+    "title": "How to Enable Live-reload on Docker-based Applications with Docker Volumes",
+    "abstract": "In this post you'll learn how to configure a development environment with live-reload enabled. This will allow you to convert a legacy application so it uses Docker, Docker volumes, and docker-compose",
+    "type": "post",
+    "link": "https://www.freecodecamp.org/news/how-to-enable-live-reload-on-docker-based-applications/",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.freecodecamp.org/news/author/erickwendel/",
+      "name": "freeCodeCamp.org"
+    },
+    "tags": ["linkedinPost"],
+    "language": "en-us",
+    "date": "2020-06-12"
+  },
+  {
+    "title": "A minha experiência como consultor em performance de aplicações 🔥⚡️",
+    "abstract": "Você sabe o que faz um consultor em performance de aplicações? Para muitos ainda é um mistério sobre como descobrir o que há de errado em aplicações e...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_a-minha-experi%C3%AAncia-como-consultor-em-performance-activity-6684801820251983872-IRfE",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_a-minha-experi%C3%AAncia-como-consultor-em-performance-activity-6684801820251983872-IRfE",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-07-03"
+  },
+  {
+    "title": "Pare de usar console.log em aplicações Node.js! 🤯😱",
+    "abstract": "Já parou para se perguntar o motivo de não visualizar logs internos de módulos com o Express? Será que a galera não usa logs para depurar as aplicações como nós?",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_pare-de-usar-consolelog-em-aplica%C3%A7%C3%B5es-nodejs-activity-6684466769479901184-dtNM",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_pare-de-usar-consolelog-em-aplica%C3%A7%C3%B5es-nodejs-activity-6684466769479901184-dtNM",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-07-02"
+  },
+  {
+    "title": "Como fazer um questionário via terminal de forma simples com Node.js 🔥",
+    "abstract": "Em Node.js, fazer programas de linha de comando tem sido algo bem comum, como Webpack, CLIs para gerenciar apps frontend como React cli, Angular cli e por aí vai.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-fazer-um-question%C3%A1rio-via-terminal-de-activity-6683739831031345152-iOFi",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_como-fazer-um-question%C3%A1rio-via-terminal-de-activity-6683739831031345152-iOFi",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-07-01"
+  },
+  {
+    "title": "Afinal, para que serve o package-lock.json? 🔥",
+    "abstract": "Em várias empresas que passei, elas ignoravam ou não tinham muito conhecimento sobre o motivo deste arquivo existir.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_afinal-para-que-serve-o-package-lockjson-activity-6681876112437469185-Cph_",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_afinal-para-que-serve-o-package-lockjson-activity-6681876112437469185-Cph_",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-06-27"
+  },
+  {
+    "title": "O dia que meu cliente perdeu mil dólares na AWS por erro humano 💸😱",
+    "abstract": "Em apenas uma semana foram-se $1339,21 ou R$7,003.13 na cotação atual. Usamos uma arquitetura 100% serverless no ambiente ...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_o-dia-que-meu-cliente-perdeu-mil-d%C3%B3lares-activity-6681559766977802240-deJR",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_o-dia-que-meu-cliente-perdeu-mil-d%C3%B3lares-activity-6681559766977802240-deJR",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-06-26"
+  },
+  {
+    "title": "O quão difícil é conseguir uma vaga internacional de trabalho remoto? 🔥😱",
+    "abstract": "Em 2019, eu estava fazendo dezenas de palestras fora do país e pensando o quão lucrativo poderia ser virar \"nômade\" digital, ganhando em...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_o-qu%C3%A3o-dif%C3%ADcil-%C3%A9-conseguir-uma-vaga-internacional-activity-6681207352466653184-QaBi",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_o-qu%C3%A3o-dif%C3%ADcil-%C3%A9-conseguir-uma-vaga-internacional-activity-6681207352466653184-QaBi",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-06-25"
+  },
+  {
+    "title": "E se você precisasse concatenar gigabytes de arquivos em um só arquivo, como faria? 🤩🔥",
+    "abstract": "Vejo muita gente falando que Node.js não é para isso ou aquilo. Mas na realidade, a cada dia que passa ele tem mais e mais recursos para...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-precisasse-concatenar-gigabytes-activity-6680854026860421120-w9Ka",
+    "additionalLinks": ["https://lnkd.in/dxq_2eA"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-precisasse-concatenar-gigabytes-activity-6680854026860421120-w9Ka",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-06-24"
+  },
+  {
+    "title": "Tracking de requests no Node.js com AsyncLocalStorage API🎉",
+    "abstract": "A cada versão nova do Node.js é uma surpresa. O ambiente tem se consolidado e alcançado um nível de maturidade espetacular.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_tracking-de-requests-no-nodejs-com-asynclocalstorage-activity-6679043301124931584-9gHp",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_tracking-de-requests-no-nodejs-com-asynclocalstorage-activity-6679043301124931584-9gHp",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-06-23"
+  },
+  {
+    "title": "Como é a rotina de um consultor de performance de aplicações 🔥",
+    "abstract": "Tenho trabalhado como consultor há alguns anos e, no último ano, estou focado em análise e solução de problemas de performance em aplicações em Node.js.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-%C3%A9-a-rotina-de-um-consultor-de-performance-activity-6678663295920050176-ALeW",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_como-%C3%A9-a-rotina-de-um-consultor-de-performance-activity-6678663295920050176-ALeW",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-06-22"
+  },
+  {
     "title": "How to Debug a Node.js Application with VSCode, Docker, and your Terminal",
     "abstract": "In this article, we'll get into some powerful tools to help you find and fix bugs using VSCode, Docker, and your terminal. We'll also learn (and put into practice) the 6 ways to debug a Node.js application.",
     "type": "post",
     "link": "https://www.freecodecamp.org/news/node-js-debugging/",
     "additionalLinks": [""],
     "portal": {
-      "link": "https://www.freecodecamp.org/news/node-js-debugging/",
+      "link": "https://www.freecodecamp.org/news/author/erickwendel/",
       "name": "freeCodeCamp.org"
     },
     "tags": ["linkedinPost"],

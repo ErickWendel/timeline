@@ -1,4 +1,51 @@
 [
+
+  {
+    "title": "Serverless, o mínimo que todo dev precisa saber com Erick Wendel",
+    "abstract": "Nessa super live você aprenderá diretamente com o Erick os principais pontos que todo desenvolvedor que quer se manter atualizado e ir para um próximo nível deve saber sobre serverless.",
+    "type": "talk",
+    "event": {
+      "link": "https://bit.ly/ew-maratona-fullcycle",
+      "name": "Maratona FullCycle 3.0"
+    },
+    "slides": "https://bit.ly/sls-apps-azurers",
+    "photos": "",
+    "video": "https://youtu.be/WG-Vi9MSS3c",
+    "tags": ["serverless", "node.js", "career"],
+    "location": {
+      "latitude": -23.5966179,
+      "longitude": -46.6890048,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2020-07-02"
+  },
+  {
+    "title": "Arquitetura de Aplicações Serverless com Erick Wendel",
+    "abstract": "Venha conversar com Erick Wendel, referência internacional em arquitetura de aplicações em cloud, instrutor premiado com Google Developer Expert e Microsoft MVP, os maiores prêmios em área de software do Mundo.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.youtube.com/watch?v=2ARbnZ1VRCI",
+      "name": "Azure RS"
+    },
+    "slides": "https://bit.ly/sls-apps-azurers",
+    "photos": "",
+    "video": "https://youtu.be/2ARbnZ1VRCI",
+    "tags": ["serverless", "node.js", "career"],
+    "location": {
+      "latitude": -23.5966179,
+      "longitude": -46.6890048,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2020-06-30"
+  },
   {
     "title": "Deep dive into Node.js Streams",
     "abstract": "Node.js was built to solve a specific problem to handle on-demand processing. Streams in Node.js are the most powerful and most scary feature of the entire platform. Many developers have avoided using Streams because it's run a little bit different and weird than the Promises approach. In this talk, attendees will learn about the native Node.js API stream and tools to help them create and understand the asynchronous flow. \nWe will explore the following takeaways\n- What are Node.js Streams?\n- Understanding Node.js events\n- Types of Streams on Node: Writable, Readable and Transform\n- Node.js Async Iterators ",
@@ -18,7 +65,10 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": ["https://bit.ly/ew-nodejs-streams-code", "https://bit.ly/nodejs-streams-free-course"],
+    "additionalLinks": [
+      "https://bit.ly/ew-nodejs-streams-code",
+      "https://bit.ly/nodejs-streams-free-course"
+    ],
     "language": "en-us",
     "date": "2020-05-30"
   },

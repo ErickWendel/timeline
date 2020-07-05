@@ -16,18 +16,18 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Demonstrations**: 2020/June - 2016/September 
-* **Blog Posts**: 2020/June - 2015/February 
-* **Conference Talks**: 2020/May - 2015/January 
+* **Demonstrations**: 2020/July - 2016/September 
+* **Blog Posts**: 2020/July - 2015/February 
+* **Conference Talks**: 2020/July - 2015/January 
 
-#### Presentations' number: 101
+#### Presentations' number: 103
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Demonstrations (10)](#demonstrations)
-- [Blog Posts (64)](#blog-posts)
-- [Conference Talks (101)](#conference-talks)
+- [Demonstrations (12)](#demonstrations)
+- [Blog Posts (74)](#blog-posts)
+- [Conference Talks (103)](#conference-talks)
 
 ## Projects
 
@@ -122,6 +122,30 @@ _Tags: `translation`, `javascript`_
 
 
 ## Demonstrations
+
+### <a href="https://youtu.be/90rdb0o4Arc" target="_blank">2020-07-03 - A minha experiência como consultor em performance de aplicações (pt-br)</a>
+
+
+Abstract:
+
+> Você sabe o que faz um consultor em performance de aplicações? Para muitos é um mistério como descobrir o que há de errado em aplicações e até difícil saber por onde começar.
+> 
+> 
+
+
+_Tags: `node.js`, `docker`, `career`_
+
+### <a href="https://youtu.be/Bp2bU6fQcSo" target="_blank">2020-06-26 - Como configurar seu ambiente de desenvolvimento Javascript para usar Docker (pt-br)</a>
+
+
+Abstract:
+
+> Alguns desenvolvedores não gostam de usar o Docker como seu ambiente de desenvolvimento, pois acham o processo improdutivo e lento. Mas não precisa ser assim!
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`_
 
 ### <a href="https://youtu.be/lx_zZvz5MFY" target="_blank">2020-06-12 - Como depurar aplicações Node.js com VSCode, Docker e seu terminal (pt-br)</a>
 
@@ -263,12 +287,185 @@ _Tags: `wear`, `android`, `node.js`_
 
 ## Blog Posts
 
+### <a href="https://www.linkedin.com/posts/erickwendel_a-minha-experi%C3%AAncia-como-consultor-em-performance-activity-6684801820251983872-IRfE" target="_blank">2020-07-03 - A minha experiência como consultor em performance de aplicações 🔥⚡️ (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_a-minha-experi%C3%AAncia-como-consultor-em-performance-activity-6684801820251983872-IRfE" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Você sabe o que faz um consultor em performance de aplicações? Para muitos ainda é um mistério sobre como descobrir o que há de errado em aplicações e...
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_pare-de-usar-consolelog-em-aplica%C3%A7%C3%B5es-nodejs-activity-6684466769479901184-dtNM" target="_blank">2020-07-02 - Pare de usar console.log em aplicações Node.js! 🤯😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_pare-de-usar-consolelog-em-aplica%C3%A7%C3%B5es-nodejs-activity-6684466769479901184-dtNM" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Já parou para se perguntar o motivo de não visualizar logs internos de módulos com o Express? Será que a galera não usa logs para depurar as aplicações como nós?
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-fazer-um-question%C3%A1rio-via-terminal-de-activity-6683739831031345152-iOFi" target="_blank">2020-07-01 - Como fazer um questionário via terminal de forma simples com Node.js 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-fazer-um-question%C3%A1rio-via-terminal-de-activity-6683739831031345152-iOFi" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Em Node.js, fazer programas de linha de comando tem sido algo bem comum, como Webpack, CLIs para gerenciar apps frontend como React cli, Angular cli e por aí vai.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_afinal-para-que-serve-o-package-lockjson-activity-6681876112437469185-Cph_" target="_blank">2020-06-27 - Afinal, para que serve o package-lock.json? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_afinal-para-que-serve-o-package-lockjson-activity-6681876112437469185-Cph_" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Em várias empresas que passei, elas ignoravam ou não tinham muito conhecimento sobre o motivo deste arquivo existir.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_o-dia-que-meu-cliente-perdeu-mil-d%C3%B3lares-activity-6681559766977802240-deJR" target="_blank">2020-06-26 - O dia que meu cliente perdeu mil dólares na AWS por erro humano 💸😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_o-dia-que-meu-cliente-perdeu-mil-d%C3%B3lares-activity-6681559766977802240-deJR" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Em apenas uma semana foram-se $1339,21 ou R$7,003.13 na cotação atual. Usamos uma arquitetura 100% serverless no ambiente ...
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_o-qu%C3%A3o-dif%C3%ADcil-%C3%A9-conseguir-uma-vaga-internacional-activity-6681207352466653184-QaBi" target="_blank">2020-06-25 - O quão difícil é conseguir uma vaga internacional de trabalho remoto? 🔥😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_o-qu%C3%A3o-dif%C3%ADcil-%C3%A9-conseguir-uma-vaga-internacional-activity-6681207352466653184-QaBi" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Em 2019, eu estava fazendo dezenas de palestras fora do país e pensando o quão lucrativo poderia ser virar "nômade" digital, ganhando em...
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-precisasse-concatenar-gigabytes-activity-6680854026860421120-w9Ka" target="_blank">2020-06-24 - E se você precisasse concatenar gigabytes de arquivos em um só arquivo, como faria? 🤩🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-precisasse-concatenar-gigabytes-activity-6680854026860421120-w9Ka" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Vejo muita gente falando que Node.js não é para isso ou aquilo. Mas na realidade, a cada dia que passa ele tem mais e mais recursos para...
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dxq_2eA" target="_blank">https://lnkd.in/dxq_2eA</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_tracking-de-requests-no-nodejs-com-asynclocalstorage-activity-6679043301124931584-9gHp" target="_blank">2020-06-23 - Tracking de requests no Node.js com AsyncLocalStorage API🎉 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_tracking-de-requests-no-nodejs-com-asynclocalstorage-activity-6679043301124931584-9gHp" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> A cada versão nova do Node.js é uma surpresa. O ambiente tem se consolidado e alcançado um nível de maturidade espetacular.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-%C3%A9-a-rotina-de-um-consultor-de-performance-activity-6678663295920050176-ALeW" target="_blank">2020-06-22 - Como é a rotina de um consultor de performance de aplicações 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-%C3%A9-a-rotina-de-um-consultor-de-performance-activity-6678663295920050176-ALeW" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Tenho trabalhado como consultor há alguns anos e, no último ano, estou focado em análise e solução de problemas de performance em aplicações em Node.js.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.freecodecamp.org/news/how-to-enable-live-reload-on-docker-based-applications/" target="_blank">2020-06-12 - How to Enable Live-reload on Docker-based Applications with Docker Volumes (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.freecodecamp.org/news/author/erickwendel/" target="_blank">freeCodeCamp.org</a>
+
+
+Abstract:
+
+> In this post you'll learn how to configure a development environment with live-reload enabled. This will allow you to convert a legacy application so it uses Docker, Docker volumes, and docker-compose
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
 ### <a href="https://www.freecodecamp.org/news/node-js-debugging/" target="_blank">2020-06-12 - How to Debug a Node.js Application with VSCode, Docker, and your Terminal (en-us)</a>
 
 
 Portal:
 
-> <a href="https://www.freecodecamp.org/news/node-js-debugging/" target="_blank">freeCodeCamp.org</a>
+> <a href="https://www.freecodecamp.org/news/author/erickwendel/" target="_blank">freeCodeCamp.org</a>
 
 
 Abstract:
@@ -1468,6 +1665,48 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2020-07-02 - Serverless, o mínimo que todo dev precisa saber com Erick Wendel (pt-br)
+
+
+<a href="https://bit.ly/ew-maratona-fullcycle" target="_blank">Maratona FullCycle 3.0</a>
+
+
+<a href="https://bit.ly/sls-apps-azurers" target="_blank">slides</a> |   <a href="https://youtu.be/WG-Vi9MSS3c" target="_blank">video</a>
+
+
+Abstract:
+
+> Nessa super live você aprenderá diretamente com o Erick os principais pontos que todo desenvolvedor que quer se manter atualizado e ir para um próximo nível deve saber sobre serverless.
+> 
+> 
+
+
+_Tags: `serverless`, `node.js`, `career`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5966179,-46.6890048" target="_blank">São Paulo - SP, Brazil</a>.
+
+### 2020-06-30 - Arquitetura de Aplicações Serverless com Erick Wendel (pt-br)
+
+
+<a href="https://www.youtube.com/watch?v=2ARbnZ1VRCI" target="_blank">Azure RS</a>
+
+
+<a href="https://bit.ly/sls-apps-azurers" target="_blank">slides</a> |   <a href="https://youtu.be/2ARbnZ1VRCI" target="_blank">video</a>
+
+
+Abstract:
+
+> Venha conversar com Erick Wendel, referência internacional em arquitetura de aplicações em cloud, instrutor premiado com Google Developer Expert e Microsoft MVP, os maiores prêmios em área de software do Mundo.
+> 
+> 
+
+
+_Tags: `serverless`, `node.js`, `career`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5966179,-46.6890048" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2020-05-30 - Deep dive into Node.js Streams (en-us)
 
