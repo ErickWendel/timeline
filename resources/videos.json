@@ -1,5 +1,25 @@
 [
   {
+    "title": "OS AMERICANOS SÃO MELHORES EM PROGRAMAÇÃO... dizem os leigos",
+    "abstract": "Você acha que os americanos são melhores em programação que brasileiros? Em 2019, passei 3 meses estudando inglês em San Francisco, palestrando e ...",
+    "type": "video",
+    "link": "https://bit.ly/americanos-vs-brasileiros-tech",
+    "additionalLinks": [""],
+    "tags": ["career"],
+    "language": "pt-br",
+    "date": "2020-07-17"
+  },
+  {
+    "title": "Bate-papo com Armando Magalhães programador na Netflix",
+    "abstract": "Seja muito bem vindo ao primeiro #DevsPeloMundo. Neste bate papo, vamos entrevistar o brasileiro Armando Magalhães, solutions developer na #Netflix...",
+    "type": "video",
+    "link": "https://bit.ly/devspelomundo01",
+    "additionalLinks": [""],
+    "tags": ["career"],
+    "language": "pt-br",
+    "date": "2020-07-09"
+  },
+  {
     "title": "A minha experiência como consultor em performance de aplicações",
     "abstract": "Você sabe o que faz um consultor em performance de aplicações? Para muitos é um mistério como descobrir o que há de errado em aplicações e até difícil saber por onde começar.",
     "type": "video",

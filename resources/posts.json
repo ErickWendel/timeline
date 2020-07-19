@@ -1,5 +1,61 @@
 [
   {
+    "title": "Como criar um programa para monitorar performance de aplicações Node.js? 😱🔥",
+    "abstract": "Os Application Performance Monitors, como New Relic, Inc., Dynatrace ou Datadog, são programas bem conhecidos que monitoram o comportamento de aplicações e exibem relatórios sobre a saúde interna da sua aplicação ao longo do tempo...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-criar-um-programa-para-monitorar-performance-activity-6689173535098716161-beMi",
+    "additionalLinks": ["https://lnkd.in/eAHt2dt", "http://bit.ly/ew-apm"],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_como-criar-um-programa-para-monitorar-performance-activity-6689173535098716161-beMi",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-07-15"
+},
+  {
+    "title": "O dia que quebramos o VSCode Live Share em live 🤣⚡️",
+    "abstract": "Era 2019, e a Microsoft estava com o #VSCode #LiveShare em lançamento em versão beta. Feature que permitia desenvolvedores acessarem código remotamente, depurando e contribuindo juntos....",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_vscode-liveshare-activity-6687332344208084992-T73p",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_vscode-liveshare-activity-6687332344208084992-T73p",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-07-13"
+},
+  {
+    "title": "Estou vivendo aquela parte do \"é difícil empreender\" 😂",
+    "abstract": "Ah, é difícil empreender NO BRASIL? Eu nem estou falando sobre isso ainda. A chave de empreender é tomar decisões a longo prazo, tomar riscos, e sempre pensar no próximo nível.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_estou-vivendo-aquela-parte-do-%C3%A9-dif%C3%ADcil-activity-6686418896574017536-UwLM",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_estou-vivendo-aquela-parte-do-%C3%A9-dif%C3%ADcil-activity-6686418896574017536-UwLM",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-07-12"
+},
+  {
+    "title": "A forma de importar e exportar módulos no Javascript está mudando, você está pronto(a)? 🔥😱",
+    "abstract": "Sim meus amigos, estamos quase lá! O Javascript no backend ainda é diferente do Javascript no frontend. Principalmente na forma de manipular módulos...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_a-forma-de-importar-e-exportar-m%C3%B3dulos-no-activity-6686267690182565888-h5K5",
+    "additionalLinks": ["https://lnkd.in/eAHt2dt", "https://bit.ly/esm-talk-01"],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_a-forma-de-importar-e-exportar-m%C3%B3dulos-no-activity-6686267690182565888-h5K5",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-07-12"
+  },
+  {
     "title": "How to Enable Live-reload on Docker-based Applications with Docker Volumes",
     "abstract": "In this post you'll learn how to configure a development environment with live-reload enabled. This will allow you to convert a legacy application so it uses Docker, Docker volumes, and docker-compose",
     "type": "post",
@@ -9,7 +65,7 @@
       "link": "https://www.freecodecamp.org/news/author/erickwendel/",
       "name": "freeCodeCamp.org"
     },
-    "tags": ["linkedinPost"],
+    "tags": ["freeCodeCamp"],
     "language": "en-us",
     "date": "2020-06-12"
   },

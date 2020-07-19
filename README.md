@@ -25,8 +25,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Demonstrations (12)](#demonstrations)
-- [Blog Posts (74)](#blog-posts)
+- [Demonstrations (14)](#demonstrations)
+- [Blog Posts (78)](#blog-posts)
 - [Conference Talks (103)](#conference-talks)
 
 ## Projects
@@ -122,6 +122,30 @@ _Tags: `translation`, `javascript`_
 
 
 ## Demonstrations
+
+### <a href="https://bit.ly/americanos-vs-brasileiros-tech" target="_blank">2020-07-17 - OS AMERICANOS SÃO MELHORES EM PROGRAMAÇÃO... dizem os leigos (pt-br)</a>
+
+
+Abstract:
+
+> Você acha que os americanos são melhores em programação que brasileiros? Em 2019, passei 3 meses estudando inglês em San Francisco, palestrando e ...
+> 
+> 
+
+
+_Tags: `career`_
+
+### <a href="https://bit.ly/devspelomundo01" target="_blank">2020-07-09 - Bate-papo com Armando Magalhães programador na Netflix (pt-br)</a>
+
+
+Abstract:
+
+> Seja muito bem vindo ao primeiro #DevsPeloMundo. Neste bate papo, vamos entrevistar o brasileiro Armando Magalhães, solutions developer na #Netflix...
+> 
+> 
+
+
+_Tags: `career`_
 
 ### <a href="https://youtu.be/90rdb0o4Arc" target="_blank">2020-07-03 - A minha experiência como consultor em performance de aplicações (pt-br)</a>
 
@@ -286,6 +310,82 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-criar-um-programa-para-monitorar-performance-activity-6689173535098716161-beMi" target="_blank">2020-07-15 - Como criar um programa para monitorar performance de aplicações Node.js? 😱🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-criar-um-programa-para-monitorar-performance-activity-6689173535098716161-beMi" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Os Application Performance Monitors, como New Relic, Inc., Dynatrace ou Datadog, são programas bem conhecidos que monitoram o comportamento de aplicações e exibem relatórios sobre a saúde interna da sua aplicação ao longo do tempo...
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/eAHt2dt" target="_blank">https://lnkd.in/eAHt2dt</a>
+> - <a href="http://bit.ly/ew-apm" target="_blank">http://bit.ly/ew-apm</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_vscode-liveshare-activity-6687332344208084992-T73p" target="_blank">2020-07-13 - O dia que quebramos o VSCode Live Share em live 🤣⚡️ (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_vscode-liveshare-activity-6687332344208084992-T73p" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Era 2019, e a Microsoft estava com o #VSCode #LiveShare em lançamento em versão beta. Feature que permitia desenvolvedores acessarem código remotamente, depurando e contribuindo juntos....
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_estou-vivendo-aquela-parte-do-%C3%A9-dif%C3%ADcil-activity-6686418896574017536-UwLM" target="_blank">2020-07-12 - Estou vivendo aquela parte do "é difícil empreender" 😂 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_estou-vivendo-aquela-parte-do-%C3%A9-dif%C3%ADcil-activity-6686418896574017536-UwLM" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Ah, é difícil empreender NO BRASIL? Eu nem estou falando sobre isso ainda. A chave de empreender é tomar decisões a longo prazo, tomar riscos, e sempre pensar no próximo nível.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_a-forma-de-importar-e-exportar-m%C3%B3dulos-no-activity-6686267690182565888-h5K5" target="_blank">2020-07-12 - A forma de importar e exportar módulos no Javascript está mudando, você está pronto(a)? 🔥😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_a-forma-de-importar-e-exportar-m%C3%B3dulos-no-activity-6686267690182565888-h5K5" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sim meus amigos, estamos quase lá! O Javascript no backend ainda é diferente do Javascript no frontend. Principalmente na forma de manipular módulos...
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/eAHt2dt" target="_blank">https://lnkd.in/eAHt2dt</a>
+> - <a href="https://bit.ly/esm-talk-01" target="_blank">https://bit.ly/esm-talk-01</a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_a-minha-experi%C3%AAncia-como-consultor-em-performance-activity-6684801820251983872-IRfE" target="_blank">2020-07-03 - A minha experiência como consultor em performance de aplicações 🔥⚡️ (pt-br)</a>
 
@@ -458,7 +558,7 @@ Abstract:
 > 
 
 
-_Tags: `linkedinPost`_
+_Tags: `freeCodeCamp`_
 
 ### <a href="https://www.freecodecamp.org/news/node-js-debugging/" target="_blank">2020-06-12 - How to Debug a Node.js Application with VSCode, Docker, and your Terminal (en-us)</a>
 
