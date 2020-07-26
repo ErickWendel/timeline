@@ -1,5 +1,25 @@
 [
   {
+    "title": "Como Converter Callbacks em Promises em Javascript",
+    "abstract": "Você provavelmente já conhece o que são funções assíncronas em Javascript e o quão problemáticas elas podem ser. Neste vídeo, você vai aprender a usar o módulos internos do Node.js para converter funções #Javascript de #Callback existentes em #Promises e ainda de quebra usar async/await para ordenar seus resultados",
+    "type": "video",
+    "link": "https://bit.ly/video-callbacks01",
+    "additionalLinks": [""],
+    "tags": ["javascript", "node.js"],
+    "language": "pt-br",
+    "date": "2020-07-21"
+  },
+  {
+    "title": "Bate-papo com Guilherme Hermeto membro do comitê do Javascript e programador na Netflix",
+    "abstract": "Seja muito bem vindo(a) ao segundo #DevsPeloMundo. Neste bate papo, vamos entrevistar o brasileiro Guilherme, programador na plataforma serverless da Netflix e membro do comitê da #TC39 (ECMAScript/Javascript) contando sua experiência em como foi parar nos Estados Unidos, história de vida e segredos de sua rotina em uma das empresas mais desejadas do mundo.",
+    "type": "video",
+    "link": "https://bit.ly/live-guilherme-netflix-tc39",
+    "additionalLinks": [""],
+    "tags": ["webinar", "devspelomundo", "career"],
+    "language": "pt-br",
+    "date": "2020-07-23"
+  },
+  {
     "title": "OS AMERICANOS SÃO MELHORES EM PROGRAMAÇÃO... dizem os leigos",
     "abstract": "Você acha que os americanos são melhores em programação que brasileiros? Em 2019, passei 3 meses estudando inglês em San Francisco, palestrando e ...",
     "type": "video",

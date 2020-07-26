@@ -1,18 +1,88 @@
 [
   {
+    "title": "Já pensou em publicar um pacote NPM? 😱🔥",
+    "abstract": "Se você trabalha com programação, tenho certeza que provavelmente criou alguma função que foi útil à você por muito tempo. Talvez...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_j%C3%A1-pensou-em-publicar-um-pacote-npm-activity-6692421682184888320-3HeY",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_j%C3%A1-pensou-em-publicar-um-pacote-npm-activity-6692421682184888320-3HeY",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-07-24"
+  },
+  {
+    "title": "Qual o mínimo que devs precisam saber antes de iniciar no mundo de aplicações serverless?😱🔥",
+    "abstract": "Essa é uma pergunta bem frequente dos meus clientes, ao pensar em colocar seu time frente à uma arquitetura deste tipo. Recentemente...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_serverless-o-m%C3%ADnimo-que-todo-dev-precisa-activity-6692070351842619393-Dl2T",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_serverless-o-m%C3%ADnimo-que-todo-dev-precisa-activity-6692070351842619393-Dl2T",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-07-23"
+  },
+  {
+    "title": "O que é melhor: Kubernetes ou Aplicações Serverless? 😱⚡️🐳 ",
+    "abstract": "Essa sem dúvida é a treta do século! A real é que não existe melhor ou pior, existe o contexto do seu time e a necessidade da sua empresa...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_kubernetes-serverless-activity-6691696475396706304-Ov3b",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_kubernetes-serverless-activity-6691696475396706304-Ov3b",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-07-22"
+  },
+  {
+    "title": "Como converter callbacks em Promises usando Javascript",
+    "abstract": "Por mais que o tema pareça 'batido', é um problema muito comum que ainda vejo a galera compartilhando em grupos de desenvolvimento. Aquele questionamento de ...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-converter-callbacks-em-promises-em-javascript-activity-6691336049848786944-fC3T",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_como-converter-callbacks-em-promises-em-javascript-activity-6691336049848786944-fC3T",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-07-21"
+  },
+  {
+    "title": "How to Reuse Node.js Packages with AWS Lambda Functions Using Amplify and Lambda Layers",
+    "abstract": "In this article, you'll learn how to inject custom packages on AWS Lambda Functions' Runtime by using AWS Lambda Layers. You'll also use Amplify to develop, deploy, and distribute your applications.",
+    "type": "post",
+    "link": "https://www.freecodecamp.org/news/how-to-reuse-packages-with-aws-lambda-functions-using-amplify/",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.freecodecamp.org/news/how-to-reuse-packages-with-aws-lambda-functions-using-amplify/",
+      "name": "freeCodeCamp.org"
+    },
+    "tags": ["node.js", "serverless", "amplify", "freeCodeCamp"],
+    "language": "en-us",
+    "date": "2020-07-20"
+  },
+  {
     "title": "Como criar um programa para monitorar performance de aplicações Node.js? 😱🔥",
     "abstract": "Os Application Performance Monitors, como New Relic, Inc., Dynatrace ou Datadog, são programas bem conhecidos que monitoram o comportamento de aplicações e exibem relatórios sobre a saúde interna da sua aplicação ao longo do tempo...",
     "type": "post",
     "link": "https://www.linkedin.com/posts/erickwendel_como-criar-um-programa-para-monitorar-performance-activity-6689173535098716161-beMi",
     "additionalLinks": ["https://lnkd.in/eAHt2dt", "http://bit.ly/ew-apm"],
     "portal": {
-        "link": "https://www.linkedin.com/posts/erickwendel_como-criar-um-programa-para-monitorar-performance-activity-6689173535098716161-beMi",
-        "name": "Linkedin Post"
+      "link": "https://www.linkedin.com/posts/erickwendel_como-criar-um-programa-para-monitorar-performance-activity-6689173535098716161-beMi",
+      "name": "Linkedin Post"
     },
     "tags": ["linkedinPost"],
     "language": "pt-br",
     "date": "2020-07-15"
-},
+  },
   {
     "title": "O dia que quebramos o VSCode Live Share em live 🤣⚡️",
     "abstract": "Era 2019, e a Microsoft estava com o #VSCode #LiveShare em lançamento em versão beta. Feature que permitia desenvolvedores acessarem código remotamente, depurando e contribuindo juntos....",
@@ -20,13 +90,13 @@
     "link": "https://www.linkedin.com/posts/erickwendel_vscode-liveshare-activity-6687332344208084992-T73p",
     "additionalLinks": [""],
     "portal": {
-        "link": "https://www.linkedin.com/posts/erickwendel_vscode-liveshare-activity-6687332344208084992-T73p",
-        "name": "Linkedin Post"
+      "link": "https://www.linkedin.com/posts/erickwendel_vscode-liveshare-activity-6687332344208084992-T73p",
+      "name": "Linkedin Post"
     },
     "tags": ["linkedinPost"],
     "language": "pt-br",
     "date": "2020-07-13"
-},
+  },
   {
     "title": "Estou vivendo aquela parte do \"é difícil empreender\" 😂",
     "abstract": "Ah, é difícil empreender NO BRASIL? Eu nem estou falando sobre isso ainda. A chave de empreender é tomar decisões a longo prazo, tomar riscos, e sempre pensar no próximo nível.",
@@ -34,19 +104,22 @@
     "link": "https://www.linkedin.com/posts/erickwendel_estou-vivendo-aquela-parte-do-%C3%A9-dif%C3%ADcil-activity-6686418896574017536-UwLM",
     "additionalLinks": [""],
     "portal": {
-        "link": "https://www.linkedin.com/posts/erickwendel_estou-vivendo-aquela-parte-do-%C3%A9-dif%C3%ADcil-activity-6686418896574017536-UwLM",
-        "name": "Linkedin Post"
+      "link": "https://www.linkedin.com/posts/erickwendel_estou-vivendo-aquela-parte-do-%C3%A9-dif%C3%ADcil-activity-6686418896574017536-UwLM",
+      "name": "Linkedin Post"
     },
     "tags": ["linkedinPost"],
     "language": "pt-br",
     "date": "2020-07-12"
-},
+  },
   {
     "title": "A forma de importar e exportar módulos no Javascript está mudando, você está pronto(a)? 🔥😱",
     "abstract": "Sim meus amigos, estamos quase lá! O Javascript no backend ainda é diferente do Javascript no frontend. Principalmente na forma de manipular módulos...",
     "type": "post",
     "link": "https://www.linkedin.com/posts/erickwendel_a-forma-de-importar-e-exportar-m%C3%B3dulos-no-activity-6686267690182565888-h5K5",
-    "additionalLinks": ["https://lnkd.in/eAHt2dt", "https://bit.ly/esm-talk-01"],
+    "additionalLinks": [
+      "https://lnkd.in/eAHt2dt",
+      "https://bit.ly/esm-talk-01"
+    ],
     "portal": {
       "link": "https://www.linkedin.com/posts/erickwendel_a-forma-de-importar-e-exportar-m%C3%B3dulos-no-activity-6686267690182565888-h5K5",
       "name": "Linkedin Post"

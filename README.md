@@ -25,8 +25,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Demonstrations (14)](#demonstrations)
-- [Blog Posts (78)](#blog-posts)
+- [Demonstrations (16)](#demonstrations)
+- [Blog Posts (83)](#blog-posts)
 - [Conference Talks (103)](#conference-talks)
 
 ## Projects
@@ -122,6 +122,30 @@ _Tags: `translation`, `javascript`_
 
 
 ## Demonstrations
+
+### <a href="https://bit.ly/live-guilherme-netflix-tc39" target="_blank">2020-07-23 - Bate-papo com Guilherme Hermeto membro do comitê do Javascript e programador na Netflix (pt-br)</a>
+
+
+Abstract:
+
+> Seja muito bem vindo(a) ao segundo #DevsPeloMundo. Neste bate papo, vamos entrevistar o brasileiro Guilherme, programador na plataforma serverless da Netflix e membro do comitê da #TC39 (ECMAScript/Javascript) contando sua experiência em como foi parar nos Estados Unidos, história de vida e segredos de sua rotina em uma das empresas mais desejadas do mundo.
+> 
+> 
+
+
+_Tags: `webinar`, `devspelomundo`, `career`_
+
+### <a href="https://bit.ly/video-callbacks01" target="_blank">2020-07-21 - Como Converter Callbacks em Promises em Javascript (pt-br)</a>
+
+
+Abstract:
+
+> Você provavelmente já conhece o que são funções assíncronas em Javascript e o quão problemáticas elas podem ser. Neste vídeo, você vai aprender a usar o módulos internos do Node.js para converter funções #Javascript de #Callback existentes em #Promises e ainda de quebra usar async/await para ordenar seus resultados
+> 
+> 
+
+
+_Tags: `javascript`, `node.js`_
 
 ### <a href="https://bit.ly/americanos-vs-brasileiros-tech" target="_blank">2020-07-17 - OS AMERICANOS SÃO MELHORES EM PROGRAMAÇÃO... dizem os leigos (pt-br)</a>
 
@@ -310,6 +334,91 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_j%C3%A1-pensou-em-publicar-um-pacote-npm-activity-6692421682184888320-3HeY" target="_blank">2020-07-24 - Já pensou em publicar um pacote NPM? 😱🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_j%C3%A1-pensou-em-publicar-um-pacote-npm-activity-6692421682184888320-3HeY" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Se você trabalha com programação, tenho certeza que provavelmente criou alguma função que foi útil à você por muito tempo. Talvez...
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_serverless-o-m%C3%ADnimo-que-todo-dev-precisa-activity-6692070351842619393-Dl2T" target="_blank">2020-07-23 - Qual o mínimo que devs precisam saber antes de iniciar no mundo de aplicações serverless?😱🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_serverless-o-m%C3%ADnimo-que-todo-dev-precisa-activity-6692070351842619393-Dl2T" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Essa é uma pergunta bem frequente dos meus clientes, ao pensar em colocar seu time frente à uma arquitetura deste tipo. Recentemente...
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_kubernetes-serverless-activity-6691696475396706304-Ov3b" target="_blank">2020-07-22 - O que é melhor: Kubernetes ou Aplicações Serverless? 😱⚡️🐳  (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_kubernetes-serverless-activity-6691696475396706304-Ov3b" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Essa sem dúvida é a treta do século! A real é que não existe melhor ou pior, existe o contexto do seu time e a necessidade da sua empresa...
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-converter-callbacks-em-promises-em-javascript-activity-6691336049848786944-fC3T" target="_blank">2020-07-21 - Como converter callbacks em Promises usando Javascript (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-converter-callbacks-em-promises-em-javascript-activity-6691336049848786944-fC3T" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Por mais que o tema pareça 'batido', é um problema muito comum que ainda vejo a galera compartilhando em grupos de desenvolvimento. Aquele questionamento de ...
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.freecodecamp.org/news/how-to-reuse-packages-with-aws-lambda-functions-using-amplify/" target="_blank">2020-07-20 - How to Reuse Node.js Packages with AWS Lambda Functions Using Amplify and Lambda Layers (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.freecodecamp.org/news/how-to-reuse-packages-with-aws-lambda-functions-using-amplify/" target="_blank">freeCodeCamp.org</a>
+
+
+Abstract:
+
+> In this article, you'll learn how to inject custom packages on AWS Lambda Functions' Runtime by using AWS Lambda Layers. You'll also use Amplify to develop, deploy, and distribute your applications.
+> 
+> 
+
+
+_Tags: `node.js`, `serverless`, `amplify`, `freeCodeCamp`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_como-criar-um-programa-para-monitorar-performance-activity-6689173535098716161-beMi" target="_blank">2020-07-15 - Como criar um programa para monitorar performance de aplicações Node.js? 😱🔥 (pt-br)</a>
 
@@ -1814,7 +1923,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.5966179,-46.6890048" targe
 <a href="https://geekle.us/" target="_blank">Node.js Global Summit</a>
 
 
-<a href="https://bit.ly/nodejs-streams-ew-01" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2020-05-30-deep_dive_into_nodejs_streams" target="_blank">photos</a> 
+<a href="https://bit.ly/nodejs-streams-ew-01" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2020-05-30-deep_dive_into_nodejs_streams" target="_blank">photos</a> |  <a href="https://youtu.be/nNrp7pOJMbM" target="_blank">video</a>
 
 
 Abstract:
