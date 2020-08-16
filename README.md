@@ -25,7 +25,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Videos (19)](#videos)
+- [Videos (21)](#videos)
 - [Blog Posts (90)](#blog-posts)
 - [Conference Talks (103)](#conference-talks)
 
@@ -135,6 +135,18 @@ Abstract:
 
 _Tags: `typescript`, `javascript`, `node.js`_
 
+### <a href="https://youtu.be/WBus1CpOfbs" target="_blank">2020-08-12 - Como é trabalhar na npm cli com Ruy Adorno (pt-br)</a>
+
+
+Abstract:
+
+>  Neste bate papo, vamos entrevistar o brasileiro Ruy Adorno, programador na #NPM CLI (recentemente adquirida pela GitHub), core committer no projeto Node.js e, ainda, faz parte do Tooling Working Group...
+> 
+> 
+
+
+_Tags: `webinar`_
+
 ### <a href="https://bit.ly/ew-video08" target="_blank">2020-08-07 - Será que ninguém faz testes automatizados no mundo real? (pt-br)</a>
 
 
@@ -146,6 +158,18 @@ Abstract:
 
 
 _Tags: `tdd`, `tests`, `javascript`_
+
+### <a href="https://youtu.be/1b9s6JY87-w" target="_blank">2020-08-05 - Bate-papo com Anna Henningsen programadora e integrante do comitê do Node.js (en-us)</a>
+
+
+Abstract:
+
+> Neste bate papo, vamos entrevistar nada menos que uma das pessoas mais importantes do código fonte do Node.js da atualidade! Anna Henningsen é programadora e integrante do #Nodejs
+> 
+> 
+
+
+_Tags: `webinar`_
 
 ### <a href="https://bit.ly/consolelog-video-ew" target="_blank">2020-07-31 - O que você precisa saber sobre console.log em aplicações Javascript! (pt-br)</a>
 

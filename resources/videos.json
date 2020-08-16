@@ -1,5 +1,25 @@
 [
   {
+    "title": "Como é trabalhar na npm cli com Ruy Adorno",
+    "abstract": " Neste bate papo, vamos entrevistar o brasileiro Ruy Adorno, programador na #NPM CLI (recentemente adquirida pela GitHub), core committer no projeto Node.js e, ainda, faz parte do Tooling Working Group...",
+    "type": "video",
+    "link": "https://youtu.be/WBus1CpOfbs",
+    "additionalLinks": [""],
+    "tags": ["webinar"],
+    "language": "pt-br",
+    "date": "2020-08-12"
+  },
+  {
+    "title": "Bate-papo com Anna Henningsen programadora e integrante do comitê do Node.js",
+    "abstract": "Neste bate papo, vamos entrevistar nada menos que uma das pessoas mais importantes do código fonte do Node.js da atualidade! Anna Henningsen é programadora e integrante do #Nodejs",
+    "type": "video",
+    "link": "https://youtu.be/1b9s6JY87-w",
+    "additionalLinks": [""],
+    "tags": ["webinar"],
+    "language": "en-us",
+    "date": "2020-08-05"
+  },
+  {
     "title": "Porque você não precisa de typescript! #diademaldade",
     "abstract": "Eu imagino que que você deve estar se perguntando 'Como assim não precisa de Typescript?'. Vou te mostrar um ponto de vista diferente e uma provocação sobre...",
     "type": "video",
