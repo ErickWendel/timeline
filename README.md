@@ -147,7 +147,7 @@ Abstract:
 
 _Tags: `tdd`, `tests`, `javascript`_
 
-### <a href="https://bit.ly/consolelog-video-ew" target="_blank">2020-0731 - O que você precisa saber sobre console.log em aplicações Javascript! (pt-br)</a>
+### <a href="https://bit.ly/consolelog-video-ew" target="_blank">2020-07-31 - O que você precisa saber sobre console.log em aplicações Javascript! (pt-br)</a>
 
 
 Abstract:

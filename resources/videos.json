@@ -27,7 +27,7 @@
     "additionalLinks": [""],
     "tags": ["node.js", "javascript"],
     "language": "pt-br",
-    "date": "2020-0731"
+    "date": "2020-07-31"
   },
   {
     "title": "Como Converter Callbacks em Promises em Javascript",
