@@ -1,5 +1,35 @@
 [
   {
+    "title": "Porque você não precisa de typescript! #diademaldade",
+    "abstract": "Eu imagino que que você deve estar se perguntando 'Como assim não precisa de Typescript?'. Vou te mostrar um ponto de vista diferente e uma provocação sobre...",
+    "type": "video",
+    "link": "https://bit.ly/ew-video09",
+    "additionalLinks": [""],
+    "tags": ["typescript", "javascript", "node.js"],
+    "language": "pt-br",
+    "date": "2020-08-14"
+  },
+  {
+    "title": "Será que ninguém faz testes automatizados no mundo real?",
+    "abstract": "Se tem uma coisa que me irrita em gerenciamento de software são projetos que já nascem atrasados. 'Ah Vamos fazer esse sisteminha aqui e estamos com prazo apertado, esse mês precisa estar em produção, vamos trabalhar de fim de semana para compensar'",
+    "type": "video",
+    "link": "https://bit.ly/ew-video08",
+    "additionalLinks": [""],
+    "tags": ["tdd", "tests", "javascript"],
+    "language": "pt-br",
+    "date": "2020-08-07"
+  },
+  {
+    "title": "O que você precisa saber sobre console.log em aplicações Javascript!",
+    "abstract": "Já se perguntou o motivo de não visualizar logs internos de módulos com o Express? Será que a galera não usa logs para depurar as aplicações como nós?",
+    "type": "video",
+    "link": "https://bit.ly/consolelog-video-ew",
+    "additionalLinks": [""],
+    "tags": ["node.js", "javascript"],
+    "language": "pt-br",
+    "date": "2020-0731"
+  },
+  {
     "title": "Como Converter Callbacks em Promises em Javascript",
     "abstract": "Você provavelmente já conhece o que são funções assíncronas em Javascript e o quão problemáticas elas podem ser. Neste vídeo, você vai aprender a usar o módulos internos do Node.js para converter funções #Javascript de #Callback existentes em #Promises e ainda de quebra usar async/await para ordenar seus resultados",
     "type": "video",

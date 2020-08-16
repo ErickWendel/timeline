@@ -16,8 +16,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Demonstrations**: 2020/July - 2016/September 
-* **Blog Posts**: 2020/July - 2015/February 
+* **Videos**: 2020/August - 2016/September 
+* **Blog Posts**: 2020/August - 2015/February 
 * **Conference Talks**: 2020/July - 2015/January 
 
 #### Presentations' number: 103
@@ -25,8 +25,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Demonstrations (16)](#demonstrations)
-- [Blog Posts (83)](#blog-posts)
+- [Videos (19)](#videos)
+- [Blog Posts (90)](#blog-posts)
 - [Conference Talks (103)](#conference-talks)
 
 ## Projects
@@ -121,7 +121,43 @@ Abstract:
 _Tags: `translation`, `javascript`_
 
 
-## Demonstrations
+## Videos
+
+### <a href="https://bit.ly/ew-video09" target="_blank">2020-08-14 - Porque você não precisa de typescript! #diademaldade (pt-br)</a>
+
+
+Abstract:
+
+> Eu imagino que que você deve estar se perguntando 'Como assim não precisa de Typescript?'. Vou te mostrar um ponto de vista diferente e uma provocação sobre...
+> 
+> 
+
+
+_Tags: `typescript`, `javascript`, `node.js`_
+
+### <a href="https://bit.ly/ew-video08" target="_blank">2020-08-07 - Será que ninguém faz testes automatizados no mundo real? (pt-br)</a>
+
+
+Abstract:
+
+> Se tem uma coisa que me irrita em gerenciamento de software são projetos que já nascem atrasados. 'Ah Vamos fazer esse sisteminha aqui e estamos com prazo apertado, esse mês precisa estar em produção, vamos trabalhar de fim de semana para compensar'
+> 
+> 
+
+
+_Tags: `tdd`, `tests`, `javascript`_
+
+### <a href="https://bit.ly/consolelog-video-ew" target="_blank">2020-0731 - O que você precisa saber sobre console.log em aplicações Javascript! (pt-br)</a>
+
+
+Abstract:
+
+> Já se perguntou o motivo de não visualizar logs internos de módulos com o Express? Será que a galera não usa logs para depurar as aplicações como nós?
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`_
 
 ### <a href="https://bit.ly/live-guilherme-netflix-tc39" target="_blank">2020-07-23 - Bate-papo com Guilherme Hermeto membro do comitê do Javascript e programador na Netflix (pt-br)</a>
 
@@ -334,6 +370,125 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_hackerrank-100daysofcode-activity-6699647131231240192-OaZS" target="_blank">2020-08-13 - Top 05 dicas para se tornar um(a) dev melhor 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_hackerrank-100daysofcode-activity-6699647131231240192-OaZS" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> E aí vão dicas para conseguir trabalhos melhores, perder menos tempo batendo cabeça em tasks e etc
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-est%C3%A1vamos-lan%C3%A7ando-erros-de-forma-activity-6699303231996100608-JeDK" target="_blank">2020-08-12 - Será que estávamos lançando erros de forma errada a vida toda? 😱🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-est%C3%A1vamos-lan%C3%A7ando-erros-de-forma-activity-6699303231996100608-JeDK" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Existem muitas controvérsias sobre o que você deve fazer quando faltar um argumento obrigatório, quando alguma regra de domínio não for cumprida com os requisitos e como tratar estes erros.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_localstack-docker-s3-activity-6698584534675419138-3gM6" target="_blank">2020-08-10 - Dica de economia em aplicações serverless 🎉🤑 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_localstack-docker-s3-activity-6698584534675419138-3gM6" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Já parou para pensar como você pode testar fluxos complexos com dezenas de funções serverless localmente?
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_hoje-%C3%A9-dia-de-dica-de-ouro-no-javascript-activity-6697130806206316544-aUK7" target="_blank">2020-08-09 - Hoje é dia de dica de ouro no Javascript! Como fazer um argumento ser obrigatório 🔥😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_hoje-%C3%A9-dia-de-dica-de-ouro-no-javascript-activity-6697130806206316544-aUK7" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Um problema bem comum no Javascript é que não temos interfaces como o Typescript, C# e Java. Assim, não é possível forçar o...
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-parte-mais-dif%C3%ADcil-de-gerenciar-activity-6696403331717337089-nbD4" target="_blank">2020-08-08 - Qual é a parte mais difícil de gerenciar sobre software em produção? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-parte-mais-dif%C3%ADcil-de-gerenciar-activity-6696403331717337089-nbD4" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Essa resposta, pode variar de acordo com a experiência de cada um e principalmente a quanto caos você ja foi exposto(a).
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_2-anos-da-minha-primeira-palestra-internacional-activity-6696046877298700288-XnJ_" target="_blank">2020-08-07 - 2 anos da minha primeira palestra internacional 😱🎉 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_2-anos-da-minha-primeira-palestra-internacional-activity-6696046877298700288-XnJ_" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> 02/08/2018, San Francisco - Califórnia na SFNode palestrando para mais de 300 pessoas. Confundindo palavras como 'console' e 'sandwich'. Um marco histórico na minha vida, que...
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_sobre-a-maior-cagada-que-fiz-em-software-activity-6693500310704410624-adPC" target="_blank">2020-08-01 - Sobre a maior cagada que fiz em software em produção 🤣😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_sobre-a-maior-cagada-que-fiz-em-software-activity-6693500310704410624-adPC" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Era 2015, eu trabalhava com Python e estava em processo de aprendizado, tinha domínio na linguagem C# e havia sido contratado para programar em Python
+> 
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_j%C3%A1-pensou-em-publicar-um-pacote-npm-activity-6692421682184888320-3HeY" target="_blank">2020-07-24 - Já pensou em publicar um pacote NPM? 😱🔥 (pt-br)</a>
 

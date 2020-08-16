@@ -16,7 +16,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: $$timeline_project$$
-* **Demonstrations**: $$timeline_demo$$
+* **Videos**: $$timeline_demo$$
 * **Blog Posts**: $$timeline_blog$$
 * **Conference Talks**: $$timeline_talk$$
 
@@ -25,7 +25,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects ($$count_project)](#projects)
-- [Demonstrations ($$count_demo)](#demonstrations)
+- [Videos ($$count_demo)](#videos)
 - [Blog Posts ($$count_blog)](#blog-posts)
 - [Conference Talks ($$count_talk)](#conference-talks)
 
@@ -33,7 +33,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 $$project-content$$
 
-## Demonstrations
+## Videos
 
 $$video-content$$
 

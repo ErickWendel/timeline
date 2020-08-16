@@ -1,5 +1,103 @@
 [
   {
+    "title": "Top 05 dicas para se tornar um(a) dev melhor 🔥",
+    "abstract": "E aí vão dicas para conseguir trabalhos melhores, perder menos tempo batendo cabeça em tasks e etc",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_hackerrank-100daysofcode-activity-6699647131231240192-OaZS",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_hackerrank-100daysofcode-activity-6699647131231240192-OaZS",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-08-13"
+  },
+  {
+    "title": "Será que estávamos lançando erros de forma errada a vida toda? 😱🔥",
+    "abstract": "Existem muitas controvérsias sobre o que você deve fazer quando faltar um argumento obrigatório, quando alguma regra de domínio não for cumprida com os requisitos e como tratar estes erros.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-est%C3%A1vamos-lan%C3%A7ando-erros-de-forma-activity-6699303231996100608-JeDK",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-est%C3%A1vamos-lan%C3%A7ando-erros-de-forma-activity-6699303231996100608-JeDK",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-08-12"
+  },
+  {
+    "title": "Dica de economia em aplicações serverless 🎉🤑",
+    "abstract": "Já parou para pensar como você pode testar fluxos complexos com dezenas de funções serverless localmente?",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_localstack-docker-s3-activity-6698584534675419138-3gM6",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_localstack-docker-s3-activity-6698584534675419138-3gM6",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-08-10"
+  },
+  {
+    "title": "Hoje é dia de dica de ouro no Javascript! Como fazer um argumento ser obrigatório 🔥😱",
+    "abstract": "Um problema bem comum no Javascript é que não temos interfaces como o Typescript, C# e Java. Assim, não é possível forçar o...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_hoje-%C3%A9-dia-de-dica-de-ouro-no-javascript-activity-6697130806206316544-aUK7",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_hoje-%C3%A9-dia-de-dica-de-ouro-no-javascript-activity-6697130806206316544-aUK7",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-08-09"
+  },
+  {
+    "title": "Qual é a parte mais difícil de gerenciar sobre software em produção?",
+    "abstract": "Essa resposta, pode variar de acordo com a experiência de cada um e principalmente a quanto caos você ja foi exposto(a).",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-parte-mais-dif%C3%ADcil-de-gerenciar-activity-6696403331717337089-nbD4",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-parte-mais-dif%C3%ADcil-de-gerenciar-activity-6696403331717337089-nbD4",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-08-08"
+  },
+  {
+    "title": "2 anos da minha primeira palestra internacional 😱🎉",
+    "abstract": "02/08/2018, San Francisco - Califórnia na SFNode palestrando para mais de 300 pessoas. Confundindo palavras como 'console' e 'sandwich'. Um marco histórico na minha vida, que...",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_2-anos-da-minha-primeira-palestra-internacional-activity-6696046877298700288-XnJ_",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_2-anos-da-minha-primeira-palestra-internacional-activity-6696046877298700288-XnJ_",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-08-07"
+  },
+  {
+    "title": "Sobre a maior cagada que fiz em software em produção 🤣😱",
+    "abstract": "Era 2015, eu trabalhava com Python e estava em processo de aprendizado, tinha domínio na linguagem C# e havia sido contratado para programar em Python",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_sobre-a-maior-cagada-que-fiz-em-software-activity-6693500310704410624-adPC",
+    "additionalLinks": [""],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_sobre-a-maior-cagada-que-fiz-em-software-activity-6693500310704410624-adPC",
+      "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-08-01"
+  },
+  {
     "title": "Já pensou em publicar um pacote NPM? 😱🔥",
     "abstract": "Se você trabalha com programação, tenho certeza que provavelmente criou alguma função que foi útil à você por muito tempo. Talvez...",
     "type": "post",
