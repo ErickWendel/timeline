@@ -1,5 +1,27 @@
 [
-
+  {
+    "title": "10 secrets to improve Node.js Security",
+    "abstract": "Javascript has become strong, trustable and super powerful for Web/Desktop/IoT/Wearable/etc applications. Because of its power, many developers have been creating and releasing applications super fast. But, there are many topics to care about before publishing applications to the world such as security, performance, usability, and maintainability. Attendees will see real cases of security problems that would be fixed with small changes and powerful tools for their existent application\n\nWe will explore the following topics:\n\n- Preventing DOS Attacks\n- Preventing code injection\n- Preventing applications attacking themselves\n- Restricting Accesses\n- Knowing apps vulnerabilities\n- Running unsafe code in a sandbox\n\n",
+    "type": "talk",
+    "event": {
+      "link": "https://www.nodeconfremote.com/",
+      "name": "NodeConf Remote 2020"
+    },
+    "slides": "https://bit.ly/10-tips-security-ew",
+    "photos": "",
+    "video": "https://youtu.be/FZCGnm-MiJ0",
+    "tags": ["node.js", "javascript", "security"],
+    "location": {
+      "latitude": -23.5966179,
+      "longitude": -46.6890048,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2020-11-02"
+  },
   {
     "title": "Serverless, o mínimo que todo dev precisa saber com Erick Wendel",
     "abstract": "Nessa super live você aprenderá diretamente com o Erick os principais pontos que todo desenvolvedor que quer se manter atualizado e ir para um próximo nível deve saber sobre serverless.",

@@ -18,16 +18,16 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Projects**: 2018/November - 2015/July 
 * **Videos**: 2020/August - 2016/September 
 * **Blog Posts**: 2020/August - 2015/February 
-* **Conference Talks**: 2020/July - 2015/January 
+* **Conference Talks**: 2020/November - 2015/January 
 
-#### Presentations' number: 103
+#### Presentations' number: 104
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Videos (21)](#videos)
 - [Blog Posts (90)](#blog-posts)
-- [Conference Talks (103)](#conference-talks)
+- [Conference Talks (104)](#conference-talks)
 
 ## Projects
 
@@ -831,23 +831,6 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.freecodecamp.org/news/how-to-enable-live-reload-on-docker-based-applications/" target="_blank">2020-06-12 - How to Enable Live-reload on Docker-based Applications with Docker Volumes (en-us)</a>
-
-
-Portal:
-
-> <a href="https://www.freecodecamp.org/news/author/erickwendel/" target="_blank">freeCodeCamp.org</a>
-
-
-Abstract:
-
-> In this post you'll learn how to configure a development environment with live-reload enabled. This will allow you to convert a legacy application so it uses Docker, Docker volumes, and docker-compose
-> 
-> 
-
-
-_Tags: `freeCodeCamp`_
-
 ### <a href="https://www.freecodecamp.org/news/node-js-debugging/" target="_blank">2020-06-12 - How to Debug a Node.js Application with VSCode, Docker, and your Terminal (en-us)</a>
 
 
@@ -864,6 +847,23 @@ Abstract:
 
 
 _Tags: `linkedinPost`_
+
+### <a href="https://www.freecodecamp.org/news/how-to-enable-live-reload-on-docker-based-applications/" target="_blank">2020-06-12 - How to Enable Live-reload on Docker-based Applications with Docker Volumes (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.freecodecamp.org/news/author/erickwendel/" target="_blank">freeCodeCamp.org</a>
+
+
+Abstract:
+
+> In this post you'll learn how to configure a development environment with live-reload enabled. This will allow you to convert a legacy application so it uses Docker, Docker volumes, and docker-compose
+> 
+> 
+
+
+_Tags: `freeCodeCamp`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-n%C3%A3o-sabia-sobre-debugging-de-aplica%C3%A7%C3%B5es-activity-6677204437842325504-h6gA" target="_blank">2020-06-12 - Você conhece as 6 principais formas de depurar aplicações Node.js? 🔥🎉 (pt-br)</a>
 
@@ -2054,6 +2054,38 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 ## Conference Talks
 
+### 2020-11-02 - 10 secrets to improve Node.js Security (pt-br)
+
+
+<a href="https://www.nodeconfremote.com/" target="_blank">NodeConf Remote 2020</a>
+
+
+<a href="https://bit.ly/10-tips-security-ew" target="_blank">slides</a> |   <a href="https://youtu.be/FZCGnm-MiJ0" target="_blank">video</a>
+
+
+Abstract:
+
+> Javascript has become strong, trustable and super powerful for Web/Desktop/IoT/Wearable/etc applications. Because of its power, many developers have been creating and releasing applications super fast. But, there are many topics to care about before publishing applications to the world such as security, performance, usability, and maintainability. Attendees will see real cases of security problems that would be fixed with small changes and powerful tools for their existent application
+> 
+> We will explore the following topics:
+> 
+> - Preventing DOS Attacks
+> - Preventing code injection
+> - Preventing applications attacking themselves
+> - Restricting Accesses
+> - Knowing apps vulnerabilities
+> - Running unsafe code in a sandbox
+> 
+> 
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`, `security`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5966179,-46.6890048" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2020-07-02 - Serverless, o mínimo que todo dev precisa saber com Erick Wendel (pt-br)
 
 
@@ -3100,27 +3132,6 @@ _Tags: `javascript`, `async`, `node.js`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.5588643,-46.6645247" target="_blank">São Paulo - SP, Brazil</a>.
 
-### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
-
-
-<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
-
-
-<a href="https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=NexvZCJFil8" target="_blank">video</a>
-
-
-Abstract:
-
-> Já pensou em reviver os tempos antigos de uma forma mais digital? Nessa palestra os participantes aprenderão como criar aplicações em tempo real com Node.js baseado no projeto Original Potato que desenvolvemos explorando o podencial de aplicações Web e facilidades do Javascript.
-> 
-> 
-
-
-_Tags: `node.js`, `javascript`, `websocket`, `socketio`_
-
-
-Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
-
 ### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
 
 
@@ -3138,6 +3149,27 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `faceapi`, `azure`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
+
+### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
+
+
+<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
+
+
+<a href="https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos" target="_blank">photos</a> |  <a href="https://www.youtube.com/watch?v=NexvZCJFil8" target="_blank">video</a>
+
+
+Abstract:
+
+> Já pensou em reviver os tempos antigos de uma forma mais digital? Nessa palestra os participantes aprenderão como criar aplicações em tempo real com Node.js baseado no projeto Original Potato que desenvolvemos explorando o podencial de aplicações Web e facilidades do Javascript.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`, `websocket`, `socketio`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
