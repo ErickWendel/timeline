@@ -1,5 +1,165 @@
 [
   {
+    "title": "Para que serve o tipo Symbol? Aprendendo com o código fonte do Node.js",
+    "abstract": "Afinal, para que serve o tipo Symbol no Javascript? E sobre boas práticas da linguagem, será que tem alguma forma de usar funções e propriedades privadas?",
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=xMyL5HokeyM&feature=youtu.be",
+    "additionalLinks": [""],
+    "tags": ["Symbol", "Javascript"],
+    "language": "pt-br",
+    "date": "2020-12-12"
+  },
+  {
+    "title": "Fiz um software para monitorar criminosos | 05 projetos incríveis que já participei",
+    "abstract": "Os 05 projetos mais incríveis que já participei. Vou te falar de alguns dos projetos mais legais que eu já participei em toda a minha vida.",
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=rjFecZANOxw&feature=youtu.be",
+    "additionalLinks": [""],
+    "tags": ["RaspberryPI", "Javascript", "Carreira"],
+    "language": "pt-br",
+    "date": "2020-12-04"
+  },
+  {
+    "title": "Mini Curso Gratuito de Kubernetes para Devs Javascript",
+    "abstract": "Você vai aprender a configurar uma aplicação existente para rodar no Kubernetes.",
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=eXKg9B5ooaY&feature=youtu.be",
+    "additionalLinks": [""],
+    "tags": ["Kubernetes", "Docker", "NodeJS"],
+    "language": "pt-br",
+    "date": "2020-11-28"
+  },
+  {
+    "title": "Como construir uma Web API em Javascript sem frameworks | JS Expert",
+    "abstract": "Você vai construir uma Web API completa em Node.js usando apenas os módulos internos do Node.js.",
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=NxHY14rMPvc&feature=youtu.be",
+    "additionalLinks": [""],
+    "tags": ["Javascript", "DesignPatterns", "TutorialJS"],
+    "language": "pt-br",
+    "date": "2020-11-21"
+  },
+  {
+    "title": "10 coisas que eu não faria se iniciasse hoje um projeto de software",
+    "abstract": "Separei uma lista sobre as 10 coisas que eu não faria se iniciasse hoje um projeto de software",
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=wI3NuQCVOlI&feature=youtu.be",
+    "additionalLinks": [""],
+    "tags": [""],
+    "language": "https://www.youtube.com/watch?v=wI3NuQCVOlI&feature=youtu.be",
+    "date": "2020-11-13"
+  },
+  {
+    "title": "5 ferramentas incríveis que quebram mitos no Node.js",
+    "abstract": "Já ouviu aquela famosa frase 'Ah, Node.js não é para isso...'?",
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=8LNdBVojE6c&feature=youtu.be",
+    "additionalLinks": [""],
+    "tags": [""],
+    "language": "https://www.youtube.com/watch?v=8LNdBVojE6c&feature=youtu.be",
+    "date": "2020-10-23"
+  },
+  {
+    "title": "Você acredita no termo Full Stack Developer? 🔥👀",
+    "abstract": "Existem muitas controvérsias, muitas opiniões diferentes e principalmente o",
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=PWgehvaI4M4&feature=youtu.be",
+    "additionalLinks": [""],
+    "tags": [""],
+    "language": "pt-br",
+    "date": "2020-10-16"
+  },
+  {
+    "title": "Criando um vírus no VSCode para simular merges do Git no código dos amigos 😱🤣",
+    "abstract": "Chegou a hora de aprender programação com zoeira!",
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=k1fE9W0vvdM&feature=youtu.be",
+    "additionalLinks": [""],
+    "tags": ["Typescript", "VSCode", "CodingTrolls"],
+    "language": "pt-br",
+    "date": "2020-10-09"
+  },
+  {
+    "title": "Evitem Node.JS - Resposta ao technology radar da ThoughtWorks",
+    "abstract": "Vocês estão usando Node.js excessivamente. É Isso 😨",
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=BkmfhL4EIhc&feature=youtu.be",
+    "additionalLinks": [""],
+    "tags": ["diaDeMaldade"],
+    "language": "pt-br",
+    "date": "2020-10-02"
+  },
+  {
+    "title": "5 conceitos avançados para aprender sobre Node.JS | JS Expert",
+    "abstract": "O vídeo de hoje é uma série de dicas sobre conteúdos avançados que você precisa aprender sobre Node.js.",
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=VZF5QvPfWkA&feature=youtu.be",
+    "additionalLinks": [""],
+    "tags": ["avançado", "NodeJS", "Javascript"],
+    "language": "pt-br",
+    "date": "2020-09-25"
+  },
+  {
+    "title": "5 dicas incríveis para melhorar seus skills em programação",
+    "abstract": "Eaaaai beleza? O vídeo de hoje é para você que quer ser uma pessoa desenvolvedora melhor",
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=3AbREg8ZNxs&feature=youtu.be",
+    "additionalLinks": [""],
+    "tags": ["NodeJS", "Javascript"],
+    "language": "pt-br",
+    "date": "2020-09-18"
+  },
+  {
+    "title": "O segredo para escalar automações Web no Node.js com Child Processes, Puppeteer e Clusterização",
+    "abstract": "Hoje é Sexta-feira e resolvi produzir uma super vídeo-aula para quebrar o mito que Node.js não performa quando escalamos processos.",
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=9ThVMous-io&feature=youtu.be",
+    "additionalLinks": [""],
+    "tags": ["NodeJS", "Puppeteer", "automação"],
+    "language": "pt-br",
+    "date": "2020-09-11"
+  },
+  {
+    "title": "O melhor método para concatenar gigabytes de arquivos em Node.js",
+    "abstract": "Da série 'Node.js não é para isso' vamos hoje usar a melhor prática possível para trabalhar com arquivos sob demanda em Node.js.",
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=iT97rkTEvSo&feature=youtu.be",
+    "additionalLinks": [""],
+    "tags": ["NodeJS", "Streams", "arquivos"],
+    "language": "pt-br",
+    "date": "2020-09-04"
+  },
+  {
+    "title": "Como perdemos quase 10 mil reais na AWS por erro humano",
+    "abstract": "Em apenas uma semana foram-se mais de 1300 dólares ou mais de 7 mil reais na cotação atual. ",
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=QDagUgoFJd4&feature=youtu.be",
+    "additionalLinks": [""] ,
+    "tags": ["serverless", "AWS", "NodeJS"],
+    "language": "pt-br",
+    "date": "2020-08-28"
+  },
+  {
+    "title": "5 Ferramentas incríveis para aumentar a sua produtividade em Apps Serverless",
+    "abstract": "Chega de gastar dinheiro de forma desnecessária em aplicações serverless. ",
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=dv3davK20qU&feature=youtu.be",
+    "additionalLinks": [""],
+    "tags": ["ServerlessFramework", "Docker", "NodeJS"],
+    "language": "pt-br",
+    "date": "2020-08-21"
+  },
+  {
+    "title": "Bate-papo com Yan Cui - AWS Serverless Hero e referência mundial em aplicações serverless (en-us)",
+    "abstract": "Seja muito bem vindo(a) a mais um #DevsPeloMundo. Neste bate papo, vamos entrevistar o Yan Cui reconhecido pela AWS como #AWS Serverless Hero",
+    "type": "video",
+    "link": "https://www.youtube.com/watch?v=4-65btAruy4&feature=youtu.be",
+    "additionalLinks": [""],
+    "tags": ["aws", "Lambda", "DevsPeloMundo"],
+    "language": "en-us",
+    "date": "2020-08-18"
+  },
+  {
     "title": "Como é trabalhar na npm cli com Ruy Adorno",
     "abstract": " Neste bate papo, vamos entrevistar o brasileiro Ruy Adorno, programador na #NPM CLI (recentemente adquirida pela GitHub), core committer no projeto Node.js e, ainda, faz parte do Tooling Working Group...",
     "type": "video",
