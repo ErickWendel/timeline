@@ -1,5 +1,51 @@
 [
   {
+    "title": " 10 secrets to improve Node.js Security",
+    "abstract": "Javascript has become strong, trustable and super powerful for Web/Desktop/IoT/Wearable/etc applications.",
+    "type": "talk",
+    "event": {
+        "link": "https://www.nodeconfremote.com",
+        "name": "Node Conf Remote"
+    },
+    "slides": "https://www.icloud.com/keynote/0uH419lvlHWAaMPj9lp6Id0OA#10_secrets_to_improve_Node.js_Security_-_NodeConfRemote",
+    "photos": "",
+    "video": "https://www.youtube.com/watch?v=FZCGnm-MiJ0&list=PL0CdgOSSGlBalMPxFFycq7OIqQF8cJS28&index=16",
+    "tags": [""],
+    "location": {
+        "latitude": -23.5966179,
+        "longitude": -46.6890048,
+        "country": "Brazil",
+        "uf": "SP",
+        "city": "São Paulo"
+    },
+    "additionalLinks": [""],
+    "language": "en-us",
+    "date": "2020-11-02"
+  },
+  {
+    "title": "O que esperar do Node.js em 2020?",
+    "abstract": "Nesse episódio, conversamos sobre as novas features do Node, certificação e um pouco sobre Deno.",
+    "type": "talk",
+    "event": {
+        "link": "https://podtag.com.br/tag-42-node",
+        "name": "podTag"
+    },
+    "slides": "",
+    "photos": "",
+    "video": "",
+    "tags": ["node","javascript","deno"],
+    "location": {
+        "latitude": -23.5966179,
+        "longitude": -46.6890048,
+        "country": "Brazil",
+        "uf": "SP",
+        "city": "São Paulo"
+    },
+    "additionalLinks": [""],
+    "language": "pt-br",
+    "date": "2020-09-02"
+  },
+  {
     "title": "10 secrets to improve Node.js Security",
     "abstract": "Javascript has become strong, trustable and super powerful for Web/Desktop/IoT/Wearable/etc applications. Because of its power, many developers have been creating and releasing applications super fast. But, there are many topics to care about before publishing applications to the world such as security, performance, usability, and maintainability. Attendees will see real cases of security problems that would be fixed with small changes and powerful tools for their existent application\n\nWe will explore the following topics:\n\n- Preventing DOS Attacks\n- Preventing code injection\n- Preventing applications attacking themselves\n- Restricting Accesses\n- Knowing apps vulnerabilities\n- Running unsafe code in a sandbox\n\n",
     "type": "talk",
