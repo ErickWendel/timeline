@@ -17,7 +17,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 * **Projects**: 2018/November - 2015/July 
 * **Videos**: 2020/December - 2016/September 
-* **Blog Posts**: Invalid date - Invalid date 
+* **Blog Posts**: 2020/December - 2015/February 
 * **Conference Talks**: 2020/November - 2015/January 
 
 #### Presentations' number: 106
@@ -135,7 +135,7 @@ Abstract:
 
 _Tags: `Symbol`, `Javascript`_
 
-### <a href="https://www.youtube.com/watch?v=rjFecZANOxw&feature=youtu.be" target="_blank">2020-12-04 - Os 05 projetos mais incríveis que já participei em toda a minha vida 😱🥳 (pt-br)</a>
+### <a href="https://www.youtube.com/watch?v=rjFecZANOxw&feature=youtu.be" target="_blank">2020-12-04 - Fiz um software para monitorar criminosos | 05 projetos incríveis que já participei (pt-br)</a>
 
 
 Abstract:
@@ -159,7 +159,7 @@ Abstract:
 
 _Tags: `Kubernetes`, `Docker`, `NodeJS`_
 
-### <a href="https://www.youtube.com/watch?v=NxHY14rMPvc&feature=youtu.be" target="_blank">2020-11-21 - E saiu uma super video aula sobre como criar uma Web API completa sem frameworks com Javascript! (pt-br)</a>
+### <a href="https://www.youtube.com/watch?v=NxHY14rMPvc&feature=youtu.be" target="_blank">2020-11-21 - Como construir uma Web API em Javascript sem frameworks | JS Expert (pt-br)</a>
 
 
 Abstract:
@@ -171,7 +171,7 @@ Abstract:
 
 _Tags: `Javascript`, `DesignPatterns`, `TutorialJS`_
 
-### <a href="https://www.youtube.com/watch?v=wI3NuQCVOlI&feature=youtu.be" target="_blank">2020-11-13 - 10 COISAS QUE EU NÃO FARIA SE INICIASSE HOJE UM PROJETO DE SOFTWARE (https://www.youtube.com/watch?v=wI3NuQCVOlI&feature=youtu.be)</a>
+### <a href="https://www.youtube.com/watch?v=wI3NuQCVOlI&feature=youtu.be" target="_blank">2020-11-13 - 10 coisas que eu não faria se iniciasse hoje um projeto de software (https://www.youtube.com/watch?v=wI3NuQCVOlI&feature=youtu.be)</a>
 
 
 Abstract:
@@ -219,7 +219,7 @@ Abstract:
 
 _Tags: `Typescript`, `VSCode`, `CodingTrolls`_
 
-### <a href="https://www.youtube.com/watch?v=BkmfhL4EIhc&feature=youtu.be" target="_blank">2020-10-02 - EVITEM NODE.JS - Resposta ao technology radar da ThoughtWorks (pt-br)</a>
+### <a href="https://www.youtube.com/watch?v=BkmfhL4EIhc&feature=youtu.be" target="_blank">2020-10-02 - Evitem Node.JS - Resposta ao technology radar da ThoughtWorks (pt-br)</a>
 
 
 Abstract:
@@ -231,7 +231,7 @@ Abstract:
 
 _Tags: `diaDeMaldade`_
 
-### <a href="https://www.youtube.com/watch?v=VZF5QvPfWkA&feature=youtu.be" target="_blank">2020-09-25 - 5 CONCEITOS AVANÇADOS PARA APRENDER SOBRE NODE.JS | JS Expert (pt-br)</a>
+### <a href="https://www.youtube.com/watch?v=VZF5QvPfWkA&feature=youtu.be" target="_blank">2020-09-25 - 5 conceitos avançados para aprender sobre Node.JS | JS Expert (pt-br)</a>
 
 
 Abstract:
@@ -279,7 +279,7 @@ Abstract:
 
 _Tags: `NodeJS`, `Streams`, `arquivos`_
 
-### <a href="https://www.youtube.com/watch?v=QDagUgoFJd4&feature=youtu.be" target="_blank">2020-08-28 - COMO PERDEMOS QUASE 10 MIL REAIS NA AWS POR ERRO HUMANO (pt-br)</a>
+### <a href="https://www.youtube.com/watch?v=QDagUgoFJd4&feature=youtu.be" target="_blank">2020-08-28 - Como perdemos quase 10 mil reais na AWS por erro humano (pt-br)</a>
 
 
 Abstract:
@@ -839,7 +839,7 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_blackfriday-activity-6737000015828398080-PlN8" target="_blank">2020-11-4 - 3 coisas que eu faria para preparar minhas aplicações para a Black Friday 🔥🤑 (pt-br)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_blackfriday-activity-6737000015828398080-PlN8" target="_blank">2020-11-04 - 3 coisas que eu faria para preparar minhas aplicações para a Black Friday 🔥🤑 (pt-br)</a>
 
 
 Portal:
@@ -851,6 +851,26 @@ Abstract:
 
 > Estamos chegando em um dos momentos mais importantes para lojas online e,
 > 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_qual-foi-a-aplica%C3%A7%C3%A3o-mais-dif%C3%ADcil-que-voc%C3%AA-activity-6725051868923355136-9YOz" target="_blank">2020-10-22 - Qual foi a aplicação mais difícil que você já desenvolveu em toda a sua vida? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_qual-foi-a-aplica%C3%A7%C3%A3o-mais-dif%C3%ADcil-que-voc%C3%AA-activity-6725051868923355136-9YOz" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Em 2015 eu comprei um smartwatch, para criar um app de dar suporte
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dURA_Ji" target="_blank">https://lnkd.in/dURA_Ji</a>
 > 
 
 
@@ -1757,26 +1777,6 @@ Abstract:
 
 > Em 2019, eu estava fazendo dezenas de palestras fora do país e pensando o quão lucrativo poderia ser virar "nômade" digital, ganhando em...
 > 
-> 
-
-
-_Tags: `linkedinPost`_
-
-### <a href="https://www.linkedin.com/posts/erickwendel_qual-foi-a-aplica%C3%A7%C3%A3o-mais-dif%C3%ADcil-que-voc%C3%AA-activity-6725051868923355136-9YOz" target="_blank"> - Qual foi a aplicação mais difícil que você já desenvolveu em toda a sua vida? (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_qual-foi-a-aplica%C3%A7%C3%A3o-mais-dif%C3%ADcil-que-voc%C3%AA-activity-6725051868923355136-9YOz" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Em 2015 eu comprei um smartwatch, para criar um app de dar suporte
-> 
-> <b>Links</b>
-> 
-> - <a href="https://lnkd.in/dURA_Ji" target="_blank">https://lnkd.in/dURA_Ji</a>
 > 
 
 
@@ -3075,7 +3075,7 @@ Abstract:
 > 
 
 
-_Tags: ``_
+_Tags: `Node`, `Javascript`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-23.5966179,-46.6890048" target="_blank">São Paulo - SP, Brazil</a>.
