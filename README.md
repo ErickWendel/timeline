@@ -294,19 +294,19 @@ Abstract:
 
 _Tags: ``_
 
-### <a href="https://www.youtube.com/watch?v=PWgehvaI4M4&feature=youtu.be" target="_blank">2020-10-16 - Você acredita no termo Full Stack Developer? 🔥👀 (pt-br)</a>
+### <a href="https://www.youtube.com/watch?v=PWgehvaI4M4&feature=youtu.be" target="_blank">2020-10-16 - EU SOU PÉSSIMO EM FRONTEND | Mitos e verdades sobre ser Fullstack (pt-br)</a>
 
 
 Abstract:
 
-> Existem muitas controvérsias, muitas opiniões diferentes e principalmente o
+> Você é um especialista ou generalista?
 > 
 > 
 
 
 _Tags: ``_
 
-### <a href="https://www.youtube.com/watch?v=k1fE9W0vvdM&feature=youtu.be" target="_blank">2020-10-09 - Criando um vírus no VSCode para simular merges do Git no código dos amigos 😱🤣 (pt-br)</a>
+### <a href="https://www.youtube.com/watch?v=k1fE9W0vvdM&feature=youtu.be" target="_blank">2020-10-09 - Criando um vírus no VSCode para simular merges do Git no código dos amigos | Coding Trolls (pt-br)</a>
 
 
 Abstract:
@@ -522,7 +522,7 @@ Abstract:
 
 _Tags: `career`_
 
-### <a href="https://youtu.be/90rdb0o4Arc" target="_blank">2020-07-03 - A minha experiência como consultor em performance de aplicações (pt-br)</a>
+### <a href="https://youtu.be/90rdb0o4Arc" target="_blank">2020-07-03 - O que faz um consultor em performance de aplicações? (pt-br)</a>
 
 
 Abstract:
