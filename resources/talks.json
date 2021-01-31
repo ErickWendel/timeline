@@ -1,28 +1,5 @@
 [
   {
-    "title": " 10 secrets to improve Node.js Security",
-    "abstract": "Javascript has become strong, trustable and super powerful for Web/Desktop/IoT/Wearable/etc applications.",
-    "type": "talk",
-    "event": {
-        "link": "https://www.nodeconfremote.com",
-        "name": "Node Conf Remote"
-    },
-    "slides": "https://www.icloud.com/keynote/0uH419lvlHWAaMPj9lp6Id0OA#10_secrets_to_improve_Node.js_Security_-_NodeConfRemote",
-    "photos": "",
-    "video": "https://www.youtube.com/watch?v=FZCGnm-MiJ0&list=PL0CdgOSSGlBalMPxFFycq7OIqQF8cJS28&index=16",
-    "tags": ["Node", "Javascript"],
-    "location": {
-        "latitude": -23.5966179,
-        "longitude": -46.6890048,
-        "country": "Brazil",
-        "uf": "SP",
-        "city": "São Paulo"
-    },
-    "additionalLinks": [""],
-    "language": "en-us",
-    "date": "2020-11-02"
-  },
-  {
     "title": "O que esperar do Node.js em 2020?",
     "abstract": "Nesse episódio, conversamos sobre as novas features do Node, certificação e um pouco sobre Deno.",
     "type": "talk",

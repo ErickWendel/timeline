@@ -16,18 +16,18 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Videos**: 2020/December - 2016/September 
-* **Blog Posts**: 2020/December - 2015/February 
+* **Videos**: 2021/January - 2016/September 
+* **Blog Posts**: 2021/January - 2015/February 
 * **Conference Talks**: 2020/November - 2015/January 
 
-#### Presentations' number: 106
+#### Presentations' number: 105
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Videos (37)](#videos)
-- [Blog Posts (134)](#blog-posts)
-- [Conference Talks (106)](#conference-talks)
+- [Videos (44)](#videos)
+- [Blog Posts (140)](#blog-posts)
+- [Conference Talks (105)](#conference-talks)
 
 ## Projects
 
@@ -122,6 +122,105 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/w_UE-wTZPpM" target="_blank">2021-01-22 - Live #5 - Generators e Iterators na prática - Pré #SemanaJSExpert (pt-br)</a>
+
+
+Abstract:
+
+>  Vamos criar uma aplicação para obter dados de Web APIs externas sob demanda com paginação e TDD.
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/lives-de-aquecimento-code" target="_blank">http://bit.ly/lives-de-aquecimento-code</a>
+> 
+
+
+_Tags: `node.js`, `javascript`, `vscode`, `SemanaJSExpert`_
+
+### <a href="https://youtu.be/40kiPpRoH0A" target="_blank">2021-01-21 - Live #4 - O que você não sabia sobre Promises em Javascript - Pré #SemanaJSExpert (pt-br)</a>
+
+
+Abstract:
+
+>  Vamos criar uma lib parecida com o Axios, usando boas práticas e TDD.
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/lives-de-aquecimento-code" target="_blank">http://bit.ly/lives-de-aquecimento-code</a>
+> 
+
+
+_Tags: `node.js`, `javascript`, `vscode`, `SemanaJSExpert`_
+
+### <a href="https://youtu.be/9COpZuJzx18" target="_blank">2021-01-20 - Live #3 - Trabalhando com Test Driven Development na vida real - Pré #SemanaJSExpert (pt-br)</a>
+
+
+Abstract:
+
+> Vamos trabalhar com uma aplicação de CRUD aplicando padrões de projeto.
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/lives-de-aquecimento-code" target="_blank">http://bit.ly/lives-de-aquecimento-code</a>
+> 
+
+
+_Tags: `node.js`, `javascript`, `vscode`, `SemanaJSExpert`_
+
+### <a href="https://youtu.be/tGSpqjerR_U" target="_blank">2021-01-19 - Live #2 - Entendendo o contexto this, Closures, IIFE e o Objeto Proxy em JS - Pré #SemanaJSExpert (pt-br)</a>
+
+
+Abstract:
+
+> Vamos criar um app completo usando conceitos fundamentais da linguagem.
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/lives-de-aquecimento-code" target="_blank">http://bit.ly/lives-de-aquecimento-code</a>
+> 
+
+
+_Tags: `node.js`, `javascript`, `vscode`, `SemanaJSExpert`_
+
+### <a href="https://youtu.be/DiqLe0nDekA" target="_blank">2021-01-18 - Live #1 - Os segredos da Sintaxe Javascript - Pré #SemanaJSExpert (pt-br)</a>
+
+
+Abstract:
+
+> Sobre as palavras chave static, extends, get, set, e herança de objetos.
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/javascript-syntax-ew" target="_blank">http://bit.ly/javascript-syntax-ew</a>
+> 
+
+
+_Tags: `node.js`, `javascript`, `vscode`, `SemanaJSExpert`_
+
+### <a href="https://www.youtube.com/watch?v=QRhoGbnEs78&feature=youtu.be" target="_blank">2021-01-04 - Como Fazer Upload de Gigabytes de Arquivos de forma escalável usando Node.js - Parte 2 (pt-br)</a>
+
+
+Abstract:
+
+> E hoje é dia de finalizar o nosso projeto! Na aula anterior, você configurou toda a interface frontend
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`, `vscode`_
+
+### <a href="https://www.youtube.com/watch?v=OG_qqYzcfFk&feature=youtu.be" target="_blank">2020-12-28 - Como Fazer Upload de Gigabytes de Arquivos de forma escalável usando Node.js - Parte 1 (pt-br)</a>
+
+
+Abstract:
+
+> Esse é a primeira parte do mini curso em que vamos construir um aplicação completa para fazer upload de gigabytes de arquivos de forma escalável usando Node.js e #Javascript.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`, `vscode`_
 
 ### <a href="https://www.youtube.com/watch?v=xMyL5HokeyM&feature=youtu.be" target="_blank">2020-12-12 - Para que serve o tipo Symbol? Aprendendo com o código fonte do Node.js (pt-br)</a>
 
@@ -586,6 +685,111 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_qual-ser%C3%A1-a-melhor-forma-de-fazer-upload-activity-6755833061604126721-Itgh" target="_blank">2021-01-15 - Qual será a melhor forma de fazer upload de gigabytes de arquivos em Node.js? 😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_qual-ser%C3%A1-a-melhor-forma-de-fazer-upload-activity-6755833061604126721-Itgh" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Muita gente curte trabalhar com Express.js ou até com o módulo puro HTTP da plataforma
+> 
+> <b>Links</b>
+> 
+> - <a href="https://youtu.be/OG_qqYzcfFk" target="_blank">https://youtu.be/OG_qqYzcfFk</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_a-melhor-forma-de-trabalhar-com-promises-activity-6754762304270700544-nH-X" target="_blank">2021-01-12 - A melhor forma de trabalhar com promises em 'paralelo' com Node.js ⚡️🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_a-melhor-forma-de-trabalhar-com-promises-activity-6754762304270700544-nH-X" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Você provavelmente já trabalhou com o Promise.all para aguardar a resolução
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-testar-uma-fun%C3%A7%C3%A3o-de-timeout-sem-precisar-activity-6754406114986614784-MLnq" target="_blank">2021-01-11 - Como testar uma função de timeout, sem precisar aguardar pelo timeout 😱🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-testar-uma-fun%C3%A7%C3%A3o-de-timeout-sem-precisar-activity-6754406114986614784-MLnq" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Eu costumo falar que testes não devem sofrer influência de eventos externos
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_dia-de-dica-de-ouro-direto-do-mundo-real-activity-6752919770561032192-1o1J" target="_blank">2021-01-07 - Dia de dica de ouro direto do mundo real 😱⚡️ (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_dia-de-dica-de-ouro-direto-do-mundo-real-activity-6752919770561032192-1o1J" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Recebi uma pergunta bem curiosa, em um grupo de programação:
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_porque-as-pessoas-evitam-testes-automatizados-activity-6752578409999695872-f5lu" target="_blank">2021-01-06 - Porque as pessoas evitam testes automatizados em software 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_porque-as-pessoas-evitam-testes-automatizados-activity-6752578409999695872-f5lu" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Estava preparando uma série de aulas e me deparei com cenários bem específicos e complicados de testar e validar resultados.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-express%C3%B5es-regulares-podem-derrubar-activity-6749653612697276416-5g2_" target="_blank">2020-12-29 - Como expressões regulares podem derrubar suas aplicações 😱⚡️ (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-express%C3%B5es-regulares-podem-derrubar-activity-6749653612697276416-5g2_" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Um ataque conhecido por aí é o ReDoS ou Regular Expressions Denial of Service
+> 
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_05-temas-avan%C3%A7ados-indispens%C3%A1veis-para-estudar-activity-6747509121106354176-uWaO" target="_blank">2020-12-23 - 05 temas avançados indispensáveis para estudar sobre Node.js⚡️ (pt-br)</a>
 
@@ -3058,27 +3262,6 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
-
-### 2020-11-02 -  10 secrets to improve Node.js Security (en-us)
-
-
-<a href="https://www.nodeconfremote.com" target="_blank">Node Conf Remote</a>
-
-
-<a href="https://www.icloud.com/keynote/0uH419lvlHWAaMPj9lp6Id0OA#10_secrets_to_improve_Node.js_Security_-_NodeConfRemote" target="_blank">slides</a> |   <a href="https://www.youtube.com/watch?v=FZCGnm-MiJ0&list=PL0CdgOSSGlBalMPxFFycq7OIqQF8cJS28&index=16" target="_blank">video</a>
-
-
-Abstract:
-
-> Javascript has become strong, trustable and super powerful for Web/Desktop/IoT/Wearable/etc applications.
-> 
-> 
-
-
-_Tags: `Node`, `Javascript`_
-
-
-Location: <a href="https://www.google.com/maps/?q=-23.5966179,-46.6890048" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2020-11-02 - 10 secrets to improve Node.js Security (pt-br)
 

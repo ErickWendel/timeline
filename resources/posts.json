@@ -1,5 +1,89 @@
 [
   {
+    "title": "Qual será a melhor forma de fazer upload de gigabytes de arquivos em Node.js? 😱",
+    "abstract": "Muita gente curte trabalhar com Express.js ou até com o módulo puro HTTP da plataforma",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_qual-ser%C3%A1-a-melhor-forma-de-fazer-upload-activity-6755833061604126721-Itgh",
+    "additionalLinks": ["https://youtu.be/OG_qqYzcfFk"],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_qual-ser%C3%A1-a-melhor-forma-de-fazer-upload-activity-6755833061604126721-Itgh",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-01-15"
+  },
+  {
+    "title": "A melhor forma de trabalhar com promises em 'paralelo' com Node.js ⚡️🔥",
+    "abstract": "Você provavelmente já trabalhou com o Promise.all para aguardar a resolução",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_a-melhor-forma-de-trabalhar-com-promises-activity-6754762304270700544-nH-X",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_a-melhor-forma-de-trabalhar-com-promises-activity-6754762304270700544-nH-X",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-01-12"
+  },
+  {
+    "title": "Como testar uma função de timeout, sem precisar aguardar pelo timeout 😱🤩",
+    "abstract": "Eu costumo falar que testes não devem sofrer influência de eventos externos",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-testar-uma-fun%C3%A7%C3%A3o-de-timeout-sem-precisar-activity-6754406114986614784-MLnq",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_como-testar-uma-fun%C3%A7%C3%A3o-de-timeout-sem-precisar-activity-6754406114986614784-MLnq",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-01-11"
+  },
+  {
+    "title": "Dia de dica de ouro direto do mundo real 😱⚡️",
+    "abstract": "Recebi uma pergunta bem curiosa, em um grupo de programação:",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_dia-de-dica-de-ouro-direto-do-mundo-real-activity-6752919770561032192-1o1J",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_dia-de-dica-de-ouro-direto-do-mundo-real-activity-6752919770561032192-1o1J",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-01-07"
+  },
+  {
+    "title": "Porque as pessoas evitam testes automatizados em software 🤯",
+    "abstract": "Estava preparando uma série de aulas e me deparei com cenários bem específicos e complicados de testar e validar resultados.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_porque-as-pessoas-evitam-testes-automatizados-activity-6752578409999695872-f5lu",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_porque-as-pessoas-evitam-testes-automatizados-activity-6752578409999695872-f5lu",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-01-06"
+  },
+  {
+    "title": "Como expressões regulares podem derrubar suas aplicações 😱⚡️",
+    "abstract": "Um ataque conhecido por aí é o ReDoS ou Regular Expressions Denial of Service",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-express%C3%B5es-regulares-podem-derrubar-activity-6749653612697276416-5g2_",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_como-express%C3%B5es-regulares-podem-derrubar-activity-6749653612697276416-5g2_",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2020-12-29"
+  },
+  {
     "title": "05 temas avançados indispensáveis para estudar sobre Node.js⚡️",
     "abstract": "5 - Controle de contextos com Function.call, Function.apply e Function.bind",
     "type": "post",
