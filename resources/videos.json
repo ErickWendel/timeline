@@ -1,4 +1,75 @@
 [
+
+  {
+    "title": "Live #5 - Generators e Iterators na prática - Pré #SemanaJSExpert",
+    "abstract": " Vamos criar uma aplicação para obter dados de Web APIs externas sob demanda com paginação e TDD.",
+    "type": "video",
+    "additionalLinks": ["http://bit.ly/lives-de-aquecimento-code"],
+    "link": "https://youtu.be/w_UE-wTZPpM",
+    "tags": ["node.js", "javascript", "vscode", "SemanaJSExpert"],
+    "language": "pt-br",
+    "date": "2021-01-22"
+  },
+  {
+    "title": "Live #4 - O que você não sabia sobre Promises em Javascript - Pré #SemanaJSExpert",
+    "abstract": " Vamos criar uma lib parecida com o Axios, usando boas práticas e TDD.",
+    "type": "video",
+    "additionalLinks": ["http://bit.ly/lives-de-aquecimento-code"],
+    "link": "https://youtu.be/40kiPpRoH0A",
+    "tags": ["node.js", "javascript", "vscode", "SemanaJSExpert"],
+    "language": "pt-br",
+    "date": "2021-01-21"
+  },
+  {
+    "title": "Live #3 - Trabalhando com Test Driven Development na vida real - Pré #SemanaJSExpert",
+    "abstract": "Vamos trabalhar com uma aplicação de CRUD aplicando padrões de projeto.",
+    "type": "video",
+    "additionalLinks": ["http://bit.ly/lives-de-aquecimento-code"],
+    "link": "https://youtu.be/9COpZuJzx18",
+    "tags": ["node.js", "javascript", "vscode", "SemanaJSExpert"],
+    "language": "pt-br",
+    "date": "2021-01-20"
+  },
+  {
+    "title": "Live #2 - Entendendo o contexto this, Closures, IIFE e o Objeto Proxy em JS - Pré #SemanaJSExpert",
+    "abstract": "Vamos criar um app completo usando conceitos fundamentais da linguagem.",
+    "type": "video",
+    "additionalLinks": ["http://bit.ly/lives-de-aquecimento-code"],
+    "link": "https://youtu.be/tGSpqjerR_U",
+    "tags": ["node.js", "javascript", "vscode", "SemanaJSExpert"],
+    "language": "pt-br",
+    "date": "2021-01-19"
+  },
+  {
+    "title": "Live #1 - Os segredos da Sintaxe Javascript - Pré #SemanaJSExpert",
+    "abstract": "Sobre as palavras chave static, extends, get, set, e herança de objetos.",
+    "type": "video",
+    "additionalLinks": ["http://bit.ly/javascript-syntax-ew"],
+    "link": "https://youtu.be/DiqLe0nDekA",
+    "tags": ["node.js", "javascript", "vscode", "SemanaJSExpert"],
+    "language": "pt-br",
+    "date": "2021-01-18"
+  },
+  {
+    "title": "Como Fazer Upload de Gigabytes de Arquivos de forma escalável usando Node.js - Parte 2",
+    "abstract": "E hoje é dia de finalizar o nosso projeto! Na aula anterior, você configurou toda a interface frontend",
+    "type": "video",
+    "additionalLinks": [""],
+    "link": "https://www.youtube.com/watch?v=QRhoGbnEs78&feature=youtu.be",
+    "tags": ["node.js", "javascript", "vscode"],
+    "language": "pt-br",
+    "date": "2021-01-04"
+  },
+  {
+    "title": "Como Fazer Upload de Gigabytes de Arquivos de forma escalável usando Node.js - Parte 1",
+    "abstract": "Esse é a primeira parte do mini curso em que vamos construir um aplicação completa para fazer upload de gigabytes de arquivos de forma escalável usando Node.js e #Javascript.",
+    "type": "video",
+    "additionalLinks": [""],
+    "link": "https://www.youtube.com/watch?v=OG_qqYzcfFk&feature=youtu.be",
+    "tags": ["node.js", "javascript", "vscode"],
+    "language": "pt-br",
+    "date": "2020-12-28"
+  },
   {
     "title": "Para que serve o tipo Symbol? Aprendendo com o código fonte do Node.js",
     "abstract": "Afinal, para que serve o tipo Symbol no Javascript? E sobre boas práticas da linguagem, será que tem alguma forma de usar funções e propriedades privadas?",
@@ -60,8 +131,8 @@
     "date": "2020-10-23"
   },
   {
-    "title": "Você acredita no termo Full Stack Developer? 🔥👀",
-    "abstract": "Existem muitas controvérsias, muitas opiniões diferentes e principalmente o",
+    "title": "EU SOU PÉSSIMO EM FRONTEND | Mitos e verdades sobre ser Fullstack",
+    "abstract": "Você é um especialista ou generalista?",
     "type": "video",
     "link": "https://www.youtube.com/watch?v=PWgehvaI4M4&feature=youtu.be",
     "additionalLinks": [""],
@@ -70,7 +141,7 @@
     "date": "2020-10-16"
   },
   {
-    "title": "Criando um vírus no VSCode para simular merges do Git no código dos amigos 😱🤣",
+    "title": "Criando um vírus no VSCode para simular merges do Git no código dos amigos | Coding Trolls",
     "abstract": "Chegou a hora de aprender programação com zoeira!",
     "type": "video",
     "link": "https://www.youtube.com/watch?v=k1fE9W0vvdM&feature=youtu.be",
@@ -250,7 +321,7 @@
     "date": "2020-07-09"
   },
   {
-    "title": "A minha experiência como consultor em performance de aplicações",
+    "title": "O que faz um consultor em performance de aplicações?",
     "abstract": "Você sabe o que faz um consultor em performance de aplicações? Para muitos é um mistério como descobrir o que há de errado em aplicações e até difícil saber por onde começar.",
     "type": "video",
     "link": "https://youtu.be/90rdb0o4Arc",
