@@ -2040,23 +2040,6 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.freecodecamp.org/news/node-js-debugging/" target="_blank">2020-06-12 - How to Debug a Node.js Application with VSCode, Docker, and your Terminal (en-us)</a>
-
-
-Portal:
-
-> <a href="https://www.freecodecamp.org/news/author/erickwendel/" target="_blank">freeCodeCamp.org</a>
-
-
-Abstract:
-
-> In this article, we'll get into some powerful tools to help you find and fix bugs using VSCode, Docker, and your terminal. We'll also learn (and put into practice) the 6 ways to debug a Node.js application.
-> 
-> 
-
-
-_Tags: `linkedinPost`_
-
 ### <a href="https://www.freecodecamp.org/news/how-to-enable-live-reload-on-docker-based-applications/" target="_blank">2020-06-12 - How to Enable Live-reload on Docker-based Applications with Docker Volumes (en-us)</a>
 
 
@@ -2073,6 +2056,23 @@ Abstract:
 
 
 _Tags: `freeCodeCamp`_
+
+### <a href="https://www.freecodecamp.org/news/node-js-debugging/" target="_blank">2020-06-12 - How to Debug a Node.js Application with VSCode, Docker, and your Terminal (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.freecodecamp.org/news/author/erickwendel/" target="_blank">freeCodeCamp.org</a>
+
+
+Abstract:
+
+> In this article, we'll get into some powerful tools to help you find and fix bugs using VSCode, Docker, and your terminal. We'll also learn (and put into practice) the 6 ways to debug a Node.js application.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-n%C3%A3o-sabia-sobre-debugging-de-aplica%C3%A7%C3%B5es-activity-6677204437842325504-h6gA" target="_blank">2020-06-12 - Você conhece as 6 principais formas de depurar aplicações Node.js? 🔥🎉 (pt-br)</a>
 
@@ -2202,6 +2202,23 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
+### <a href="https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b?source=friends_link&sk=6986b760d9468e9ec96a5c7482d1c541" target="_blank">2020-06-01 - Node v14.x is up — deep diving into new features 🎉 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b?source=friends_link&sk=6986b760d9468e9ec96a5c7482d1c541" target="_blank">Medium portal</a>
+
+
+Abstract:
+
+> Node v14 came with lots of new exciting features. Let’s dive into some of those features by creating a real app.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
 ### <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-fosse-fazer-upload-de-arquivos-activity-6671046670186287104-oHfP" target="_blank">2020-06-01 - E se você fosse fazer upload de arquivos em Node.js, como faria? 🔥 (pt-br)</a>
 
 
@@ -2218,23 +2235,6 @@ Abstract:
 > 
 > - <a href="https://lnkd.in/eHRQDZE" target="_blank">https://lnkd.in/eHRQDZE</a>
 > - <a href="https://lnkd.in/d-QuUwm" target="_blank">https://lnkd.in/d-QuUwm</a>
-> 
-
-
-_Tags: `linkedinPost`_
-
-### <a href="https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b?source=friends_link&sk=6986b760d9468e9ec96a5c7482d1c541" target="_blank">2020-06-01 - Node v14.x is up — deep diving into new features 🎉 (en-us)</a>
-
-
-Portal:
-
-> <a href="https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b?source=friends_link&sk=6986b760d9468e9ec96a5c7482d1c541" target="_blank">Medium portal</a>
-
-
-Abstract:
-
-> Node v14 came with lots of new exciting features. Let’s dive into some of those features by creating a real app.
-> 
 > 
 
 
