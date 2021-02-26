@@ -1,5 +1,229 @@
 [
   {
+    "title": "ECMAScript Modules e a nova era do JavaScript 😱",
+    "abstract": "É meus amigos, a era de instalar transpiladores ou bundle managers para criar",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_ecmascript-modules-e-a-nova-era-do-javascript-activity-6770668570901811200-NdI0",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_ecmascript-modules-e-a-nova-era-do-javascript-activity-6770668570901811200-NdI0",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-02-25"
+  },
+  {
+    "title": "Metaprogramming usando o tipo Symbol em Javascript 🔥",
+    "abstract": "Uma das coisas mais divertidas sobre o Javascript, na minha opinião",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_metaprogramming-usando-o-tipo-symbol-em-javascript-activity-6770312766612889600-P2yc",
+    "additionalLinks": ["http://bit.ly/js-symbol-ew"],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_metaprogramming-usando-o-tipo-symbol-em-javascript-activity-6770312766612889600-P2yc",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-02-24"
+  },
+  {
+    "title": "O que você acha que será o Sistema Operacional do futuro? 🔥",
+    "abstract": "Quem me conhece, sabe o quanto eu gosto de fazer projetos além do CRUD.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-acha-que-ser%C3%A1-o-sistema-operacional-activity-6769945012009484288-jZdp",
+    "additionalLinks": ["https://lnkd.in/dVp2_Nu"],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-acha-que-ser%C3%A1-o-sistema-operacional-activity-6769945012009484288-jZdp",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-02-23"
+  },
+  {
+    "title": "05 comandos shell script extremamente úteis para o seu dia a dia 🔥",
+    "abstract": "Vou listar 5 comandos úteis para você começar a testar por aí!",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_05-comandos-shell-script-extremamente-%C3%BAteis-activity-6769585228810858497-tI-6",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_05-comandos-shell-script-extremamente-%C3%BAteis-activity-6769585228810858497-tI-6",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-02-22"
+  },
+  {
+    "title": "Criando interfaces ricas no terminal usando Node.js com terminal-kit 🔥",
+    "abstract": "Não sou uma pessoa muito boa em criação de interfaces em geral, mas gosto demais de criar aplicações de linha de comando.",
+    "type": "post",
+    "link": "",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-02-19"
+  },
+  {
+    "title": "Por que as pessoas preferem usar bibliotecas ao invés de escrever tudo do zero? 🔥",
+    "abstract": "Lendo comentários em um grupo de programação, notei que existe um debate grande",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_por-que-as-pessoas-preferem-usar-bibliotecas-activity-6768142848626831360-fyUk",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_por-que-as-pessoas-preferem-usar-bibliotecas-activity-6768142848626831360-fyUk",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-02-18"
+  },
+  {
+    "title": "Como testar um CRUD e alcançar 100% de cobertura de código em testes? 🔥",
+    "abstract": "Acredito que 90% dos devs do nosso país sejam responsáveis por criar e manter aplicações gerenciais",
+    "type": "post",
+    "link": "",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-02-17"
+  },
+  {
+    "title": "Será que para aprender Clean Code é necessário ler o livro Clean Code?",
+    "abstract": "Hoje vou te dar uma dica legal para acelerar o aprendizado sobre o assunto.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-para-aprender-clean-code-%C3%A9-necess%C3%A1rio-activity-6767399270879379456-Z3fA",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-para-aprender-clean-code-%C3%A9-necess%C3%A1rio-activity-6767399270879379456-Z3fA",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-02-16"
+  },
+  {
+    "title": "E que dica você daria para um dev experiente em Node.js?🔥",
+    "abstract": "A principal seria: aprenda a monitorar a performance de suas aplicações existentes",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_e-que-dica-voc%C3%AA-daria-para-um-dev-experiente-activity-6767041715757957120-Kr90",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_e-que-dica-voc%C3%AA-daria-para-um-dev-experiente-activity-6767041715757957120-Kr90",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-02-15"
+  },
+  {
+    "title": "E se você tivesse que consumir todas as páginas de uma Web API, como faria? 🔥",
+    "abstract": "Consumir serviços externos requer bastante atenção.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-tivesse-que-consumir-todas-as-p%C3%A1ginas-activity-6765963721094266880-g9Hl",
+    "additionalLinks": ["https://lnkd.in/dbAeW8R"],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-tivesse-que-consumir-todas-as-p%C3%A1ginas-activity-6765963721094266880-g9Hl",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-02-12"
+  },
+  {
+    "title": "Acho que o momento que todos esperávamos finalmente chegou. Conheça a nova proposta para trabalhar com Datas no JavaScript 😱🔥",
+    "abstract": "Há um mês atrás, começaram os esforços para uma das coisas mais importantes de toda a linguagem",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_acho-que-o-momento-que-todos-esper%C3%A1vamos-activity-6765610948104351744-k9JC",
+    "additionalLinks": ["http://bit.ly/npm-temporal"],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_acho-que-o-momento-que-todos-esper%C3%A1vamos-activity-6765610948104351744-k9JC",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-02-11"
+  },
+  {
+    "title": "Quais são as tecnologias que você acha que vão bombar nos próximos anos? 🔥",
+    "abstract": "A tecnologia em geral evolui muito rápido, toda semana temos notícias",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_quais-s%C3%A3o-as-tecnologias-que-voc%C3%AA-acha-que-activity-6765230022434267136-aJLd",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_quais-s%C3%A3o-as-tecnologias-que-voc%C3%AA-acha-que-activity-6765230022434267136-aJLd",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-02-10"
+  },
+  {
+    "title": "Como medir a performance de funções isoladas? 🤩🔥",
+    "abstract": "Vejo muitas discussões sobre Javascript por aí. Algumas bem polêmicas e, muitas vezes, de inteira especulação.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-medir-a-performance-de-fun%C3%A7%C3%B5es-isoladas-activity-6764872198931918848-teZ8",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_como-medir-a-performance-de-fun%C3%A7%C3%B5es-isoladas-activity-6764872198931918848-teZ8",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-02-09"
+  },
+  {
+    "title": "Dica de ouro para entrevistas em Inglês 🔥",
+    "abstract": "Há dois anos atrás eu iniciava uma jornada bem arriscada em minha carreira: O Intercâmbio estudantil nos EUA.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_dica-de-ouro-para-entrevistas-em-ingl%C3%AAs-activity-6764509683727265792-l7v1",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_dica-de-ouro-para-entrevistas-em-ingl%C3%AAs-activity-6764509683727265792-l7v1",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-02-08"
+  },
+  {
+    "title": "Quem tem medo de Node.js Streams? 😱🔥",
+    "abstract": "Introduzida em 03/07/2010 na versão 0.1 do Node.js, as Node.js Streams vieram para ficar.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_quem-tem-medo-de-nodejs-streams-activity-6763078977989955585-xRIL",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_quem-tem-medo-de-nodejs-streams-activity-6763078977989955585-xRIL",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-02-04"
+  },
+  {
+    "title": "Qual é o seu Design Pattern favorito? 🔥⚡️",
+    "abstract": "Padrões de projeto são usados em linguagens de programação para resolver problemas de design de software.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-o-seu-design-pattern-favorito-activity-6762342764626628608-KxhB",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-o-seu-design-pattern-favorito-activity-6762342764626628608-KxhB",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-02-02"
+  },
+  {
     "title": "Qual será a melhor forma de fazer upload de gigabytes de arquivos em Node.js? 😱",
     "abstract": "Muita gente curte trabalhar com Express.js ou até com o módulo puro HTTP da plataforma",
     "type": "post",

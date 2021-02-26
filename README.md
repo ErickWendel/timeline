@@ -16,8 +16,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Videos**: 2021/January - 2016/September 
-* **Blog Posts**: 2021/January - 2015/February 
+* **Videos**: 2021/February - 2016/September 
+* **Blog Posts**: 2021/February - 2015/February 
 * **Conference Talks**: 2020/November - 2015/January 
 
 #### Presentations' number: 105
@@ -25,8 +25,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Videos (44)](#videos)
-- [Blog Posts (140)](#blog-posts)
+- [Videos (46)](#videos)
+- [Blog Posts (156)](#blog-posts)
 - [Conference Talks (105)](#conference-talks)
 
 ## Projects
@@ -122,6 +122,33 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/Pd_LS7p_BX4" target="_blank">2021-02-26 - Criando um Voice Memo app usando HTML5, Media Recorder, Media Devices e ECMAScript Modules (pt-br)</a>
+
+
+Abstract:
+
+> Aulão (#tutorial​) sobre como criar um aplicativo de Gravação de voz usando ECMAScript Modules e Web APIs nativas do Browser.
+> 
+> <b>Links</b>
+> 
+> - <a href=" http://bit.ly/voice-memo-template-ew" target="_blank"> http://bit.ly/voice-memo-template-ew</a>
+> 
+
+
+_Tags: `tutorial`, `MediaRecorder`, `ECMAScriptModules`_
+
+### <a href="https://youtu.be/jBBrFyy77qQ" target="_blank">2021-02-13 - Os maiores prêmios em desenvolvimento de software - Unboxing do AWS Community Builder Award (pt-br)</a>
+
+
+Abstract:
+
+> Nos últimos anos tive a felicidade de ser nomeado com os principais reconhecimentos em software do mundo e neste vídeo vou falar sobre cada um deles.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`_
 
 ### <a href="https://youtu.be/w_UE-wTZPpM" target="_blank">2021-01-22 - Live #5 - Generators e Iterators na prática - Pré #SemanaJSExpert (pt-br)</a>
 
@@ -685,6 +712,290 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_ecmascript-modules-e-a-nova-era-do-javascript-activity-6770668570901811200-NdI0" target="_blank">2021-02-25 - ECMAScript Modules e a nova era do JavaScript 😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_ecmascript-modules-e-a-nova-era-do-javascript-activity-6770668570901811200-NdI0" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> É meus amigos, a era de instalar transpiladores ou bundle managers para criar
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_metaprogramming-usando-o-tipo-symbol-em-javascript-activity-6770312766612889600-P2yc" target="_blank">2021-02-24 - Metaprogramming usando o tipo Symbol em Javascript 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_metaprogramming-usando-o-tipo-symbol-em-javascript-activity-6770312766612889600-P2yc" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Uma das coisas mais divertidas sobre o Javascript, na minha opinião
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/js-symbol-ew" target="_blank">http://bit.ly/js-symbol-ew</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-acha-que-ser%C3%A1-o-sistema-operacional-activity-6769945012009484288-jZdp" target="_blank">2021-02-23 - O que você acha que será o Sistema Operacional do futuro? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-acha-que-ser%C3%A1-o-sistema-operacional-activity-6769945012009484288-jZdp" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Quem me conhece, sabe o quanto eu gosto de fazer projetos além do CRUD.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dVp2_Nu" target="_blank">https://lnkd.in/dVp2_Nu</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_05-comandos-shell-script-extremamente-%C3%BAteis-activity-6769585228810858497-tI-6" target="_blank">2021-02-22 - 05 comandos shell script extremamente úteis para o seu dia a dia 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_05-comandos-shell-script-extremamente-%C3%BAteis-activity-6769585228810858497-tI-6" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Vou listar 5 comandos úteis para você começar a testar por aí!
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="" target="_blank">2021-02-19 - Criando interfaces ricas no terminal usando Node.js com terminal-kit 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Não sou uma pessoa muito boa em criação de interfaces em geral, mas gosto demais de criar aplicações de linha de comando.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_por-que-as-pessoas-preferem-usar-bibliotecas-activity-6768142848626831360-fyUk" target="_blank">2021-02-18 - Por que as pessoas preferem usar bibliotecas ao invés de escrever tudo do zero? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_por-que-as-pessoas-preferem-usar-bibliotecas-activity-6768142848626831360-fyUk" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Lendo comentários em um grupo de programação, notei que existe um debate grande
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="" target="_blank">2021-02-17 - Como testar um CRUD e alcançar 100% de cobertura de código em testes? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Acredito que 90% dos devs do nosso país sejam responsáveis por criar e manter aplicações gerenciais
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-para-aprender-clean-code-%C3%A9-necess%C3%A1rio-activity-6767399270879379456-Z3fA" target="_blank">2021-02-16 - Será que para aprender Clean Code é necessário ler o livro Clean Code? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-para-aprender-clean-code-%C3%A9-necess%C3%A1rio-activity-6767399270879379456-Z3fA" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Hoje vou te dar uma dica legal para acelerar o aprendizado sobre o assunto.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_e-que-dica-voc%C3%AA-daria-para-um-dev-experiente-activity-6767041715757957120-Kr90" target="_blank">2021-02-15 - E que dica você daria para um dev experiente em Node.js?🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_e-que-dica-voc%C3%AA-daria-para-um-dev-experiente-activity-6767041715757957120-Kr90" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> A principal seria: aprenda a monitorar a performance de suas aplicações existentes
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-tivesse-que-consumir-todas-as-p%C3%A1ginas-activity-6765963721094266880-g9Hl" target="_blank">2021-02-12 - E se você tivesse que consumir todas as páginas de uma Web API, como faria? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-tivesse-que-consumir-todas-as-p%C3%A1ginas-activity-6765963721094266880-g9Hl" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Consumir serviços externos requer bastante atenção.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dbAeW8R" target="_blank">https://lnkd.in/dbAeW8R</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_acho-que-o-momento-que-todos-esper%C3%A1vamos-activity-6765610948104351744-k9JC" target="_blank">2021-02-11 - Acho que o momento que todos esperávamos finalmente chegou. Conheça a nova proposta para trabalhar com Datas no JavaScript 😱🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_acho-que-o-momento-que-todos-esper%C3%A1vamos-activity-6765610948104351744-k9JC" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Há um mês atrás, começaram os esforços para uma das coisas mais importantes de toda a linguagem
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/npm-temporal" target="_blank">http://bit.ly/npm-temporal</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_quais-s%C3%A3o-as-tecnologias-que-voc%C3%AA-acha-que-activity-6765230022434267136-aJLd" target="_blank">2021-02-10 - Quais são as tecnologias que você acha que vão bombar nos próximos anos? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_quais-s%C3%A3o-as-tecnologias-que-voc%C3%AA-acha-que-activity-6765230022434267136-aJLd" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> A tecnologia em geral evolui muito rápido, toda semana temos notícias
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-medir-a-performance-de-fun%C3%A7%C3%B5es-isoladas-activity-6764872198931918848-teZ8" target="_blank">2021-02-09 - Como medir a performance de funções isoladas? 🤩🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-medir-a-performance-de-fun%C3%A7%C3%B5es-isoladas-activity-6764872198931918848-teZ8" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Vejo muitas discussões sobre Javascript por aí. Algumas bem polêmicas e, muitas vezes, de inteira especulação.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_dica-de-ouro-para-entrevistas-em-ingl%C3%AAs-activity-6764509683727265792-l7v1" target="_blank">2021-02-08 - Dica de ouro para entrevistas em Inglês 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_dica-de-ouro-para-entrevistas-em-ingl%C3%AAs-activity-6764509683727265792-l7v1" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Há dois anos atrás eu iniciava uma jornada bem arriscada em minha carreira: O Intercâmbio estudantil nos EUA.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_quem-tem-medo-de-nodejs-streams-activity-6763078977989955585-xRIL" target="_blank">2021-02-04 - Quem tem medo de Node.js Streams? 😱🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_quem-tem-medo-de-nodejs-streams-activity-6763078977989955585-xRIL" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Introduzida em 03/07/2010 na versão 0.1 do Node.js, as Node.js Streams vieram para ficar.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-o-seu-design-pattern-favorito-activity-6762342764626628608-KxhB" target="_blank">2021-02-02 - Qual é o seu Design Pattern favorito? 🔥⚡️ (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-o-seu-design-pattern-favorito-activity-6762342764626628608-KxhB" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Padrões de projeto são usados em linguagens de programação para resolver problemas de design de software.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_qual-ser%C3%A1-a-melhor-forma-de-fazer-upload-activity-6755833061604126721-Itgh" target="_blank">2021-01-15 - Qual será a melhor forma de fazer upload de gigabytes de arquivos em Node.js? 😱 (pt-br)</a>
 
@@ -2040,23 +2351,6 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.freecodecamp.org/news/node-js-debugging/" target="_blank">2020-06-12 - How to Debug a Node.js Application with VSCode, Docker, and your Terminal (en-us)</a>
-
-
-Portal:
-
-> <a href="https://www.freecodecamp.org/news/author/erickwendel/" target="_blank">freeCodeCamp.org</a>
-
-
-Abstract:
-
-> In this article, we'll get into some powerful tools to help you find and fix bugs using VSCode, Docker, and your terminal. We'll also learn (and put into practice) the 6 ways to debug a Node.js application.
-> 
-> 
-
-
-_Tags: `linkedinPost`_
-
 ### <a href="https://www.freecodecamp.org/news/how-to-enable-live-reload-on-docker-based-applications/" target="_blank">2020-06-12 - How to Enable Live-reload on Docker-based Applications with Docker Volumes (en-us)</a>
 
 
@@ -2089,6 +2383,23 @@ Abstract:
 > <b>Links</b>
 > 
 > - <a href="https://lnkd.in/dbdQ3PW" target="_blank">https://lnkd.in/dbdQ3PW</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.freecodecamp.org/news/node-js-debugging/" target="_blank">2020-06-12 - How to Debug a Node.js Application with VSCode, Docker, and your Terminal (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.freecodecamp.org/news/author/erickwendel/" target="_blank">freeCodeCamp.org</a>
+
+
+Abstract:
+
+> In this article, we'll get into some powerful tools to help you find and fix bugs using VSCode, Docker, and your terminal. We'll also learn (and put into practice) the 6 ways to debug a Node.js application.
+> 
 > 
 
 
@@ -2202,6 +2513,23 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
+### <a href="https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b?source=friends_link&sk=6986b760d9468e9ec96a5c7482d1c541" target="_blank">2020-06-01 - Node v14.x is up — deep diving into new features 🎉 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b?source=friends_link&sk=6986b760d9468e9ec96a5c7482d1c541" target="_blank">Medium portal</a>
+
+
+Abstract:
+
+> Node v14 came with lots of new exciting features. Let’s dive into some of those features by creating a real app.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
 ### <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-fosse-fazer-upload-de-arquivos-activity-6671046670186287104-oHfP" target="_blank">2020-06-01 - E se você fosse fazer upload de arquivos em Node.js, como faria? 🔥 (pt-br)</a>
 
 
@@ -2218,23 +2546,6 @@ Abstract:
 > 
 > - <a href="https://lnkd.in/eHRQDZE" target="_blank">https://lnkd.in/eHRQDZE</a>
 > - <a href="https://lnkd.in/d-QuUwm" target="_blank">https://lnkd.in/d-QuUwm</a>
-> 
-
-
-_Tags: `linkedinPost`_
-
-### <a href="https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b?source=friends_link&sk=6986b760d9468e9ec96a5c7482d1c541" target="_blank">2020-06-01 - Node v14.x is up — deep diving into new features 🎉 (en-us)</a>
-
-
-Portal:
-
-> <a href="https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b?source=friends_link&sk=6986b760d9468e9ec96a5c7482d1c541" target="_blank">Medium portal</a>
-
-
-Abstract:
-
-> Node v14 came with lots of new exciting features. Let’s dive into some of those features by creating a real app.
-> 
 > 
 
 

@@ -1,5 +1,24 @@
 [
-
+  {
+    "title": "Criando um Voice Memo app usando HTML5, Media Recorder, Media Devices e ECMAScript Modules",
+    "abstract": "Aulão (#tutorial​) sobre como criar um aplicativo de Gravação de voz usando ECMAScript Modules e Web APIs nativas do Browser.",
+    "type": "video",
+    "additionalLinks": [" http://bit.ly/voice-memo-template-ew"],
+    "link": "https://youtu.be/Pd_LS7p_BX4",
+    "tags": ["tutorial", "MediaRecorder", "ECMAScriptModules"],
+    "language": "pt-br",
+    "date": "2021-02-26"
+  },
+  {
+    "title": "Os maiores prêmios em desenvolvimento de software - Unboxing do AWS Community Builder Award",
+    "abstract": "Nos últimos anos tive a felicidade de ser nomeado com os principais reconhecimentos em software do mundo e neste vídeo vou falar sobre cada um deles.",
+    "type": "video",
+    "additionalLinks": [""],
+    "link": "https://youtu.be/jBBrFyy77qQ",
+    "tags": ["node.js", "javascript"],
+    "language": "pt-br",
+    "date": "2021-02-13"
+  },
   {
     "title": "Live #5 - Generators e Iterators na prática - Pré #SemanaJSExpert",
     "abstract": " Vamos criar uma aplicação para obter dados de Web APIs externas sob demanda com paginação e TDD.",
