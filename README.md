@@ -16,18 +16,18 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Videos**: 2021/February - 2016/September 
-* **Blog Posts**: 2021/February - 2015/February 
-* **Conference Talks**: 2020/November - 2015/January 
+* **Videos**: 2021/March - 2016/September 
+* **Blog Posts**: 2021/March - 2015/February 
+* **Conference Talks**: 2021/March - 2015/January 
 
-#### Presentations' number: 105
+#### Presentations' number: 106
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Videos (46)](#videos)
-- [Blog Posts (156)](#blog-posts)
-- [Conference Talks (105)](#conference-talks)
+- [Videos (51)](#videos)
+- [Blog Posts (164)](#blog-posts)
+- [Conference Talks (106)](#conference-talks)
 
 ## Projects
 
@@ -123,6 +123,81 @@ _Tags: `translation`, `javascript`_
 
 ## Videos
 
+### <a href="https://youtu.be/_3kJALExtmc" target="_blank">2021-03-19 - Live #5 - Evitando code injection em Node.js - JS Security - Pré #SemanaJSExpert (pt-br)</a>
+
+
+Abstract:
+
+> Vamos demonstrar hoje sobre como evitar injeção de código arbitrário em Node.js e executar comandos shell de forma segura.
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/lives-aquecimento02-ew​" target="_blank">http://bit.ly/lives-aquecimento02-ew​</a>
+> 
+
+
+_Tags: `Javascript`_
+
+### <a href="https://youtu.be/3yWdDBTt5o4" target="_blank">2021-03-18 - Live #4 - 05 comandos incríveis de linha de comando que você precisa conhecer - Pré #SemanaJSExpert​ (pt-br)</a>
+
+
+Abstract:
+
+> PRÉ REQUISITOS Node.js 15
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/lives-aquecimento02-ew​" target="_blank">http://bit.ly/lives-aquecimento02-ew​</a>
+> 
+
+
+_Tags: `Javascript`_
+
+### <a href="https://youtu.be/3yWdDBTt5o4" target="_blank">2021-03-17 - Live #3 - Map e Set - As estruturas mais úteis do JS para você conhecer - Pré #SemanaJSExpert​ (pt-br)</a>
+
+
+Abstract:
+
+> PRÉ REQUISITOS Node.js 15
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/lives-aquecimento02-ew​" target="_blank">http://bit.ly/lives-aquecimento02-ew​</a>
+> 
+
+
+_Tags: `Map`, `Set`, `Javascript`_
+
+### <a href="https://youtu.be/vMnO-EOOfIU" target="_blank">2021-03-16 - Live #2 - Aplicações multiplataforma usando apenas JavaScript - Pré #SemanaJSExpert​ (pt-br)</a>
+
+
+Abstract:
+
+> Vamos criar ao vivo uma aplicação que pode ser executada em diferentes ambientes renderizando componentes de acordo com a plataforma em contexto.
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/lives-aquecimento02-ew​" target="_blank">http://bit.ly/lives-aquecimento02-ew​</a>
+> 
+
+
+_Tags: `ECMAScript Modules`, `Javascript`_
+
+### <a href="https://www.youtube.com/watch?v=Gvamncn_wG0" target="_blank">2021-03-15 - Live #1 - Trabalhando com os Design Patterns Fluent Interface e Builder - Pré #SemanaJSExpert​ (pt-br)</a>
+
+
+Abstract:
+
+> Vamos criar ao vivo uma biblioteca usando TDD para demonstrar o padrão Fluent Interface e criar um utilitário de acesso a banco de dados.
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/lives-aquecimento02-ew​" target="_blank">http://bit.ly/lives-aquecimento02-ew​</a>
+> 
+
+
+_Tags: `FluentInterface`, `TDD`, `Javascript`_
+
 ### <a href="https://youtu.be/Pd_LS7p_BX4" target="_blank">2021-02-26 - Criando um Voice Memo app usando HTML5, Media Recorder, Media Devices e ECMAScript Modules (pt-br)</a>
 
 
@@ -132,7 +207,7 @@ Abstract:
 > 
 > <b>Links</b>
 > 
-> - <a href=" http://bit.ly/voice-memo-template-ew" target="_blank"> http://bit.ly/voice-memo-template-ew</a>
+> - <a href="http://bit.ly/voice-memo-template-ew" target="_blank">http://bit.ly/voice-memo-template-ew</a>
 > 
 
 
@@ -712,6 +787,142 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_dado-uma-string-n0am5e-o-que-voc%C3%AA-faria-activity-6782629345153318913-WZF9" target="_blank">2021-03-30 - Dado uma string: `N0a.,m^5e` o que você faria para substituí-la e obter o resultado `Name`? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_dado-uma-string-n0am5e-o-que-voc%C3%AA-faria-activity-6782629345153318913-WZF9" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Muita gente pode escrever algo como:
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-estrutura-de-dados-em-javascript-activity-6778639747825860609-hoK6" target="_blank">2021-03-19 - Qual é a estrutura de dados em JavaScript usada para garantir que um item, dentro de uma lista, não será replicado? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-estrutura-de-dados-em-javascript-activity-6778639747825860609-hoK6" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> OPÇÃO A) O tipo Map
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6775758184096243712-PshJ" target="_blank">2021-03-11 - Dividindo a responsabilidade de eventos em JavaScript 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6775758184096243712-PshJ" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> A #SemanaJSExpert 3.0 vem aí e o projeto está ficando sensacional!
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6775758184096243712-PshJ" target="_blank">2021-03-11 - Dividindo a responsabilidade de eventos em JavaScript 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6775758184096243712-PshJ" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> A #SemanaJSExpert 3.0 vem aí e o projeto está ficando sensacional! 
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_e-hoje-%C3%A9-dia-de-dica-de-outro-conhe%C3%A7a-o-activity-6775383643771686913-HstI" target="_blank">2021-03-10 - E hoje é dia de dica de outro, conheça o JSON Generator, uma ferramenta absurda para gerar dados randômicos online 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_e-hoje-%C3%A9-dia-de-dica-de-outro-conhe%C3%A7a-o-activity-6775383643771686913-HstI" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Essa é uma ferramenta excelente para gerar dados, ao invés de criar seu próprio seed para gerar uma base de dados fake
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_entendendo-closures-e-escopo-em-javascript-activity-6772834662210404352-LSp7" target="_blank">2021-03-03 - Entendendo Closures e Escopo em Javascript 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_entendendo-closures-e-escopo-em-javascript-activity-6772834662210404352-LSp7" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Na minha opinião, a coisa mais difícil em Javascript é lidar com diferentes contextos
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_porque-voc%C3%AA-deveria-parar-de-usar-o-pacote-activity-6772473924451106816-p-yG" target="_blank">2021-03-02 - Porque você deveria parar de usar o pacote Request😱🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_porque-voc%C3%AA-deveria-parar-de-usar-o-pacote-activity-6772473924451106816-p-yG" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sim meus amigos, o pacote NPM Request foi `desligado` há quase um ano atrás
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_a-import%C3%A2ncia-da-divis%C3%A3o-de-responsabilidades-activity-6772126563908493313-Ch1J" target="_blank">2021-03-01 - A importância da divisão de responsabilidades 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_a-import%C3%A2ncia-da-divis%C3%A3o-de-responsabilidades-activity-6772126563908493313-Ch1J" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Uma das coisas mais importantes em software é conseguir abstrair código
+> 
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_ecmascript-modules-e-a-nova-era-do-javascript-activity-6770668570901811200-NdI0" target="_blank">2021-02-25 - ECMAScript Modules e a nova era do JavaScript 😱 (pt-br)</a>
 
@@ -2368,6 +2579,23 @@ Abstract:
 
 _Tags: `freeCodeCamp`_
 
+### <a href="https://www.freecodecamp.org/news/node-js-debugging/" target="_blank">2020-06-12 - How to Debug a Node.js Application with VSCode, Docker, and your Terminal (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.freecodecamp.org/news/author/erickwendel/" target="_blank">freeCodeCamp.org</a>
+
+
+Abstract:
+
+> In this article, we'll get into some powerful tools to help you find and fix bugs using VSCode, Docker, and your terminal. We'll also learn (and put into practice) the 6 ways to debug a Node.js application.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
 ### <a href="https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-n%C3%A3o-sabia-sobre-debugging-de-aplica%C3%A7%C3%B5es-activity-6677204437842325504-h6gA" target="_blank">2020-06-12 - Você conhece as 6 principais formas de depurar aplicações Node.js? 🔥🎉 (pt-br)</a>
 
 
@@ -2383,23 +2611,6 @@ Abstract:
 > <b>Links</b>
 > 
 > - <a href="https://lnkd.in/dbdQ3PW" target="_blank">https://lnkd.in/dbdQ3PW</a>
-> 
-
-
-_Tags: `linkedinPost`_
-
-### <a href="https://www.freecodecamp.org/news/node-js-debugging/" target="_blank">2020-06-12 - How to Debug a Node.js Application with VSCode, Docker, and your Terminal (en-us)</a>
-
-
-Portal:
-
-> <a href="https://www.freecodecamp.org/news/author/erickwendel/" target="_blank">freeCodeCamp.org</a>
-
-
-Abstract:
-
-> In this article, we'll get into some powerful tools to help you find and fix bugs using VSCode, Docker, and your terminal. We'll also learn (and put into practice) the 6 ways to debug a Node.js application.
-> 
 > 
 
 
@@ -3574,7 +3785,28 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 ## Conference Talks
 
-### 2020-11-02 - 10 secrets to improve Node.js Security (pt-br)
+### 2021-03-24 - 10 secrets to Improve Node.js Security - CityJS 2021 (en-us)
+
+
+<a href="https://cityjsconf.org" target="_blank">CityJS 2021</a>
+
+
+  <a href="https://youtu.be/gJwrRTTb2Qw" target="_blank">video</a>
+
+
+Abstract:
+
+> Javascript has become strong, trustable and super powerful for Web/Desktop/IoT/Wearable/etc applications.
+> 
+> 
+
+
+_Tags: `node`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5966179,-46.6890048" target="_blank">São Paulo - SP, Brazil</a>.
+
+### 2020-11-02 - 10 secrets to improve Node.js Security (en-us)
 
 
 <a href="https://www.nodeconfremote.com/" target="_blank">NodeConf Remote 2020</a>
@@ -3699,7 +3931,7 @@ _Tags: `node.js`, `english`, `javascript`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.5966179,-46.6890048" target="_blank">São Paulo - SP, Brazil</a>.
 
-### 2020-05-07 - 10 secrets to improve Javascript Performance (pt-br)
+### 2020-05-07 - 10 secrets to improve Javascript Performance (en-us)
 
 
 <a href="http://jsvidcon.com/" target="_blank">JSVidCon 2020</a>
