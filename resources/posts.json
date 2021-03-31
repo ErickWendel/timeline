@@ -1,5 +1,117 @@
 [
   {
+    "title": "Dado uma string: `N0a.,m^5e` o que você faria para substituí-la e obter o resultado `Name`?",
+    "abstract": "Muita gente pode escrever algo como:",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_dado-uma-string-n0am5e-o-que-voc%C3%AA-faria-activity-6782629345153318913-WZF9",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_dado-uma-string-n0am5e-o-que-voc%C3%AA-faria-activity-6782629345153318913-WZF9",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-03-30"
+  },
+  {
+    "title": "Qual é a estrutura de dados em JavaScript usada para garantir que um item, dentro de uma lista, não será replicado?",
+    "abstract": "OPÇÃO A) O tipo Map",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-estrutura-de-dados-em-javascript-activity-6778639747825860609-hoK6",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-estrutura-de-dados-em-javascript-activity-6778639747825860609-hoK6",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-03-19"
+  },
+  {
+    "title": "Dividindo a responsabilidade de eventos em JavaScript 🔥",
+    "abstract": "A #SemanaJSExpert 3.0 vem aí e o projeto está ficando sensacional!",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6775758184096243712-PshJ",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6775758184096243712-PshJ",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-03-11"
+  },
+  {
+    "title": "Dividindo a responsabilidade de eventos em JavaScript 🔥",
+    "abstract": "A #SemanaJSExpert 3.0 vem aí e o projeto está ficando sensacional! ",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6775758184096243712-PshJ",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6775758184096243712-PshJ",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-03-11"
+  },
+  {
+    "title": "E hoje é dia de dica de outro, conheça o JSON Generator, uma ferramenta absurda para gerar dados randômicos online 🔥",
+    "abstract": "Essa é uma ferramenta excelente para gerar dados, ao invés de criar seu próprio seed para gerar uma base de dados fake",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_e-hoje-%C3%A9-dia-de-dica-de-outro-conhe%C3%A7a-o-activity-6775383643771686913-HstI",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_e-hoje-%C3%A9-dia-de-dica-de-outro-conhe%C3%A7a-o-activity-6775383643771686913-HstI",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-03-10"
+  },
+  {
+    "title": "Entendendo Closures e Escopo em Javascript 🔥",
+    "abstract": "Na minha opinião, a coisa mais difícil em Javascript é lidar com diferentes contextos",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_entendendo-closures-e-escopo-em-javascript-activity-6772834662210404352-LSp7",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_entendendo-closures-e-escopo-em-javascript-activity-6772834662210404352-LSp7",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-03-03"
+  },
+  {
+    "title": "Porque você deveria parar de usar o pacote Request😱🔥",
+    "abstract": "Sim meus amigos, o pacote NPM Request foi `desligado` há quase um ano atrás",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_porque-voc%C3%AA-deveria-parar-de-usar-o-pacote-activity-6772473924451106816-p-yG",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_porque-voc%C3%AA-deveria-parar-de-usar-o-pacote-activity-6772473924451106816-p-yG",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-03-02"
+  },
+  {
+    "title": "A importância da divisão de responsabilidades 🔥",
+    "abstract": "Uma das coisas mais importantes em software é conseguir abstrair código",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_a-import%C3%A2ncia-da-divis%C3%A3o-de-responsabilidades-activity-6772126563908493313-Ch1J",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_a-import%C3%A2ncia-da-divis%C3%A3o-de-responsabilidades-activity-6772126563908493313-Ch1J",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-03-01"
+  },
+  {
     "title": "ECMAScript Modules e a nova era do JavaScript 😱",
     "abstract": "É meus amigos, a era de instalar transpiladores ou bundle managers para criar",
     "type": "post",
