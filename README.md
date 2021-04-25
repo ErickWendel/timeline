@@ -16,8 +16,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Videos**: 2021/March - 2016/September 
-* **Blog Posts**: 2021/March - 2015/February 
+* **Videos**: 2021/April - 2016/September 
+* **Blog Posts**: 2021/April - 2015/February 
 * **Conference Talks**: 2021/March - 2015/January 
 
 #### Presentations' number: 106
@@ -25,8 +25,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Videos (51)](#videos)
-- [Blog Posts (164)](#blog-posts)
+- [Videos (52)](#videos)
+- [Blog Posts (174)](#blog-posts)
 - [Conference Talks (106)](#conference-talks)
 
 ## Projects
@@ -122,6 +122,21 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/NiMlyJhlbeg" target="_blank">2021-04-09 - Como interceptar funções nativas do Node.js para criptografar dados (pt-br)</a>
+
+
+Abstract:
+
+> Nós vamos simular que já existe uma aplicação que lê e escreve arquivos, usando o módulo fs do Node.js.
+> 
+> <b>Links</b>
+> 
+> - <a href=" http://bit.ly/crypto-fns-erickwendel​" target="_blank"> http://bit.ly/crypto-fns-erickwendel​</a>
+> 
+
+
+_Tags: `DesignPatterns`, `Crypto`, `JavaScript`_
 
 ### <a href="https://youtu.be/_3kJALExtmc" target="_blank">2021-03-19 - Live #5 - Evitando code injection em Node.js - JS Security - Pré #SemanaJSExpert (pt-br)</a>
 
@@ -787,6 +802,203 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_escalando-rob%C3%B4s-automatizados-em-larga-escala-activity-6791350006981922817-guJi" target="_blank">2021-04-23 - Escalando robôs automatizados em larga escala com Puppeteer Cluster 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_escalando-rob%C3%B4s-automatizados-em-larga-escala-activity-6791350006981922817-guJi" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> O que mais ouço por aí é: 'Node.js não é para isso...' mas, na hora de explicar os motivos
+> 
+> <b>Links</b>
+> 
+> - <a href="https://bit.ly/ew-video-13" target="_blank">https://bit.ly/ew-video-13</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_ontem-foi-o-grande-dia-seja-bem-vindo-nodejs-activity-6790620732532645888-FqwS" target="_blank">2021-04-21 - Ontem foi o grande dia! Seja bem vindo Node.js 16, seja bem vindo novo módulo timers/promises 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_ontem-foi-o-grande-dia-seja-bem-vindo-nodejs-activity-6790620732532645888-FqwS" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Siiiiim meus amigos(as), Node.js está a milhão.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://bit.ly/3sCb6wx" target="_blank">https://bit.ly/3sCb6wx</a>
+> - <a href="https://bit.ly/3tGgEr3" target="_blank">https://bit.ly/3tGgEr3</a>
+> - <a href="https://bit.ly/32BwPtL" target="_blank">https://bit.ly/32BwPtL</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-esse-c%C3%B3digo-criptografa-todos-os-dados-activity-6790248914097340416-5x0B" target="_blank">2021-04-20 - Como esse código criptografa todos os dados antes de criar um arquivo e restaura o conteúdo original na leitura? 😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-esse-c%C3%B3digo-criptografa-todos-os-dados-activity-6790248914097340416-5x0B" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sim meus amigos, esse conteúdo ficou demais!!
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/d-w_mnW" target="_blank">https://lnkd.in/d-w_mnW</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_qual-foi-o-seu-c%C3%B3digo-mais-feio-que-j%C3%A1-foi-activity-6789872870181892096-JRrQ" target="_blank">2021-04-19 - Qual foi o seu código mais feio que já foi para produção? 🤣 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_qual-foi-o-seu-c%C3%B3digo-mais-feio-que-j%C3%A1-foi-activity-6789872870181892096-JRrQ" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Nem só de boas práticas e padrões vivem os(as) devs.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dT4nCTU" target="_blank">https://lnkd.in/dT4nCTU</a>
+> - <a href="https://lnkd.in/dMm8QZJ" target="_blank">https://lnkd.in/dMm8QZJ</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_um-tema-de-estudo-para-mudar-a-forma-com-activity-6788803522600165376-ge38" target="_blank">2021-04-16 - Um tema de estudo para mudar a forma com que você codifica aplicações JavaScript no Node.js: Node.js Streams 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_um-tema-de-estudo-para-mudar-a-forma-com-activity-6788803522600165376-ge38" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Esta semana, um aluno publicou em um grupo de programação, uma implementação usando o PDFKit
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dp4c7tY" target="_blank">https://lnkd.in/dp4c7tY</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_usando-o-tipo-symbol-para-trabalhar-com-enum-activity-6788425247390482432-rg8K" target="_blank">2021-04-15 - Usando o tipo Symbol para trabalhar com Enum(s) e Clean Code em JavaScript 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_usando-o-tipo-symbol-para-trabalhar-com-enum-activity-6788425247390482432-rg8K" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> O tipo Symbol é extremamente usado para criar chaves de objetos que são estáticos como os Enum(s).
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dZNvs_E" target="_blank">https://lnkd.in/dZNvs_E</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_substituindo-textos-no-vscode-usando-express%C3%B5es-activity-6787343752714309632-nm7D" target="_blank">2021-04-12 - Substituindo textos no VSCode usando Expressões Regulares e Group Replacers🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_substituindo-textos-no-vscode-usando-express%C3%B5es-activity-6787343752714309632-nm7D" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Uma das coisas que mais gosto de fazer hoje em dia é aprender práticas de produtividade e, principalmente, atalhos no editor em que trabalho.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-funciona-escalabilidade-confiabilidade-activity-6785904998032142336-P9nt" target="_blank">2021-04-08 - Como funciona Escalabilidade, Confiabilidade e Performance em Alta escala de aplicações, nas maiores empresas do mundo🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-funciona-escalabilidade-confiabilidade-activity-6785904998032142336-P9nt" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Acho que boa parte dos(as) devs que conheço adoram continuar evoluindo e se preparando para enfrentar cenários caóticos do dia a dia.
+> 
+> <b>Links</b>
+> 
+> - <a href=" https://lnkd.in/dzQW9kv" target="_blank"> https://lnkd.in/dzQW9kv</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-est%C3%A1-usando-para-testar-c%C3%B3digo-activity-6785535192053358592-YgwB" target="_blank">2021-04-07 - O que você está usando para testar código JavaScript? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-est%C3%A1-usando-para-testar-c%C3%B3digo-activity-6785535192053358592-YgwB" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Vejo várias discussões nas comunidades sobre motores de execução de testes e quais as pessoas mais usam/mais gostam.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-voc%C3%AA-faria-para-expor-uma-web-api-p%C3%BAblica-activity-6785176456130506752-ZSRn" target="_blank">2021-04-06 - Como você faria para expor uma Web API Pública para seus usuários executarem um comando shell no seu ambiente? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-voc%C3%AA-faria-para-expor-uma-web-api-p%C3%BAblica-activity-6785176456130506752-ZSRn" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sim meus amigos, expor seu ambiente para usuários na Web não é uma tarefa nem um pouco simples.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dzX6H5a" target="_blank">https://lnkd.in/dzX6H5a</a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_dado-uma-string-n0am5e-o-que-voc%C3%AA-faria-activity-6782629345153318913-WZF9" target="_blank">2021-03-30 - Dado uma string: `N0a.,m^5e` o que você faria para substituí-la e obter o resultado `Name`? (pt-br)</a>
 
