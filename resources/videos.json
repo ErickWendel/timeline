@@ -1,5 +1,15 @@
 [
   {
+    "title": "Como interceptar funções nativas do Node.js para criptografar dados",
+    "abstract": "Nós vamos simular que já existe uma aplicação que lê e escreve arquivos, usando o módulo fs do Node.js.",
+    "type": "video",
+    "additionalLinks": [" http://bit.ly/crypto-fns-erickwendel​"],
+    "link": "https://youtu.be/NiMlyJhlbeg",
+    "tags": ["DesignPatterns", "Crypto", "JavaScript"],
+    "language": "pt-br",
+    "date": "2021-04-09"
+  },
+  {
     "title": "Live #5 - Evitando code injection em Node.js - JS Security - Pré #SemanaJSExpert",
     "abstract": "Vamos demonstrar hoje sobre como evitar injeção de código arbitrário em Node.js e executar comandos shell de forma segura.",
     "type": "video",

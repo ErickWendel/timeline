@@ -1,5 +1,145 @@
 [
   {
+    "title": "Escalando robôs automatizados em larga escala com Puppeteer Cluster 🔥",
+    "abstract": "O que mais ouço por aí é: 'Node.js não é para isso...' mas, na hora de explicar os motivos",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_escalando-rob%C3%B4s-automatizados-em-larga-escala-activity-6791350006981922817-guJi",
+    "additionalLinks": ["https://bit.ly/ew-video-13"],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_escalando-rob%C3%B4s-automatizados-em-larga-escala-activity-6791350006981922817-guJi",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-04-23"
+  },
+  {
+    "title": "Ontem foi o grande dia! Seja bem vindo Node.js 16, seja bem vindo novo módulo timers/promises 🔥",
+    "abstract": "Siiiiim meus amigos(as), Node.js está a milhão.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_ontem-foi-o-grande-dia-seja-bem-vindo-nodejs-activity-6790620732532645888-FqwS",
+    "additionalLinks": ["https://bit.ly/3sCb6wx", "https://bit.ly/3tGgEr3", "https://bit.ly/32BwPtL"],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_ontem-foi-o-grande-dia-seja-bem-vindo-nodejs-activity-6790620732532645888-FqwS",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-04-21"
+  },
+  {
+    "title": "Como esse código criptografa todos os dados antes de criar um arquivo e restaura o conteúdo original na leitura? 😱",
+    "abstract": "Sim meus amigos, esse conteúdo ficou demais!!",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-esse-c%C3%B3digo-criptografa-todos-os-dados-activity-6790248914097340416-5x0B",
+    "additionalLinks": ["https://lnkd.in/d-w_mnW"],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_como-esse-c%C3%B3digo-criptografa-todos-os-dados-activity-6790248914097340416-5x0B",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-04-20"
+  },
+  {
+    "title": "Qual foi o seu código mais feio que já foi para produção? 🤣",
+    "abstract": "Nem só de boas práticas e padrões vivem os(as) devs.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_qual-foi-o-seu-c%C3%B3digo-mais-feio-que-j%C3%A1-foi-activity-6789872870181892096-JRrQ",
+    "additionalLinks": ["https://lnkd.in/dT4nCTU", "https://lnkd.in/dMm8QZJ"],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_qual-foi-o-seu-c%C3%B3digo-mais-feio-que-j%C3%A1-foi-activity-6789872870181892096-JRrQ",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-04-19"
+  },
+  {
+    "title": "Um tema de estudo para mudar a forma com que você codifica aplicações JavaScript no Node.js: Node.js Streams 🔥",
+    "abstract": "Esta semana, um aluno publicou em um grupo de programação, uma implementação usando o PDFKit",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_um-tema-de-estudo-para-mudar-a-forma-com-activity-6788803522600165376-ge38",
+    "additionalLinks": ["https://lnkd.in/dp4c7tY"],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_um-tema-de-estudo-para-mudar-a-forma-com-activity-6788803522600165376-ge38",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-04-16"
+  },
+  {
+    "title": "Usando o tipo Symbol para trabalhar com Enum(s) e Clean Code em JavaScript 🔥",
+    "abstract": "O tipo Symbol é extremamente usado para criar chaves de objetos que são estáticos como os Enum(s).",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_usando-o-tipo-symbol-para-trabalhar-com-enum-activity-6788425247390482432-rg8K",
+    "additionalLinks": ["https://lnkd.in/dZNvs_E"],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_usando-o-tipo-symbol-para-trabalhar-com-enum-activity-6788425247390482432-rg8K",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-04-15"
+  },
+  {
+    "title": "Substituindo textos no VSCode usando Expressões Regulares e Group Replacers🔥",
+    "abstract": "Uma das coisas que mais gosto de fazer hoje em dia é aprender práticas de produtividade e, principalmente, atalhos no editor em que trabalho.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_substituindo-textos-no-vscode-usando-express%C3%B5es-activity-6787343752714309632-nm7D",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_substituindo-textos-no-vscode-usando-express%C3%B5es-activity-6787343752714309632-nm7D",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-04-12"
+  },
+  {
+    "title": "Como funciona Escalabilidade, Confiabilidade e Performance em Alta escala de aplicações, nas maiores empresas do mundo🔥",
+    "abstract": "Acho que boa parte dos(as) devs que conheço adoram continuar evoluindo e se preparando para enfrentar cenários caóticos do dia a dia.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-funciona-escalabilidade-confiabilidade-activity-6785904998032142336-P9nt",
+    "additionalLinks": [" https://lnkd.in/dzQW9kv"],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_como-funciona-escalabilidade-confiabilidade-activity-6785904998032142336-P9nt",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-04-08"
+  },
+  {
+    "title": "O que você está usando para testar código JavaScript?",
+    "abstract": "Vejo várias discussões nas comunidades sobre motores de execução de testes e quais as pessoas mais usam/mais gostam.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-est%C3%A1-usando-para-testar-c%C3%B3digo-activity-6785535192053358592-YgwB",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-est%C3%A1-usando-para-testar-c%C3%B3digo-activity-6785535192053358592-YgwB",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-04-07"
+  },
+  {
+    "title": "Como você faria para expor uma Web API Pública para seus usuários executarem um comando shell no seu ambiente? 🔥",
+    "abstract": "Sim meus amigos, expor seu ambiente para usuários na Web não é uma tarefa nem um pouco simples.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-voc%C3%AA-faria-para-expor-uma-web-api-p%C3%BAblica-activity-6785176456130506752-ZSRn",
+    "additionalLinks": ["https://lnkd.in/dzX6H5a"],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_como-voc%C3%AA-faria-para-expor-uma-web-api-p%C3%BAblica-activity-6785176456130506752-ZSRn",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-04-06"
+  },
+  {
     "title": "Dado uma string: `N0a.,m^5e` o que você faria para substituí-la e obter o resultado `Name`?",
     "abstract": "Muita gente pode escrever algo como:",
     "type": "post",
