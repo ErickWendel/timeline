@@ -16,18 +16,18 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Videos**: 2021/January - 2016/September 
-* **Blog Posts**: 2021/January - 2015/February 
-* **Conference Talks**: 2020/November - 2015/January 
+* **Videos**: 2021/April - 2016/September 
+* **Blog Posts**: 2021/April - 2015/February 
+* **Conference Talks**: 2021/March - 2015/January 
 
-#### Presentations' number: 105
+#### Presentations' number: 106
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Videos (44)](#videos)
-- [Blog Posts (140)](#blog-posts)
-- [Conference Talks (105)](#conference-talks)
+- [Videos (52)](#videos)
+- [Blog Posts (174)](#blog-posts)
+- [Conference Talks (106)](#conference-talks)
 
 ## Projects
 
@@ -122,6 +122,123 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/NiMlyJhlbeg" target="_blank">2021-04-09 - Como interceptar funções nativas do Node.js para criptografar dados (pt-br)</a>
+
+
+Abstract:
+
+> Nós vamos simular que já existe uma aplicação que lê e escreve arquivos, usando o módulo fs do Node.js.
+> 
+> <b>Links</b>
+> 
+> - <a href=" http://bit.ly/crypto-fns-erickwendel​" target="_blank"> http://bit.ly/crypto-fns-erickwendel​</a>
+> 
+
+
+_Tags: `DesignPatterns`, `Crypto`, `JavaScript`_
+
+### <a href="https://youtu.be/_3kJALExtmc" target="_blank">2021-03-19 - Live #5 - Evitando code injection em Node.js - JS Security - Pré #SemanaJSExpert (pt-br)</a>
+
+
+Abstract:
+
+> Vamos demonstrar hoje sobre como evitar injeção de código arbitrário em Node.js e executar comandos shell de forma segura.
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/lives-aquecimento02-ew​" target="_blank">http://bit.ly/lives-aquecimento02-ew​</a>
+> 
+
+
+_Tags: `Javascript`_
+
+### <a href="https://youtu.be/3yWdDBTt5o4" target="_blank">2021-03-18 - Live #4 - 05 comandos incríveis de linha de comando que você precisa conhecer - Pré #SemanaJSExpert​ (pt-br)</a>
+
+
+Abstract:
+
+> PRÉ REQUISITOS Node.js 15
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/lives-aquecimento02-ew​" target="_blank">http://bit.ly/lives-aquecimento02-ew​</a>
+> 
+
+
+_Tags: `Javascript`_
+
+### <a href="https://youtu.be/3yWdDBTt5o4" target="_blank">2021-03-17 - Live #3 - Map e Set - As estruturas mais úteis do JS para você conhecer - Pré #SemanaJSExpert​ (pt-br)</a>
+
+
+Abstract:
+
+> PRÉ REQUISITOS Node.js 15
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/lives-aquecimento02-ew​" target="_blank">http://bit.ly/lives-aquecimento02-ew​</a>
+> 
+
+
+_Tags: `Map`, `Set`, `Javascript`_
+
+### <a href="https://youtu.be/vMnO-EOOfIU" target="_blank">2021-03-16 - Live #2 - Aplicações multiplataforma usando apenas JavaScript - Pré #SemanaJSExpert​ (pt-br)</a>
+
+
+Abstract:
+
+> Vamos criar ao vivo uma aplicação que pode ser executada em diferentes ambientes renderizando componentes de acordo com a plataforma em contexto.
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/lives-aquecimento02-ew​" target="_blank">http://bit.ly/lives-aquecimento02-ew​</a>
+> 
+
+
+_Tags: `ECMAScript Modules`, `Javascript`_
+
+### <a href="https://www.youtube.com/watch?v=Gvamncn_wG0" target="_blank">2021-03-15 - Live #1 - Trabalhando com os Design Patterns Fluent Interface e Builder - Pré #SemanaJSExpert​ (pt-br)</a>
+
+
+Abstract:
+
+> Vamos criar ao vivo uma biblioteca usando TDD para demonstrar o padrão Fluent Interface e criar um utilitário de acesso a banco de dados.
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/lives-aquecimento02-ew​" target="_blank">http://bit.ly/lives-aquecimento02-ew​</a>
+> 
+
+
+_Tags: `FluentInterface`, `TDD`, `Javascript`_
+
+### <a href="https://youtu.be/Pd_LS7p_BX4" target="_blank">2021-02-26 - Criando um Voice Memo app usando HTML5, Media Recorder, Media Devices e ECMAScript Modules (pt-br)</a>
+
+
+Abstract:
+
+> Aulão (#tutorial​) sobre como criar um aplicativo de Gravação de voz usando ECMAScript Modules e Web APIs nativas do Browser.
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/voice-memo-template-ew" target="_blank">http://bit.ly/voice-memo-template-ew</a>
+> 
+
+
+_Tags: `tutorial`, `MediaRecorder`, `ECMAScriptModules`_
+
+### <a href="https://youtu.be/jBBrFyy77qQ" target="_blank">2021-02-13 - Os maiores prêmios em desenvolvimento de software - Unboxing do AWS Community Builder Award (pt-br)</a>
+
+
+Abstract:
+
+> Nos últimos anos tive a felicidade de ser nomeado com os principais reconhecimentos em software do mundo e neste vídeo vou falar sobre cada um deles.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`_
 
 ### <a href="https://youtu.be/w_UE-wTZPpM" target="_blank">2021-01-22 - Live #5 - Generators e Iterators na prática - Pré #SemanaJSExpert (pt-br)</a>
 
@@ -685,6 +802,623 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_escalando-rob%C3%B4s-automatizados-em-larga-escala-activity-6791350006981922817-guJi" target="_blank">2021-04-23 - Escalando robôs automatizados em larga escala com Puppeteer Cluster 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_escalando-rob%C3%B4s-automatizados-em-larga-escala-activity-6791350006981922817-guJi" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> O que mais ouço por aí é: 'Node.js não é para isso...' mas, na hora de explicar os motivos
+> 
+> <b>Links</b>
+> 
+> - <a href="https://bit.ly/ew-video-13" target="_blank">https://bit.ly/ew-video-13</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_ontem-foi-o-grande-dia-seja-bem-vindo-nodejs-activity-6790620732532645888-FqwS" target="_blank">2021-04-21 - Ontem foi o grande dia! Seja bem vindo Node.js 16, seja bem vindo novo módulo timers/promises 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_ontem-foi-o-grande-dia-seja-bem-vindo-nodejs-activity-6790620732532645888-FqwS" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Siiiiim meus amigos(as), Node.js está a milhão.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://bit.ly/3sCb6wx" target="_blank">https://bit.ly/3sCb6wx</a>
+> - <a href="https://bit.ly/3tGgEr3" target="_blank">https://bit.ly/3tGgEr3</a>
+> - <a href="https://bit.ly/32BwPtL" target="_blank">https://bit.ly/32BwPtL</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-esse-c%C3%B3digo-criptografa-todos-os-dados-activity-6790248914097340416-5x0B" target="_blank">2021-04-20 - Como esse código criptografa todos os dados antes de criar um arquivo e restaura o conteúdo original na leitura? 😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-esse-c%C3%B3digo-criptografa-todos-os-dados-activity-6790248914097340416-5x0B" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sim meus amigos, esse conteúdo ficou demais!!
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/d-w_mnW" target="_blank">https://lnkd.in/d-w_mnW</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_qual-foi-o-seu-c%C3%B3digo-mais-feio-que-j%C3%A1-foi-activity-6789872870181892096-JRrQ" target="_blank">2021-04-19 - Qual foi o seu código mais feio que já foi para produção? 🤣 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_qual-foi-o-seu-c%C3%B3digo-mais-feio-que-j%C3%A1-foi-activity-6789872870181892096-JRrQ" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Nem só de boas práticas e padrões vivem os(as) devs.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dT4nCTU" target="_blank">https://lnkd.in/dT4nCTU</a>
+> - <a href="https://lnkd.in/dMm8QZJ" target="_blank">https://lnkd.in/dMm8QZJ</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_um-tema-de-estudo-para-mudar-a-forma-com-activity-6788803522600165376-ge38" target="_blank">2021-04-16 - Um tema de estudo para mudar a forma com que você codifica aplicações JavaScript no Node.js: Node.js Streams 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_um-tema-de-estudo-para-mudar-a-forma-com-activity-6788803522600165376-ge38" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Esta semana, um aluno publicou em um grupo de programação, uma implementação usando o PDFKit
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dp4c7tY" target="_blank">https://lnkd.in/dp4c7tY</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_usando-o-tipo-symbol-para-trabalhar-com-enum-activity-6788425247390482432-rg8K" target="_blank">2021-04-15 - Usando o tipo Symbol para trabalhar com Enum(s) e Clean Code em JavaScript 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_usando-o-tipo-symbol-para-trabalhar-com-enum-activity-6788425247390482432-rg8K" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> O tipo Symbol é extremamente usado para criar chaves de objetos que são estáticos como os Enum(s).
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dZNvs_E" target="_blank">https://lnkd.in/dZNvs_E</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_substituindo-textos-no-vscode-usando-express%C3%B5es-activity-6787343752714309632-nm7D" target="_blank">2021-04-12 - Substituindo textos no VSCode usando Expressões Regulares e Group Replacers🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_substituindo-textos-no-vscode-usando-express%C3%B5es-activity-6787343752714309632-nm7D" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Uma das coisas que mais gosto de fazer hoje em dia é aprender práticas de produtividade e, principalmente, atalhos no editor em que trabalho.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-funciona-escalabilidade-confiabilidade-activity-6785904998032142336-P9nt" target="_blank">2021-04-08 - Como funciona Escalabilidade, Confiabilidade e Performance em Alta escala de aplicações, nas maiores empresas do mundo🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-funciona-escalabilidade-confiabilidade-activity-6785904998032142336-P9nt" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Acho que boa parte dos(as) devs que conheço adoram continuar evoluindo e se preparando para enfrentar cenários caóticos do dia a dia.
+> 
+> <b>Links</b>
+> 
+> - <a href=" https://lnkd.in/dzQW9kv" target="_blank"> https://lnkd.in/dzQW9kv</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-est%C3%A1-usando-para-testar-c%C3%B3digo-activity-6785535192053358592-YgwB" target="_blank">2021-04-07 - O que você está usando para testar código JavaScript? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-est%C3%A1-usando-para-testar-c%C3%B3digo-activity-6785535192053358592-YgwB" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Vejo várias discussões nas comunidades sobre motores de execução de testes e quais as pessoas mais usam/mais gostam.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-voc%C3%AA-faria-para-expor-uma-web-api-p%C3%BAblica-activity-6785176456130506752-ZSRn" target="_blank">2021-04-06 - Como você faria para expor uma Web API Pública para seus usuários executarem um comando shell no seu ambiente? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-voc%C3%AA-faria-para-expor-uma-web-api-p%C3%BAblica-activity-6785176456130506752-ZSRn" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sim meus amigos, expor seu ambiente para usuários na Web não é uma tarefa nem um pouco simples.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dzX6H5a" target="_blank">https://lnkd.in/dzX6H5a</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_dado-uma-string-n0am5e-o-que-voc%C3%AA-faria-activity-6782629345153318913-WZF9" target="_blank">2021-03-30 - Dado uma string: `N0a.,m^5e` o que você faria para substituí-la e obter o resultado `Name`? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_dado-uma-string-n0am5e-o-que-voc%C3%AA-faria-activity-6782629345153318913-WZF9" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Muita gente pode escrever algo como:
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-estrutura-de-dados-em-javascript-activity-6778639747825860609-hoK6" target="_blank">2021-03-19 - Qual é a estrutura de dados em JavaScript usada para garantir que um item, dentro de uma lista, não será replicado? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-estrutura-de-dados-em-javascript-activity-6778639747825860609-hoK6" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> OPÇÃO A) O tipo Map
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6775758184096243712-PshJ" target="_blank">2021-03-11 - Dividindo a responsabilidade de eventos em JavaScript 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6775758184096243712-PshJ" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> A #SemanaJSExpert 3.0 vem aí e o projeto está ficando sensacional!
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6775758184096243712-PshJ" target="_blank">2021-03-11 - Dividindo a responsabilidade de eventos em JavaScript 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6775758184096243712-PshJ" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> A #SemanaJSExpert 3.0 vem aí e o projeto está ficando sensacional! 
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_e-hoje-%C3%A9-dia-de-dica-de-outro-conhe%C3%A7a-o-activity-6775383643771686913-HstI" target="_blank">2021-03-10 - E hoje é dia de dica de outro, conheça o JSON Generator, uma ferramenta absurda para gerar dados randômicos online 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_e-hoje-%C3%A9-dia-de-dica-de-outro-conhe%C3%A7a-o-activity-6775383643771686913-HstI" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Essa é uma ferramenta excelente para gerar dados, ao invés de criar seu próprio seed para gerar uma base de dados fake
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_entendendo-closures-e-escopo-em-javascript-activity-6772834662210404352-LSp7" target="_blank">2021-03-03 - Entendendo Closures e Escopo em Javascript 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_entendendo-closures-e-escopo-em-javascript-activity-6772834662210404352-LSp7" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Na minha opinião, a coisa mais difícil em Javascript é lidar com diferentes contextos
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_porque-voc%C3%AA-deveria-parar-de-usar-o-pacote-activity-6772473924451106816-p-yG" target="_blank">2021-03-02 - Porque você deveria parar de usar o pacote Request😱🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_porque-voc%C3%AA-deveria-parar-de-usar-o-pacote-activity-6772473924451106816-p-yG" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sim meus amigos, o pacote NPM Request foi `desligado` há quase um ano atrás
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_a-import%C3%A2ncia-da-divis%C3%A3o-de-responsabilidades-activity-6772126563908493313-Ch1J" target="_blank">2021-03-01 - A importância da divisão de responsabilidades 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_a-import%C3%A2ncia-da-divis%C3%A3o-de-responsabilidades-activity-6772126563908493313-Ch1J" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Uma das coisas mais importantes em software é conseguir abstrair código
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_ecmascript-modules-e-a-nova-era-do-javascript-activity-6770668570901811200-NdI0" target="_blank">2021-02-25 - ECMAScript Modules e a nova era do JavaScript 😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_ecmascript-modules-e-a-nova-era-do-javascript-activity-6770668570901811200-NdI0" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> É meus amigos, a era de instalar transpiladores ou bundle managers para criar
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_metaprogramming-usando-o-tipo-symbol-em-javascript-activity-6770312766612889600-P2yc" target="_blank">2021-02-24 - Metaprogramming usando o tipo Symbol em Javascript 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_metaprogramming-usando-o-tipo-symbol-em-javascript-activity-6770312766612889600-P2yc" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Uma das coisas mais divertidas sobre o Javascript, na minha opinião
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/js-symbol-ew" target="_blank">http://bit.ly/js-symbol-ew</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-acha-que-ser%C3%A1-o-sistema-operacional-activity-6769945012009484288-jZdp" target="_blank">2021-02-23 - O que você acha que será o Sistema Operacional do futuro? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-acha-que-ser%C3%A1-o-sistema-operacional-activity-6769945012009484288-jZdp" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Quem me conhece, sabe o quanto eu gosto de fazer projetos além do CRUD.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dVp2_Nu" target="_blank">https://lnkd.in/dVp2_Nu</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_05-comandos-shell-script-extremamente-%C3%BAteis-activity-6769585228810858497-tI-6" target="_blank">2021-02-22 - 05 comandos shell script extremamente úteis para o seu dia a dia 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_05-comandos-shell-script-extremamente-%C3%BAteis-activity-6769585228810858497-tI-6" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Vou listar 5 comandos úteis para você começar a testar por aí!
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="" target="_blank">2021-02-19 - Criando interfaces ricas no terminal usando Node.js com terminal-kit 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Não sou uma pessoa muito boa em criação de interfaces em geral, mas gosto demais de criar aplicações de linha de comando.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_por-que-as-pessoas-preferem-usar-bibliotecas-activity-6768142848626831360-fyUk" target="_blank">2021-02-18 - Por que as pessoas preferem usar bibliotecas ao invés de escrever tudo do zero? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_por-que-as-pessoas-preferem-usar-bibliotecas-activity-6768142848626831360-fyUk" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Lendo comentários em um grupo de programação, notei que existe um debate grande
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="" target="_blank">2021-02-17 - Como testar um CRUD e alcançar 100% de cobertura de código em testes? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Acredito que 90% dos devs do nosso país sejam responsáveis por criar e manter aplicações gerenciais
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-para-aprender-clean-code-%C3%A9-necess%C3%A1rio-activity-6767399270879379456-Z3fA" target="_blank">2021-02-16 - Será que para aprender Clean Code é necessário ler o livro Clean Code? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-para-aprender-clean-code-%C3%A9-necess%C3%A1rio-activity-6767399270879379456-Z3fA" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Hoje vou te dar uma dica legal para acelerar o aprendizado sobre o assunto.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_e-que-dica-voc%C3%AA-daria-para-um-dev-experiente-activity-6767041715757957120-Kr90" target="_blank">2021-02-15 - E que dica você daria para um dev experiente em Node.js?🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_e-que-dica-voc%C3%AA-daria-para-um-dev-experiente-activity-6767041715757957120-Kr90" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> A principal seria: aprenda a monitorar a performance de suas aplicações existentes
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-tivesse-que-consumir-todas-as-p%C3%A1ginas-activity-6765963721094266880-g9Hl" target="_blank">2021-02-12 - E se você tivesse que consumir todas as páginas de uma Web API, como faria? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-tivesse-que-consumir-todas-as-p%C3%A1ginas-activity-6765963721094266880-g9Hl" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Consumir serviços externos requer bastante atenção.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dbAeW8R" target="_blank">https://lnkd.in/dbAeW8R</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_acho-que-o-momento-que-todos-esper%C3%A1vamos-activity-6765610948104351744-k9JC" target="_blank">2021-02-11 - Acho que o momento que todos esperávamos finalmente chegou. Conheça a nova proposta para trabalhar com Datas no JavaScript 😱🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_acho-que-o-momento-que-todos-esper%C3%A1vamos-activity-6765610948104351744-k9JC" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Há um mês atrás, começaram os esforços para uma das coisas mais importantes de toda a linguagem
+> 
+> <b>Links</b>
+> 
+> - <a href="http://bit.ly/npm-temporal" target="_blank">http://bit.ly/npm-temporal</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_quais-s%C3%A3o-as-tecnologias-que-voc%C3%AA-acha-que-activity-6765230022434267136-aJLd" target="_blank">2021-02-10 - Quais são as tecnologias que você acha que vão bombar nos próximos anos? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_quais-s%C3%A3o-as-tecnologias-que-voc%C3%AA-acha-que-activity-6765230022434267136-aJLd" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> A tecnologia em geral evolui muito rápido, toda semana temos notícias
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-medir-a-performance-de-fun%C3%A7%C3%B5es-isoladas-activity-6764872198931918848-teZ8" target="_blank">2021-02-09 - Como medir a performance de funções isoladas? 🤩🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-medir-a-performance-de-fun%C3%A7%C3%B5es-isoladas-activity-6764872198931918848-teZ8" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Vejo muitas discussões sobre Javascript por aí. Algumas bem polêmicas e, muitas vezes, de inteira especulação.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_dica-de-ouro-para-entrevistas-em-ingl%C3%AAs-activity-6764509683727265792-l7v1" target="_blank">2021-02-08 - Dica de ouro para entrevistas em Inglês 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_dica-de-ouro-para-entrevistas-em-ingl%C3%AAs-activity-6764509683727265792-l7v1" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Há dois anos atrás eu iniciava uma jornada bem arriscada em minha carreira: O Intercâmbio estudantil nos EUA.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_quem-tem-medo-de-nodejs-streams-activity-6763078977989955585-xRIL" target="_blank">2021-02-04 - Quem tem medo de Node.js Streams? 😱🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_quem-tem-medo-de-nodejs-streams-activity-6763078977989955585-xRIL" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Introduzida em 03/07/2010 na versão 0.1 do Node.js, as Node.js Streams vieram para ficar.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-o-seu-design-pattern-favorito-activity-6762342764626628608-KxhB" target="_blank">2021-02-02 - Qual é o seu Design Pattern favorito? 🔥⚡️ (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-o-seu-design-pattern-favorito-activity-6762342764626628608-KxhB" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Padrões de projeto são usados em linguagens de programação para resolver problemas de design de software.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_qual-ser%C3%A1-a-melhor-forma-de-fazer-upload-activity-6755833061604126721-Itgh" target="_blank">2021-01-15 - Qual será a melhor forma de fazer upload de gigabytes de arquivos em Node.js? 😱 (pt-br)</a>
 
@@ -3263,7 +3997,28 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 ## Conference Talks
 
-### 2020-11-02 - 10 secrets to improve Node.js Security (pt-br)
+### 2021-03-24 - 10 secrets to Improve Node.js Security - CityJS 2021 (en-us)
+
+
+<a href="https://cityjsconf.org" target="_blank">CityJS 2021</a>
+
+
+  <a href="https://youtu.be/gJwrRTTb2Qw" target="_blank">video</a>
+
+
+Abstract:
+
+> Javascript has become strong, trustable and super powerful for Web/Desktop/IoT/Wearable/etc applications.
+> 
+> 
+
+
+_Tags: `node`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5966179,-46.6890048" target="_blank">São Paulo - SP, Brazil</a>.
+
+### 2020-11-02 - 10 secrets to improve Node.js Security (en-us)
 
 
 <a href="https://www.nodeconfremote.com/" target="_blank">NodeConf Remote 2020</a>
@@ -3388,7 +4143,7 @@ _Tags: `node.js`, `english`, `javascript`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.5966179,-46.6890048" target="_blank">São Paulo - SP, Brazil</a>.
 
-### 2020-05-07 - 10 secrets to improve Javascript Performance (pt-br)
+### 2020-05-07 - 10 secrets to improve Javascript Performance (en-us)
 
 
 <a href="http://jsvidcon.com/" target="_blank">JSVidCon 2020</a>

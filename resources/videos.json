@@ -1,5 +1,84 @@
 [
-
+  {
+    "title": "Como interceptar funções nativas do Node.js para criptografar dados",
+    "abstract": "Nós vamos simular que já existe uma aplicação que lê e escreve arquivos, usando o módulo fs do Node.js.",
+    "type": "video",
+    "additionalLinks": [" http://bit.ly/crypto-fns-erickwendel​"],
+    "link": "https://youtu.be/NiMlyJhlbeg",
+    "tags": ["DesignPatterns", "Crypto", "JavaScript"],
+    "language": "pt-br",
+    "date": "2021-04-09"
+  },
+  {
+    "title": "Live #5 - Evitando code injection em Node.js - JS Security - Pré #SemanaJSExpert",
+    "abstract": "Vamos demonstrar hoje sobre como evitar injeção de código arbitrário em Node.js e executar comandos shell de forma segura.",
+    "type": "video",
+    "additionalLinks": ["http://bit.ly/lives-aquecimento02-ew​"],
+    "link": "https://youtu.be/_3kJALExtmc",
+    "tags": ["Javascript"],
+    "language": "pt-br",
+    "date": "2021-03-19"
+  },
+  {
+    "title": "Live #4 - 05 comandos incríveis de linha de comando que você precisa conhecer - Pré #SemanaJSExpert​",
+    "abstract": "PRÉ REQUISITOS Node.js 15",
+    "type": "video",
+    "additionalLinks": ["http://bit.ly/lives-aquecimento02-ew​"],
+    "link": "https://youtu.be/3yWdDBTt5o4",
+    "tags": ["Javascript"],
+    "language": "pt-br",
+    "date": "2021-03-18"
+  },
+  {
+    "title": "Live #3 - Map e Set - As estruturas mais úteis do JS para você conhecer - Pré #SemanaJSExpert​",
+    "abstract": "PRÉ REQUISITOS Node.js 15",
+    "type": "video",
+    "additionalLinks": ["http://bit.ly/lives-aquecimento02-ew​"],
+    "link": "https://youtu.be/3yWdDBTt5o4",
+    "tags": ["Map", "Set", "Javascript"],
+    "language": "pt-br",
+    "date": "2021-03-17"
+  },
+  {
+    "title": "Live #2 - Aplicações multiplataforma usando apenas JavaScript - Pré #SemanaJSExpert​",
+    "abstract": "Vamos criar ao vivo uma aplicação que pode ser executada em diferentes ambientes renderizando componentes de acordo com a plataforma em contexto.",
+    "type": "video",
+    "additionalLinks": ["http://bit.ly/lives-aquecimento02-ew​"],
+    "link": "https://youtu.be/vMnO-EOOfIU",
+    "tags": ["ECMAScript Modules", "Javascript"],
+    "language": "pt-br",
+    "date": "2021-03-16"
+  },
+  {
+    "title": "Live #1 - Trabalhando com os Design Patterns Fluent Interface e Builder - Pré #SemanaJSExpert​",
+    "abstract": "Vamos criar ao vivo uma biblioteca usando TDD para demonstrar o padrão Fluent Interface e criar um utilitário de acesso a banco de dados.",
+    "type": "video",
+    "additionalLinks": ["http://bit.ly/lives-aquecimento02-ew​"],
+    "link": "https://www.youtube.com/watch?v=Gvamncn_wG0",
+    "tags": ["FluentInterface", "TDD", "Javascript"],
+    "language": "pt-br",
+    "date": "2021-03-15"
+  },
+  {
+    "title": "Criando um Voice Memo app usando HTML5, Media Recorder, Media Devices e ECMAScript Modules",
+    "abstract": "Aulão (#tutorial​) sobre como criar um aplicativo de Gravação de voz usando ECMAScript Modules e Web APIs nativas do Browser.",
+    "type": "video",
+    "additionalLinks": ["http://bit.ly/voice-memo-template-ew"],
+    "link": "https://youtu.be/Pd_LS7p_BX4",
+    "tags": ["tutorial", "MediaRecorder", "ECMAScriptModules"],
+    "language": "pt-br",
+    "date": "2021-02-26"
+  },
+  {
+    "title": "Os maiores prêmios em desenvolvimento de software - Unboxing do AWS Community Builder Award",
+    "abstract": "Nos últimos anos tive a felicidade de ser nomeado com os principais reconhecimentos em software do mundo e neste vídeo vou falar sobre cada um deles.",
+    "type": "video",
+    "additionalLinks": [""],
+    "link": "https://youtu.be/jBBrFyy77qQ",
+    "tags": ["node.js", "javascript"],
+    "language": "pt-br",
+    "date": "2021-02-13"
+  },
   {
     "title": "Live #5 - Generators e Iterators na prática - Pré #SemanaJSExpert",
     "abstract": " Vamos criar uma aplicação para obter dados de Web APIs externas sob demanda com paginação e TDD.",

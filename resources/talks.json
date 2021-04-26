@@ -1,5 +1,28 @@
 [
   {
+    "title": "10 secrets to Improve Node.js Security - CityJS 2021",
+    "abstract": "Javascript has become strong, trustable and super powerful for Web/Desktop/IoT/Wearable/etc applications.",
+    "type": "talk",
+    "event": {
+        "link": "https://cityjsconf.org",
+        "name": "CityJS 2021"
+    },
+    "slides": "",
+    "photos": "",
+    "video": "https://youtu.be/gJwrRTTb2Qw",
+    "tags": ["node","javascript"],
+    "location": {
+        "latitude": -23.5966179,
+        "longitude": -46.6890048,
+        "country": "Brazil",
+        "uf": "SP",
+        "city": "São Paulo"
+    },
+    "additionalLinks": [""],
+    "language": "en-us",
+    "date": "2021-03-24"
+  },
+  {
     "title": "O que esperar do Node.js em 2020?",
     "abstract": "Nesse episódio, conversamos sobre as novas features do Node, certificação e um pouco sobre Deno.",
     "type": "talk",
@@ -42,7 +65,7 @@
       "city": "São Paulo"
     },
     "additionalLinks": [""],
-    "language": "pt-br",
+    "language": "en-us",
     "date": "2020-11-02"
   },
   {
@@ -137,7 +160,7 @@
       "city": "São Paulo"
     },
     "additionalLinks": [""],
-    "language": "pt-br",
+    "language": "en-us",
     "date": "2020-05-07"
   },
   {
