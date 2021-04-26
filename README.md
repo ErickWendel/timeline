@@ -4003,7 +4003,7 @@ _Tags: `aspnet`, `c#`, `jquery`_
 <a href="https://cityjsconf.org" target="_blank">CityJS 2021</a>
 
 
-  <a href="https://youtu.be/gJwrRTTb2Qw" target="_blank">video</a>
+  <a href="https://www.youtube.com/watch?v=gJwrRTTb2Qw&t=27600s" target="_blank">video</a>
 
 
 Abstract:
