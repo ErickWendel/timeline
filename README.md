@@ -16,8 +16,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Videos**: 2021/April - 2016/September 
-* **Blog Posts**: 2021/April - 2015/February 
+* **Videos**: 2021/May - 2016/September 
+* **Blog Posts**: 2021/May - 2015/February 
 * **Conference Talks**: 2021/March - 2015/January 
 
 #### Presentations' number: 106
@@ -25,8 +25,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Videos (52)](#videos)
-- [Blog Posts (174)](#blog-posts)
+- [Videos (58)](#videos)
+- [Blog Posts (181)](#blog-posts)
 - [Conference Talks (106)](#conference-talks)
 
 ## Projects
@@ -122,6 +122,96 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/0bEHcNfPkpw" target="_blank">2021-05-14 - Live #5 - O que há de novo no Node.js? - Pré #SemanaJSExpert (pt-br)</a>
+
+
+Abstract:
+
+> Vamos bater aquele papo sobre o as novidades do Node.js 16 e o que podemos esperar para o futuro da plataforma.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/lives-aquecimento03-javascript-expert" target="_blank">https://github.com/ErickWendel/lives-aquecimento03-javascript-expert</a>
+> 
+
+
+_Tags: `NodeJS`, `Javascript`_
+
+### <a href="https://youtu.be/lELIKi2ZtpY" target="_blank">2021-05-13 - Live #4 - TDD para não praticantes: Como pensar, o que evitar e mais - Pré #SemanaJSExpert (pt-br)</a>
+
+
+Abstract:
+
+> Vamos bater aquele papo sobre a prática de Test Driven Development, sobre como pensar, o que evitar e o que fazer com bases existentes.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/lives-aquecimento03-javascript-expert" target="_blank">https://github.com/ErickWendel/lives-aquecimento03-javascript-expert</a>
+> 
+
+
+_Tags: `TDD`, `Javascript`_
+
+### <a href="https://youtu.be/5yzF5pngFYY" target="_blank">2021-05-12 - Live #3 - É Hora de RegEx: 5 dicas incríveis sobre expressões regulares - Pré #SemanaJSExpert (pt-br)</a>
+
+
+Abstract:
+
+> Vou te mostrar 5 dicas incríveis para melhorar a sua performance trabalhando com #Regex no JavaScript
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/lives-aquecimento03-javascript-expert" target="_blank">https://github.com/ErickWendel/lives-aquecimento03-javascript-expert</a>
+> 
+
+
+_Tags: `Regex`, `NodeJS`_
+
+### <a href="https://youtu.be/XKXisPOD4f0" target="_blank">2021-05-11 - Live #2 - Técnicas de Debugging para Node.js - REPL.it, VSCode & Chrome - Pré #SemanaJSExpert (pt-br)</a>
+
+
+Abstract:
+
+> Vamos demonstrar como depurar aplicações no Node.js usando técnicas avançadas e poderosas sobre a plataforma
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/lives-aquecimento03-javascript-expert" target="_blank">https://github.com/ErickWendel/lives-aquecimento03-javascript-expert</a>
+> 
+
+
+_Tags: `Debug`, `NodeJS`_
+
+### <a href="https://youtu.be/Z_ZKGX8-lPw" target="_blank">2021-05-10 - Live #1 - Qual é a dos ECMAScript Modules? - Pré #SemanaJSExpert (pt-br)</a>
+
+
+Abstract:
+
+> Vamos bater aquele papo sobre o motivo dos #ECMAScriptModules, demonstrar a importancia para a Web e diferenças do #CommonJS
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/lives-aquecimento03-javascript-expert" target="_blank">https://github.com/ErickWendel/lives-aquecimento03-javascript-expert</a>
+> 
+
+
+_Tags: `ECMAScriptModules`, `CommonJS`_
+
+### <a href="https://youtu.be/mVgUs7VHqBg" target="_blank">2021-04-30 - Conheça o Verdaccio, uma alternativa ao NPM Registry para pacotes privados (e gratuito!) (pt-br)</a>
+
+
+Abstract:
+
+> O Verdaccio é um NPM Registry open source para repositorios privados. 
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/verdaccio-npm-registry-yt" target="_blank">https://github.com/ErickWendel/verdaccio-npm-registry-yt</a>
+> 
+
+
+_Tags: `NPM`, `Verdaccio`_
 
 ### <a href="https://youtu.be/NiMlyJhlbeg" target="_blank">2021-04-09 - Como interceptar funções nativas do Node.js para criptografar dados (pt-br)</a>
 
@@ -802,6 +892,134 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_tdd-para-n%C3%A3o-praticantes-como-pensar-o-activity-6798947961863720960-KF3I" target="_blank">2021-05-14 - TDD para não praticantes: Como pensar, o que evitar e principais dilemas deste tipo de técnica🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_tdd-para-n%C3%A3o-praticantes-como-pensar-o-activity-6798947961863720960-KF3I" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Ontem fizemos mais uma live lá no canal e dessa vez foi uma dinâmica totalmente diferente do que estamos acostumados.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://youtu.be/lELIKi2ZtpY" target="_blank">https://youtu.be/lELIKi2ZtpY</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_uma-das-melhores-dicas-sobre-regex-ever-activity-6798587998016421888-imVO" target="_blank">2021-05-13 - Uma das melhores dicas sobre Regex ever! 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_uma-das-melhores-dicas-sobre-regex-ever-activity-6798587998016421888-imVO" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Ontem rolou nossa live de aquecimento com o tema: 5 dicas incríveis sobre Expressões Regulares.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://youtu.be/5yzF5pngFYY" target="_blank">https://youtu.be/5yzF5pngFYY</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="" target="_blank">2021-05-12 - Hora de Regex 🔥 5 dicas incríveis sobre expressões regulares (pt-br)</a>
+
+
+Portal:
+
+> <a href="" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> É conteúdo que não acaba mais por aqui, heim!
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="" target="_blank">2021-05-11 - Você já ouviu falar sobre conditional exports usando JavaScript ESModules? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Siiiiiiiiiim galera! Se você, por alguma razão, precisa de retrocompatibilidade entre pacotes que usam o require/module.exports
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_voc%C3%AA-sabe-como-criar-e-empacotar-um-m%C3%B3dulo-activity-6796062365587779585-YZ1C" target="_blank">2021-05-06 - Você sabe como criar e empacotar um módulo NPM? Você sabia que existem outras alternativas ao serviço da NPM, como a própria GitHub (e de graça)? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_voc%C3%AA-sabe-como-criar-e-empacotar-um-m%C3%B3dulo-activity-6796062365587779585-YZ1C" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Distribuição e versionamento de pacotes são coisas que podem dar bastante dor de cabeça, se mal gerenciados.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/gUaveWS" target="_blank">https://lnkd.in/gUaveWS</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_5-dicas-para-tornar-a-pr%C3%A1tica-de-tdd-parte-activity-6795329060806385664-37Di" target="_blank">2021-05-04 - 5 dicas para tornar a prática de TDD parte de sua rotina de trabalho 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_5-dicas-para-tornar-a-pr%C3%A1tica-de-tdd-parte-activity-6795329060806385664-37Di" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> 1 - Testar independente de antes ou depois
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_o-nodejs-10-vai-se-tornar-obsoleto-e-a-activity-6792437243760930816-E3gk" target="_blank">2021-04-26 - O Node.js 10 vai se tornar obsoleto e, a partir desta semana, não terá mais suporte oficial 😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_o-nodejs-10-vai-se-tornar-obsoleto-e-a-activity-6792437243760930816-E3gk" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Tenho certeza de que muitos ainda usam Node.js em versões anteriores.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_escalando-rob%C3%B4s-automatizados-em-larga-escala-activity-6791350006981922817-guJi" target="_blank">2021-04-23 - Escalando robôs automatizados em larga escala com Puppeteer Cluster 🔥 (pt-br)</a>
 

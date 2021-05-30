@@ -1,5 +1,65 @@
 [
   {
+    "title": "Live #5 - O que há de novo no Node.js? - Pré #SemanaJSExpert",
+    "abstract": "Vamos bater aquele papo sobre o as novidades do Node.js 16 e o que podemos esperar para o futuro da plataforma.",
+    "type": "video",
+    "additionalLinks": ["https://github.com/ErickWendel/lives-aquecimento03-javascript-expert"],
+    "link": "https://youtu.be/0bEHcNfPkpw",
+    "tags": ["NodeJS", "Javascript"],
+    "language": "pt-br",
+    "date": "2021-05-14"
+  },
+  {
+    "title": "Live #4 - TDD para não praticantes: Como pensar, o que evitar e mais - Pré #SemanaJSExpert",
+    "abstract": "Vamos bater aquele papo sobre a prática de Test Driven Development, sobre como pensar, o que evitar e o que fazer com bases existentes.",
+    "type": "video",
+    "additionalLinks": ["https://github.com/ErickWendel/lives-aquecimento03-javascript-expert"],
+    "link": "https://youtu.be/lELIKi2ZtpY",
+    "tags": ["TDD", "Javascript"],
+    "language": "pt-br",
+    "date": "2021-05-13"
+  },
+  {
+    "title": "Live #3 - É Hora de RegEx: 5 dicas incríveis sobre expressões regulares - Pré #SemanaJSExpert",
+    "abstract": "Vou te mostrar 5 dicas incríveis para melhorar a sua performance trabalhando com #Regex no JavaScript",
+    "type": "video",
+    "additionalLinks": ["https://github.com/ErickWendel/lives-aquecimento03-javascript-expert"],
+    "link": "https://youtu.be/5yzF5pngFYY",
+    "tags": ["Regex","NodeJS"],
+    "language": "pt-br",
+    "date": "2021-05-12"
+  },
+  {
+    "title": "Live #2 - Técnicas de Debugging para Node.js - REPL.it, VSCode & Chrome - Pré #SemanaJSExpert",
+    "abstract": "Vamos demonstrar como depurar aplicações no Node.js usando técnicas avançadas e poderosas sobre a plataforma",
+    "type": "video",
+    "additionalLinks": ["https://github.com/ErickWendel/lives-aquecimento03-javascript-expert"],
+    "link": "https://youtu.be/XKXisPOD4f0",
+    "tags": ["Debug", "NodeJS"],
+    "language": "pt-br",
+    "date": "2021-05-11"
+  },
+  {
+    "title": "Live #1 - Qual é a dos ECMAScript Modules? - Pré #SemanaJSExpert",
+    "abstract": "Vamos bater aquele papo sobre o motivo dos #ECMAScriptModules, demonstrar a importancia para a Web e diferenças do #CommonJS",
+    "type": "video",
+    "additionalLinks": ["https://github.com/ErickWendel/lives-aquecimento03-javascript-expert"],
+    "link": "https://youtu.be/Z_ZKGX8-lPw",
+    "tags": ["ECMAScriptModules", "CommonJS"],
+    "language": "pt-br",
+    "date": "2021-05-10"
+  },
+  {
+    "title": "Conheça o Verdaccio, uma alternativa ao NPM Registry para pacotes privados (e gratuito!)",
+    "abstract": "O Verdaccio é um NPM Registry open source para repositorios privados. ",
+    "type": "video",
+    "additionalLinks": ["https://github.com/ErickWendel/verdaccio-npm-registry-yt"],
+    "link": "https://youtu.be/mVgUs7VHqBg",
+    "tags": ["NPM", "Verdaccio"],
+    "language": "pt-br",
+    "date": "2021-04-30"
+  },
+  {
     "title": "Como interceptar funções nativas do Node.js para criptografar dados",
     "abstract": "Nós vamos simular que já existe uma aplicação que lê e escreve arquivos, usando o módulo fs do Node.js.",
     "type": "video",
