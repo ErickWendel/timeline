@@ -933,35 +933,41 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="" target="_blank">2021-05-12 - Hora de Regex 🔥 5 dicas incríveis sobre expressões regulares (pt-br)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6798212480762957824-btIb" target="_blank">2021-05-12 - Hora de Regex 🔥 5 dicas incríveis sobre expressões regulares (pt-br)</a>
 
 
 Portal:
 
-> <a href="" target="_blank">Linkedin Post</a>
+> <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6798212480762957824-btIb" target="_blank">Linkedin Post</a>
 
 
 Abstract:
 
 > É conteúdo que não acaba mais por aqui, heim!
 > 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dQQyZTA" target="_blank">https://lnkd.in/dQQyZTA</a>
 > 
 
 
 _Tags: `linkedinPost`_
 
-### <a href="" target="_blank">2021-05-11 - Você já ouviu falar sobre conditional exports usando JavaScript ESModules? 🔥 (pt-br)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_voc%C3%AA-j%C3%A1-ouviu-falar-sobre-conditional-exports-activity-6797856423289098240-1lrd" target="_blank">2021-05-11 - Você já ouviu falar sobre conditional exports usando JavaScript ESModules? 🔥 (pt-br)</a>
 
 
 Portal:
 
-> <a href="" target="_blank">Linkedin Post</a>
+> <a href="https://www.linkedin.com/posts/erickwendel_voc%C3%AA-j%C3%A1-ouviu-falar-sobre-conditional-exports-activity-6797856423289098240-1lrd" target="_blank">Linkedin Post</a>
 
 
 Abstract:
 
 > Siiiiiiiiiim galera! Se você, por alguma razão, precisa de retrocompatibilidade entre pacotes que usam o require/module.exports
 > 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dpwrp9P" target="_blank">https://lnkd.in/dpwrp9P</a>
 > 
 
 
