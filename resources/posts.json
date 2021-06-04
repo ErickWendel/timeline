@@ -1,5 +1,103 @@
 [
   {
+    "title": "TDD para não praticantes: Como pensar, o que evitar e principais dilemas deste tipo de técnica🔥",
+    "abstract": "Ontem fizemos mais uma live lá no canal e dessa vez foi uma dinâmica totalmente diferente do que estamos acostumados.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_tdd-para-n%C3%A3o-praticantes-como-pensar-o-activity-6798947961863720960-KF3I",
+    "additionalLinks": ["https://youtu.be/lELIKi2ZtpY"],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_tdd-para-n%C3%A3o-praticantes-como-pensar-o-activity-6798947961863720960-KF3I",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-05-14"
+  },
+  {
+    "title": "Uma das melhores dicas sobre Regex ever! 🤯",
+    "abstract": "Ontem rolou nossa live de aquecimento com o tema: 5 dicas incríveis sobre Expressões Regulares.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_uma-das-melhores-dicas-sobre-regex-ever-activity-6798587998016421888-imVO",
+    "additionalLinks": ["https://youtu.be/5yzF5pngFYY"],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_uma-das-melhores-dicas-sobre-regex-ever-activity-6798587998016421888-imVO",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-05-13"
+  },
+  {
+    "title": "Hora de Regex 🔥 5 dicas incríveis sobre expressões regulares",
+    "abstract": "É conteúdo que não acaba mais por aqui, heim!",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6798212480762957824-btIb",
+    "additionalLinks": ["https://lnkd.in/dQQyZTA"],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6798212480762957824-btIb",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-05-12"
+  },
+  {
+    "title": "Você já ouviu falar sobre conditional exports usando JavaScript ESModules? 🔥",
+    "abstract": "Siiiiiiiiiim galera! Se você, por alguma razão, precisa de retrocompatibilidade entre pacotes que usam o require/module.exports",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_voc%C3%AA-j%C3%A1-ouviu-falar-sobre-conditional-exports-activity-6797856423289098240-1lrd",
+    "additionalLinks": ["https://lnkd.in/dpwrp9P"],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_voc%C3%AA-j%C3%A1-ouviu-falar-sobre-conditional-exports-activity-6797856423289098240-1lrd",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-05-11"
+  },
+  {
+    "title": "Você sabe como criar e empacotar um módulo NPM? Você sabia que existem outras alternativas ao serviço da NPM, como a própria GitHub (e de graça)?",
+    "abstract": "Distribuição e versionamento de pacotes são coisas que podem dar bastante dor de cabeça, se mal gerenciados.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_voc%C3%AA-sabe-como-criar-e-empacotar-um-m%C3%B3dulo-activity-6796062365587779585-YZ1C",
+    "additionalLinks": ["https://lnkd.in/gUaveWS"],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_voc%C3%AA-sabe-como-criar-e-empacotar-um-m%C3%B3dulo-activity-6796062365587779585-YZ1C",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-05-06"
+  },
+  {
+    "title": "5 dicas para tornar a prática de TDD parte de sua rotina de trabalho 🔥",
+    "abstract": "1 - Testar independente de antes ou depois",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_5-dicas-para-tornar-a-pr%C3%A1tica-de-tdd-parte-activity-6795329060806385664-37Di",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_5-dicas-para-tornar-a-pr%C3%A1tica-de-tdd-parte-activity-6795329060806385664-37Di",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-05-04"
+  },
+  {
+    "title": "O Node.js 10 vai se tornar obsoleto e, a partir desta semana, não terá mais suporte oficial 😱",
+    "abstract": "Tenho certeza de que muitos ainda usam Node.js em versões anteriores.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_o-nodejs-10-vai-se-tornar-obsoleto-e-a-activity-6792437243760930816-E3gk",
+    "additionalLinks": [""],
+    "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_o-nodejs-10-vai-se-tornar-obsoleto-e-a-activity-6792437243760930816-E3gk",
+        "name": "Linkedin Post"
+    },
+    "tags": ["linkedinPost"],
+    "language": "pt-br",
+    "date": "2021-04-26"
+  },
+  {
     "title": "Escalando robôs automatizados em larga escala com Puppeteer Cluster 🔥",
     "abstract": "O que mais ouço por aí é: 'Node.js não é para isso...' mas, na hora de explicar os motivos",
     "type": "post",
