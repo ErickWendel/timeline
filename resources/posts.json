@@ -1,5 +1,114 @@
 [
   {
+    "title": "E se usássemos Rust para programar em Node.js? 🤯",
+    "abstract": "Sim, isso mesmo! Alta Performance, Multi-threading e processamento paralelo 🤩",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_e-se-us%C3%A1ssemos-rust-para-programar-em-nodejs-activity-6826520894123327488-sQ5z",
+    "additionalLinks": [
+      "https://neon-bindings.com/"
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_e-se-us%C3%A1ssemos-rust-para-programar-em-nodejs-activity-6826520894123327488-sQ5z",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-07-29"
+  },
+  {
+    "title": "Muita gente pediu, então, aqui vai: Como montar seu roteiro de estudos sobre JavaScript e Node.js 🔥",
+    "abstract": "O que mais recebo lá no meu Instagram são mensagens de pessoas perguntando o que poderiam estudar e qual a ordem dos conteúdos.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_muita-gente-pediu-ent%C3%A3o-aqui-vai-como-activity-6826145540607107072-2-vu",
+    "additionalLinks": [
+      ""
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_muita-gente-pediu-ent%C3%A3o-aqui-vai-como-activity-6826145540607107072-2-vu",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-07-28"
+  },
+  {
+    "title": "Hoje é dia de dica de ouro: 3 formas de mapear objetos em JavaScript 🔥",
+    "abstract": "Em programação, boa parte do nosso tempo é dedicado a limpar, converter e agrupar dados.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_hoje-%C3%A9-dia-de-dica-de-ouro-3-formas-de-mapear-activity-6825417413006266368-zgbj",
+    "additionalLinks": [
+      ""
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_hoje-%C3%A9-dia-de-dica-de-ouro-3-formas-de-mapear-activity-6825417413006266368-zgbj",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-07-26"
+  },
+  {
+    "title": "Como rodar Machine Learning em um relógio de pulso com JavaScript 🤯",
+    "abstract": "Sim, essa foi uma notícia que também me surpreendeu.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_machinelearning-javascript-tensorflow-activity-6823960175649542144-4Y5Q",
+    "additionalLinks": [
+      "https://lnkd.in/ddPy6wi",
+      "https://lnkd.in/dGerwiE"
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_machinelearning-javascript-tensorflow-activity-6823960175649542144-4Y5Q",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-07-22"
+  },
+  {
+    "title": "E se você quisesse rodar Machine Learning direto do browser do cliente com JavaScript? 😱🤯",
+    "abstract": "Como dizem por aí: `a melhor máquina do mundo, é aquela que não é a sua` 🤣",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-quisesse-rodar-machine-learning-activity-6823602092658192384-BxSn",
+    "additionalLinks": [
+      ""
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-quisesse-rodar-machine-learning-activity-6823602092658192384-BxSn",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-07-21"
+  },
+  {
+    "title": "E se você quisesse rodar Machine Learning direto do browser do cliente com JavaScript? 😱🤯",
+    "abstract": "",
+    "type": "post",
+    "link": "",
+    "additionalLinks": [
+      ""
+    ],
+    "portal": {
+      "link": "",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-07-&&"
+  },
+  {
     "title": "O que eu faria se hoje precisasse criar uma Web API 🤯",
     "abstract": "Acho que essa é a dúvida mais frequente que recebo de alunos(as)",
     "type": "post",
