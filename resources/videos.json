@@ -1,11 +1,80 @@
 [
   {
+    "title": "Como funciona o relógio que roda JavaScript? The World's first Open Source Hackable Smart Watch",
+    "abstract": "Hoje vou te contar sobre esse relojão aqui, o #Banglejs ou #NodeWatch",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/MuUvmBu-8DI",
+    "tags": [
+      "NodeJS",
+      "Javascript",
+      "Banglejs",
+      "NodeWatch"
+    ],
+    "language": "pt-br",
+    "date": "2021-07-09"
+  },
+  {
+    "title": "Quem tem medo de Node.js Streams? - conheça a incrível e poderosa funcionalidade do Node.js",
+    "abstract": "Hoje eu vou trazer uma abordagem prática sobre o que são e para que servem as Node.js Streams. ",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/pB5-QzabL2I",
+    "tags": [
+      "NodeJS",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2021-07-02"
+  },
+  {
+    "title": "Como aprender inglês mudou minha vida pessoal e profissional",
+    "abstract": "Sim meus amigos, eu muito provavelmente passei pela fase que você está passando nesse momento. ",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/dCaiE3p6yZg",
+    "tags": [
+      "NodeJS",
+      "Javascript",
+      "English"
+    ],
+    "language": "pt-br",
+    "date": "2021-06-25"
+  },
+  {
+    "title": "Chega de MomentJS e datefns! Conheça a Temporal a nova API para datetime no JavaScript",
+    "abstract": "Siim, o JavaScript não para de crescer, e é incrível ver a quantidade de funcionalidades novas que a linguagem está recebendo.",
+    "type": "video",
+    "additionalLinks": [
+      "https://maggiepint.com/2017/04/09/fixing-javascript-date-getting-started/",
+      "https://github.com/tc39/proposal-temporal/releases/tag/0.1.0"
+    ],
+    "link": "https://www.youtube.com/watch?v=rgG50MHnijE",
+    "tags": [
+      "NodeJS",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2021-06-18"
+  },
+  {
     "title": "Live #5 - O que há de novo no Node.js? - Pré #SemanaJSExpert",
     "abstract": "Vamos bater aquele papo sobre o as novidades do Node.js 16 e o que podemos esperar para o futuro da plataforma.",
     "type": "video",
-    "additionalLinks": ["https://github.com/ErickWendel/lives-aquecimento03-javascript-expert"],
+    "additionalLinks": [
+      "https://github.com/ErickWendel/lives-aquecimento03-javascript-expert"
+    ],
     "link": "https://youtu.be/0bEHcNfPkpw",
-    "tags": ["NodeJS", "Javascript"],
+    "tags": [
+      "NodeJS",
+      "Javascript"
+    ],
     "language": "pt-br",
     "date": "2021-05-14"
   },
@@ -13,9 +82,14 @@
     "title": "Live #4 - TDD para não praticantes: Como pensar, o que evitar e mais - Pré #SemanaJSExpert",
     "abstract": "Vamos bater aquele papo sobre a prática de Test Driven Development, sobre como pensar, o que evitar e o que fazer com bases existentes.",
     "type": "video",
-    "additionalLinks": ["https://github.com/ErickWendel/lives-aquecimento03-javascript-expert"],
+    "additionalLinks": [
+      "https://github.com/ErickWendel/lives-aquecimento03-javascript-expert"
+    ],
     "link": "https://youtu.be/lELIKi2ZtpY",
-    "tags": ["TDD", "Javascript"],
+    "tags": [
+      "TDD",
+      "Javascript"
+    ],
     "language": "pt-br",
     "date": "2021-05-13"
   },
@@ -23,9 +97,14 @@
     "title": "Live #3 - É Hora de RegEx: 5 dicas incríveis sobre expressões regulares - Pré #SemanaJSExpert",
     "abstract": "Vou te mostrar 5 dicas incríveis para melhorar a sua performance trabalhando com #Regex no JavaScript",
     "type": "video",
-    "additionalLinks": ["https://github.com/ErickWendel/lives-aquecimento03-javascript-expert"],
+    "additionalLinks": [
+      "https://github.com/ErickWendel/lives-aquecimento03-javascript-expert"
+    ],
     "link": "https://youtu.be/5yzF5pngFYY",
-    "tags": ["Regex","NodeJS"],
+    "tags": [
+      "Regex",
+      "NodeJS"
+    ],
     "language": "pt-br",
     "date": "2021-05-12"
   },
@@ -33,9 +112,14 @@
     "title": "Live #2 - Técnicas de Debugging para Node.js - REPL.it, VSCode & Chrome - Pré #SemanaJSExpert",
     "abstract": "Vamos demonstrar como depurar aplicações no Node.js usando técnicas avançadas e poderosas sobre a plataforma",
     "type": "video",
-    "additionalLinks": ["https://github.com/ErickWendel/lives-aquecimento03-javascript-expert"],
+    "additionalLinks": [
+      "https://github.com/ErickWendel/lives-aquecimento03-javascript-expert"
+    ],
     "link": "https://youtu.be/XKXisPOD4f0",
-    "tags": ["Debug", "NodeJS"],
+    "tags": [
+      "Debug",
+      "NodeJS"
+    ],
     "language": "pt-br",
     "date": "2021-05-11"
   },
@@ -43,9 +127,14 @@
     "title": "Live #1 - Qual é a dos ECMAScript Modules? - Pré #SemanaJSExpert",
     "abstract": "Vamos bater aquele papo sobre o motivo dos #ECMAScriptModules, demonstrar a importancia para a Web e diferenças do #CommonJS",
     "type": "video",
-    "additionalLinks": ["https://github.com/ErickWendel/lives-aquecimento03-javascript-expert"],
+    "additionalLinks": [
+      "https://github.com/ErickWendel/lives-aquecimento03-javascript-expert"
+    ],
     "link": "https://youtu.be/Z_ZKGX8-lPw",
-    "tags": ["ECMAScriptModules", "CommonJS"],
+    "tags": [
+      "ECMAScriptModules",
+      "CommonJS"
+    ],
     "language": "pt-br",
     "date": "2021-05-10"
   },
@@ -53,9 +142,14 @@
     "title": "Conheça o Verdaccio, uma alternativa ao NPM Registry para pacotes privados (e gratuito!)",
     "abstract": "O Verdaccio é um NPM Registry open source para repositorios privados. ",
     "type": "video",
-    "additionalLinks": ["https://github.com/ErickWendel/verdaccio-npm-registry-yt"],
+    "additionalLinks": [
+      "https://github.com/ErickWendel/verdaccio-npm-registry-yt"
+    ],
     "link": "https://youtu.be/mVgUs7VHqBg",
-    "tags": ["NPM", "Verdaccio"],
+    "tags": [
+      "NPM",
+      "Verdaccio"
+    ],
     "language": "pt-br",
     "date": "2021-04-30"
   },
@@ -63,9 +157,15 @@
     "title": "Como interceptar funções nativas do Node.js para criptografar dados",
     "abstract": "Nós vamos simular que já existe uma aplicação que lê e escreve arquivos, usando o módulo fs do Node.js.",
     "type": "video",
-    "additionalLinks": [" http://bit.ly/crypto-fns-erickwendel​"],
+    "additionalLinks": [
+      " http://bit.ly/crypto-fns-erickwendel​"
+    ],
     "link": "https://youtu.be/NiMlyJhlbeg",
-    "tags": ["DesignPatterns", "Crypto", "JavaScript"],
+    "tags": [
+      "DesignPatterns",
+      "Crypto",
+      "JavaScript"
+    ],
     "language": "pt-br",
     "date": "2021-04-09"
   },
@@ -73,9 +173,13 @@
     "title": "Live #5 - Evitando code injection em Node.js - JS Security - Pré #SemanaJSExpert",
     "abstract": "Vamos demonstrar hoje sobre como evitar injeção de código arbitrário em Node.js e executar comandos shell de forma segura.",
     "type": "video",
-    "additionalLinks": ["http://bit.ly/lives-aquecimento02-ew​"],
+    "additionalLinks": [
+      "http://bit.ly/lives-aquecimento02-ew​"
+    ],
     "link": "https://youtu.be/_3kJALExtmc",
-    "tags": ["Javascript"],
+    "tags": [
+      "Javascript"
+    ],
     "language": "pt-br",
     "date": "2021-03-19"
   },
@@ -83,9 +187,13 @@
     "title": "Live #4 - 05 comandos incríveis de linha de comando que você precisa conhecer - Pré #SemanaJSExpert​",
     "abstract": "PRÉ REQUISITOS Node.js 15",
     "type": "video",
-    "additionalLinks": ["http://bit.ly/lives-aquecimento02-ew​"],
+    "additionalLinks": [
+      "http://bit.ly/lives-aquecimento02-ew​"
+    ],
     "link": "https://youtu.be/3yWdDBTt5o4",
-    "tags": ["Javascript"],
+    "tags": [
+      "Javascript"
+    ],
     "language": "pt-br",
     "date": "2021-03-18"
   },
@@ -93,9 +201,15 @@
     "title": "Live #3 - Map e Set - As estruturas mais úteis do JS para você conhecer - Pré #SemanaJSExpert​",
     "abstract": "PRÉ REQUISITOS Node.js 15",
     "type": "video",
-    "additionalLinks": ["http://bit.ly/lives-aquecimento02-ew​"],
+    "additionalLinks": [
+      "http://bit.ly/lives-aquecimento02-ew​"
+    ],
     "link": "https://youtu.be/3yWdDBTt5o4",
-    "tags": ["Map", "Set", "Javascript"],
+    "tags": [
+      "Map",
+      "Set",
+      "Javascript"
+    ],
     "language": "pt-br",
     "date": "2021-03-17"
   },
@@ -103,9 +217,14 @@
     "title": "Live #2 - Aplicações multiplataforma usando apenas JavaScript - Pré #SemanaJSExpert​",
     "abstract": "Vamos criar ao vivo uma aplicação que pode ser executada em diferentes ambientes renderizando componentes de acordo com a plataforma em contexto.",
     "type": "video",
-    "additionalLinks": ["http://bit.ly/lives-aquecimento02-ew​"],
+    "additionalLinks": [
+      "http://bit.ly/lives-aquecimento02-ew​"
+    ],
     "link": "https://youtu.be/vMnO-EOOfIU",
-    "tags": ["ECMAScript Modules", "Javascript"],
+    "tags": [
+      "ECMAScript Modules",
+      "Javascript"
+    ],
     "language": "pt-br",
     "date": "2021-03-16"
   },
@@ -113,9 +232,15 @@
     "title": "Live #1 - Trabalhando com os Design Patterns Fluent Interface e Builder - Pré #SemanaJSExpert​",
     "abstract": "Vamos criar ao vivo uma biblioteca usando TDD para demonstrar o padrão Fluent Interface e criar um utilitário de acesso a banco de dados.",
     "type": "video",
-    "additionalLinks": ["http://bit.ly/lives-aquecimento02-ew​"],
+    "additionalLinks": [
+      "http://bit.ly/lives-aquecimento02-ew​"
+    ],
     "link": "https://www.youtube.com/watch?v=Gvamncn_wG0",
-    "tags": ["FluentInterface", "TDD", "Javascript"],
+    "tags": [
+      "FluentInterface",
+      "TDD",
+      "Javascript"
+    ],
     "language": "pt-br",
     "date": "2021-03-15"
   },
@@ -123,9 +248,15 @@
     "title": "Criando um Voice Memo app usando HTML5, Media Recorder, Media Devices e ECMAScript Modules",
     "abstract": "Aulão (#tutorial​) sobre como criar um aplicativo de Gravação de voz usando ECMAScript Modules e Web APIs nativas do Browser.",
     "type": "video",
-    "additionalLinks": ["http://bit.ly/voice-memo-template-ew"],
+    "additionalLinks": [
+      "http://bit.ly/voice-memo-template-ew"
+    ],
     "link": "https://youtu.be/Pd_LS7p_BX4",
-    "tags": ["tutorial", "MediaRecorder", "ECMAScriptModules"],
+    "tags": [
+      "tutorial",
+      "MediaRecorder",
+      "ECMAScriptModules"
+    ],
     "language": "pt-br",
     "date": "2021-02-26"
   },
@@ -133,9 +264,14 @@
     "title": "Os maiores prêmios em desenvolvimento de software - Unboxing do AWS Community Builder Award",
     "abstract": "Nos últimos anos tive a felicidade de ser nomeado com os principais reconhecimentos em software do mundo e neste vídeo vou falar sobre cada um deles.",
     "type": "video",
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "link": "https://youtu.be/jBBrFyy77qQ",
-    "tags": ["node.js", "javascript"],
+    "tags": [
+      "node.js",
+      "javascript"
+    ],
     "language": "pt-br",
     "date": "2021-02-13"
   },
@@ -143,9 +279,16 @@
     "title": "Live #5 - Generators e Iterators na prática - Pré #SemanaJSExpert",
     "abstract": " Vamos criar uma aplicação para obter dados de Web APIs externas sob demanda com paginação e TDD.",
     "type": "video",
-    "additionalLinks": ["http://bit.ly/lives-de-aquecimento-code"],
+    "additionalLinks": [
+      "http://bit.ly/lives-de-aquecimento-code"
+    ],
     "link": "https://youtu.be/w_UE-wTZPpM",
-    "tags": ["node.js", "javascript", "vscode", "SemanaJSExpert"],
+    "tags": [
+      "node.js",
+      "javascript",
+      "vscode",
+      "SemanaJSExpert"
+    ],
     "language": "pt-br",
     "date": "2021-01-22"
   },
@@ -153,9 +296,16 @@
     "title": "Live #4 - O que você não sabia sobre Promises em Javascript - Pré #SemanaJSExpert",
     "abstract": " Vamos criar uma lib parecida com o Axios, usando boas práticas e TDD.",
     "type": "video",
-    "additionalLinks": ["http://bit.ly/lives-de-aquecimento-code"],
+    "additionalLinks": [
+      "http://bit.ly/lives-de-aquecimento-code"
+    ],
     "link": "https://youtu.be/40kiPpRoH0A",
-    "tags": ["node.js", "javascript", "vscode", "SemanaJSExpert"],
+    "tags": [
+      "node.js",
+      "javascript",
+      "vscode",
+      "SemanaJSExpert"
+    ],
     "language": "pt-br",
     "date": "2021-01-21"
   },
@@ -163,9 +313,16 @@
     "title": "Live #3 - Trabalhando com Test Driven Development na vida real - Pré #SemanaJSExpert",
     "abstract": "Vamos trabalhar com uma aplicação de CRUD aplicando padrões de projeto.",
     "type": "video",
-    "additionalLinks": ["http://bit.ly/lives-de-aquecimento-code"],
+    "additionalLinks": [
+      "http://bit.ly/lives-de-aquecimento-code"
+    ],
     "link": "https://youtu.be/9COpZuJzx18",
-    "tags": ["node.js", "javascript", "vscode", "SemanaJSExpert"],
+    "tags": [
+      "node.js",
+      "javascript",
+      "vscode",
+      "SemanaJSExpert"
+    ],
     "language": "pt-br",
     "date": "2021-01-20"
   },
@@ -173,9 +330,16 @@
     "title": "Live #2 - Entendendo o contexto this, Closures, IIFE e o Objeto Proxy em JS - Pré #SemanaJSExpert",
     "abstract": "Vamos criar um app completo usando conceitos fundamentais da linguagem.",
     "type": "video",
-    "additionalLinks": ["http://bit.ly/lives-de-aquecimento-code"],
+    "additionalLinks": [
+      "http://bit.ly/lives-de-aquecimento-code"
+    ],
     "link": "https://youtu.be/tGSpqjerR_U",
-    "tags": ["node.js", "javascript", "vscode", "SemanaJSExpert"],
+    "tags": [
+      "node.js",
+      "javascript",
+      "vscode",
+      "SemanaJSExpert"
+    ],
     "language": "pt-br",
     "date": "2021-01-19"
   },
@@ -183,9 +347,16 @@
     "title": "Live #1 - Os segredos da Sintaxe Javascript - Pré #SemanaJSExpert",
     "abstract": "Sobre as palavras chave static, extends, get, set, e herança de objetos.",
     "type": "video",
-    "additionalLinks": ["http://bit.ly/javascript-syntax-ew"],
+    "additionalLinks": [
+      "http://bit.ly/javascript-syntax-ew"
+    ],
     "link": "https://youtu.be/DiqLe0nDekA",
-    "tags": ["node.js", "javascript", "vscode", "SemanaJSExpert"],
+    "tags": [
+      "node.js",
+      "javascript",
+      "vscode",
+      "SemanaJSExpert"
+    ],
     "language": "pt-br",
     "date": "2021-01-18"
   },
@@ -193,9 +364,15 @@
     "title": "Como Fazer Upload de Gigabytes de Arquivos de forma escalável usando Node.js - Parte 2",
     "abstract": "E hoje é dia de finalizar o nosso projeto! Na aula anterior, você configurou toda a interface frontend",
     "type": "video",
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "link": "https://www.youtube.com/watch?v=QRhoGbnEs78&feature=youtu.be",
-    "tags": ["node.js", "javascript", "vscode"],
+    "tags": [
+      "node.js",
+      "javascript",
+      "vscode"
+    ],
     "language": "pt-br",
     "date": "2021-01-04"
   },
@@ -203,9 +380,15 @@
     "title": "Como Fazer Upload de Gigabytes de Arquivos de forma escalável usando Node.js - Parte 1",
     "abstract": "Esse é a primeira parte do mini curso em que vamos construir um aplicação completa para fazer upload de gigabytes de arquivos de forma escalável usando Node.js e #Javascript.",
     "type": "video",
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "link": "https://www.youtube.com/watch?v=OG_qqYzcfFk&feature=youtu.be",
-    "tags": ["node.js", "javascript", "vscode"],
+    "tags": [
+      "node.js",
+      "javascript",
+      "vscode"
+    ],
     "language": "pt-br",
     "date": "2020-12-28"
   },
@@ -214,8 +397,13 @@
     "abstract": "Afinal, para que serve o tipo Symbol no Javascript? E sobre boas práticas da linguagem, será que tem alguma forma de usar funções e propriedades privadas?",
     "type": "video",
     "link": "https://www.youtube.com/watch?v=xMyL5HokeyM&feature=youtu.be",
-    "additionalLinks": [""],
-    "tags": ["Symbol", "Javascript"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "Symbol",
+      "Javascript"
+    ],
     "language": "pt-br",
     "date": "2020-12-12"
   },
@@ -224,8 +412,14 @@
     "abstract": "Os 05 projetos mais incríveis que já participei. Vou te falar de alguns dos projetos mais legais que eu já participei em toda a minha vida.",
     "type": "video",
     "link": "https://www.youtube.com/watch?v=rjFecZANOxw&feature=youtu.be",
-    "additionalLinks": [""],
-    "tags": ["RaspberryPI", "Javascript", "Carreira"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "RaspberryPI",
+      "Javascript",
+      "Carreira"
+    ],
     "language": "pt-br",
     "date": "2020-12-04"
   },
@@ -234,8 +428,14 @@
     "abstract": "Você vai aprender a configurar uma aplicação existente para rodar no Kubernetes.",
     "type": "video",
     "link": "https://www.youtube.com/watch?v=eXKg9B5ooaY&feature=youtu.be",
-    "additionalLinks": [""],
-    "tags": ["Kubernetes", "Docker", "NodeJS"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "Kubernetes",
+      "Docker",
+      "NodeJS"
+    ],
     "language": "pt-br",
     "date": "2020-11-28"
   },
@@ -244,8 +444,14 @@
     "abstract": "Você vai construir uma Web API completa em Node.js usando apenas os módulos internos do Node.js.",
     "type": "video",
     "link": "https://www.youtube.com/watch?v=NxHY14rMPvc&feature=youtu.be",
-    "additionalLinks": [""],
-    "tags": ["Javascript", "DesignPatterns", "TutorialJS"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "Javascript",
+      "DesignPatterns",
+      "TutorialJS"
+    ],
     "language": "pt-br",
     "date": "2020-11-21"
   },
@@ -254,8 +460,12 @@
     "abstract": "Separei uma lista sobre as 10 coisas que eu não faria se iniciasse hoje um projeto de software",
     "type": "video",
     "link": "https://www.youtube.com/watch?v=wI3NuQCVOlI&feature=youtu.be",
-    "additionalLinks": [""],
-    "tags": [""],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      ""
+    ],
     "language": "https://www.youtube.com/watch?v=wI3NuQCVOlI&feature=youtu.be",
     "date": "2020-11-13"
   },
@@ -264,8 +474,12 @@
     "abstract": "Já ouviu aquela famosa frase 'Ah, Node.js não é para isso...'?",
     "type": "video",
     "link": "https://www.youtube.com/watch?v=8LNdBVojE6c&feature=youtu.be",
-    "additionalLinks": [""],
-    "tags": [""],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      ""
+    ],
     "language": "https://www.youtube.com/watch?v=8LNdBVojE6c&feature=youtu.be",
     "date": "2020-10-23"
   },
@@ -274,8 +488,12 @@
     "abstract": "Você é um especialista ou generalista?",
     "type": "video",
     "link": "https://www.youtube.com/watch?v=PWgehvaI4M4&feature=youtu.be",
-    "additionalLinks": [""],
-    "tags": [""],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2020-10-16"
   },
@@ -284,8 +502,14 @@
     "abstract": "Chegou a hora de aprender programação com zoeira!",
     "type": "video",
     "link": "https://www.youtube.com/watch?v=k1fE9W0vvdM&feature=youtu.be",
-    "additionalLinks": [""],
-    "tags": ["Typescript", "VSCode", "CodingTrolls"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "Typescript",
+      "VSCode",
+      "CodingTrolls"
+    ],
     "language": "pt-br",
     "date": "2020-10-09"
   },
@@ -294,8 +518,12 @@
     "abstract": "Vocês estão usando Node.js excessivamente. É Isso 😨",
     "type": "video",
     "link": "https://www.youtube.com/watch?v=BkmfhL4EIhc&feature=youtu.be",
-    "additionalLinks": [""],
-    "tags": ["diaDeMaldade"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "diaDeMaldade"
+    ],
     "language": "pt-br",
     "date": "2020-10-02"
   },
@@ -304,8 +532,14 @@
     "abstract": "O vídeo de hoje é uma série de dicas sobre conteúdos avançados que você precisa aprender sobre Node.js.",
     "type": "video",
     "link": "https://www.youtube.com/watch?v=VZF5QvPfWkA&feature=youtu.be",
-    "additionalLinks": [""],
-    "tags": ["avançado", "NodeJS", "Javascript"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "avançado",
+      "NodeJS",
+      "Javascript"
+    ],
     "language": "pt-br",
     "date": "2020-09-25"
   },
@@ -314,8 +548,13 @@
     "abstract": "Eaaaai beleza? O vídeo de hoje é para você que quer ser uma pessoa desenvolvedora melhor",
     "type": "video",
     "link": "https://www.youtube.com/watch?v=3AbREg8ZNxs&feature=youtu.be",
-    "additionalLinks": [""],
-    "tags": ["NodeJS", "Javascript"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "NodeJS",
+      "Javascript"
+    ],
     "language": "pt-br",
     "date": "2020-09-18"
   },
@@ -324,8 +563,14 @@
     "abstract": "Hoje é Sexta-feira e resolvi produzir uma super vídeo-aula para quebrar o mito que Node.js não performa quando escalamos processos.",
     "type": "video",
     "link": "https://www.youtube.com/watch?v=9ThVMous-io&feature=youtu.be",
-    "additionalLinks": [""],
-    "tags": ["NodeJS", "Puppeteer", "automação"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "NodeJS",
+      "Puppeteer",
+      "automação"
+    ],
     "language": "pt-br",
     "date": "2020-09-11"
   },
@@ -334,8 +579,14 @@
     "abstract": "Da série 'Node.js não é para isso' vamos hoje usar a melhor prática possível para trabalhar com arquivos sob demanda em Node.js.",
     "type": "video",
     "link": "https://www.youtube.com/watch?v=iT97rkTEvSo&feature=youtu.be",
-    "additionalLinks": [""],
-    "tags": ["NodeJS", "Streams", "arquivos"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "NodeJS",
+      "Streams",
+      "arquivos"
+    ],
     "language": "pt-br",
     "date": "2020-09-04"
   },
@@ -344,8 +595,14 @@
     "abstract": "Em apenas uma semana foram-se mais de 1300 dólares ou mais de 7 mil reais na cotação atual. ",
     "type": "video",
     "link": "https://www.youtube.com/watch?v=QDagUgoFJd4&feature=youtu.be",
-    "additionalLinks": [""] ,
-    "tags": ["serverless", "AWS", "NodeJS"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "serverless",
+      "AWS",
+      "NodeJS"
+    ],
     "language": "pt-br",
     "date": "2020-08-28"
   },
@@ -354,8 +611,14 @@
     "abstract": "Chega de gastar dinheiro de forma desnecessária em aplicações serverless. ",
     "type": "video",
     "link": "https://www.youtube.com/watch?v=dv3davK20qU&feature=youtu.be",
-    "additionalLinks": [""],
-    "tags": ["ServerlessFramework", "Docker", "NodeJS"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "ServerlessFramework",
+      "Docker",
+      "NodeJS"
+    ],
     "language": "pt-br",
     "date": "2020-08-21"
   },
@@ -364,8 +627,14 @@
     "abstract": "Seja muito bem vindo(a) a mais um #DevsPeloMundo. Neste bate papo, vamos entrevistar o Yan Cui reconhecido pela AWS como #AWS Serverless Hero",
     "type": "video",
     "link": "https://www.youtube.com/watch?v=4-65btAruy4&feature=youtu.be",
-    "additionalLinks": [""],
-    "tags": ["aws", "Lambda", "DevsPeloMundo"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "aws",
+      "Lambda",
+      "DevsPeloMundo"
+    ],
     "language": "en-us",
     "date": "2020-08-18"
   },
@@ -374,8 +643,12 @@
     "abstract": " Neste bate papo, vamos entrevistar o brasileiro Ruy Adorno, programador na #NPM CLI (recentemente adquirida pela GitHub), core committer no projeto Node.js e, ainda, faz parte do Tooling Working Group...",
     "type": "video",
     "link": "https://youtu.be/WBus1CpOfbs",
-    "additionalLinks": [""],
-    "tags": ["webinar"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "webinar"
+    ],
     "language": "pt-br",
     "date": "2020-08-12"
   },
@@ -384,8 +657,12 @@
     "abstract": "Neste bate papo, vamos entrevistar nada menos que uma das pessoas mais importantes do código fonte do Node.js da atualidade! Anna Henningsen é programadora e integrante do #Nodejs",
     "type": "video",
     "link": "https://youtu.be/1b9s6JY87-w",
-    "additionalLinks": [""],
-    "tags": ["webinar"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "webinar"
+    ],
     "language": "en-us",
     "date": "2020-08-05"
   },
@@ -394,8 +671,14 @@
     "abstract": "Eu imagino que que você deve estar se perguntando 'Como assim não precisa de Typescript?'. Vou te mostrar um ponto de vista diferente e uma provocação sobre...",
     "type": "video",
     "link": "https://bit.ly/ew-video09",
-    "additionalLinks": [""],
-    "tags": ["typescript", "javascript", "node.js"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "typescript",
+      "javascript",
+      "node.js"
+    ],
     "language": "pt-br",
     "date": "2020-08-14"
   },
@@ -404,8 +687,14 @@
     "abstract": "Se tem uma coisa que me irrita em gerenciamento de software são projetos que já nascem atrasados. 'Ah Vamos fazer esse sisteminha aqui e estamos com prazo apertado, esse mês precisa estar em produção, vamos trabalhar de fim de semana para compensar'",
     "type": "video",
     "link": "https://bit.ly/ew-video08",
-    "additionalLinks": [""],
-    "tags": ["tdd", "tests", "javascript"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "tdd",
+      "tests",
+      "javascript"
+    ],
     "language": "pt-br",
     "date": "2020-08-07"
   },
@@ -414,8 +703,13 @@
     "abstract": "Já se perguntou o motivo de não visualizar logs internos de módulos com o Express? Será que a galera não usa logs para depurar as aplicações como nós?",
     "type": "video",
     "link": "https://bit.ly/consolelog-video-ew",
-    "additionalLinks": [""],
-    "tags": ["node.js", "javascript"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "node.js",
+      "javascript"
+    ],
     "language": "pt-br",
     "date": "2020-07-31"
   },
@@ -424,8 +718,13 @@
     "abstract": "Você provavelmente já conhece o que são funções assíncronas em Javascript e o quão problemáticas elas podem ser. Neste vídeo, você vai aprender a usar o módulos internos do Node.js para converter funções #Javascript de #Callback existentes em #Promises e ainda de quebra usar async/await para ordenar seus resultados",
     "type": "video",
     "link": "https://bit.ly/video-callbacks01",
-    "additionalLinks": [""],
-    "tags": ["javascript", "node.js"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "javascript",
+      "node.js"
+    ],
     "language": "pt-br",
     "date": "2020-07-21"
   },
@@ -434,8 +733,14 @@
     "abstract": "Seja muito bem vindo(a) ao segundo #DevsPeloMundo. Neste bate papo, vamos entrevistar o brasileiro Guilherme, programador na plataforma serverless da Netflix e membro do comitê da #TC39 (ECMAScript/Javascript) contando sua experiência em como foi parar nos Estados Unidos, história de vida e segredos de sua rotina em uma das empresas mais desejadas do mundo.",
     "type": "video",
     "link": "https://bit.ly/live-guilherme-netflix-tc39",
-    "additionalLinks": [""],
-    "tags": ["webinar", "devspelomundo", "career"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "webinar",
+      "devspelomundo",
+      "career"
+    ],
     "language": "pt-br",
     "date": "2020-07-23"
   },
@@ -444,8 +749,12 @@
     "abstract": "Você acha que os americanos são melhores em programação que brasileiros? Em 2019, passei 3 meses estudando inglês em San Francisco, palestrando e ...",
     "type": "video",
     "link": "https://bit.ly/americanos-vs-brasileiros-tech",
-    "additionalLinks": [""],
-    "tags": ["career"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "career"
+    ],
     "language": "pt-br",
     "date": "2020-07-17"
   },
@@ -454,8 +763,12 @@
     "abstract": "Seja muito bem vindo ao primeiro #DevsPeloMundo. Neste bate papo, vamos entrevistar o brasileiro Armando Magalhães, solutions developer na #Netflix...",
     "type": "video",
     "link": "https://bit.ly/devspelomundo01",
-    "additionalLinks": [""],
-    "tags": ["career"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "career"
+    ],
     "language": "pt-br",
     "date": "2020-07-09"
   },
@@ -464,8 +777,14 @@
     "abstract": "Você sabe o que faz um consultor em performance de aplicações? Para muitos é um mistério como descobrir o que há de errado em aplicações e até difícil saber por onde começar.",
     "type": "video",
     "link": "https://youtu.be/90rdb0o4Arc",
-    "additionalLinks": [""],
-    "tags": ["node.js", "docker", "career"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "node.js",
+      "docker",
+      "career"
+    ],
     "language": "pt-br",
     "date": "2020-07-03"
   },
@@ -474,8 +793,13 @@
     "abstract": "Alguns desenvolvedores não gostam de usar o Docker como seu ambiente de desenvolvimento, pois acham o processo improdutivo e lento. Mas não precisa ser assim!",
     "type": "video",
     "link": "https://youtu.be/Bp2bU6fQcSo",
-    "additionalLinks": [""],
-    "tags": ["node.js", "javascript"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "node.js",
+      "javascript"
+    ],
     "language": "pt-br",
     "date": "2020-06-26"
   },
@@ -484,8 +808,13 @@
     "abstract": "Resolvi contar como foi minha experiência em tirar a certificação de Node.js. Agrupei todas as principais dificuldades, possíveis dúvidas e claro dicas chaves para você que tem dúvida se quer fazer ou não.",
     "type": "video",
     "link": "https://youtu.be/heiMGR5u6B8",
-    "additionalLinks": [""],
-    "tags": ["node.js", "career"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "node.js",
+      "career"
+    ],
     "language": "pt-br",
     "date": "2020-05-29"
   },
@@ -494,8 +823,14 @@
     "abstract": "Uma das coisas mais comuns na vida de pessoas desenvolvedoras de software é gastar um bom tempo tentando encontrar motivos de um programa não funcionar. Neste vídeo você vai aprender as principais formas de depurar aplicações Node.js usando Docker, VSCode, Browsers e até remote debug com o melhor que o Node.js tem a oferecer!",
     "type": "video",
     "link": "https://youtu.be/lx_zZvz5MFY",
-    "additionalLinks": [""],
-    "tags": ["node.js", "vscode", "docker"],
+    "additionalLinks": [
+      ""
+    ],
+    "tags": [
+      "node.js",
+      "vscode",
+      "docker"
+    ],
     "language": "pt-br",
     "date": "2020-06-12"
   },
@@ -503,9 +838,15 @@
     "title": "Original Potato - Jogando Batata Quente em tempo real!",
     "abstract": "Está no ar, mais um aplicativo da ZOEIRA! Sabe aquela galera que sai com você e fica o tempo todo no celular? Que tal interagir com a galera, revivendo os tempos de batata quente     mas de uma forma mais digital ?",
     "type": "video",
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "link": "https://www.facebook.com/page.erickwendel/videos/1202597676537643/",
-    "tags": ["node.js", "websocket", "typescript"],
+    "tags": [
+      "node.js",
+      "websocket",
+      "typescript"
+    ],
     "language": "pt-br",
     "date": "2018-01-09"
   },
@@ -518,7 +859,12 @@
       "https://vimeo.com/244524436"
     ],
     "link": "https://www.facebook.com/page.erickwendel/videos/1176045485859529/",
-    "tags": ["node.js", "android", "malware", "firebase"],
+    "tags": [
+      "node.js",
+      "android",
+      "malware",
+      "firebase"
+    ],
     "language": "pt-br",
     "date": "2017-11-27"
   },
@@ -526,9 +872,16 @@
     "title": "EvilAlexa - Comandos de voz para manipular serviços do Windows",
     "abstract": "Malware a partir de comandos de voz usando os serviços da Amazon Web Services para Manipular serviços do Windows a partir da Internet hehehhe. A demo do projeto que fizemos na Campus Party 2017 BH",
     "type": "video",
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "link": "https://www.facebook.com/page.erickwendel/videos/1166364923494252/",
-    "tags": ["malware", "alexa", "c#", "aws"],
+    "tags": [
+      "malware",
+      "alexa",
+      "c#",
+      "aws"
+    ],
     "language": "pt-br",
     "date": "2017-11-11"
   },
@@ -541,7 +894,12 @@
       "http://erickwendel.com.br/2017/02/04/malwares-com-android-utilizando-ionic-framework-javascript-c-websocket/"
     ],
     "link": "https://vimeo.com/241557117",
-    "tags": ["c#", "ionic", "malware", "virus"],
+    "tags": [
+      "c#",
+      "ionic",
+      "malware",
+      "virus"
+    ],
     "language": "pt-br",
     "date": "2017-02-04"
   },
@@ -553,7 +911,11 @@
       "http://erickwendel.com.br/2016/11/06/trojan-com-comandos-de-voz-utilizando-android-wear-java-net-protocolo-websocket/"
     ],
     "link": "https://vimeo.com/241556950",
-    "tags": ["trojan", "c#", "android"],
+    "tags": [
+      "trojan",
+      "c#",
+      "android"
+    ],
     "language": "pt-br",
     "date": "2016-11-06"
   },
@@ -565,7 +927,11 @@
       "http://erickwendel.com.br/2016/09/20/wearpresentation-android-wear-device-nodejs-websocket-desktop-e-restfull-api/"
     ],
     "link": "https://vimeo.com/177959241",
-    "tags": ["wear", "android", "node.js"],
+    "tags": [
+      "wear",
+      "android",
+      "node.js"
+    ],
     "language": "pt-br",
     "date": "2016-09-20"
   },
@@ -577,18 +943,29 @@
       "http://erickwendel.com.br/2016/07/07/telegram-bot-api-nodejs-apis-do-ibm-watson-tone-analyser-e-language-translation/"
     ],
     "link": "https://vimeo.com/173722945",
-    "tags": ["telegram", "bot", "node.js", "ibm"],
+    "tags": [
+      "telegram",
+      "bot",
+      "node.js",
+      "ibm"
+    ],
     "language": "pt-br",
     "date": "2017-07-07"
   },
-
   {
     "title": "Demo - VSCode extensions: Cognitive Services + Siri + VSCode + Node.js - Criando uma extensão de tradução de texto no editor",
     "abstract": "Amanha (15/12) acontece o Developers Sergipe e estamos mais que animados! Preparei uma demonstração integrando o #vscode, o serviço de tradução do #azure e a #siri, para a partir da seleção de um texto, traduzir automaticamente e falar o resultado em nosso idioma, é claro que é uma demo bem simples, mas mostra o poder e as ideias que vem em mente para brincar 😀 ",
     "type": "video",
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "link": "https://www.facebook.com/page.erickwendel/videos/2248556708749766/",
-    "tags": ["node.js", "microsoft", "siri", "vscode"],
+    "tags": [
+      "node.js",
+      "microsoft",
+      "siri",
+      "vscode"
+    ],
     "language": "pt-br",
     "date": "2018-12-14"
   }
