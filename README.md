@@ -16,8 +16,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Videos**: 2021/May - 2016/September 
-* **Blog Posts**: 2021/May - 2015/February 
+* **Videos**: 2021/July - 2016/September 
+* **Blog Posts**: 2021/July - 2015/February 
 * **Conference Talks**: 2021/March - 2015/January 
 
 #### Presentations' number: 106
@@ -25,8 +25,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Videos (58)](#videos)
-- [Blog Posts (181)](#blog-posts)
+- [Videos (62)](#videos)
+- [Blog Posts (197)](#blog-posts)
 - [Conference Talks (106)](#conference-talks)
 
 ## Projects
@@ -122,6 +122,58 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/MuUvmBu-8DI" target="_blank">2021-07-09 - Como funciona o relógio que roda JavaScript? The World's first Open Source Hackable Smart Watch (pt-br)</a>
+
+
+Abstract:
+
+> Hoje vou te contar sobre esse relojão aqui, o #Banglejs ou #NodeWatch
+> 
+> 
+
+
+_Tags: `NodeJS`, `Javascript`, `Banglejs`, `NodeWatch`_
+
+### <a href="https://youtu.be/pB5-QzabL2I" target="_blank">2021-07-02 - Quem tem medo de Node.js Streams? - conheça a incrível e poderosa funcionalidade do Node.js (pt-br)</a>
+
+
+Abstract:
+
+> Hoje eu vou trazer uma abordagem prática sobre o que são e para que servem as Node.js Streams. 
+> 
+> 
+
+
+_Tags: `NodeJS`, `Javascript`_
+
+### <a href="https://youtu.be/dCaiE3p6yZg" target="_blank">2021-06-25 - Como aprender inglês mudou minha vida pessoal e profissional (pt-br)</a>
+
+
+Abstract:
+
+> Sim meus amigos, eu muito provavelmente passei pela fase que você está passando nesse momento. 
+> 
+> 
+
+
+_Tags: `NodeJS`, `Javascript`, `English`_
+
+### <a href="https://www.youtube.com/watch?v=rgG50MHnijE" target="_blank">2021-06-18 - Chega de MomentJS e datefns! Conheça a Temporal a nova API para datetime no JavaScript (pt-br)</a>
+
+
+Abstract:
+
+> Siim, o JavaScript não para de crescer, e é incrível ver a quantidade de funcionalidades novas que a linguagem está recebendo.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://maggiepint.com/2017/04/09/fixing-javascript-date-getting-started/" target="_blank">https://maggiepint.com/2017/04/09/fixing-javascript-date-getting-started/</a>
+> - <a href="https://github.com/tc39/proposal-temporal/releases/tag/0.1.0" target="_blank">https://github.com/tc39/proposal-temporal/releases/tag/0.1.0</a>
+> 
+
+
+_Tags: `NodeJS`, `Javascript`_
 
 ### <a href="https://youtu.be/0bEHcNfPkpw" target="_blank">2021-05-14 - Live #5 - O que há de novo no Node.js? - Pré #SemanaJSExpert (pt-br)</a>
 
@@ -892,6 +944,291 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_o-que-eu-faria-se-hoje-precisasse-criar-uma-activity-6821074364235038721-JZBE" target="_blank">2021-07-14 - O que eu faria se hoje precisasse criar uma Web API 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_o-que-eu-faria-se-hoje-precisasse-criar-uma-activity-6821074364235038721-JZBE" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Acho que essa é a dúvida mais frequente que recebo de alunos(as)
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6820713383784927232-_7BV" target="_blank">2021-07-13 - Monitorando seu sistema operacional usando Node.js 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6820713383784927232-_7BV" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sim galera, hoje é dia de dica de ouro!
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_a-melhor-forma-de-processar-dados-massivamente-activity-6818899388685922304-MVqp" target="_blank">2021-07-08 - A melhor forma de processar dados massivamente no Node.js 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_a-melhor-forma-de-processar-dados-massivamente-activity-6818899388685922304-MVqp" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Semana passada, soltei um vídeo sobre Node.js Streams.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_dia-de-dica-de-ouro-como-apagar-arquivos-activity-6817817327388631040-XntE" target="_blank">2021-07-05 - Dia de dica de ouro: Como apagar arquivos direto do terminal de forma segura e reversível 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_dia-de-dica-de-ouro-como-apagar-arquivos-activity-6817817327388631040-XntE" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Já rodou aquele rm -rf por engano em uma pasta errada e perdeu todos os arquivos?
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_entendendo-a-nova-forma-de-remover-pastas-activity-6815983772740132864-dNbG" target="_blank">2021-06-30 - Entendendo a nova forma de remover pastas em Node.js de forma recursiva 🔥🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_entendendo-a-nova-forma-de-remover-pastas-activity-6815983772740132864-dNbG" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Você muito provavelmente já usou o fs.rmDir para remover pastas no Node.js.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/djE9zNR" target="_blank">https://lnkd.in/djE9zNR</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_agora-uma-dica-de-ouro-sobre-regex-como-activity-6815623262345695233-qYts" target="_blank">2021-06-29 - Agora, uma dica de ouro sobre Regex: como buscar palavras que antecedem o seu termo de pesquisa 😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_agora-uma-dica-de-ouro-sobre-regex-como-activity-6815623262345695233-qYts" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Regex pode ser extremamente útil para processamento de texto.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-seria-um-curr%C3%ADculo-ideal-quais-s%C3%A3o-activity-6815273028818104320-Ipdc" target="_blank">2021-06-28 - Como seria um currículo ideal? Quais são os erros mais comuns? É possível chegar a um template único para toda área de dev? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-seria-um-curr%C3%ADculo-ideal-quais-s%C3%A3o-activity-6815273028818104320-Ipdc" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Muitos alunos dos meus treinamentos me perguntam: Ah Erick, você tem um modelo de currículo aí?
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_j%C3%A1-teve-aquela-sensa%C3%A7%C3%A3o-de-refazer-um-software-activity-6813803164303667200-jEGy" target="_blank">2021-06-24 - Já teve aquela sensação de refazer um software inteiro e ele ficar pior do que a primeira versão? 🤣 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_j%C3%A1-teve-aquela-sensa%C3%A7%C3%A3o-de-refazer-um-software-activity-6813803164303667200-jEGy" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Agora é engraçado, mas eu senti isso na pele. O que teoricamente viria para
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_o-que-aconteceria-se-todos-devs-do-brasil-activity-6813091897071009792-4bAL" target="_blank">2021-06-22 - O que aconteceria se todos devs do Brasil soubessem falar em Inglês? 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_o-que-aconteceria-se-todos-devs-do-brasil-activity-6813091897071009792-4bAL" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> É doido pensar como seria o caos no mercado local e o que as empresas precisariam fazer para segurar essa galera.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_afinal-para-que-serve-o-tipo-reflect-do-activity-6812731588367945728-gA_5" target="_blank">2021-06-21 - Afinal, para que serve o tipo Reflect do JavaScript? 🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_afinal-para-que-serve-o-tipo-reflect-do-activity-6812731588367945728-gA_5" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Para quem acompanhou as Semanas JS Expert, pode perceber que
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-depurar-aplica%C3%A7%C3%B5es-nodejs-sem-precisar-activity-6811270907965775872-9Iut" target="_blank">2021-06-17 - Como depurar aplicações Node.js sem precisar reiniciar a aplicação 😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-depurar-aplica%C3%A7%C3%B5es-nodejs-sem-precisar-activity-6811270907965775872-9Iut" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Galera, este assunto é doidera!Imagine colocar um debugger e setar um breakpoint no código que está no ar
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_kubernetes-a-melhor-forma-de-garantir-seguran%C3%A7a-activity-6810921708296409088-7USp" target="_blank">2021-06-16 - Kubernetes, a melhor forma de garantir segurança, controle, escalabilidade e monitoramento de aplicações sem vendor lock-in 📦 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_kubernetes-a-melhor-forma-de-garantir-seguran%C3%A7a-activity-6810921708296409088-7USp" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sim galera, sem contar os outros doadores, a Google anualmente doa mais de $3M na CNCF
+> 
+> <b>Links</b>
+> 
+> - <a href="https://bit.ly/ew-video-20" target="_blank">https://bit.ly/ew-video-20</a>
+> - <a href=" https://lnkd.in/ddpWsDE" target="_blank"> https://lnkd.in/ddpWsDE</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-o-nodejs-deveria-ter-um-sistema-activity-6810541331325165568-WBxJ" target="_blank">2021-06-15 - Será que o Node.js deveria ter um sistema de permissões igual ao Deno? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-o-nodejs-deveria-ter-um-sistema-activity-6810541331325165568-WBxJ" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Existe uma discussão bem interessante sobre acesso de aplicações onde,
+> 
+> <b>Links</b>
+> 
+> - <a href="https://www.nearform.com/blog/adding-a-permission-system-to-node-js/" target="_blank">https://www.nearform.com/blog/adding-a-permission-system-to-node-js/</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-acha-que-difere-entre-dev-profissional-activity-6809122827518672897-fa0U" target="_blank">2021-06-11 - O que você acha que difere entre dev profissional e amador? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-acha-que-difere-entre-dev-profissional-activity-6809122827518672897-fa0U" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Na minha opinião programador(a) bom(a) é aquele(a) que consegue pensar da forma mais genérica possível
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_minha-primeira-semana-trabalhando-com-c-activity-6808751794978603008-bECD" target="_blank">2021-06-10 - Minha primeira semana trabalhando com C++ para sistemas embarcados 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_minha-primeira-semana-trabalhando-com-c-activity-6808751794978603008-bECD" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Galera, essa semana foi doidera! Para quem está me acompanhando lá no Instagram
+> 
+> <b>Links</b>
+> 
+> - <a href="https://www.linkedin.com/company/platformio/" target="_blank">https://www.linkedin.com/company/platformio/</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_usando-o-google-zx-para-executar-comandos-activity-6806222136886231040-7D7u" target="_blank">2021-06-03 - Usando o Google ZX para executar comandos shell em JavaScript 😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_usando-o-google-zx-para-executar-comandos-activity-6806222136886231040-7D7u" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Galera, olha que legal! Com o pacote ZX da Google, conseguimos abstrair
+> 
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_tdd-para-n%C3%A3o-praticantes-como-pensar-o-activity-6798947961863720960-KF3I" target="_blank">2021-05-14 - TDD para não praticantes: Como pensar, o que evitar e principais dilemas deste tipo de técnica🔥 (pt-br)</a>
 
