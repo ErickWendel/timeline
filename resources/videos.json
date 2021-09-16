@@ -1,5 +1,95 @@
 [
   {
+    "title": "Live - Bate papo sobre a segunda aula da #SemanaJSExpert e Curiosidades",
+    "abstract": "Vamos bater aquele papo sobre a super aula da #SemanaJSExpert 5.0, tirar duvidas e conversar ",
+    "type": "video",
+    "additionalLinks": [
+      "https://github.com/ErickWendel/semana-javascript-expert05"
+    ],
+    "link": "youtube.com/watch?v=V_w6yqHwXpw",
+    "tags": [
+      "NodeJS",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2021-09-09"
+  },
+  {
+    "title": "SOLID principles com TypeScript com Rodrigo Branas",
+    "abstract": "Rodrigo Branas é arquiteto de software, professor, autor e palestrante, especializado na linguagem JavaScript",
+    "type": "video",
+    "additionalLinks": [
+      " https://youtube.com/rodrigobranas"
+    ],
+    "link": "https://www.youtube.com/watch?v=GVo7KzO2agg",
+    "tags": [
+      "SOLID",
+      "TypeScript"
+    ],
+    "language": "pt-br",
+    "date": "2021-09-02"
+  },
+  {
+    "title": "Voltando no tempo com Event Sourcing com Lucas Santos",
+    "abstract": "Lucas é Cloud Advocate na Microsoft. Apaixonado por tecnologia e, desde 2011",
+    "type": "video",
+    "additionalLinks": [
+      "https://info.lsantos.dev/"
+    ],
+    "link": "https://www.youtube.com/watch?v=BTjH7rKEbio",
+    "tags": [
+      "NodeJS",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2021-08-31"
+  },
+  {
+    "title": "Criptografia e Autenticação biométrica nativa no navegador com William Grasel",
+    "abstract": "Segurança e privacidade são requisitos essenciais de nosso tempo, e claro que muita gente usa ",
+    "type": "video",
+    "additionalLinks": [
+      "https://www.youtube.com/channel/UCK4x3skK4rTpLqJf6XkTfqg"
+    ],
+    "link": "https://www.youtube.com/watch?v=JlvsgPl-J2s",
+    "tags": [
+      "Security",
+      "Privacy"
+    ],
+    "language": "pt-br",
+    "date": "2021-08-26"
+  },
+  {
+    "title": "Eaí, como é ser especialista? Vale realmente a pena? (Ft.@Loiane Groner)",
+    "abstract": "Siiim galera! É ela mesmo! Loiane Groner é uma das grades referencias em desenvolvimento de software do mundo!",
+    "type": "video",
+    "additionalLinks": [
+      "https://loiane.com "
+    ],
+    "link": "",
+    "tags": [
+      "Specialist",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2021-08-24"
+  },
+  {
+    "title": "Tudo o que você precisa saber sobre Clean Architecture com @Otavio Lemos",
+    "abstract": "Tem dúvidas sobre arquitetura Limpa ou #CleanCode em #JavaScript?",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/watch?v=nHqKyW6_W4w",
+    "tags": [
+      "CleanCode",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2021-08-19"
+  },
+  {
     "title": "Como funciona o relógio que roda JavaScript? The World's first Open Source Hackable Smart Watch",
     "abstract": "Hoje vou te contar sobre esse relojão aqui, o #Banglejs ou #NodeWatch",
     "type": "video",

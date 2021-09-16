@@ -16,8 +16,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Videos**: 2021/July - 2016/September 
-* **Blog Posts**: 2021/July - 2015/February 
+* **Videos**: 2021/September - 2016/September 
+* **Blog Posts**: 2021/September - 2015/February 
 * **Conference Talks**: 2021/March - 2015/January 
 
 #### Presentations' number: 106
@@ -25,8 +25,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Videos (62)](#videos)
-- [Blog Posts (197)](#blog-posts)
+- [Videos (68)](#videos)
+- [Blog Posts (208)](#blog-posts)
 - [Conference Talks (106)](#conference-talks)
 
 ## Projects
@@ -122,6 +122,93 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="youtube.com/watch?v=V_w6yqHwXpw" target="_blank">2021-09-09 - Live - Bate papo sobre a segunda aula da #SemanaJSExpert e Curiosidades (pt-br)</a>
+
+
+Abstract:
+
+> Vamos bater aquele papo sobre a super aula da #SemanaJSExpert 5.0, tirar duvidas e conversar 
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/semana-javascript-expert05" target="_blank">https://github.com/ErickWendel/semana-javascript-expert05</a>
+> 
+
+
+_Tags: `NodeJS`, `Javascript`_
+
+### <a href="https://www.youtube.com/watch?v=GVo7KzO2agg" target="_blank">2021-09-02 - SOLID principles com TypeScript com Rodrigo Branas (pt-br)</a>
+
+
+Abstract:
+
+> Rodrigo Branas é arquiteto de software, professor, autor e palestrante, especializado na linguagem JavaScript
+> 
+> <b>Links</b>
+> 
+> - <a href=" https://youtube.com/rodrigobranas" target="_blank"> https://youtube.com/rodrigobranas</a>
+> 
+
+
+_Tags: `SOLID`, `TypeScript`_
+
+### <a href="https://www.youtube.com/watch?v=BTjH7rKEbio" target="_blank">2021-08-31 - Voltando no tempo com Event Sourcing com Lucas Santos (pt-br)</a>
+
+
+Abstract:
+
+> Lucas é Cloud Advocate na Microsoft. Apaixonado por tecnologia e, desde 2011
+> 
+> <b>Links</b>
+> 
+> - <a href="https://info.lsantos.dev/" target="_blank">https://info.lsantos.dev/</a>
+> 
+
+
+_Tags: `NodeJS`, `Javascript`_
+
+### <a href="https://www.youtube.com/watch?v=JlvsgPl-J2s" target="_blank">2021-08-26 - Criptografia e Autenticação biométrica nativa no navegador com William Grasel (pt-br)</a>
+
+
+Abstract:
+
+> Segurança e privacidade são requisitos essenciais de nosso tempo, e claro que muita gente usa 
+> 
+> <b>Links</b>
+> 
+> - <a href="https://www.youtube.com/channel/UCK4x3skK4rTpLqJf6XkTfqg" target="_blank">https://www.youtube.com/channel/UCK4x3skK4rTpLqJf6XkTfqg</a>
+> 
+
+
+_Tags: `Security`, `Privacy`_
+
+### <a href="" target="_blank">2021-08-24 - Eaí, como é ser especialista? Vale realmente a pena? (Ft.@Loiane Groner) (pt-br)</a>
+
+
+Abstract:
+
+> Siiim galera! É ela mesmo! Loiane Groner é uma das grades referencias em desenvolvimento de software do mundo!
+> 
+> <b>Links</b>
+> 
+> - <a href="https://loiane.com " target="_blank">https://loiane.com </a>
+> 
+
+
+_Tags: `Specialist`, `Javascript`_
+
+### <a href="https://www.youtube.com/watch?v=nHqKyW6_W4w" target="_blank">2021-08-19 - Tudo o que você precisa saber sobre Clean Architecture com @Otavio Lemos (pt-br)</a>
+
+
+Abstract:
+
+> Tem dúvidas sobre arquitetura Limpa ou #CleanCode em #JavaScript?
+> 
+> 
+
+
+_Tags: `CleanCode`, `Javascript`_
 
 ### <a href="https://youtu.be/MuUvmBu-8DI" target="_blank">2021-07-09 - Como funciona o relógio que roda JavaScript? The World's first Open Source Hackable Smart Watch (pt-br)</a>
 
@@ -945,6 +1032,186 @@ _Tags: `wear`, `android`, `node.js`_
 
 ## Blog Posts
 
+### <a href="https://www.linkedin.com/posts/erickwendel_jsexpert-activity-6843549674733895680-fvv6/" target="_blank">2021-09-14 - Se você me perguntasse o que mais estou curtindo sobre software ultimamente, eu diria que, sem dúvidas as técnicas de testes e qualidade de software 🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_jsexpert-activity-6843549674733895680-fvv6/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Inclusive, eu preciso separar um tempinho para soltar um video lá no canal sobre isso hahaha.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://www.linkedin.com/company/platformio/" target="_blank">https://www.linkedin.com/company/platformio/</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_testes-de-unidade-n%C3%A3o-devem-depender-de-qualquer-activity-6834495637979983873-unpo/" target="_blank">2021-08-20 - Testes de unidade não devem depender de qualquer interrupção de rede, sistema ou processo! 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_testes-de-unidade-n%C3%A3o-devem-depender-de-qualquer-activity-6834495637979983873-unpo/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sim, esse é o erro mais comum quando desenvolvendo testes unitários em programação.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_agora-aquela-dica-sensacional-para-devs-iniciantes-activity-6831221788010135552--Zaj/" target="_blank">2021-08-11 - Agora aquela dica sensacional para devs iniciantes que querem se destacar na multidão 🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_agora-aquela-dica-sensacional-para-devs-iniciantes-activity-6831221788010135552--Zaj/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Que nossa área está aquecida, não temos dúvidas, mas a quantidade de vagas para iniciantes
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6830867595030212608-W9WH" target="_blank">2021-08-10 - Como usar o padrão Observer para ser notificado sobre alterações em objetos complexos em JavaScript 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6830867595030212608-W9WH" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Aaaaaí sim em, hoje é dia de dica de ouro 🔥
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-trabalhar-em-algo-divertido-pode-te-activity-6830477760192897024-tVDj" target="_blank">2021-08-09 - Como trabalhar em algo divertido pode te fazer um(a) dev melhor e te ajudar a aprender conceitos avançados na prática 🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-trabalhar-em-algo-divertido-pode-te-activity-6830477760192897024-tVDj" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Toda vez que entramos em discussões sobre a melhor forma de aprender algo
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_e-se-us%C3%A1ssemos-rust-para-programar-em-nodejs-activity-6826520894123327488-sQ5z" target="_blank">2021-07-29 - E se usássemos Rust para programar em Node.js? 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_e-se-us%C3%A1ssemos-rust-para-programar-em-nodejs-activity-6826520894123327488-sQ5z" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sim, isso mesmo! Alta Performance, Multi-threading e processamento paralelo 🤩
+> 
+> <b>Links</b>
+> 
+> - <a href="https://neon-bindings.com/" target="_blank">https://neon-bindings.com/</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_muita-gente-pediu-ent%C3%A3o-aqui-vai-como-activity-6826145540607107072-2-vu" target="_blank">2021-07-28 - Muita gente pediu, então, aqui vai: Como montar seu roteiro de estudos sobre JavaScript e Node.js 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_muita-gente-pediu-ent%C3%A3o-aqui-vai-como-activity-6826145540607107072-2-vu" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> O que mais recebo lá no meu Instagram são mensagens de pessoas perguntando o que poderiam estudar e qual a ordem dos conteúdos.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_hoje-%C3%A9-dia-de-dica-de-ouro-3-formas-de-mapear-activity-6825417413006266368-zgbj" target="_blank">2021-07-26 - Hoje é dia de dica de ouro: 3 formas de mapear objetos em JavaScript 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_hoje-%C3%A9-dia-de-dica-de-ouro-3-formas-de-mapear-activity-6825417413006266368-zgbj" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Em programação, boa parte do nosso tempo é dedicado a limpar, converter e agrupar dados.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_machinelearning-javascript-tensorflow-activity-6823960175649542144-4Y5Q" target="_blank">2021-07-22 - Como rodar Machine Learning em um relógio de pulso com JavaScript 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_machinelearning-javascript-tensorflow-activity-6823960175649542144-4Y5Q" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sim, essa foi uma notícia que também me surpreendeu.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/ddPy6wi" target="_blank">https://lnkd.in/ddPy6wi</a>
+> - <a href="https://lnkd.in/dGerwiE" target="_blank">https://lnkd.in/dGerwiE</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-quisesse-rodar-machine-learning-activity-6823602092658192384-BxSn" target="_blank">2021-07-21 - E se você quisesse rodar Machine Learning direto do browser do cliente com JavaScript? 😱🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-quisesse-rodar-machine-learning-activity-6823602092658192384-BxSn" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Como dizem por aí: `a melhor máquina do mundo, é aquela que não é a sua` 🤣
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
 ### <a href="https://www.linkedin.com/posts/erickwendel_o-que-eu-faria-se-hoje-precisasse-criar-uma-activity-6821074364235038721-JZBE" target="_blank">2021-07-14 - O que eu faria se hoje precisasse criar uma Web API 🤯 (pt-br)</a>
 
 
@@ -1007,6 +1274,23 @@ Portal:
 Abstract:
 
 > Já rodou aquele rm -rf por engano em uma pasta errada e perdeu todos os arquivos?
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="" target="_blank">2021-07-&& - E se você quisesse rodar Machine Learning direto do browser do cliente com JavaScript? 😱🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> 
 > 
 > 
 
