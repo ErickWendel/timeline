@@ -1,5 +1,150 @@
 [
   {
+    "title": "E hoje é dia de dica de ouro! Como escolher a melhor estrutura de pastas para o seu projeto JavaScript 🔥",
+    "abstract": "Siiim galera, acho que esse é um dos temas mais pedidos nas enquetes  ",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_e-hoje-%C3%A9-dia-de-dica-de-ouro-como-escolher-activity-6856943465654190080-3IdY",
+    "additionalLinks": [
+      "https://www.youtube.com/watch?v=NxHY14rMPvc",
+      "https://github.com/ErickWendel/nodejs-webapi-no-frameworks-yt/tree/master/recorded/webapi"
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_e-hoje-%C3%A9-dia-de-dica-de-ouro-como-escolher-activity-6856943465654190080-3IdY",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-10-21"
+  },
+  {
+    "title": "Node.js 17 foi liberadoooo 🎉🎉",
+    "abstract": "Sim galeraa, Node.js está entre uma das ferramentas que mais crescem na atualidade ",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-17-foi-liberadoooo-sim-galeraa-activity-6856590451802284032-Sux5",
+    "additionalLinks": [
+      "https://openjsf.org/blog/2021/10/19/node-js-17-is-here/"
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-17-foi-liberadoooo-sim-galeraa-activity-6856590451802284032-Sux5",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-10-20"
+  },
+  {
+    "title": "O que fazer quando minha empresa só trabalha com tecnologias chatas, antigas e não pensa em inovar? 😳",
+    "abstract": "Vivi muitos anos esse dilema e sei que é complicado lidar com esse tipo de situação.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_o-que-fazer-quando-minha-empresa-s%C3%B3-trabalha-activity-6854033368443576320-RJ4i",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_o-que-fazer-quando-minha-empresa-s%C3%B3-trabalha-activity-6854033368443576320-RJ4i",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-10-13"
+  },
+  {
+    "title": "E hoje é dia de dica de ouro: Como consumir várias Web APIs em paralelo e transformar em uma única stream de dados 🔥",
+    "abstract": "Existem pouquíssimos exemplos pela internet sobre cases de Node.js",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_e-hoje-%C3%A9-dia-de-dica-de-ouro-como-consumir-activity-6851873682340507648-40iD",
+    "additionalLinks": [
+      "https://lnkd.in/dTDefs9Z"
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_e-hoje-%C3%A9-dia-de-dica-de-ouro-como-consumir-activity-6851873682340507648-40iD",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-10-07"
+  },
+  {
+    "title": "Aquela dica de ouro para você nunca mais se perder no contexto 'this' em JavaScript 🔥",
+    "abstract": "Pelo fato de 90% dos casos em JavaScript envolver programação assíncrona",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-devtips-activity-6851483677294120961-vx4u",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-devtips-activity-6851483677294120961-vx4u",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-10-06"
+  },
+  {
+    "title": "Como aprender de verdade conceitos difíceis, chatos e de pouca informação sobre 🔥",
+    "abstract": "A barreira mais difícil para aprender algo novo é colocada quando você relaciona aquele tema como algo difícil ou chato.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-aprender-de-verdade-conceitos-dif%C3%ADceis-activity-6849695329030287360-tmDu",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_como-aprender-de-verdade-conceitos-dif%C3%ADceis-activity-6849695329030287360-tmDu",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-10-01"
+  },
+  {
+    "title": "Como economizei dias de trabalho automatizando tarefas repetitivas 🔥🤩",
+    "abstract": "Sim galera, eu automatizei o Linkedin, o Youtube e formulários chatos",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-economizei-dias-de-trabalho-automatizando-activity-6849326263442649088--NtM",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_como-economizei-dias-de-trabalho-automatizando-activity-6849326263442649088--NtM",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-09-30"
+  },
+  {
+    "title": "Separei uma dica de estudos para praticar testes automatizados para você finalmente aplicar em seu trabalho 🔥",
+    "abstract": "Um dos maiores trend topics da uma #SemanaJSExpert foi a prática de testes automatizados",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_semanajsexpert-tdd-activity-6848958850763120640-vvEc",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_semanajsexpert-tdd-activity-6848958850763120640-vvEc",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-09-29"
+  },
+  {
     "title": "Se você me perguntasse o que mais estou curtindo sobre software ultimamente, eu diria que, sem dúvidas as técnicas de testes e qualidade de software 🤩",
     "abstract": "Inclusive, eu preciso separar um tempinho para soltar um video lá no canal sobre isso hahaha.",
     "type": "post",

@@ -1,5 +1,38 @@
 [
   {
+    "title": "Como controlei os portões de casa usando JavaScript - IoT com JavaScript",
+    "abstract": "Hoje com uma temática um pouco diferente, falando sobre #IoT com #JavaScript",
+    "type": "video",
+    "additionalLinks": [
+      "https://github.com/ErickWendel/relay-door-control-js"
+    ],
+    "link": "https://youtu.be/YpoAfM3sRPE",
+    "tags": [
+      "NodeJS",
+      "Javascript",
+      "iot"
+    ],
+    "language": "pt-br",
+    "date": "2021-10-08"
+  },
+  {
+    "title": "#1 - IoT com JavaScript - rodando JavaScript em placas de baixo processamento",
+    "abstract": "Eaaaaaae beleza? Essa será a nossa primeira live falando sobre IoT com #JavaScript",
+    "type": "video",
+    "additionalLinks": [
+      "https://www.twitch.tv/erickwendel_"
+    ],
+    "link": "https://youtu.be/vb0Evz9rPNU",
+    "tags": [
+      "NodeJS",
+      "Javascript",
+      "iot",
+      "espruino"
+    ],
+    "language": "pt-br",
+    "date": "2021-09-28"
+  },
+  {
     "title": "Live - Bate papo sobre a segunda aula da #SemanaJSExpert e Curiosidades",
     "abstract": "Vamos bater aquele papo sobre a super aula da #SemanaJSExpert 5.0, tirar duvidas e conversar ",
     "type": "video",
