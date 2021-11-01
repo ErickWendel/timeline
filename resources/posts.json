@@ -1,5 +1,95 @@
 [
   {
+    "title": "Se você me perguntasse o que mais estou curtindo sobre software ultimamente, eu diria que, sem dúvidas as técnicas de testes e qualidade de software 🤩",
+    "abstract": "Inclusive, eu preciso separar um tempinho para soltar um video lá no canal sobre isso hahaha.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_jsexpert-activity-6843549674733895680-fvv6/",
+    "additionalLinks": [
+      "https://www.linkedin.com/company/platformio/"
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_jsexpert-activity-6843549674733895680-fvv6/",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-09-14"
+  },
+  {
+    "title": "Testes de unidade não devem depender de qualquer interrupção de rede, sistema ou processo! 🤯",
+    "abstract": "Sim, esse é o erro mais comum quando desenvolvendo testes unitários em programação.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_testes-de-unidade-n%C3%A3o-devem-depender-de-qualquer-activity-6834495637979983873-unpo/",
+    "additionalLinks": [
+      ""
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_testes-de-unidade-n%C3%A3o-devem-depender-de-qualquer-activity-6834495637979983873-unpo/",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-08-20"
+  },
+  {
+    "title": "Agora aquela dica sensacional para devs iniciantes que querem se destacar na multidão 🤩",
+    "abstract": "Que nossa área está aquecida, não temos dúvidas, mas a quantidade de vagas para iniciantes",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_agora-aquela-dica-sensacional-para-devs-iniciantes-activity-6831221788010135552--Zaj/",
+    "additionalLinks": [
+      ""
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_agora-aquela-dica-sensacional-para-devs-iniciantes-activity-6831221788010135552--Zaj/",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-08-11"
+  },
+  {
+    "title": "Como usar o padrão Observer para ser notificado sobre alterações em objetos complexos em JavaScript 🤯",
+    "abstract": "Aaaaaí sim em, hoje é dia de dica de ouro 🔥",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6830867595030212608-W9WH",
+    "additionalLinks": [
+      ""
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6830867595030212608-W9WH",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-08-10"
+  },
+  {
+    "title": "Como trabalhar em algo divertido pode te fazer um(a) dev melhor e te ajudar a aprender conceitos avançados na prática 🤩",
+    "abstract": "Toda vez que entramos em discussões sobre a melhor forma de aprender algo",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-trabalhar-em-algo-divertido-pode-te-activity-6830477760192897024-tVDj",
+    "additionalLinks": [
+      ""
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_como-trabalhar-em-algo-divertido-pode-te-activity-6830477760192897024-tVDj",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-08-09"
+  },
+  {
     "title": "E se usássemos Rust para programar em Node.js? 🤯",
     "abstract": "Sim, isso mesmo! Alta Performance, Multi-threading e processamento paralelo 🤩",
     "type": "post",
