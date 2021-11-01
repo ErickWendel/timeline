@@ -16,8 +16,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Videos**: 2021/September - 2016/September 
-* **Blog Posts**: 2021/September - 2015/February 
+* **Videos**: 2021/October - 2016/September 
+* **Blog Posts**: 2021/October - 2015/February 
 * **Conference Talks**: 2021/March - 2015/January 
 
 #### Presentations' number: 106
@@ -25,8 +25,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Videos (68)](#videos)
-- [Blog Posts (208)](#blog-posts)
+- [Videos (70)](#videos)
+- [Blog Posts (216)](#blog-posts)
 - [Conference Talks (106)](#conference-talks)
 
 ## Projects
@@ -122,6 +122,36 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/YpoAfM3sRPE" target="_blank">2021-10-08 - Como controlei os portões de casa usando JavaScript - IoT com JavaScript (pt-br)</a>
+
+
+Abstract:
+
+> Hoje com uma temática um pouco diferente, falando sobre #IoT com #JavaScript
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/relay-door-control-js" target="_blank">https://github.com/ErickWendel/relay-door-control-js</a>
+> 
+
+
+_Tags: `NodeJS`, `Javascript`, `iot`_
+
+### <a href="https://youtu.be/vb0Evz9rPNU" target="_blank">2021-09-28 - #1 - IoT com JavaScript - rodando JavaScript em placas de baixo processamento (pt-br)</a>
+
+
+Abstract:
+
+> Eaaaaaae beleza? Essa será a nossa primeira live falando sobre IoT com #JavaScript
+> 
+> <b>Links</b>
+> 
+> - <a href="https://www.twitch.tv/erickwendel_" target="_blank">https://www.twitch.tv/erickwendel_</a>
+> 
+
+
+_Tags: `NodeJS`, `Javascript`, `iot`, `espruino`_
 
 ### <a href="youtube.com/watch?v=V_w6yqHwXpw" target="_blank">2021-09-09 - Live - Bate papo sobre a segunda aula da #SemanaJSExpert e Curiosidades (pt-br)</a>
 
@@ -1031,6 +1061,167 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_e-hoje-%C3%A9-dia-de-dica-de-ouro-como-escolher-activity-6856943465654190080-3IdY" target="_blank">2021-10-21 - E hoje é dia de dica de ouro! Como escolher a melhor estrutura de pastas para o seu projeto JavaScript 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_e-hoje-%C3%A9-dia-de-dica-de-ouro-como-escolher-activity-6856943465654190080-3IdY" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Siiim galera, acho que esse é um dos temas mais pedidos nas enquetes  
+> 
+> <b>Links</b>
+> 
+> - <a href="https://www.youtube.com/watch?v=NxHY14rMPvc" target="_blank">https://www.youtube.com/watch?v=NxHY14rMPvc</a>
+> - <a href="https://github.com/ErickWendel/nodejs-webapi-no-frameworks-yt/tree/master/recorded/webapi" target="_blank">https://github.com/ErickWendel/nodejs-webapi-no-frameworks-yt/tree/master/recorded/webapi</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-17-foi-liberadoooo-sim-galeraa-activity-6856590451802284032-Sux5" target="_blank">2021-10-20 - Node.js 17 foi liberadoooo 🎉🎉 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-17-foi-liberadoooo-sim-galeraa-activity-6856590451802284032-Sux5" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sim galeraa, Node.js está entre uma das ferramentas que mais crescem na atualidade 
+> 
+> <b>Links</b>
+> 
+> - <a href="https://openjsf.org/blog/2021/10/19/node-js-17-is-here/" target="_blank">https://openjsf.org/blog/2021/10/19/node-js-17-is-here/</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_o-que-fazer-quando-minha-empresa-s%C3%B3-trabalha-activity-6854033368443576320-RJ4i" target="_blank">2021-10-13 - O que fazer quando minha empresa só trabalha com tecnologias chatas, antigas e não pensa em inovar? 😳 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_o-que-fazer-quando-minha-empresa-s%C3%B3-trabalha-activity-6854033368443576320-RJ4i" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Vivi muitos anos esse dilema e sei que é complicado lidar com esse tipo de situação.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_e-hoje-%C3%A9-dia-de-dica-de-ouro-como-consumir-activity-6851873682340507648-40iD" target="_blank">2021-10-07 - E hoje é dia de dica de ouro: Como consumir várias Web APIs em paralelo e transformar em uma única stream de dados 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_e-hoje-%C3%A9-dia-de-dica-de-ouro-como-consumir-activity-6851873682340507648-40iD" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Existem pouquíssimos exemplos pela internet sobre cases de Node.js
+> 
+> <b>Links</b>
+> 
+> - <a href="https://lnkd.in/dTDefs9Z" target="_blank">https://lnkd.in/dTDefs9Z</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-devtips-activity-6851483677294120961-vx4u" target="_blank">2021-10-06 - Aquela dica de ouro para você nunca mais se perder no contexto 'this' em JavaScript 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-devtips-activity-6851483677294120961-vx4u" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Pelo fato de 90% dos casos em JavaScript envolver programação assíncrona
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-aprender-de-verdade-conceitos-dif%C3%ADceis-activity-6849695329030287360-tmDu" target="_blank">2021-10-01 - Como aprender de verdade conceitos difíceis, chatos e de pouca informação sobre 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-aprender-de-verdade-conceitos-dif%C3%ADceis-activity-6849695329030287360-tmDu" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> A barreira mais difícil para aprender algo novo é colocada quando você relaciona aquele tema como algo difícil ou chato.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-economizei-dias-de-trabalho-automatizando-activity-6849326263442649088--NtM" target="_blank">2021-09-30 - Como economizei dias de trabalho automatizando tarefas repetitivas 🔥🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-economizei-dias-de-trabalho-automatizando-activity-6849326263442649088--NtM" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sim galera, eu automatizei o Linkedin, o Youtube e formulários chatos
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-tdd-activity-6848958850763120640-vvEc" target="_blank">2021-09-29 - Separei uma dica de estudos para praticar testes automatizados para você finalmente aplicar em seu trabalho 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-tdd-activity-6848958850763120640-vvEc" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Um dos maiores trend topics da uma #SemanaJSExpert foi a prática de testes automatizados
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_jsexpert-activity-6843549674733895680-fvv6/" target="_blank">2021-09-14 - Se você me perguntasse o que mais estou curtindo sobre software ultimamente, eu diria que, sem dúvidas as técnicas de testes e qualidade de software 🤩 (pt-br)</a>
 
