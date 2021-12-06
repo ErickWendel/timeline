@@ -1,5 +1,20 @@
 [
   {
+    "title": "Como Resolvi o Primeiro Desafio do Treinamento JS Expert - Bate papo com alunos",
+    "abstract": "Eaaai beeleza? Seja bem vindo ou bem vinda à primeira edição de resolução de desafios do treinamento #JavaScriptExpert",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/watch?v=wk7vmwDnMww",
+    "tags": [
+      "NodeJS",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2021-11-18"
+  },
+  {
     "title": "Como controlei os portões de casa usando JavaScript - IoT com JavaScript",
     "abstract": "Hoje com uma temática um pouco diferente, falando sobre #IoT com #JavaScript",
     "type": "video",

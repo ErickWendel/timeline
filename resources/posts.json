@@ -1,5 +1,150 @@
 [
   {
+    "title": "Eaí, será que rola? MIL instâncias de apps Node.js enviando dados a cada segundo em paralelo para uma única instância pequena de banco de dados? 🤯",
+    "abstract": "Esse é o desafio que estou trabalhando na NodeSource durante essa semana e, olha, a parada é pauleira!",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_blackfriday-activity-6869980497326444544-ms7K/",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_blackfriday-activity-6869980497326444544-ms7K/",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-11-26"
+  },
+  {
+    "title": "Como dobrei a capacidade de resposta de um endpoint adicionando cache de apenas 100 milisegundos 🤯",
+    "abstract": "Criei um repositório completão para você testar essa prova de conceito, comparando o antes e o depois das alterações",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-dobrei-a-capacidade-de-resposta-de-um-activity-6868919390893576193-xe0l/",
+    "additionalLinks": [
+      "https://github.com/ErickWendel/poc-100ms-cache-impact-nodejs"
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_como-dobrei-a-capacidade-de-resposta-de-um-activity-6868919390893576193-xe0l/",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-11-23"
+  },
+  {
+    "title": "A descoberta que tornou meu trabalho mais produtivo 🤯",
+    "abstract": "Sempre fui aquela pessoa que gostava de trabalhar mais de noite/madrugada",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_a-descoberta-que-tornou-meu-trabalho-mais-activity-6866356382724046848-F3XS",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_a-descoberta-que-tornou-meu-trabalho-mais-activity-6866356382724046848-F3XS",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-11-16"
+  },
+  {
+    "title": "Conheça o Media-type Brasileiro, o application/jose 🤣",
+    "abstract": "Ta bom, ta bom, não tem nada a ver com um protocolo brasileiro de software, mas me rendeu boas risadas 😂",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-o-media-type-brasileiro-o-application-activity-6864912028339863552-cCwD",
+    "additionalLinks": [
+      "https://codeburst.io/securing-tokens-with-help-from-jose-33d8c31835a1"
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-o-media-type-brasileiro-o-application-activity-6864912028339863552-cCwD",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-11-12"
+  },
+  {
+    "title": "Fazendo o Node.js suportar 5x mais requests com 99.9% de uptime, adicionando somente 10 linhas de código 🤯",
+    "abstract": "Sexta-feira é realmente dia de maldade, né? haha",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_fazendo-o-nodejs-suportar-5x-mais-requests-activity-6862371424200364033-Pucv",
+    "additionalLinks": [
+      "https://bhattaraib58.medium.com/make-nodejs-handle-5x-request-with-99-9-uptime-adding-10-lines-of-code-e264006d35cf"
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_fazendo-o-nodejs-suportar-5x-mais-requests-activity-6862371424200364033-Pucv",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-11-05"
+  },
+  {
+    "title": "Nem é sexta-feira, mas já é dia de maldade. Conheça o 'novo' tipo de ataque que é invisível à olho Humano 😱",
+    "abstract": "É meus amigos, todo dia temos um framework JavaScript novo e principalmente uma nova falha em software sendo explorada mundo afora.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nem-%C3%A9-sexta-feira-mas-j%C3%A1-%C3%A9-dia-de-maldade-activity-6862017865667616768-MtAA",
+    "additionalLinks": [
+      "https://github.com/ErickWendel/trollXsemicolon-vscode"
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nem-%C3%A9-sexta-feira-mas-j%C3%A1-%C3%A9-dia-de-maldade-activity-6862017865667616768-MtAA",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-11-04"
+  },
+  {
+    "title": "Me perguntaram lá no instagram: Qual é a melhor forma de empreender sendo dev? 🤩",
+    "abstract": "Não acredito que exista uma fórmula para responder essa pergunta mas",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_me-perguntaram-l%C3%A1-no-instagram-qual-%C3%A9-a-activity-6861643565898964992-1f-N",
+    "additionalLinks": [
+      " ",
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_me-perguntaram-l%C3%A1-no-instagram-qual-%C3%A9-a-activity-6861643565898964992-1f-N",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-11-03"
+  },
+  {
+    "title": "Façam suas apostas! Hoje a batalha é entre o crypto.randomUUID e uuid.v4 🤩🚀",
+    "abstract": "Quem será o mais rápido? 😬",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_fa%C3%A7am-suas-apostas-hoje-a-batalha-%C3%A9-entre-activity-6860923627903193088-LGxG",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_fa%C3%A7am-suas-apostas-hoje-a-batalha-%C3%A9-entre-activity-6860923627903193088-LGxG",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-11-01"
+  },
+  {
     "title": "E hoje é dia de dica de ouro! Como escolher a melhor estrutura de pastas para o seu projeto JavaScript 🔥",
     "abstract": "Siiim galera, acho que esse é um dos temas mais pedidos nas enquetes  ",
     "type": "post",
