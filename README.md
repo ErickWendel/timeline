@@ -16,8 +16,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Videos**: 2021/October - 2016/September 
-* **Blog Posts**: 2021/October - 2015/February 
+* **Videos**: 2021/November - 2016/September 
+* **Blog Posts**: 2021/November - 2015/February 
 * **Conference Talks**: 2021/March - 2015/January 
 
 #### Presentations' number: 106
@@ -25,8 +25,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Videos (70)](#videos)
-- [Blog Posts (216)](#blog-posts)
+- [Videos (71)](#videos)
+- [Blog Posts (224)](#blog-posts)
 - [Conference Talks (106)](#conference-talks)
 
 ## Projects
@@ -122,6 +122,18 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://www.youtube.com/watch?v=wk7vmwDnMww" target="_blank">2021-11-18 - Como Resolvi o Primeiro Desafio do Treinamento JS Expert - Bate papo com alunos (pt-br)</a>
+
+
+Abstract:
+
+> Eaaai beeleza? Seja bem vindo ou bem vinda à primeira edição de resolução de desafios do treinamento #JavaScriptExpert
+> 
+> 
+
+
+_Tags: `NodeJS`, `Javascript`_
 
 ### <a href="https://youtu.be/YpoAfM3sRPE" target="_blank">2021-10-08 - Como controlei os portões de casa usando JavaScript - IoT com JavaScript (pt-br)</a>
 
@@ -1061,6 +1073,167 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_blackfriday-activity-6869980497326444544-ms7K/" target="_blank">2021-11-26 - Eaí, será que rola? MIL instâncias de apps Node.js enviando dados a cada segundo em paralelo para uma única instância pequena de banco de dados? 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_blackfriday-activity-6869980497326444544-ms7K/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Esse é o desafio que estou trabalhando na NodeSource durante essa semana e, olha, a parada é pauleira!
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-dobrei-a-capacidade-de-resposta-de-um-activity-6868919390893576193-xe0l/" target="_blank">2021-11-23 - Como dobrei a capacidade de resposta de um endpoint adicionando cache de apenas 100 milisegundos 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-dobrei-a-capacidade-de-resposta-de-um-activity-6868919390893576193-xe0l/" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Criei um repositório completão para você testar essa prova de conceito, comparando o antes e o depois das alterações
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/poc-100ms-cache-impact-nodejs" target="_blank">https://github.com/ErickWendel/poc-100ms-cache-impact-nodejs</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_a-descoberta-que-tornou-meu-trabalho-mais-activity-6866356382724046848-F3XS" target="_blank">2021-11-16 - A descoberta que tornou meu trabalho mais produtivo 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_a-descoberta-que-tornou-meu-trabalho-mais-activity-6866356382724046848-F3XS" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sempre fui aquela pessoa que gostava de trabalhar mais de noite/madrugada
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-o-media-type-brasileiro-o-application-activity-6864912028339863552-cCwD" target="_blank">2021-11-12 - Conheça o Media-type Brasileiro, o application/jose 🤣 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-o-media-type-brasileiro-o-application-activity-6864912028339863552-cCwD" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Ta bom, ta bom, não tem nada a ver com um protocolo brasileiro de software, mas me rendeu boas risadas 😂
+> 
+> <b>Links</b>
+> 
+> - <a href="https://codeburst.io/securing-tokens-with-help-from-jose-33d8c31835a1" target="_blank">https://codeburst.io/securing-tokens-with-help-from-jose-33d8c31835a1</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_fazendo-o-nodejs-suportar-5x-mais-requests-activity-6862371424200364033-Pucv" target="_blank">2021-11-05 - Fazendo o Node.js suportar 5x mais requests com 99.9% de uptime, adicionando somente 10 linhas de código 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_fazendo-o-nodejs-suportar-5x-mais-requests-activity-6862371424200364033-Pucv" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sexta-feira é realmente dia de maldade, né? haha
+> 
+> <b>Links</b>
+> 
+> - <a href="https://bhattaraib58.medium.com/make-nodejs-handle-5x-request-with-99-9-uptime-adding-10-lines-of-code-e264006d35cf" target="_blank">https://bhattaraib58.medium.com/make-nodejs-handle-5x-request-with-99-9-uptime-adding-10-lines-of-code-e264006d35cf</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nem-%C3%A9-sexta-feira-mas-j%C3%A1-%C3%A9-dia-de-maldade-activity-6862017865667616768-MtAA" target="_blank">2021-11-04 - Nem é sexta-feira, mas já é dia de maldade. Conheça o 'novo' tipo de ataque que é invisível à olho Humano 😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nem-%C3%A9-sexta-feira-mas-j%C3%A1-%C3%A9-dia-de-maldade-activity-6862017865667616768-MtAA" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> É meus amigos, todo dia temos um framework JavaScript novo e principalmente uma nova falha em software sendo explorada mundo afora.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/trollXsemicolon-vscode" target="_blank">https://github.com/ErickWendel/trollXsemicolon-vscode</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_me-perguntaram-l%C3%A1-no-instagram-qual-%C3%A9-a-activity-6861643565898964992-1f-N" target="_blank">2021-11-03 - Me perguntaram lá no instagram: Qual é a melhor forma de empreender sendo dev? 🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_me-perguntaram-l%C3%A1-no-instagram-qual-%C3%A9-a-activity-6861643565898964992-1f-N" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Não acredito que exista uma fórmula para responder essa pergunta mas
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_fa%C3%A7am-suas-apostas-hoje-a-batalha-%C3%A9-entre-activity-6860923627903193088-LGxG" target="_blank">2021-11-01 - Façam suas apostas! Hoje a batalha é entre o crypto.randomUUID e uuid.v4 🤩🚀 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_fa%C3%A7am-suas-apostas-hoje-a-batalha-%C3%A9-entre-activity-6860923627903193088-LGxG" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Quem será o mais rápido? 😬
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_e-hoje-%C3%A9-dia-de-dica-de-ouro-como-escolher-activity-6856943465654190080-3IdY" target="_blank">2021-10-21 - E hoje é dia de dica de ouro! Como escolher a melhor estrutura de pastas para o seu projeto JavaScript 🔥 (pt-br)</a>
 
