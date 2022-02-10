@@ -26,7 +26,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 - [Projects (06)](#projects)
 - [Videos (75)](#videos)
-- [Blog Posts (242)](#blog-posts)
+- [Blog Posts (241)](#blog-posts)
 - [Conference Talks (106)](#conference-talks)
 
 ## Projects
@@ -1121,26 +1121,6 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
-
-### <a href="https://www.linkedin.com/posts/erickwendel_afinal-quem-observa-o-observador-o-que-activity-6892438646281367552-UjDY" target="_blank">2022-01-27 - Afinal, quem observa o observador? O que realmente trava suas aplicações Node.js? (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_afinal-quem-observa-o-observador-o-que-activity-6892438646281367552-UjDY" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Nem é sexta-feira, mas já é dia de maldade! 😬
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_afinal-quem-observa-o-observador-o-que-activity-6892438646281367552-UjDY" target="_blank">2022-01-27 - Afinal, quem observa o observador? O que realmente trava suas aplicações Node.js? (pt-br)</a>
 
