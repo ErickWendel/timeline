@@ -1,4 +1,63 @@
-[
+[{
+    "title": "Essa dica me fez dobrar a capacidade de resposta de um endpoint com apenas 5 linhas de código",
+    "abstract": "O vídeo de hoje é um experimento sobre como pequenas melhorias podem causar um grande impacto em aplicações existentes.",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/YEwn1FfCy0U",
+    "tags": [
+      "Performance",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-01-24"
+  },
+  {
+    "title": "Para que serve um Generator em JavaScript? Qual é o seu caso de uso perfeito ?",
+    "abstract": "O vídeo de hoje foi feito sob medida para resolver de vez suas dúvidas sobre um dos conceitos mais confusos em #JavaScript.",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/rcQgqerZ48E",
+    "tags": [
+      "NodeJS",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-01-17"
+  },
+  {
+    "title": "O passo a passo de como resolvi um Bug crítico no coração do Node.js",
+    "abstract": "Eaai beleza? E esse é um dos vídeos que estou mais animado em compartilhar com você",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/fCfmW_yZVeI",
+    "tags": [
+      "NodeJS",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-01-10"
+  },
+  {
+    "title": "Como Resolvi o Segundo Desafio do Treinamento JS Expert - Bate papo com alunos",
+    "abstract": " Eaaai beeleza? Seja bem vindo ou bem vinda à segunda edição de resolução de desafios do treinamento #JSExpert.",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/vyRKmL3oDbY",
+    "tags": [
+      "NodeJS",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-01-05"
+  },
   {
     "title": "Como Resolvi o Primeiro Desafio do Treinamento JS Expert - Bate papo com alunos",
     "abstract": "Eaaai beeleza? Seja bem vindo ou bem vinda à primeira edição de resolução de desafios do treinamento #JavaScriptExpert",

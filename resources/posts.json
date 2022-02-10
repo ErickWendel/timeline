@@ -1,4 +1,328 @@
-[
+[{
+    "title": "Afinal, quem observa o observador? O que realmente trava suas aplicações Node.js?",
+    "abstract": "Nem é sexta-feira, mas já é dia de maldade! 😬",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_afinal-quem-observa-o-observador-o-que-activity-6892438646281367552-UjDY",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_afinal-quem-observa-o-observador-o-que-activity-6892438646281367552-UjDY",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-01-27"
+  },
+  {
+    "title": "Afinal, quem observa o observador? O que realmente trava suas aplicações Node.js?",
+    "abstract": "Nem é sexta-feira, mas já é dia de maldade! 😬",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_afinal-quem-observa-o-observador-o-que-activity-6892438646281367552-UjDY",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_afinal-quem-observa-o-observador-o-que-activity-6892438646281367552-UjDY",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-01-27"
+  },
+  {
+    "title": "Afinal, para que serve a função .bind no JavaScript? 🤯",
+    "abstract": "No JavaScript, apenas batendo o olho é difícil adivinhar o contexto",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_afinal-para-que-serve-a-fun%C3%A7%C3%A3o-bind-no-activity-6892088584464388096-W43A",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_afinal-para-que-serve-a-fun%C3%A7%C3%A3o-bind-no-activity-6892088584464388096-W43A",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-01-26"
+  },
+  {
+    "title": "Porque você não deveria sofrer na tentativa e erro usando console.log para depurar suas aplicações 🤯",
+    "abstract": "A linguagem JavaScript, por ser uma linguagem dinâmica e interpretada",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_porque-voc%C3%AA-n%C3%A3o-deveria-sofrer-na-tentativa-activity-6891719708270567424-tx8k",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_porque-voc%C3%AA-n%C3%A3o-deveria-sofrer-na-tentativa-activity-6891719708270567424-tx8k",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-01-25"
+  },
+  {
+    "title": "Sobre o teste mais difícil da minha vida!",
+    "abstract": "Estamos trabalhando forte em refinamento do principal produto da Node Source",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_sobre-o-teste-mais-dif%C3%ADcil-da-minha-vida-activity-6889908322917486593-z97a",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_sobre-o-teste-mais-dif%C3%ADcil-da-minha-vida-activity-6889908322917486593-z97a",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-01-20"
+  },
+  {
+    "title": "Afinal, como é possível rodar Rust, C++ e JavaScript no Node.js? 🤯",
+    "abstract": "E melhor, porque alguém usaria C++ ou Rust ao invés de JavaScript?",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_afinal-como-%C3%A9-poss%C3%ADvel-rodar-rust-c-e-activity-6889558618279034882-jY5X",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_afinal-como-%C3%A9-poss%C3%ADvel-rodar-rust-c-e-activity-6889558618279034882-jY5X",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-01-19"
+  },
+  {
+    "title": "Um desenvolvedor injetou um vulnerabilidade de propósito em um pacote JavaScript super popular, como forma de protesto 😱",
+    "abstract": "Só o pacote npm colors, recebe mais de 20 MILHÕES de downloads por semana",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_um-desenvolvedor-injetou-um-vulnerabilidade-activity-6886654682878529536-sDq7",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_um-desenvolvedor-injetou-um-vulnerabilidade-activity-6886654682878529536-sDq7",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-01-11"
+  },
+  {
+    "title": "Hoje nem é sexta-feira mas é dia de maldade!! Hoje é dia de dica de ouro e tenho certeza que pode te surpreender!",
+    "abstract": "Muito provavelmente você conhece o problema abaixo em JavaScript",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_jsexpert-activity-6884842648209788928-usMJ",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_jsexpert-activity-6884842648209788928-usMJ",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-01-06"
+  },
+  {
+    "title": "Afinal, por que performance de aplicações não pode andar junto à boas práticas de código como clean code e padrões semânticos? 😬",
+    "abstract": "Dependendo do nível de aplicação, qualquer milissegundo em uma requisição economizado é ouro.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_afinal-por-que-performance-de-aplica%C3%A7%C3%B5es-activity-6883759742376792064-Imlu",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_afinal-por-que-performance-de-aplica%C3%A7%C3%B5es-activity-6883759742376792064-Imlu",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-01-03"
+  },
+  {
+    "title": "Conheça a função secreta do Node.js para destravar suas aplicações Node.js 🤯",
+    "abstract": "É, hoje nem é sexta-feira, mas já é dia de maldade! haha",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-a-fun%C3%A7%C3%A3o-secreta-do-nodejs-para-activity-6882303357495586816-HAYZ",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-a-fun%C3%A7%C3%A3o-secreta-do-nodejs-para-activity-6882303357495586816-HAYZ",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-12-30"
+  },
+  {
+    "title": "Conheça a nova API do JavaScript, a Scheduling API, um conjunto de APIs para destravar a interação de usuários com suas apps 🤩",
+    "abstract": "A especificação é de 22 de Novembro deste ano, mas já temos uma versão experimental ",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-a-nova-api-do-javascript-a-scheduling-activity-6881581052846989312-dYp_",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-a-nova-api-do-javascript-a-scheduling-activity-6881581052846989312-dYp_",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-12-28"
+  },
+  {
+    "title": "Afinal, quais são os casos de uso para Worker Threads em Node.js? 🤩",
+    "abstract": "Uma das grandes vantagens de trabalhar com sistemas orientados a eventos",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_afinal-quais-s%C3%A3o-os-casos-de-uso-para-worker-activity-6881202705822437377-cdEV",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_afinal-quais-s%C3%A3o-os-casos-de-uso-para-worker-activity-6881202705822437377-cdEV",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-12-27"
+  },
+  {
+    "title": "Será que tivemos o bug do milênio da nossa geração? 🤯",
+    "abstract": "Explorando a vulnerabilidade do Log4j 😱",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-tivemos-o-bug-do-mil%C3%AAnio-da-nossa-activity-6877589251555368960-R6ii",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-tivemos-o-bug-do-mil%C3%AAnio-da-nossa-activity-6877589251555368960-R6ii",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-12-17"
+  },
+  {
+    "title": "E aí, quando usar o Array ou o Set em JavaScript? 🤩",
+    "abstract": "E já adiantando, se você acha que é pelo fato de Set trabalhar somente com itens que não se repetem",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_e-a%C3%AD-quando-usar-o-array-ou-o-set-em-javascript-activity-6877226652439584768-E40N",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_e-a%C3%AD-quando-usar-o-array-ou-o-set-em-javascript-activity-6877226652439584768-E40N",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-12-16"
+  },
+  {
+    "title": "Encontrei um bug no Node.js 😳",
+    "abstract": "Não só encontrei como estou tentando ajudar a consertar o mais rápido possível!",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_encontrei-um-bug-no-nodejs-n%C3%A3o-s%C3%B3-encontrei-activity-6876166163743698945-b3NT",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_encontrei-um-bug-no-nodejs-n%C3%A3o-s%C3%B3-encontrei-activity-6876166163743698945-b3NT",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-12-13"
+  },
+  {
+    "title": "Afinal, em quê um Generator é melhor do que uma função comum em JavaScript? 🤯",
+    "abstract": "Essa foi uma pergunta que recebi em um grupo de programação",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_afinal-em-qu%C3%AA-um-generator-%C3%A9-melhor-do-que-activity-6875073603277324288-jyZ7",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_afinal-em-qu%C3%AA-um-generator-%C3%A9-melhor-do-que-activity-6875073603277324288-jyZ7",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-12-10"
+  },
+  {
+    "title": "Você saberia identificar um vazamento de memória em sua aplicação Node.js? 🤯",
+    "abstract": "Como você pode ver no vídeo, vazamentos de memória podem sim acontecer",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_clinicjs-climem-javascript-activity-6874334438789021696-9SOt",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_clinicjs-climem-javascript-activity-6874334438789021696-9SOt",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-12-08"
+  },
+  {
+    "title": "Afinal, Node.js tem ou não tem Threads? 🤯",
+    "abstract": "Acho que esse é o conceito mais confuso na cabeça da galera quando",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_afinal-nodejs-tem-ou-n%C3%A3o-tem-threads-activity-6873963857178574848-o_J0",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_afinal-nodejs-tem-ou-n%C3%A3o-tem-threads-activity-6873963857178574848-o_J0",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2021-12-07"
+  },
+
   {
     "title": "Eaí, será que rola? MIL instâncias de apps Node.js enviando dados a cada segundo em paralelo para uma única instância pequena de banco de dados? 🤯",
     "abstract": "Esse é o desafio que estou trabalhando na NodeSource durante essa semana e, olha, a parada é pauleira!",

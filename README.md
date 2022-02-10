@@ -16,8 +16,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Videos**: 2021/November - 2016/September 
-* **Blog Posts**: 2021/November - 2015/February 
+* **Videos**: 2022/January - 2016/September 
+* **Blog Posts**: 2022/January - 2015/February 
 * **Conference Talks**: 2021/March - 2015/January 
 
 #### Presentations' number: 106
@@ -25,8 +25,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Videos (71)](#videos)
-- [Blog Posts (224)](#blog-posts)
+- [Videos (75)](#videos)
+- [Blog Posts (242)](#blog-posts)
 - [Conference Talks (106)](#conference-talks)
 
 ## Projects
@@ -122,6 +122,54 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/YEwn1FfCy0U" target="_blank">2022-01-24 - Essa dica me fez dobrar a capacidade de resposta de um endpoint com apenas 5 linhas de código (pt-br)</a>
+
+
+Abstract:
+
+> O vídeo de hoje é um experimento sobre como pequenas melhorias podem causar um grande impacto em aplicações existentes.
+> 
+> 
+
+
+_Tags: `Performance`, `Javascript`_
+
+### <a href="https://youtu.be/rcQgqerZ48E" target="_blank">2022-01-17 - Para que serve um Generator em JavaScript? Qual é o seu caso de uso perfeito ? (pt-br)</a>
+
+
+Abstract:
+
+> O vídeo de hoje foi feito sob medida para resolver de vez suas dúvidas sobre um dos conceitos mais confusos em #JavaScript.
+> 
+> 
+
+
+_Tags: `NodeJS`, `Javascript`_
+
+### <a href="https://youtu.be/fCfmW_yZVeI" target="_blank">2022-01-10 - O passo a passo de como resolvi um Bug crítico no coração do Node.js (pt-br)</a>
+
+
+Abstract:
+
+> Eaai beleza? E esse é um dos vídeos que estou mais animado em compartilhar com você
+> 
+> 
+
+
+_Tags: `NodeJS`, `Javascript`_
+
+### <a href="https://youtu.be/vyRKmL3oDbY" target="_blank">2022-01-05 - Como Resolvi o Segundo Desafio do Treinamento JS Expert - Bate papo com alunos (pt-br)</a>
+
+
+Abstract:
+
+>  Eaaai beeleza? Seja bem vindo ou bem vinda à segunda edição de resolução de desafios do treinamento #JSExpert.
+> 
+> 
+
+
+_Tags: `NodeJS`, `Javascript`_
 
 ### <a href="https://www.youtube.com/watch?v=wk7vmwDnMww" target="_blank">2021-11-18 - Como Resolvi o Primeiro Desafio do Treinamento JS Expert - Bate papo com alunos (pt-br)</a>
 
@@ -1073,6 +1121,366 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_afinal-quem-observa-o-observador-o-que-activity-6892438646281367552-UjDY" target="_blank">2022-01-27 - Afinal, quem observa o observador? O que realmente trava suas aplicações Node.js? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_afinal-quem-observa-o-observador-o-que-activity-6892438646281367552-UjDY" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Nem é sexta-feira, mas já é dia de maldade! 😬
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_afinal-quem-observa-o-observador-o-que-activity-6892438646281367552-UjDY" target="_blank">2022-01-27 - Afinal, quem observa o observador? O que realmente trava suas aplicações Node.js? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_afinal-quem-observa-o-observador-o-que-activity-6892438646281367552-UjDY" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Nem é sexta-feira, mas já é dia de maldade! 😬
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_afinal-para-que-serve-a-fun%C3%A7%C3%A3o-bind-no-activity-6892088584464388096-W43A" target="_blank">2022-01-26 - Afinal, para que serve a função .bind no JavaScript? 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_afinal-para-que-serve-a-fun%C3%A7%C3%A3o-bind-no-activity-6892088584464388096-W43A" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> No JavaScript, apenas batendo o olho é difícil adivinhar o contexto
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_porque-voc%C3%AA-n%C3%A3o-deveria-sofrer-na-tentativa-activity-6891719708270567424-tx8k" target="_blank">2022-01-25 - Porque você não deveria sofrer na tentativa e erro usando console.log para depurar suas aplicações 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_porque-voc%C3%AA-n%C3%A3o-deveria-sofrer-na-tentativa-activity-6891719708270567424-tx8k" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> A linguagem JavaScript, por ser uma linguagem dinâmica e interpretada
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_sobre-o-teste-mais-dif%C3%ADcil-da-minha-vida-activity-6889908322917486593-z97a" target="_blank">2022-01-20 - Sobre o teste mais difícil da minha vida! (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_sobre-o-teste-mais-dif%C3%ADcil-da-minha-vida-activity-6889908322917486593-z97a" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Estamos trabalhando forte em refinamento do principal produto da Node Source
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_afinal-como-%C3%A9-poss%C3%ADvel-rodar-rust-c-e-activity-6889558618279034882-jY5X" target="_blank">2022-01-19 - Afinal, como é possível rodar Rust, C++ e JavaScript no Node.js? 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_afinal-como-%C3%A9-poss%C3%ADvel-rodar-rust-c-e-activity-6889558618279034882-jY5X" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> E melhor, porque alguém usaria C++ ou Rust ao invés de JavaScript?
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_um-desenvolvedor-injetou-um-vulnerabilidade-activity-6886654682878529536-sDq7" target="_blank">2022-01-11 - Um desenvolvedor injetou um vulnerabilidade de propósito em um pacote JavaScript super popular, como forma de protesto 😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_um-desenvolvedor-injetou-um-vulnerabilidade-activity-6886654682878529536-sDq7" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Só o pacote npm colors, recebe mais de 20 MILHÕES de downloads por semana
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_jsexpert-activity-6884842648209788928-usMJ" target="_blank">2022-01-06 - Hoje nem é sexta-feira mas é dia de maldade!! Hoje é dia de dica de ouro e tenho certeza que pode te surpreender! (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_jsexpert-activity-6884842648209788928-usMJ" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Muito provavelmente você conhece o problema abaixo em JavaScript
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_afinal-por-que-performance-de-aplica%C3%A7%C3%B5es-activity-6883759742376792064-Imlu" target="_blank">2022-01-03 - Afinal, por que performance de aplicações não pode andar junto à boas práticas de código como clean code e padrões semânticos? 😬 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_afinal-por-que-performance-de-aplica%C3%A7%C3%B5es-activity-6883759742376792064-Imlu" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Dependendo do nível de aplicação, qualquer milissegundo em uma requisição economizado é ouro.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-a-fun%C3%A7%C3%A3o-secreta-do-nodejs-para-activity-6882303357495586816-HAYZ" target="_blank">2021-12-30 - Conheça a função secreta do Node.js para destravar suas aplicações Node.js 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-a-fun%C3%A7%C3%A3o-secreta-do-nodejs-para-activity-6882303357495586816-HAYZ" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> É, hoje nem é sexta-feira, mas já é dia de maldade! haha
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-a-nova-api-do-javascript-a-scheduling-activity-6881581052846989312-dYp_" target="_blank">2021-12-28 - Conheça a nova API do JavaScript, a Scheduling API, um conjunto de APIs para destravar a interação de usuários com suas apps 🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-a-nova-api-do-javascript-a-scheduling-activity-6881581052846989312-dYp_" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> A especificação é de 22 de Novembro deste ano, mas já temos uma versão experimental 
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_afinal-quais-s%C3%A3o-os-casos-de-uso-para-worker-activity-6881202705822437377-cdEV" target="_blank">2021-12-27 - Afinal, quais são os casos de uso para Worker Threads em Node.js? 🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_afinal-quais-s%C3%A3o-os-casos-de-uso-para-worker-activity-6881202705822437377-cdEV" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Uma das grandes vantagens de trabalhar com sistemas orientados a eventos
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-tivemos-o-bug-do-mil%C3%AAnio-da-nossa-activity-6877589251555368960-R6ii" target="_blank">2021-12-17 - Será que tivemos o bug do milênio da nossa geração? 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-tivemos-o-bug-do-mil%C3%AAnio-da-nossa-activity-6877589251555368960-R6ii" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Explorando a vulnerabilidade do Log4j 😱
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_e-a%C3%AD-quando-usar-o-array-ou-o-set-em-javascript-activity-6877226652439584768-E40N" target="_blank">2021-12-16 - E aí, quando usar o Array ou o Set em JavaScript? 🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_e-a%C3%AD-quando-usar-o-array-ou-o-set-em-javascript-activity-6877226652439584768-E40N" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> E já adiantando, se você acha que é pelo fato de Set trabalhar somente com itens que não se repetem
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_encontrei-um-bug-no-nodejs-n%C3%A3o-s%C3%B3-encontrei-activity-6876166163743698945-b3NT" target="_blank">2021-12-13 - Encontrei um bug no Node.js 😳 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_encontrei-um-bug-no-nodejs-n%C3%A3o-s%C3%B3-encontrei-activity-6876166163743698945-b3NT" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Não só encontrei como estou tentando ajudar a consertar o mais rápido possível!
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_afinal-em-qu%C3%AA-um-generator-%C3%A9-melhor-do-que-activity-6875073603277324288-jyZ7" target="_blank">2021-12-10 - Afinal, em quê um Generator é melhor do que uma função comum em JavaScript? 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_afinal-em-qu%C3%AA-um-generator-%C3%A9-melhor-do-que-activity-6875073603277324288-jyZ7" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Essa foi uma pergunta que recebi em um grupo de programação
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_clinicjs-climem-javascript-activity-6874334438789021696-9SOt" target="_blank">2021-12-08 - Você saberia identificar um vazamento de memória em sua aplicação Node.js? 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_clinicjs-climem-javascript-activity-6874334438789021696-9SOt" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Como você pode ver no vídeo, vazamentos de memória podem sim acontecer
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_afinal-nodejs-tem-ou-n%C3%A3o-tem-threads-activity-6873963857178574848-o_J0" target="_blank">2021-12-07 - Afinal, Node.js tem ou não tem Threads? 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_afinal-nodejs-tem-ou-n%C3%A3o-tem-threads-activity-6873963857178574848-o_J0" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Acho que esse é o conceito mais confuso na cabeça da galera quando
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_blackfriday-activity-6869980497326444544-ms7K/" target="_blank">2021-11-26 - Eaí, será que rola? MIL instâncias de apps Node.js enviando dados a cada segundo em paralelo para uma única instância pequena de banco de dados? 🤯 (pt-br)</a>
 
