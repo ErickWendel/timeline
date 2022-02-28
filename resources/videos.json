@@ -1,4 +1,81 @@
-[{
+[
+  {
+    "title": "Adeus Promise.race - Conheça a nova forma de cancelar requests em Node.js",
+    "abstract": "Esse video é uma parte de uma grande novidade do JavaScript e #NodeJS",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/u8qk9l304K0",
+    "tags": [
+      "AbortSignal",
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-02-28"
+  },
+  {
+    "title": "O meu segredo para aprender qualquer coisa na prática | Aprendendo a aprender",
+    "abstract": "Esse video foi feito para você que tem dificuldades em evoluir nos seus estudos",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/xxy3WqFZzFI",
+    "tags": [
+      "Performance",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-02-21"
+  },
+    {
+    "title": "Como usar Expressões Regulares para melhorar sua produtividade",
+    "abstract": "O vídeo de hoje é um conjunto de dicas para você usar o #VSCode para substituir textos de forma ágil ",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/G8_Feca_9U0",
+    "tags": [
+      "RegEx",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-02-14"
+  },
+  {
+    "title": "Como identificar e simular um vazamento de memória em sua aplicação Node.js",
+    "abstract": "O vídeo de hoje é uma super dica para você descobrir se tem algum vazamento de memória em suas aplicações Node.js",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/2u9KRSMpTQQ",
+    "tags": [
+      "Performance",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-02-07"
+  },
+  {
+    "title": "Chega de sofrer convertendo datas em Javascript - aprenda essa solução sem Regex e sem frameworks",
+    "abstract": "Esse vídeo vai servir como aquela dica super útil para você não sofrer mais com Datas em JavaScript",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/CO2c59XCtW0",
+    "tags": [
+      "RegEx",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-01-31"
+  },
+  {
     "title": "Essa dica me fez dobrar a capacidade de resposta de um endpoint com apenas 5 linhas de código",
     "abstract": "O vídeo de hoje é um experimento sobre como pequenas melhorias podem causar um grande impacto em aplicações existentes.",
     "type": "video",
