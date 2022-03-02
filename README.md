@@ -16,8 +16,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Videos**: 2022/January - 2016/September 
-* **Blog Posts**: 2022/January - 2015/February 
+* **Videos**: 2022/February - 2016/September 
+* **Blog Posts**: 2022/February - 2015/February 
 * **Conference Talks**: 2021/March - 2015/January 
 
 #### Presentations' number: 106
@@ -25,8 +25,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Videos (75)](#videos)
-- [Blog Posts (241)](#blog-posts)
+- [Videos (80)](#videos)
+- [Blog Posts (248)](#blog-posts)
 - [Conference Talks (106)](#conference-talks)
 
 ## Projects
@@ -122,6 +122,66 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/u8qk9l304K0" target="_blank">2022-02-28 - Adeus Promise.race - Conheça a nova forma de cancelar requests em Node.js (pt-br)</a>
+
+
+Abstract:
+
+> Esse video é uma parte de uma grande novidade do JavaScript e #NodeJS
+> 
+> 
+
+
+_Tags: `AbortSignal`, `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/xxy3WqFZzFI" target="_blank">2022-02-21 - O meu segredo para aprender qualquer coisa na prática | Aprendendo a aprender (pt-br)</a>
+
+
+Abstract:
+
+> Esse video foi feito para você que tem dificuldades em evoluir nos seus estudos
+> 
+> 
+
+
+_Tags: `Performance`, `Javascript`_
+
+### <a href="https://youtu.be/G8_Feca_9U0" target="_blank">2022-02-14 - Como usar Expressões Regulares para melhorar sua produtividade (pt-br)</a>
+
+
+Abstract:
+
+> O vídeo de hoje é um conjunto de dicas para você usar o #VSCode para substituir textos de forma ágil 
+> 
+> 
+
+
+_Tags: `RegEx`, `Javascript`_
+
+### <a href="https://youtu.be/2u9KRSMpTQQ" target="_blank">2022-02-07 - Como identificar e simular um vazamento de memória em sua aplicação Node.js (pt-br)</a>
+
+
+Abstract:
+
+> O vídeo de hoje é uma super dica para você descobrir se tem algum vazamento de memória em suas aplicações Node.js
+> 
+> 
+
+
+_Tags: `Performance`, `Javascript`_
+
+### <a href="https://youtu.be/CO2c59XCtW0" target="_blank">2022-01-31 - Chega de sofrer convertendo datas em Javascript - aprenda essa solução sem Regex e sem frameworks (pt-br)</a>
+
+
+Abstract:
+
+> Esse vídeo vai servir como aquela dica super útil para você não sofrer mais com Datas em JavaScript
+> 
+> 
+
+
+_Tags: `RegEx`, `Javascript`_
 
 ### <a href="https://youtu.be/YEwn1FfCy0U" target="_blank">2022-01-24 - Essa dica me fez dobrar a capacidade de resposta de um endpoint com apenas 5 linhas de código (pt-br)</a>
 
@@ -1121,6 +1181,146 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_dica-de-como-experimentar-o-novo-m%C3%B3dulo-fetch-activity-6902597930155671552-uTTd" target="_blank">2022-02-24 - Dica de como experimentar o novo módulo fetch do Node.js 🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_dica-de-como-experimentar-o-novo-m%C3%B3dulo-fetch-activity-6902597930155671552-uTTd" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> O módulo fetch é uma das grandes melhorias que tivemos para o Node.js recentemente
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_chegou-quem-faltava-agora-temos-fun%C3%A7%C3%B5es-activity-6902241619589099520-ka3e" target="_blank">2022-02-23 - Chegou quem faltava! Agora temos funções para manipular listas sob demanda 🤩 (e já funciona no Node.js) (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_chegou-quem-faltava-agora-temos-fun%C3%A7%C3%B5es-activity-6902241619589099520-ka3e" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sim galera, os métodos .map, .filter e reduce estão em etapa final para trabalhar com Generator Functions
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_3-formas-de-resolver-um-mesmo-problema-usando-activity-6901875619635032064-x5AK" target="_blank">2022-02-22 - 3 formas de resolver um mesmo problema usando Regex 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_3-formas-de-resolver-um-mesmo-problema-usando-activity-6901875619635032064-x5AK" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Olha que doidera, por mais que todas as formas dessa imagem resultem na mesma saída
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_hoje-%C3%A9-um-dia-hist%C3%B3rico-adeus-axios-adeus-activity-6897874988649848833-SuHL" target="_blank">2022-02-11 - Hoje é um dia histórico! Adeus Axios, adeus libs externas, seja bem-vindo módulo nativo fetch no Node.js! 😱😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_hoje-%C3%A9-um-dia-hist%C3%B3rico-adeus-axios-adeus-activity-6897874988649848833-SuHL" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Essa é uma daquelas features que paramos para pensar e refletir: por que demorou tanto? 🤣
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-linkar-seu-vscode-debugger-em-uma-aplica%C3%A7%C3%A3o-activity-6896805163009720320-P5Xc" target="_blank">2022-02-08 - Como linkar seu VSCode debugger em uma aplicação externa 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-linkar-seu-vscode-debugger-em-uma-aplica%C3%A7%C3%A3o-activity-6896805163009720320-P5Xc" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Esta semana, estou trabalhando em otimizações do NSolid aqui na NodeSource e me deparei com um desafio.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-forma-mais-f%C3%A1cil-de-contribuir-em-activity-6895355474699771904-IxDI" target="_blank">2022-02-03 - Qual é a forma mais fácil de contribuir em grandes projetos Open Source? 🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-forma-mais-f%C3%A1cil-de-contribuir-em-activity-6895355474699771904-IxDI" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Eu sempre tive vontade de participar de grandes projetos no GitHub, como o próprio Node.js, NPM, Express.js e vários outros.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_afinal-cobertura-de-testes-em-100-%C3%A9-realmente-activity-6894273307169169408-Q94U" target="_blank">2022-02-01 - Afinal, cobertura de testes em 100% é realmente importante ou pura vaidade? 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_afinal-cobertura-de-testes-em-100-%C3%A9-realmente-activity-6894273307169169408-Q94U" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Recentemente, na NodeSource, fiquei uma sprint inteira cobrindo meu código de testes e desacoplando código legado
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_afinal-quem-observa-o-observador-o-que-activity-6892438646281367552-UjDY" target="_blank">2022-01-27 - Afinal, quem observa o observador? O que realmente trava suas aplicações Node.js? (pt-br)</a>
 
