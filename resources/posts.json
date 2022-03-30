@@ -1,5 +1,41 @@
 [
   {
+    "title": "Será que a nova era da linguagem JavaScript está chegando?",
+    "abstract": "Ontem, 09/03/2022 o time do TypeScript anunciou uma colaboração em uma nova proposta para a linguagem",
+    "type": "post",
+    "link": "a",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "a",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-03-10"
+  },
+  {
+    "title": "E olha que sensacionaaaaal, agora é possível importar módulos a partir de URLs no Node.js 🤯🤯🤯",
+    "abstract": "Será que o Deno influenciou em algo para essa feature? 😬",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_e-olha-que-sensacionaaaaal-agora-%C3%A9-poss%C3%ADvel-activity-6904777250856931328-hrtm?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_e-olha-que-sensacionaaaaal-agora-%C3%A9-poss%C3%ADvel-activity-6904777250856931328-hrtm?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-03-02"
+  },
+  {
     "title": "Dica de como experimentar o novo módulo fetch do Node.js 🤩",
     "abstract": "O módulo fetch é uma das grandes melhorias que tivemos para o Node.js recentemente",
     "type": "post",
