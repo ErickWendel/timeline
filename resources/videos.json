@@ -1,5 +1,80 @@
 [
   {
+    "title": "Como fazer testes automatizados em JavaScript (SEM FRAMEWORKS) 🤯",
+    "abstract": "CÓDIGO FONTE DA AULA",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/8hxhZkBzWhk",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-03-23"
+  },
+  {
+    "title": "Guia para iniciantes sobre Node.js Streams - Pré #SemanaJSExpert",
+    "abstract": "CÓDIGO FONTE DA AULA",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/r-33Hhbvr1M",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-03-11"
+  },
+  {
+    "title": "Criando um gerador de memes com Docker e JavaScript - Pré #SemanaJSExpert",
+    "abstract": "CÓDIGO FONTE DA AULA",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/MOpwfg1GJig",
+    "tags": [
+      "Docker",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-03-09"
+  },
+  {
+    "title": "Como criar testes e2e em Web APIs com Jest e Node.js - Pré #SemanaJSExpert",
+    "abstract": " CÓDIGO FONTE DA AULA",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/hQB139HP3GE",
+    "tags": [
+      "Node.js",
+      "Javascript",
+      "Jest"
+    ],
+    "language": "pt-br",
+    "date": "2022-03-08"
+  },
+  {
+    "title": "O que não te contaram sobre produção de Conteúdo - feat Diego Fernandes e Mayk Brito",
+    "abstract": " Nesse bate papo descontraído, vamos abrir o coração e compartilhar um pouco sobre",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/UXfZzH3Nufg",
+    "tags": [
+      "ContentCreate"
+    ],
+    "language": "pt-br",
+    "date": "2022-03-05"
+  },
+  {
     "title": "Adeus Promise.race - Conheça a nova forma de cancelar requests em Node.js",
     "abstract": "Esse video é uma parte de uma grande novidade do JavaScript e #NodeJS",
     "type": "video",

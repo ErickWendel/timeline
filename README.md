@@ -16,8 +16,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Videos**: 2022/February - 2016/September 
-* **Blog Posts**: 2022/February - 2015/February 
+* **Videos**: 2022/March - 2016/September 
+* **Blog Posts**: 2022/March - 2015/February 
 * **Conference Talks**: 2021/March - 2015/January 
 
 #### Presentations' number: 106
@@ -25,8 +25,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Videos (80)](#videos)
-- [Blog Posts (248)](#blog-posts)
+- [Videos (85)](#videos)
+- [Blog Posts (250)](#blog-posts)
 - [Conference Talks (106)](#conference-talks)
 
 ## Projects
@@ -122,6 +122,66 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/8hxhZkBzWhk" target="_blank">2022-03-23 - Como fazer testes automatizados em JavaScript (SEM FRAMEWORKS) 🤯 (pt-br)</a>
+
+
+Abstract:
+
+> CÓDIGO FONTE DA AULA
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/r-33Hhbvr1M" target="_blank">2022-03-11 - Guia para iniciantes sobre Node.js Streams - Pré #SemanaJSExpert (pt-br)</a>
+
+
+Abstract:
+
+> CÓDIGO FONTE DA AULA
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/MOpwfg1GJig" target="_blank">2022-03-09 - Criando um gerador de memes com Docker e JavaScript - Pré #SemanaJSExpert (pt-br)</a>
+
+
+Abstract:
+
+> CÓDIGO FONTE DA AULA
+> 
+> 
+
+
+_Tags: `Docker`, `Javascript`_
+
+### <a href="https://youtu.be/hQB139HP3GE" target="_blank">2022-03-08 - Como criar testes e2e em Web APIs com Jest e Node.js - Pré #SemanaJSExpert (pt-br)</a>
+
+
+Abstract:
+
+>  CÓDIGO FONTE DA AULA
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`, `Jest`_
+
+### <a href="https://youtu.be/UXfZzH3Nufg" target="_blank">2022-03-05 - O que não te contaram sobre produção de Conteúdo - feat Diego Fernandes e Mayk Brito (pt-br)</a>
+
+
+Abstract:
+
+>  Nesse bate papo descontraído, vamos abrir o coração e compartilhar um pouco sobre
+> 
+> 
+
+
+_Tags: `ContentCreate`_
 
 ### <a href="https://youtu.be/u8qk9l304K0" target="_blank">2022-02-28 - Adeus Promise.race - Conheça a nova forma de cancelar requests em Node.js (pt-br)</a>
 
@@ -1181,6 +1241,46 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="a" target="_blank">2022-03-10 - Será que a nova era da linguagem JavaScript está chegando? (pt-br)</a>
+
+
+Portal:
+
+> <a href="a" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Ontem, 09/03/2022 o time do TypeScript anunciou uma colaboração em uma nova proposta para a linguagem
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_e-olha-que-sensacionaaaaal-agora-%C3%A9-poss%C3%ADvel-activity-6904777250856931328-hrtm?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-03-02 - E olha que sensacionaaaaal, agora é possível importar módulos a partir de URLs no Node.js 🤯🤯🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_e-olha-que-sensacionaaaaal-agora-%C3%A9-poss%C3%ADvel-activity-6904777250856931328-hrtm?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Será que o Deno influenciou em algo para essa feature? 😬
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_dica-de-como-experimentar-o-novo-m%C3%B3dulo-fetch-activity-6902597930155671552-uTTd" target="_blank">2022-02-24 - Dica de como experimentar o novo módulo fetch do Node.js 🤩 (pt-br)</a>
 
