@@ -26,7 +26,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 - [Projects (06)](#projects)
 - [Videos (85)](#videos)
-- [Blog Posts (250)](#blog-posts)
+- [Blog Posts (251)](#blog-posts)
 - [Conference Talks (106)](#conference-talks)
 
 ## Projects
@@ -1242,12 +1242,32 @@ _Tags: `wear`, `android`, `node.js`_
 
 ## Blog Posts
 
-### <a href="a" target="_blank">2022-03-10 - Será que a nova era da linguagem JavaScript está chegando? (pt-br)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6910211748461432832-boD0?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-03-17 - Nada de Jest, Mocha ou NodeTap - Agora o Node.js terá seu próprio test runner NATIVO 🤩🤩 (pt-br)</a>
 
 
 Portal:
 
-> <a href="a" target="_blank">Linkedin Post</a>
+> <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6910211748461432832-boD0?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Siiiimmmm galera, chegou quem estava faltando 🎉
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-a-nova-era-da-linguagem-javascript-activity-6907659374572224512-wLrR?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-03-10 - Será que a nova era da linguagem JavaScript está chegando? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-a-nova-era-da-linguagem-javascript-activity-6907659374572224512-wLrR?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
 
 
 Abstract:

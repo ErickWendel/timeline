@@ -1,14 +1,32 @@
 [
   {
-    "title": "Será que a nova era da linguagem JavaScript está chegando?",
-    "abstract": "Ontem, 09/03/2022 o time do TypeScript anunciou uma colaboração em uma nova proposta para a linguagem",
+    "title": "Nada de Jest, Mocha ou NodeTap - Agora o Node.js terá seu próprio test runner NATIVO 🤩🤩",
+    "abstract": "Siiiimmmm galera, chegou quem estava faltando 🎉",
     "type": "post",
-    "link": "a",
+    "link": "https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6910211748461432832-boD0?utm_source=linkedin_share&utm_medium=member_desktop_web",
     "additionalLinks": [
       " "
     ],
     "portal": {
-      "link": "a",
+      "link": "https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6910211748461432832-boD0?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-03-17"
+  },
+  {
+    "title": "Será que a nova era da linguagem JavaScript está chegando?",
+    "abstract": "Ontem, 09/03/2022 o time do TypeScript anunciou uma colaboração em uma nova proposta para a linguagem",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-a-nova-era-da-linguagem-javascript-activity-6907659374572224512-wLrR?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_ser%C3%A1-que-a-nova-era-da-linguagem-javascript-activity-6907659374572224512-wLrR?utm_source=linkedin_share&utm_medium=member_desktop_web",
       "name": "Linkedin Post"
     },
     "tags": [
