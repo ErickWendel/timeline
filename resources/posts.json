@@ -1,5 +1,113 @@
 [
   {
+    "title": "Top 5 assuntos que eu focaria se estivesse aprendendo JavaScript do zero 🧵🔥",
+    "abstract": "1 - JavaScript puro, suas estruturas de dados e ciclo de vida",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_100daysofcode-javascript-nodejs-activity-6922901028589694976-yaFm?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_100daysofcode-javascript-nodejs-activity-6922901028589694976-yaFm?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-04-21"
+  },
+  {
+    "title": "E olha que demaaaaaaaaais, saiu a nova versão do Node.js e com ela vieram MUITAS features sensacionais 🤯",
+    "abstract": "Eu costumo dizer que a plataforma Node.js é uma das que mais evoluem atualmente e a parada realmente não é brincadeira",
+    "type": "post",
+    "link": "",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-04-20"
+  },
+  {
+    "title": "Finalmente reescreveram o HTTP Client do Node.js (e não é do fetch que estou falando 😱)",
+    "abstract": "Como você pode observar, do lado esquerdo temos como funciona hoje para consumir um JSON",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_finalmente-reescreveram-o-http-client-do-activity-6918185322132447232-UTE3?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_finalmente-reescreveram-o-http-client-do-activity-6918185322132447232-UTE3?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-04-08"
+  },
+  {
+    "title": "Hoje é dia de dica de ouro! Qual é a aplicabilidade de meta programação em JavaScript, na vida real? 🤯",
+    "abstract": "Essa foi uma dúvida que recebi de um aluno do treinamento JS Expert então resolvi trazer um use case bem bacana",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_hoje-%C3%A9-dia-de-dica-de-ouro-qual-%C3%A9-a-aplicabilidade-activity-6917473776796344321-aDRu?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      "https://gist.github.com/ErickWendel/68e773fbb2aa73dc3e70803e82464bf5"
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_hoje-%C3%A9-dia-de-dica-de-ouro-qual-%C3%A9-a-aplicabilidade-activity-6917473776796344321-aDRu?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-04-06"
+  },
+  {
+    "title": "E se você quisesse desenhar no terminal com Node.js? 🤩",
+    "abstract": "Se você me segue a um tempinho aqui, sabe que eu curto usar JavaScript",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-quisesse-desenhar-no-terminal-com-activity-6917098807516094464-qTtv?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-quisesse-desenhar-no-terminal-com-activity-6917098807516094464-qTtv?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-04-05"
+  },
+  {
+    "title": "Esse é um daqueles projetos que provam que programação vai muito além do CRUD",
+    "abstract": "muito além do trabalho e que a melhor forma de aprender algo avançado é envolver diversão na parada!",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_esse-%C3%A9-um-daqueles-projetos-que-provam-que-activity-6916734068143325184--oa6?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_esse-%C3%A9-um-daqueles-projetos-que-provam-que-activity-6916734068143325184--oa6?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-04-04"
+  },
+  {
     "title": "Nada de Jest, Mocha ou NodeTap - Agora o Node.js terá seu próprio test runner NATIVO 🤩🤩",
     "abstract": "Siiiimmmm galera, chegou quem estava faltando 🎉",
     "type": "post",
