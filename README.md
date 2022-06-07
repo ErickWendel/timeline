@@ -16,18 +16,18 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Videos**: 2022/March - 2016/September 
-* **Blog Posts**: 2022/March - 2015/February 
-* **Conference Talks**: 2021/March - 2015/January 
+* **Videos**: 2022/April - 2016/September 
+* **Blog Posts**: 2022/April - 2015/February 
+* **Conference Talks**: 2022/April - 2015/January 
 
-#### Presentations' number: 106
+#### Presentations' number: 107
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Videos (85)](#videos)
-- [Blog Posts (251)](#blog-posts)
-- [Conference Talks (106)](#conference-talks)
+- [Videos (87)](#videos)
+- [Blog Posts (257)](#blog-posts)
+- [Conference Talks (107)](#conference-talks)
 
 ## Projects
 
@@ -122,6 +122,30 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/ge31HzWk5T8" target="_blank">2022-04-25 - O segredo para escalar e atualizar aplicações Node.js a qualquer hora do dia (pt-br)</a>
+
+
+Abstract:
+
+> Você vai aprender nesse vídeo uma série de técnicas para ter confiança em atualizar suas aplicações ao meio dia
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/6hh3RcY_jRo" target="_blank">2022-04-11 - Testes unitários em IoT, o padrão Template Method e abstração de forma reutilizável (pt-br)</a>
+
+
+Abstract:
+
+> Hardware e microcontroladores fazem parte de um mundo novo para mim
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
 
 ### <a href="https://youtu.be/8hxhZkBzWhk" target="_blank">2022-03-23 - Como fazer testes automatizados em JavaScript (SEM FRAMEWORKS) 🤯 (pt-br)</a>
 
@@ -1241,6 +1265,126 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_100daysofcode-javascript-nodejs-activity-6922901028589694976-yaFm?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-04-21 - Top 5 assuntos que eu focaria se estivesse aprendendo JavaScript do zero 🧵🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_100daysofcode-javascript-nodejs-activity-6922901028589694976-yaFm?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> 1 - JavaScript puro, suas estruturas de dados e ciclo de vida
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="" target="_blank">2022-04-20 - E olha que demaaaaaaaaais, saiu a nova versão do Node.js e com ela vieram MUITAS features sensacionais 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Eu costumo dizer que a plataforma Node.js é uma das que mais evoluem atualmente e a parada realmente não é brincadeira
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_finalmente-reescreveram-o-http-client-do-activity-6918185322132447232-UTE3?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-04-08 - Finalmente reescreveram o HTTP Client do Node.js (e não é do fetch que estou falando 😱) (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_finalmente-reescreveram-o-http-client-do-activity-6918185322132447232-UTE3?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Como você pode observar, do lado esquerdo temos como funciona hoje para consumir um JSON
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_hoje-%C3%A9-dia-de-dica-de-ouro-qual-%C3%A9-a-aplicabilidade-activity-6917473776796344321-aDRu?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-04-06 - Hoje é dia de dica de ouro! Qual é a aplicabilidade de meta programação em JavaScript, na vida real? 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_hoje-%C3%A9-dia-de-dica-de-ouro-qual-%C3%A9-a-aplicabilidade-activity-6917473776796344321-aDRu?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Essa foi uma dúvida que recebi de um aluno do treinamento JS Expert então resolvi trazer um use case bem bacana
+> 
+> <b>Links</b>
+> 
+> - <a href="https://gist.github.com/ErickWendel/68e773fbb2aa73dc3e70803e82464bf5" target="_blank">https://gist.github.com/ErickWendel/68e773fbb2aa73dc3e70803e82464bf5</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-quisesse-desenhar-no-terminal-com-activity-6917098807516094464-qTtv?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-04-05 - E se você quisesse desenhar no terminal com Node.js? 🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-quisesse-desenhar-no-terminal-com-activity-6917098807516094464-qTtv?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Se você me segue a um tempinho aqui, sabe que eu curto usar JavaScript
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_esse-%C3%A9-um-daqueles-projetos-que-provam-que-activity-6916734068143325184--oa6?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-04-04 - Esse é um daqueles projetos que provam que programação vai muito além do CRUD (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_esse-%C3%A9-um-daqueles-projetos-que-provam-que-activity-6916734068143325184--oa6?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> muito além do trabalho e que a melhor forma de aprender algo avançado é envolver diversão na parada!
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6910211748461432832-boD0?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-03-17 - Nada de Jest, Mocha ou NodeTap - Agora o Node.js terá seu próprio test runner NATIVO 🤩🤩 (pt-br)</a>
 
@@ -5913,6 +6057,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2022-04-09 - A vida e as aventuras de desenvolvedor de software (en-us)
+
+
+<a href="https://www.linkedin.com/company/ong-pequeno-cidadao/" target="_blank">ONG Pequeno Cidadão</a>
+
+
+  
+
+
+Abstract:
+
+> Nessa apresentação eu trouxe projetos divertidos que fiz, mostrei os principais desafios da área, quais os primeiros passos para ir de cabeça no mundo de programação e claro, mostrei como eu me mantenho motivado e com sede de sempre aprender mais.
+> 
+> 
+
+
+_Tags: `carreira`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5966179,-46.6890048" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2021-03-24 - 10 secrets to Improve Node.js Security - CityJS 2021 (en-us)
 

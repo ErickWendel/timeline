@@ -1,5 +1,35 @@
 [
   {
+    "title": "O segredo para escalar e atualizar aplicações Node.js a qualquer hora do dia",
+    "abstract": "Você vai aprender nesse vídeo uma série de técnicas para ter confiança em atualizar suas aplicações ao meio dia",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/ge31HzWk5T8",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-04-25"
+  },
+  {
+    "title": "Testes unitários em IoT, o padrão Template Method e abstração de forma reutilizável",
+    "abstract": "Hardware e microcontroladores fazem parte de um mundo novo para mim",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/6hh3RcY_jRo",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-04-11"
+  },
+  {
     "title": "Como fazer testes automatizados em JavaScript (SEM FRAMEWORKS) 🤯",
     "abstract": "CÓDIGO FONTE DA AULA",
     "type": "video",

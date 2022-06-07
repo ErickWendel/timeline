@@ -1,5 +1,28 @@
 [
   {
+    "title": "A vida e as aventuras de desenvolvedor de software",
+    "abstract": "Nessa apresentação eu trouxe projetos divertidos que fiz, mostrei os principais desafios da área, quais os primeiros passos para ir de cabeça no mundo de programação e claro, mostrei como eu me mantenho motivado e com sede de sempre aprender mais.",
+    "type": "talk",
+    "event": {
+        "link": "https://www.linkedin.com/company/ong-pequeno-cidadao/",
+        "name": "ONG Pequeno Cidadão"
+    },
+    "slides": "https://www.icloud.com/keynote/0e95qj_GuTCDZa_P-wcn9P8Aw#A_vida_e_as_aventuras_de_desenvolvedor_de_software_-_ONG",
+    "photos": "",
+    "video": "",
+    "tags": ["carreira","javascript"],
+    "location": {
+        "latitude": -23.5966179,
+        "longitude": -46.6890048,
+        "country": "Brazil",
+        "uf": "SP",
+        "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2022-04-09"
+    },
+  {
     "title": "10 secrets to Improve Node.js Security - CityJS 2021",
     "abstract": "Javascript has become strong, trustable and super powerful for Web/Desktop/IoT/Wearable/etc applications.",
     "type": "talk",
