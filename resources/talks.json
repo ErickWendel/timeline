@@ -1,5 +1,51 @@
 [
   {
+    "title": "Deep dive into Node.js Streams",
+    "abstract": "Node.js was built to solve a specific problem to handle on-demand processing",
+    "type": "talk",
+    "event": {
+        "link": "https://greece.cityjsconf.org/speaker/40SIDUGz4y2ukJ8e6V2bC7",
+        "name": "CityJS World series"
+    },
+    "slides": "",
+    "photos": "",
+    "video": "",
+    "tags": ["iot","javascript"],
+    "location": {
+        "latitude": 37.992767,
+        "longitude": 23.795970,
+        "country": "Greece",
+        "uf": "GR",
+        "city": "Athens"
+        },
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2022-05-29"
+    },
+  {
+    "title": "How I've been using JavaScript to automate my house",
+    "abstract": "Software Programming is naturally fun but making something physical, ti interact with the world thats you live in, is like magic",
+    "type": "talk",
+    "event": {
+        "link": "https://cityjsconf.org/",
+        "name": "CityJS World series"
+    },
+    "slides": "",
+    "photos": "",
+    "video": "https://youtu.be/CtQTlvWZYts",
+    "tags": ["iot","javascript"],
+    "location": {
+        "latitude": -23.5966179,
+        "longitude": -46.6890048,
+        "country": "Brazil",
+        "uf": "SP",
+        "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2022-04-29"
+    },
+  {
     "title": "A vida e as aventuras de desenvolvedor de software",
     "abstract": "Nessa apresentação eu trouxe projetos divertidos que fiz, mostrei os principais desafios da área, quais os primeiros passos para ir de cabeça no mundo de programação e claro, mostrei como eu me mantenho motivado e com sede de sempre aprender mais.",
     "type": "talk",

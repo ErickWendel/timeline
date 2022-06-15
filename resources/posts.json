@@ -1,5 +1,167 @@
 [
   {
+    "title": "is It time to say goodbye to the Stream.Transform and hello to the Stream.Map , Stream.Filter, and Stream.Reduce in Node.js? 🤩🤩🔥",
+    "abstract": "The Node.js platform is changing and a lot of new functions just came to help us to handle streams as we handle Arrays.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-100daysofcode-streams-activity-6937763760883257344-Y6tk?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-100daysofcode-streams-activity-6937763760883257344-Y6tk?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-06-01"
+  },
+  {
+    "title": "Top 5 tips to avoiding blocking the Node.js / JavaScript 🔥🤩",
+    "abstract": "1 - Process data on-demand",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_top-5-tips-to-avoiding-blocking-the-nodejs-activity-6932704253706670080-Bsy5?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_top-5-tips-to-avoiding-blocking-the-nodejs-activity-6932704253706670080-Bsy5?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en",
+    "date": "2022-05-18"
+  },
+    {
+    "title": "Qual é a coisa mais difícil de codificar em software, na sua opinião? 🤯🤩",
+    "abstract": "Hoje temos um mundo grande de informações e conceitos que supostamente",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-coisa-mais-dif%C3%ADcil-de-codificar-activity-6930870837591822336-h1m0?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-coisa-mais-dif%C3%ADcil-de-codificar-activity-6930870837591822336-h1m0?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-05-13"
+  },
+  {
+    "title": "Top 5 dicas para resolver problemas de lentidão em apps Node.js (ou qualquer app) 🔥",
+    "abstract": "1 - Entenda o motivo da lentidão e timeouts",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_top-5-dicas-para-resolver-problemas-de-lentid%C3%A3o-activity-6930144599441039360-j1wp?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_top-5-dicas-para-resolver-problemas-de-lentid%C3%A3o-activity-6930144599441039360-j1wp?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-05-11"
+  },
+  {
+    "title": "E olha que demaaaaaais, mais uma super contribuição entregue no coração do Node.js 🤩🎉🎉",
+    "abstract": "Para quem não sabe, há um tempo atrás consegui resolver um bug no Node.js",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_e-olha-que-demaaaaaais-mais-uma-super-contribui%C3%A7%C3%A3o-activity-6929422324580413440-A0eD?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_e-olha-que-demaaaaaais-mais-uma-super-contribui%C3%A7%C3%A3o-activity-6929422324580413440-A0eD?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-05-09"
+  },
+  {
+    "title": "Top 5 dicas que eu gostaria de ter ouvido quando iniciei em programação 🔥🤩",
+    "abstract": "1 - Você não precisa ser 100% produtivo(a) todos os dias",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_top-5-dicas-que-eu-gostaria-de-ter-ouvido-activity-6927976485148311552-Xg_y?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_top-5-dicas-que-eu-gostaria-de-ter-ouvido-activity-6927976485148311552-Xg_y?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-05-05"
+  },
+  {
+    "title": "Top 5 experimentos em JavaScript para elevar seu nível técnico e ainda se divertir fazendo 🔥🤩",
+    "abstract": "Uma das coisas mais divertidas em programação, é interagir com o mundo real ",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-tensorflow-nodejs-activity-6927611237899874304-axfz?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-tensorflow-nodejs-activity-6927611237899874304-axfz?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-05-04"
+  },
+  {
+    "title": "Dicas de como QUEBRAR o Node.js em produção? 🤯😱🤣",
+    "abstract": "É isso mesmo! hahaha",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_dicas-de-como-quebrar-o-nodejs-em-produ%C3%A7%C3%A3o-activity-6927248192740679680-Zu8t?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_dicas-de-como-quebrar-o-nodejs-em-produ%C3%A7%C3%A3o-activity-6927248192740679680-Zu8t?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-05-03"
+  },
+    {
+    "title": "Segunda feira é dia de dica de ouro e essa aqui é uma técnica para te ajudar a extrair elementos de um Array (ou qualquer objeto) usando destructuring em JavaScript 🔥🤯",
+    "abstract": "Destructuring é uma forma sensacional de extrair somente o necessário dos objetos, como no exemplo",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-typescript-nodejs-activity-6926894875384643584-JH3D?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-typescript-nodejs-activity-6926894875384643584-JH3D?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-05-02"
+  },
+  {
     "title": "Top 5 assuntos que eu focaria se estivesse aprendendo JavaScript do zero 🧵🔥",
     "abstract": "1 - JavaScript puro, suas estruturas de dados e ciclo de vida",
     "type": "post",

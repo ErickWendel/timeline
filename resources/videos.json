@@ -1,5 +1,50 @@
 [
   {
+    "title": "Everything you should know about Node.js Streams (exclusive Node 18 features included)",
+    "abstract": "Today is the #NodejsStreams day, one of the most important Node.js features that scare devs all over the world.",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/BdePYKgrMh0",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en",
+    "date": "2022-05-24"
+  },
+  {
+    "title": "Node.js in 2022 - Creating and testing a complete Node.js Rest API (WITH NO FRAMEWORKS)",
+    "abstract": "In this video, you're gonna learn how to create a complete Web API using only the Node.js core.",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/xR4D2bp8_S0",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en",
+    "date": "2022-05-13"
+  },
+  {
+    "title": "Triplicando a capacidade de resposta do Node.js + 99.9% de uptime com somente 10 linhas de código",
+    "abstract": "Você vai aprender nesse vídeo uma série de técnicas para turbinar suas aplicações Node.js com poucas alterações",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/50-9uorSYw0",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-05-10"
+  },
+  {
     "title": "O segredo para escalar e atualizar aplicações Node.js a qualquer hora do dia",
     "abstract": "Você vai aprender nesse vídeo uma série de técnicas para ter confiança em atualizar suas aplicações ao meio dia",
     "type": "video",

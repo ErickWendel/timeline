@@ -16,18 +16,18 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Videos**: 2022/April - 2016/September 
-* **Blog Posts**: 2022/April - 2015/February 
-* **Conference Talks**: 2022/April - 2015/January 
+* **Videos**: 2022/May - 2016/September 
+* **Blog Posts**: 2022/June - 2015/February 
+* **Conference Talks**: 2022/May - 2015/January 
 
-#### Presentations' number: 107
+#### Presentations' number: 109
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Videos (87)](#videos)
-- [Blog Posts (257)](#blog-posts)
-- [Conference Talks (107)](#conference-talks)
+- [Videos (90)](#videos)
+- [Blog Posts (266)](#blog-posts)
+- [Conference Talks (109)](#conference-talks)
 
 ## Projects
 
@@ -122,6 +122,42 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/BdePYKgrMh0" target="_blank">2022-05-24 - Everything you should know about Node.js Streams (exclusive Node 18 features included) (en)</a>
+
+
+Abstract:
+
+> Today is the #NodejsStreams day, one of the most important Node.js features that scare devs all over the world.
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/xR4D2bp8_S0" target="_blank">2022-05-13 - Node.js in 2022 - Creating and testing a complete Node.js Rest API (WITH NO FRAMEWORKS) (en)</a>
+
+
+Abstract:
+
+> In this video, you're gonna learn how to create a complete Web API using only the Node.js core.
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/50-9uorSYw0" target="_blank">2022-05-10 - Triplicando a capacidade de resposta do Node.js + 99.9% de uptime com somente 10 linhas de código (pt-br)</a>
+
+
+Abstract:
+
+> Você vai aprender nesse vídeo uma série de técnicas para turbinar suas aplicações Node.js com poucas alterações
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
 
 ### <a href="https://youtu.be/ge31HzWk5T8" target="_blank">2022-04-25 - O segredo para escalar e atualizar aplicações Node.js a qualquer hora do dia (pt-br)</a>
 
@@ -1265,6 +1301,186 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-100daysofcode-streams-activity-6937763760883257344-Y6tk?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-06-01 - is It time to say goodbye to the Stream.Transform and hello to the Stream.Map , Stream.Filter, and Stream.Reduce in Node.js? 🤩🤩🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-100daysofcode-streams-activity-6937763760883257344-Y6tk?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> The Node.js platform is changing and a lot of new functions just came to help us to handle streams as we handle Arrays.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_top-5-tips-to-avoiding-blocking-the-nodejs-activity-6932704253706670080-Bsy5?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-05-18 - Top 5 tips to avoiding blocking the Node.js / JavaScript 🔥🤩 (en)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_top-5-tips-to-avoiding-blocking-the-nodejs-activity-6932704253706670080-Bsy5?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> 1 - Process data on-demand
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-coisa-mais-dif%C3%ADcil-de-codificar-activity-6930870837591822336-h1m0?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-05-13 - Qual é a coisa mais difícil de codificar em software, na sua opinião? 🤯🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-coisa-mais-dif%C3%ADcil-de-codificar-activity-6930870837591822336-h1m0?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Hoje temos um mundo grande de informações e conceitos que supostamente
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_top-5-dicas-para-resolver-problemas-de-lentid%C3%A3o-activity-6930144599441039360-j1wp?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-05-11 - Top 5 dicas para resolver problemas de lentidão em apps Node.js (ou qualquer app) 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_top-5-dicas-para-resolver-problemas-de-lentid%C3%A3o-activity-6930144599441039360-j1wp?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> 1 - Entenda o motivo da lentidão e timeouts
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_e-olha-que-demaaaaaais-mais-uma-super-contribui%C3%A7%C3%A3o-activity-6929422324580413440-A0eD?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-05-09 - E olha que demaaaaaais, mais uma super contribuição entregue no coração do Node.js 🤩🎉🎉 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_e-olha-que-demaaaaaais-mais-uma-super-contribui%C3%A7%C3%A3o-activity-6929422324580413440-A0eD?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Para quem não sabe, há um tempo atrás consegui resolver um bug no Node.js
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_top-5-dicas-que-eu-gostaria-de-ter-ouvido-activity-6927976485148311552-Xg_y?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-05-05 - Top 5 dicas que eu gostaria de ter ouvido quando iniciei em programação 🔥🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_top-5-dicas-que-eu-gostaria-de-ter-ouvido-activity-6927976485148311552-Xg_y?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> 1 - Você não precisa ser 100% produtivo(a) todos os dias
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-tensorflow-nodejs-activity-6927611237899874304-axfz?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-05-04 - Top 5 experimentos em JavaScript para elevar seu nível técnico e ainda se divertir fazendo 🔥🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-tensorflow-nodejs-activity-6927611237899874304-axfz?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Uma das coisas mais divertidas em programação, é interagir com o mundo real 
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_dicas-de-como-quebrar-o-nodejs-em-produ%C3%A7%C3%A3o-activity-6927248192740679680-Zu8t?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-05-03 - Dicas de como QUEBRAR o Node.js em produção? 🤯😱🤣 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_dicas-de-como-quebrar-o-nodejs-em-produ%C3%A7%C3%A3o-activity-6927248192740679680-Zu8t?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> É isso mesmo! hahaha
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-typescript-nodejs-activity-6926894875384643584-JH3D?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-05-02 - Segunda feira é dia de dica de ouro e essa aqui é uma técnica para te ajudar a extrair elementos de um Array (ou qualquer objeto) usando destructuring em JavaScript 🔥🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-typescript-nodejs-activity-6926894875384643584-JH3D?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Destructuring é uma forma sensacional de extrair somente o necessário dos objetos, como no exemplo
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_100daysofcode-javascript-nodejs-activity-6922901028589694976-yaFm?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-04-21 - Top 5 assuntos que eu focaria se estivesse aprendendo JavaScript do zero 🧵🔥 (pt-br)</a>
 
@@ -6057,6 +6273,48 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2022-05-29 - Deep dive into Node.js Streams (en-us)
+
+
+<a href="https://greece.cityjsconf.org/speaker/40SIDUGz4y2ukJ8e6V2bC7" target="_blank">CityJS World series</a>
+
+
+  
+
+
+Abstract:
+
+> Node.js was built to solve a specific problem to handle on-demand processing
+> 
+> 
+
+
+_Tags: `iot`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=37.992767,23.79597" target="_blank">Athens - GR, Greece</a>.
+
+### 2022-04-29 - How I've been using JavaScript to automate my house (en-us)
+
+
+<a href="https://cityjsconf.org/" target="_blank">CityJS World series</a>
+
+
+  <a href="https://youtu.be/CtQTlvWZYts" target="_blank">video</a>
+
+
+Abstract:
+
+> Software Programming is naturally fun but making something physical, ti interact with the world thats you live in, is like magic
+> 
+> 
+
+
+_Tags: `iot`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5966179,-46.6890048" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2022-04-09 - A vida e as aventuras de desenvolvedor de software (en-us)
 
