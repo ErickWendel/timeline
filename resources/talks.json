@@ -14,9 +14,9 @@
     "location": {
         "latitude": 52.3738,
         "longitude": 4.89093,
-        "country": "Netherland",
+        "country": "Netherlands",
         "uf": "NED",
-        "city": "Amsterdan"
+        "city": "Amsterdam"
         },
         "additionalLinks": [""],
         "language": "en-us",
@@ -37,7 +37,7 @@
     "location": {
         "latitude": 30.267222,
         "longitude": -97.743056,
-        "country": "EUA",
+        "country": "United States",
         "uf": "AUS",
         "city": "Austin"
         },

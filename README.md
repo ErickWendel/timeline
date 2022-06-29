@@ -6293,7 +6293,7 @@ Abstract:
 _Tags: `iot`, `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=52.3738,4.89093" target="_blank">Amsterdan - NED, Netherland</a>.
+Location: <a href="https://www.google.com/maps/?q=52.3738,4.89093" target="_blank">Amsterdam - NED, Netherlands</a>.
 
 ### 2022-06-08 - How I Fixed a Bug in the Node.js Core that Affected Thousands of Packages (en-us)
 
@@ -6314,7 +6314,7 @@ Abstract:
 _Tags: `nodejs`, `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=30.267222,-97.743056" target="_blank">Austin - AUS, EUA</a>.
+Location: <a href="https://www.google.com/maps/?q=30.267222,-97.743056" target="_blank">Austin - AUS, United States</a>.
 
 ### 2022-05-29 - Deep dive into Node.js Streams (en-us)
 
