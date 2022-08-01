@@ -1,5 +1,65 @@
 [
   {
+    "title": "Building a Complete WebSocket App From Scratch with JavaScript (with no libraries) - Crash Course",
+    "abstract": "Today you're gonna implement the Web Socket protocol from scratch using only Node.js and JavaScript.",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/qFoFKLI3O8w",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2022-07-25"
+  },
+  {
+    "title": "Como a Hotmart usa Node.js para suportar milhões de acessos durante os maiores lançamentos do Brasil",
+    "abstract": "Venha conhecer um como uma das maiores e mais populares plataformas de conteúdo do Brasil funciona na prática.",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/j8eSkRwoIZI",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-07-21"
+  },
+  {
+    "title": "5 Tips I Wish Someone Had Told Me When I Started Programmingples",
+    "abstract": "Today I'll share my personal thoughts, how I learn something new and how I try to keep my mind out of problems by listening to the right people.",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/okL1VmO8yDE",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2022-07-18"
+  },
+  {
+    "title": "Learn JavaScript Generators in practice - processing data on-demand with real-world examples",
+    "abstract": "JavaScript generators, made to help you process large amounts of data, gigabytes, terabytes? you choose.",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/watch?v=edaYw9UhQ0M",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2022-07-11"
+  },
+  {
     "title": "Everything you should know about Node.js Streams (exclusive Node 18 features included)",
     "abstract": "Today is the #NodejsStreams day, one of the most important Node.js features that scare devs all over the world.",
     "type": "video",
@@ -11,7 +71,7 @@
       "Node.js",
       "Javascript"
     ],
-    "language": "en",
+    "language": "en-us",
     "date": "2022-05-24"
   },
   {
@@ -26,7 +86,7 @@
       "Node.js",
       "Javascript"
     ],
-    "language": "en",
+    "language": "en-us",
     "date": "2022-05-13"
   },
   {

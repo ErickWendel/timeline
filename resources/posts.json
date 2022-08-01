@@ -1,5 +1,131 @@
 [
   {
+    "title": "No frameworks, no libs, let's build everything from scratch 😳🤯",
+    "abstract": "You may have noticed how I like to rebuild things from scratch, to learn how the packages work behind the scenes",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_no-frameworks-no-libs-lets-build-everything-activity-6955511987883626496-_wvs?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_no-frameworks-no-libs-lets-build-everything-activity-6955511987883626496-_wvs?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2022-07-20"
+  },
+  {
+    "title": "Top 5 new features on the Node.js project you may not know about yet 🔥",
+    "abstract": "In v17.5.0, the browser-compatible Fetch API came to the Node.js project to help you consume other APIs.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-activity-6953693534386331648-9Go0?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-activity-6953693534386331648-9Go0?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2022-07-16"
+  },
+  {
+    "title": "Como resolvi um bug no Node.js que afetou milhares de pacotes mundialmente",
+    "abstract": "A jornada sobre como corrigi um bug no núcleo do Node.js que afetou milhares de pacotes",
+    "type": "post",
+    "link": "https://conteudo.frontinsampa.com.br/sampa",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://conteudo.frontinsampa.com.br/sampa",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-07-15"
+  },
+  {
+    "title": "Woowww Node.js Streams has now Streams operators and look how much code I've saved on this example 🤯🔥",
+    "abstract": "The Node.js contributors have been adding functions to extend the behavior of the most powerful Node.js feature and I can't describe how amazing it is for me.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-streams-newfeatures-activity-6951192024926539776-ZoNI?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-streams-newfeatures-activity-6951192024926539776-ZoNI?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2022-07-08"
+  },
+  {
+    "title": "wooowwwww, I know that you've always wanted to compare objects in JS as `obj === obj` so I brought good news for you 🤩🔥",
+    "abstract": "I don't know about you but I'm really excited about this feature, let me show you how it works 🔥",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_tc39-javascript-proposals-activity-6950437589937963008-yjMR?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_tc39-javascript-proposals-activity-6950437589937963008-yjMR?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2022-07-06"
+  },
+  {
+    "title": "How to count how many calls a JS function had and its arguments using the Proxy object (+new functionality coming into the Node.js core) 🤩🤯🔥",
+    "abstract": "The proxy object is an amazing feature used to watch/intercept the default behavior of JavaScript functions, objects and etc.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_js-nodejs-100aysofcode-activity-6939565280717066240-MhkQ?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_js-nodejs-100aysofcode-activity-6939565280717066240-MhkQ?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2022-06-06"
+  },
+    {
+    "title": "In your opinion, what's the best approach for error handling: let the app crash",
+    "abstract": "and handle it from an app orchestrator (eg. Kubernetes) or to put a global error handler so it'd never crash? 🤯😬",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_in-your-opinion-whats-the-best-approach-activity-6938098756605091840-X1Fu?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_in-your-opinion-whats-the-best-approach-activity-6938098756605091840-X1Fu?utm_source=linkedin_share&utm_medium=member_desktop_web",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2022-06-02"
+  },
+  {
     "title": "is It time to say goodbye to the Stream.Transform and hello to the Stream.Map , Stream.Filter, and Stream.Reduce in Node.js? 🤩🤩🔥",
     "abstract": "The Node.js platform is changing and a lot of new functions just came to help us to handle streams as we handle Arrays.",
     "type": "post",
@@ -14,7 +140,7 @@
     "tags": [
       "linkedinPost"
     ],
-    "language": "pt-br",
+    "language": "en-us",
     "date": "2022-06-01"
   },
   {
@@ -32,7 +158,7 @@
     "tags": [
       "linkedinPost"
     ],
-    "language": "en",
+    "language": "en-us",
     "date": "2022-05-18"
   },
     {
