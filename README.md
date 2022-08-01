@@ -16,18 +16,18 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Videos**: 2022/May - 2016/September 
-* **Blog Posts**: 2022/June - 2015/February 
-* **Conference Talks**: 2022/June - 2015/January 
+* **Videos**: 2022/July - 2016/September 
+* **Blog Posts**: 2022/July - 2015/February 
+* **Conference Talks**: 2022/July - 2015/January 
 
-#### Presentations' number: 111
+#### Presentations' number: 113
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Videos (90)](#videos)
-- [Blog Posts (266)](#blog-posts)
-- [Conference Talks (111)](#conference-talks)
+- [Videos (94)](#videos)
+- [Blog Posts (273)](#blog-posts)
+- [Conference Talks (113)](#conference-talks)
 
 ## Projects
 
@@ -123,7 +123,55 @@ _Tags: `translation`, `javascript`_
 
 ## Videos
 
-### <a href="https://youtu.be/BdePYKgrMh0" target="_blank">2022-05-24 - Everything you should know about Node.js Streams (exclusive Node 18 features included) (en)</a>
+### <a href="https://youtu.be/qFoFKLI3O8w" target="_blank">2022-07-25 - Building a Complete WebSocket App From Scratch with JavaScript (with no libraries) - Crash Course (en-us)</a>
+
+
+Abstract:
+
+> Today you're gonna implement the Web Socket protocol from scratch using only Node.js and JavaScript.
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/j8eSkRwoIZI" target="_blank">2022-07-21 - Como a Hotmart usa Node.js para suportar milhões de acessos durante os maiores lançamentos do Brasil (pt-br)</a>
+
+
+Abstract:
+
+> Venha conhecer um como uma das maiores e mais populares plataformas de conteúdo do Brasil funciona na prática.
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/okL1VmO8yDE" target="_blank">2022-07-18 - 5 Tips I Wish Someone Had Told Me When I Started Programmingples (en-us)</a>
+
+
+Abstract:
+
+> Today I'll share my personal thoughts, how I learn something new and how I try to keep my mind out of problems by listening to the right people.
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://www.youtube.com/watch?v=edaYw9UhQ0M" target="_blank">2022-07-11 - Learn JavaScript Generators in practice - processing data on-demand with real-world examples (en-us)</a>
+
+
+Abstract:
+
+> JavaScript generators, made to help you process large amounts of data, gigabytes, terabytes? you choose.
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/BdePYKgrMh0" target="_blank">2022-05-24 - Everything you should know about Node.js Streams (exclusive Node 18 features included) (en-us)</a>
 
 
 Abstract:
@@ -135,7 +183,7 @@ Abstract:
 
 _Tags: `Node.js`, `Javascript`_
 
-### <a href="https://youtu.be/xR4D2bp8_S0" target="_blank">2022-05-13 - Node.js in 2022 - Creating and testing a complete Node.js Rest API (WITH NO FRAMEWORKS) (en)</a>
+### <a href="https://youtu.be/xR4D2bp8_S0" target="_blank">2022-05-13 - Node.js in 2022 - Creating and testing a complete Node.js Rest API (WITH NO FRAMEWORKS) (en-us)</a>
 
 
 Abstract:
@@ -1302,7 +1350,147 @@ _Tags: `wear`, `android`, `node.js`_
 
 ## Blog Posts
 
-### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-100daysofcode-streams-activity-6937763760883257344-Y6tk?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-06-01 - is It time to say goodbye to the Stream.Transform and hello to the Stream.Map , Stream.Filter, and Stream.Reduce in Node.js? 🤩🤩🔥 (pt-br)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_no-frameworks-no-libs-lets-build-everything-activity-6955511987883626496-_wvs?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-07-20 - No frameworks, no libs, let's build everything from scratch 😳🤯 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_no-frameworks-no-libs-lets-build-everything-activity-6955511987883626496-_wvs?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> You may have noticed how I like to rebuild things from scratch, to learn how the packages work behind the scenes
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-activity-6953693534386331648-9Go0?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-07-16 - Top 5 new features on the Node.js project you may not know about yet 🔥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-activity-6953693534386331648-9Go0?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> In v17.5.0, the browser-compatible Fetch API came to the Node.js project to help you consume other APIs.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://conteudo.frontinsampa.com.br/sampa" target="_blank">2022-07-15 - Como resolvi um bug no Node.js que afetou milhares de pacotes mundialmente (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://conteudo.frontinsampa.com.br/sampa" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> A jornada sobre como corrigi um bug no núcleo do Node.js que afetou milhares de pacotes
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-streams-newfeatures-activity-6951192024926539776-ZoNI?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-07-08 - Woowww Node.js Streams has now Streams operators and look how much code I've saved on this example 🤯🔥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-streams-newfeatures-activity-6951192024926539776-ZoNI?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> The Node.js contributors have been adding functions to extend the behavior of the most powerful Node.js feature and I can't describe how amazing it is for me.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_tc39-javascript-proposals-activity-6950437589937963008-yjMR?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-07-06 - wooowwwww, I know that you've always wanted to compare objects in JS as `obj === obj` so I brought good news for you 🤩🔥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_tc39-javascript-proposals-activity-6950437589937963008-yjMR?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> I don't know about you but I'm really excited about this feature, let me show you how it works 🔥
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_js-nodejs-100aysofcode-activity-6939565280717066240-MhkQ?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-06-06 - How to count how many calls a JS function had and its arguments using the Proxy object (+new functionality coming into the Node.js core) 🤩🤯🔥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_js-nodejs-100aysofcode-activity-6939565280717066240-MhkQ?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> The proxy object is an amazing feature used to watch/intercept the default behavior of JavaScript functions, objects and etc.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_in-your-opinion-whats-the-best-approach-activity-6938098756605091840-X1Fu?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-06-02 - In your opinion, what's the best approach for error handling: let the app crash (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_in-your-opinion-whats-the-best-approach-activity-6938098756605091840-X1Fu?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> and handle it from an app orchestrator (eg. Kubernetes) or to put a global error handler so it'd never crash? 🤯😬
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-100daysofcode-streams-activity-6937763760883257344-Y6tk?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-06-01 - is It time to say goodbye to the Stream.Transform and hello to the Stream.Map , Stream.Filter, and Stream.Reduce in Node.js? 🤩🤩🔥 (en-us)</a>
 
 
 Portal:
@@ -1322,7 +1510,7 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_top-5-tips-to-avoiding-blocking-the-nodejs-activity-6932704253706670080-Bsy5?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-05-18 - Top 5 tips to avoiding blocking the Node.js / JavaScript 🔥🤩 (en)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_top-5-tips-to-avoiding-blocking-the-nodejs-activity-6932704253706670080-Bsy5?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-05-18 - Top 5 tips to avoiding blocking the Node.js / JavaScript 🔥🤩 (en-us)</a>
 
 
 Portal:
@@ -6273,6 +6461,48 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2022-07-16 - Como resolvi um bug no Node.js que afetou milhares de pacotes mundialmente (pt-br)
+
+
+<a href="https://conteudo.frontinsampa.com.br/sampa" target="_blank">Frontin Sampa</a>
+
+
+  
+
+
+Abstract:
+
+> A jornada sobre como corrigi um bug no núcleo do Node.js que afetou milhares de pacotes
+> 
+> 
+
+
+_Tags: `iot`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5966179,-46.6890048" target="_blank">São Paulo - SP, Brazil</a>.
+
+### 2022-06-29 - How I Fixed a Bug in the Node.js Core that Affected Thousands of Packages (en-us)
+
+
+<a href="https://www.nodetlv.com/" target="_blank">Node.TLV</a>
+
+
+  
+
+
+Abstract:
+
+> Working on the Node.js core could be an exciting task and many developers want to contribute
+> 
+> 
+
+
+_Tags: `nodejs`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=32.166313,34.843311" target="_blank">Tel Aviv - IL, Israel</a>.
 
 ### 2022-06-16 - How I've been using JavaScript to automate my house (en-us)
 

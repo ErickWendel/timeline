@@ -1,5 +1,51 @@
 [
   {
+    "title": "Como resolvi um bug no Node.js que afetou milhares de pacotes mundialmente",
+    "abstract": "A jornada sobre como corrigi um bug no núcleo do Node.js que afetou milhares de pacotes",
+    "type": "talk",
+    "event": {
+        "link": "https://conteudo.frontinsampa.com.br/sampa",
+        "name": "Frontin Sampa"
+    },
+    "slides": "https://www.icloud.com/keynote/030o6u1lhZWuB80MSfUdFio1A#The_Journey_About_How_I_Fixed_a_Bug_in_the_Node.js_Core_that_Affected_Thousands_of_Packages_-_frontinsampa_-_16072022",
+    "photos": "",
+    "video": "",
+    "tags": ["iot","javascript"],
+    "location": {
+      "latitude": -23.5966179,
+      "longitude": -46.6890048,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2022-07-16"
+  },
+  {
+      "title": "How I Fixed a Bug in the Node.js Core that Affected Thousands of Packages",
+      "abstract": "Working on the Node.js core could be an exciting task and many developers want to contribute",
+      "type": "talk",
+      "event": {
+          "link": "https://www.nodetlv.com/",
+          "name": "Node.TLV"
+      },
+      "slides": "https://www.icloud.com/keynote/081FgwiIxwZEhBo9TjZSK0qUQ#The_Journey_About_How_I_Fixed_a_Bug_in_the_Node.js_Core_that_Affected_Thousands_of_Packages_-_nodetlv_-_28062022",
+      "photos": "",
+      "video": "",
+      "tags": ["nodejs","javascript"],
+      "location": {
+          "latitude": 32.166313,
+          "longitude": 34.843311,
+          "country": "Israel",
+          "uf": "IL",
+          "city": "Tel Aviv"
+          },
+          "additionalLinks": [""],
+          "language": "en-us",
+          "date": "2022-06-29"
+  },
+  {
     "title": "How I've been using JavaScript to automate my house",
     "abstract": "Software Programming is naturally fun but making something physical, ti interact with the world thats you live in, is like magic",
     "type": "talk",
