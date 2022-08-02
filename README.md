@@ -119,17 +119,10 @@ Abstract:
 
 
 _Tags: `translation`, `javascript`_
-<<<<<<< HEAD
 
 
 ## Videos
 
-=======
-
-
-## Videos
-
->>>>>>> master
 ### <a href="https://youtu.be/qFoFKLI3O8w" target="_blank">2022-07-25 - Building a Complete WebSocket App From Scratch with JavaScript (with no libraries) - Crash Course (en-us)</a>
 
 
@@ -1353,17 +1346,10 @@ Abstract:
 
 
 _Tags: `wear`, `android`, `node.js`_
-<<<<<<< HEAD
 
 
 ## Blog Posts
 
-=======
-
-
-## Blog Posts
-
->>>>>>> master
 ### <a href="https://www.linkedin.com/posts/erickwendel_no-frameworks-no-libs-lets-build-everything-activity-6955511987883626496-_wvs?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-07-20 - No frameworks, no libs, let's build everything from scratch 😳🤯 (en-us)</a>
 
 
@@ -6472,17 +6458,10 @@ Abstract:
 
 
 _Tags: `aspnet`, `c#`, `jquery`_
-<<<<<<< HEAD
 
 
 ## Conference Talks
 
-=======
-
-
-## Conference Talks
-
->>>>>>> master
 ### 2022-07-16 - Como resolvi um bug no Node.js que afetou milhares de pacotes mundialmente (pt-br)
 
 
