@@ -1690,12 +1690,12 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="" target="_blank">2022-04-20 - E olha que demaaaaaaaaais, saiu a nova versão do Node.js e com ela vieram MUITAS features sensacionais 🤯 (pt-br)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-testing-activity-6922527860402331651-2Qci?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-04-20 - E olha que demaaaaaaaaais, saiu a nova versão do Node.js e com ela vieram MUITAS features sensacionais 🤯 (pt-br)</a>
 
 
 Portal:
 
-> <a href="" target="_blank">Linkedin Post</a>
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-testing-activity-6922527860402331651-2Qci?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin Post</a>
 
 
 Abstract:
@@ -2832,6 +2832,23 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
+### <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-quisesse-rodar-machine-learning-activity-6823602092658192384-BxSn" target="_blank">2021-07-21 - E se você quisesse rodar Machine Learning direto do browser do cliente com JavaScript? 😱🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-quisesse-rodar-machine-learning-activity-6823602092658192384-BxSn" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> 
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
 ### <a href="https://www.linkedin.com/posts/erickwendel_o-que-eu-faria-se-hoje-precisasse-criar-uma-activity-6821074364235038721-JZBE" target="_blank">2021-07-14 - O que eu faria se hoje precisasse criar uma Web API 🤯 (pt-br)</a>
 
 
@@ -2894,23 +2911,6 @@ Portal:
 Abstract:
 
 > Já rodou aquele rm -rf por engano em uma pasta errada e perdeu todos os arquivos?
-> 
-> 
-
-
-_Tags: `linkedinPost`_
-
-### <a href="" target="_blank">2021-07-&& - E se você quisesse rodar Machine Learning direto do browser do cliente com JavaScript? 😱🤯 (pt-br)</a>
-
-
-Portal:
-
-> <a href="" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> 
 > 
 > 
 
@@ -3675,12 +3675,12 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="" target="_blank">2021-02-19 - Criando interfaces ricas no terminal usando Node.js com terminal-kit 🔥 (pt-br)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_criando-interfaces-ricas-no-terminal-usando-activity-6768495796703793152-NvjT" target="_blank">2021-02-19 - Criando interfaces ricas no terminal usando Node.js com terminal-kit 🔥 (pt-br)</a>
 
 
 Portal:
 
-> <a href="" target="_blank">Linkedin Post</a>
+> <a href="https://www.linkedin.com/posts/erickwendel_criando-interfaces-ricas-no-terminal-usando-activity-6768495796703793152-NvjT" target="_blank">Linkedin Post</a>
 
 
 Abstract:
@@ -3709,12 +3709,12 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="" target="_blank">2021-02-17 - Como testar um CRUD e alcançar 100% de cobertura de código em testes? 🔥 (pt-br)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_como-testar-um-crud-e-alcan%C3%A7ar-100-de-cobertura-activity-6767766877172191232--doD" target="_blank">2021-02-17 - Como testar um CRUD e alcançar 100% de cobertura de código em testes? 🔥 (pt-br)</a>
 
 
 Portal:
 
-> <a href="" target="_blank">Linkedin Post</a>
+> <a href="https://www.linkedin.com/posts/erickwendel_como-testar-um-crud-e-alcan%C3%A7ar-100-de-cobertura-activity-6767766877172191232--doD" target="_blank">Linkedin Post</a>
 
 
 Abstract:

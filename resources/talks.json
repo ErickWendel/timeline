@@ -21,8 +21,8 @@
         "additionalLinks": [""],
         "language": "pt-br",
         "date": "2022-07-16"
-  },
-  {
+    },
+    {
       "title": "How I Fixed a Bug in the Node.js Core that Affected Thousands of Packages",
       "abstract": "Working on the Node.js core could be an exciting task and many developers want to contribute",
       "type": "talk",
@@ -44,7 +44,7 @@
           "additionalLinks": [""],
           "language": "en-us",
           "date": "2022-06-29"
-  },
+      },
   {
     "title": "How I've been using JavaScript to automate my house",
     "abstract": "Software Programming is naturally fun but making something physical, ti interact with the world thats you live in, is like magic",
