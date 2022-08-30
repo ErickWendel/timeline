@@ -1,5 +1,113 @@
 [
   {
+    "title": "wowwwww did you know that you can access the first ever Node.js version on GitHub and explore its timeline by just browsing the git history? 😬🔥",
+    "abstract": "It was early 2009 when Node.js got its first commit from its maker, Ryan Dahl",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-v8-activity-6968927365309575168-Tqyo?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-v8-activity-6968927365309575168-Tqyo?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2022-08-26"
+  },
+  {
+    "title": "wowwww look at those new functions meant to help us consume Node.js Streams as JSON, text, blob, and much more! 😱🎉",
+    "abstract": "The Node.js project is on fire! Every day we see new functions, new shortcuts, and design improvements.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_tips-nodejs-streams-activity-6968177483120586752-9N9n?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_tips-nodejs-streams-activity-6968177483120586752-9N9n?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2022-08-24"
+  },
+  {
+    "title": "Fiiiiiiinaly we have a native solution to catch CLI arguments in Node.js🔥😱",
+    "abstract": "There was a long discussion on how many existing npm packages were made to parse CLI args",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_fiiiiiiinaly-we-have-a-native-solution-to-activity-6967823827447767040-4FND?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_fiiiiiiinaly-we-have-a-native-solution-to-activity-6967823827447767040-4FND?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2022-08-23"
+  },
+  {
+    "title": "What would I do if I would have to start learning programming from absolute zero 🔥",
+    "abstract": "This week a friend came out with a question about what steps should he do to start learning programming from scratch",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_programming-learning-experience-activity-6965648561564725248-jTko?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_programming-learning-experience-activity-6965648561564725248-jTko?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2022-08-17"
+  },
+  {
+    "title": "wow JavaScript is on 🔥with a lot of new functions in progress for Arrays 🤯😬",
+    "abstract": "Welcome Immutability, Grouping, and Async helpers ❤️",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-tc39-educators-activity-6960970403133419520-TPCU?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-tc39-educators-activity-6960970403133419520-TPCU?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2022-08-04"
+  },
+  {
+    "title": "When a RegExp could be the best option? 🤯🔥",
+    "abstract": "In Brazilian-Portuguese we have an expression like 'if you have a problem and you fix it using Regular Expressions, now you have two problems...'",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_regularexpressions-regex-100daysofcode-activity-6960582138492542976-dp5O?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_regularexpressions-regex-100daysofcode-activity-6960582138492542976-dp5O?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2022-08-03"
+  },
+  {
     "title": "No frameworks, no libs, let's build everything from scratch 😳🤯",
     "abstract": "You may have noticed how I like to rebuild things from scratch, to learn how the packages work behind the scenes",
     "type": "post",

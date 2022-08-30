@@ -1,5 +1,64 @@
 [
   {
+    "title": "Creating a Performance Monitor using JavaScript Decorators",
+    "abstract": "Today you're gonna build a complete application to monitor Web APIs performance using the JS Decorators proposal with no frameworks.",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/CS03W_YSdJc",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2022-08-29"
+  },
+  {
+    "title": "What I've learned after giving over 100 talks around the world 🤯😱",
+    "abstract": "Today you'll know how I started, how teaching helped me to become a dev specialist, struggles",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/vMTThYRu7mU",
+    "tags": [
+      "PublicSpeaking"
+    ],
+    "language": "en-us",
+    "date": "2022-08-22"
+  },
+  {
+    "title": "ECMAScript 2023 - TOP 5 NEW FEATURES FOR JAVASCRIPT ARRAYS",
+    "abstract": "In this video, you'll learn in practice the new set of functions for JavaScript Arrays",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/Kga1Rf39x2U",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2022-08-15"
+  },
+  {
+    "title": "The JSON API as you know will change soon. Here's Why | ECMAScript2023",
+    "abstract": "JSON.parse  and JSON.stringify are changing and as they change our life as developers become easier.",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/AZ3SYoqwfnU",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2022-08-08"
+  },
+  {
     "title": "Building a Complete WebSocket App From Scratch with JavaScript (with no libraries) - Crash Course",
     "abstract": "Today you're gonna implement the Web Socket protocol from scratch using only Node.js and JavaScript.",
     "type": "video",
