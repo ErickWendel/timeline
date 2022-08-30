@@ -16,8 +16,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Videos**: 2022/August - 2016/September 
-* **Blog Posts**: 2022/August - 2015/February 
+* **Videos**: 2022/July - 2016/September 
+* **Blog Posts**: 2022/July - 2015/February 
 * **Conference Talks**: 2022/July - 2015/January 
 
 #### Presentations' number: 113
@@ -25,8 +25,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Videos (98)](#videos)
-- [Blog Posts (279)](#blog-posts)
+- [Videos (94)](#videos)
+- [Blog Posts (273)](#blog-posts)
 - [Conference Talks (113)](#conference-talks)
 
 ## Projects
@@ -122,54 +122,6 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
-
-### <a href="https://youtu.be/CS03W_YSdJc" target="_blank">2022-08-29 - Creating a Performance Monitor using JavaScript Decorators (en-us)</a>
-
-
-Abstract:
-
-> Today you're gonna build a complete application to monitor Web APIs performance using the JS Decorators proposal with no frameworks.
-> 
-> 
-
-
-_Tags: `Node.js`, `Javascript`_
-
-### <a href="https://youtu.be/vMTThYRu7mU" target="_blank">2022-08-22 - What I've learned after giving over 100 talks around the world 🤯😱 (en-us)</a>
-
-
-Abstract:
-
-> Today you'll know how I started, how teaching helped me to become a dev specialist, struggles
-> 
-> 
-
-
-_Tags: `PublicSpeaking`_
-
-### <a href="https://youtu.be/Kga1Rf39x2U" target="_blank">2022-08-15 - ECMAScript 2023 - TOP 5 NEW FEATURES FOR JAVASCRIPT ARRAYS (en-us)</a>
-
-
-Abstract:
-
-> In this video, you'll learn in practice the new set of functions for JavaScript Arrays
-> 
-> 
-
-
-_Tags: `Node.js`, `Javascript`_
-
-### <a href="https://youtu.be/AZ3SYoqwfnU" target="_blank">2022-08-08 - The JSON API as you know will change soon. Here's Why | ECMAScript2023 (en-us)</a>
-
-
-Abstract:
-
-> JSON.parse  and JSON.stringify are changing and as they change our life as developers become easier.
-> 
-> 
-
-
-_Tags: `Node.js`, `Javascript`_
 
 ### <a href="https://youtu.be/qFoFKLI3O8w" target="_blank">2022-07-25 - Building a Complete WebSocket App From Scratch with JavaScript (with no libraries) - Crash Course (en-us)</a>
 
@@ -1397,126 +1349,6 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
-
-### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-v8-activity-6968927365309575168-Tqyo?utm_source=share&utm_medium=member_desktop" target="_blank">2022-08-26 - wowwwww did you know that you can access the first ever Node.js version on GitHub and explore its timeline by just browsing the git history? 😬🔥 (en-us)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-v8-activity-6968927365309575168-Tqyo?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> It was early 2009 when Node.js got its first commit from its maker, Ryan Dahl
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
-### <a href="https://www.linkedin.com/posts/erickwendel_tips-nodejs-streams-activity-6968177483120586752-9N9n?utm_source=share&utm_medium=member_desktop" target="_blank">2022-08-24 - wowwww look at those new functions meant to help us consume Node.js Streams as JSON, text, blob, and much more! 😱🎉 (en-us)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_tips-nodejs-streams-activity-6968177483120586752-9N9n?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> The Node.js project is on fire! Every day we see new functions, new shortcuts, and design improvements.
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
-### <a href="https://www.linkedin.com/posts/erickwendel_fiiiiiiinaly-we-have-a-native-solution-to-activity-6967823827447767040-4FND?utm_source=share&utm_medium=member_desktop" target="_blank">2022-08-23 - Fiiiiiiinaly we have a native solution to catch CLI arguments in Node.js🔥😱 (en-us)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_fiiiiiiinaly-we-have-a-native-solution-to-activity-6967823827447767040-4FND?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> There was a long discussion on how many existing npm packages were made to parse CLI args
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
-### <a href="https://www.linkedin.com/posts/erickwendel_programming-learning-experience-activity-6965648561564725248-jTko?utm_source=share&utm_medium=member_desktop" target="_blank">2022-08-17 - What would I do if I would have to start learning programming from absolute zero 🔥 (en-us)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_programming-learning-experience-activity-6965648561564725248-jTko?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> This week a friend came out with a question about what steps should he do to start learning programming from scratch
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-tc39-educators-activity-6960970403133419520-TPCU?utm_source=share&utm_medium=member_desktop" target="_blank">2022-08-04 - wow JavaScript is on 🔥with a lot of new functions in progress for Arrays 🤯😬 (en-us)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_javascript-tc39-educators-activity-6960970403133419520-TPCU?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Welcome Immutability, Grouping, and Async helpers ❤️
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
-### <a href="https://www.linkedin.com/posts/erickwendel_regularexpressions-regex-100daysofcode-activity-6960582138492542976-dp5O?utm_source=share&utm_medium=member_desktop" target="_blank">2022-08-03 - When a RegExp could be the best option? 🤯🔥 (en-us)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_regularexpressions-regex-100daysofcode-activity-6960582138492542976-dp5O?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> In Brazilian-Portuguese we have an expression like 'if you have a problem and you fix it using Regular Expressions, now you have two problems...'
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_no-frameworks-no-libs-lets-build-everything-activity-6955511987883626496-_wvs?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-07-20 - No frameworks, no libs, let's build everything from scratch 😳🤯 (en-us)</a>
 
