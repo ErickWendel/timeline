@@ -1,7 +1,7 @@
 [
     {
     "title": "Node.js is multithreaded and you can create a powerful thread pool with this fantastic tool. Here's how 🧵",
-    "abstract": "vazio",
+    "abstract": "Essentially, the only part that is single-threaded in Node.js is the evaluation of JS code in the V8 engine.",
     "type": "post",
     "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-multithreading-activity-6978339191055110144-AZL4?utm_source=share&utm_medium=member_desktop",
     "additionalLinks": [
