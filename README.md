@@ -18,16 +18,16 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Projects**: 2018/November - 2015/July 
 * **Videos**: 2022/October - 2016/September 
 * **Blog Posts**: 2022/October - 2015/February 
-* **Conference Talks**: 2022/July - 2015/January 
+* **Conference Talks**: 2022/September - 2015/January 
 
-#### Presentations' number: 113
+#### Presentations' number: 114
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
 - [Videos (104)](#videos)
 - [Blog Posts (287)](#blog-posts)
-- [Conference Talks (113)](#conference-talks)
+- [Conference Talks (114)](#conference-talks)
 
 ## Projects
 
@@ -6861,6 +6861,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2022-09-17 - The Journey About How I Fixed a Bug in the Node.js Core That Affected Thousands of Packages (en-us)
+
+
+<a href="https://2022.jsconf.kr/en/speakers/erick-wendel" target="_blank">JS Conf Korea</a>
+
+
+  
+
+
+Abstract:
+
+> In this talk, I'll dig into the process from opening and discussing an issue, to implementing a new feature on the Node.js core. 
+> 
+> 
+
+
+_Tags: `nodejs`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=35.5112404,124.521065" target="_blank">Seoul - KR, South Korea</a>.
 
 ### 2022-07-16 - Como resolvi um bug no Node.js que afetou milhares de pacotes mundialmente (pt-br)
 
