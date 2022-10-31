@@ -1,4 +1,112 @@
 [
+  {
+    "title": "How to improve JavaScript performance while processing big collections using the Builder design pattern 🤯🤩",
+    "abstract": "The best thing you can do in JavaScript to process massive data collections in memory is to handle them on demand.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-designpatterns-100daysofcode-activity-6991405584075886592-a4le?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-designpatterns-100daysofcode-activity-6991405584075886592-a4le?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2022-10-28"
+  },
+  {
+    "title": "Today is a day for a golden tip! How to know why a Node.js process is still running 🔥🫢",
+    "abstract": "Have you had to force a Node.js process to stop using `process.exit()` because it simply wasn't stopping by itself after finishing processing?",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-devtips-100daysofcode-activity-6990304730199568385-6Dhd?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-devtips-100daysofcode-activity-6990304730199568385-6Dhd?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2022-10-24"
+  },
+  {
+    "title": "Will Node.js replace JavaScript with TypeScript? 🤯😱",
+    "abstract": "As much as many people want this to happen the answer is no 😬",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-typescript-news-activity-6989222807263932416-Ev9X?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-typescript-news-activity-6989222807263932416-Ev9X?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2022-10-21"
+  },
+  {
+    "title": "Top 5 things you can do to improve JS Performance (+secrets) 🔥",
+    "abstract": "1 - Inspect the hottest paths in your app",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-performance-devtips-activity-6986321878344720384-QBOY?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-performance-devtips-activity-6986321878344720384-QBOY?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2022-10-13"
+  },
+  {
+    "title": "Solving the problem of reading files with End of Lines (EOL) into different operating systems 🤩",
+    "abstract": "I recorded a class where I teach how to use Mocks, Spies, and Stubs for testing JavaScript applications.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-devtip-nodejs-activity-6985984600627900416-TEmF?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-devtip-nodejs-activity-6985984600627900416-TEmF?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2022-10-12"
+  },
+  {
+    "title": "Did you know that neither console.log, setTimeout nor setInterval are part of the JavaScript language? 🤯😬",
+    "abstract": "Yes, my friend, probably the most common functions that you may use every day are not part of the JavaScript Specification (ECMAScript) 😱",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-devtips-nodejs-activity-6983772395459239936-NVJ6?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-devtips-nodejs-activity-6983772395459239936-NVJ6?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2022-10-06"
+  },
     {
     "title": "Node.js is multithreaded and you can create a powerful thread pool with this fantastic tool. Here's how 🧵",
     "abstract": "Essentially, the only part that is single-threaded in Node.js is the evaluation of JS code in the V8 engine.",

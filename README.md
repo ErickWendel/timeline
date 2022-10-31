@@ -16,8 +16,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Videos**: 2022/September - 2016/September 
-* **Blog Posts**: 2022/September - 2015/February 
+* **Videos**: 2022/October - 2016/September 
+* **Blog Posts**: 2022/October - 2015/February 
 * **Conference Talks**: 2022/July - 2015/January 
 
 #### Presentations' number: 113
@@ -25,8 +25,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Videos (102)](#videos)
-- [Blog Posts (281)](#blog-posts)
+- [Videos (104)](#videos)
+- [Blog Posts (287)](#blog-posts)
 - [Conference Talks (113)](#conference-talks)
 
 ## Projects
@@ -122,6 +122,30 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/z99xPOyaNnQ" target="_blank">2022-10-18 - Broken Promises - Everything you should NOT do while using JavaScript Promises - #LearningfromTalks (en-us)</a>
+
+
+Abstract:
+
+> Did you know that poor error handling would lead to Memory Leaks in JavaScript?
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/ynNDmp7hBdo" target="_blank">2022-10-11 - Bun? Deno? Node.js? Creating your own JavaScript Runtime using V8, Libuv and more (en-us)</a>
+
+
+Abstract:
+
+> Have you ever thought about how Node.js was built back in 2009?
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
 
 ### <a href="https://www.youtube.com/watch?v=qy2O_tkUjnM" target="_blank">2022-09-29 - Chega do 'terminei só falta testar' - Criando uma prática de testes automatizados em seu time dev (en-us)</a>
 
@@ -1445,6 +1469,126 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-designpatterns-100daysofcode-activity-6991405584075886592-a4le?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-28 - How to improve JavaScript performance while processing big collections using the Builder design pattern 🤯🤩 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-designpatterns-100daysofcode-activity-6991405584075886592-a4le?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> The best thing you can do in JavaScript to process massive data collections in memory is to handle them on demand.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-devtips-100daysofcode-activity-6990304730199568385-6Dhd?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-24 - Today is a day for a golden tip! How to know why a Node.js process is still running 🔥🫢 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-devtips-100daysofcode-activity-6990304730199568385-6Dhd?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Have you had to force a Node.js process to stop using `process.exit()` because it simply wasn't stopping by itself after finishing processing?
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-typescript-news-activity-6989222807263932416-Ev9X?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-21 - Will Node.js replace JavaScript with TypeScript? 🤯😱 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-typescript-news-activity-6989222807263932416-Ev9X?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> As much as many people want this to happen the answer is no 😬
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-performance-devtips-activity-6986321878344720384-QBOY?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-13 - Top 5 things you can do to improve JS Performance (+secrets) 🔥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-performance-devtips-activity-6986321878344720384-QBOY?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> 1 - Inspect the hottest paths in your app
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-devtip-nodejs-activity-6985984600627900416-TEmF?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-12 - Solving the problem of reading files with End of Lines (EOL) into different operating systems 🤩 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-devtip-nodejs-activity-6985984600627900416-TEmF?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> I recorded a class where I teach how to use Mocks, Spies, and Stubs for testing JavaScript applications.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-devtips-nodejs-activity-6983772395459239936-NVJ6?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-06 - Did you know that neither console.log, setTimeout nor setInterval are part of the JavaScript language? 🤯😬 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-devtips-nodejs-activity-6983772395459239936-NVJ6?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Yes, my friend, probably the most common functions that you may use every day are not part of the JavaScript Specification (ECMAScript) 😱
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-multithreading-activity-6978339191055110144-AZL4?utm_source=share&utm_medium=member_desktop" target="_blank">2022-09-21 - Node.js is multithreaded and you can create a powerful thread pool with this fantastic tool. Here's how 🧵 (en-us)</a>
 

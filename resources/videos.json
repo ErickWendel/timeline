@@ -1,5 +1,35 @@
 [
-      {
+  {
+    "title": "Broken Promises - Everything you should NOT do while using JavaScript Promises - #LearningfromTalks",
+    "abstract": "Did you know that poor error handling would lead to Memory Leaks in JavaScript?",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/z99xPOyaNnQ",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2022-10-18"
+  },
+  {
+    "title": "Bun? Deno? Node.js? Creating your own JavaScript Runtime using V8, Libuv and more",
+    "abstract": "Have you ever thought about how Node.js was built back in 2009?",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/ynNDmp7hBdo",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2022-10-11"
+  },
+  {
     "title": "Chega do 'terminei só falta testar' - Criando uma prática de testes automatizados em seu time dev",
     "abstract": "Criando uma prática de testes automatizados em seu time dev",
     "type": "video",
