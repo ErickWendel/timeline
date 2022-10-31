@@ -1,4 +1,40 @@
 [
+    {
+    "title": "Node.js is multithreaded and you can create a powerful thread pool with this fantastic tool. Here's how 🧵",
+    "abstract": "vazio",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-multithreading-activity-6978339191055110144-AZL4?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-multithreading-activity-6978339191055110144-AZL4?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2022-09-21"
+  },
+  {
+    "title": "Why is the Websocket protocol so hard to implement from scratch? 🔥😬",
+    "abstract": "In Node.js, the SocketIO and WS packages are enormous in the JavaScript ecosystem.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-buildyourownx-diy-activity-6971112676491952128-mmWU?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-buildyourownx-diy-activity-6971112676491952128-mmWU?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2022-09-01"
+  },
   {
     "title": "wowwwww did you know that you can access the first ever Node.js version on GitHub and explore its timeline by just browsing the git history? 😬🔥",
     "abstract": "It was early 2009 when Node.js got its first commit from its maker, Ryan Dahl",
