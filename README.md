@@ -15,21 +15,93 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 ### Contributions Summary
 
-* **Projects**: 2018/November - 2015/July 
-* **Videos**: 2022/October - 2016/September 
-* **Blog Posts**: 2022/October - 2015/February 
-* **Conference Talks**: 2022/September - 2015/January 
+* **Projects**: 2022/November - 2015/July 
+* **Videos**: 2022/November - 2016/September 
+* **Blog Posts**: 2022/November - 2015/February 
+* **Conference Talks**: 2022/November - 2015/January 
 
-#### Presentations' number: 114
+#### Presentations' number: 116
 
 ## Table of Contents
 
-- [Projects (06)](#projects)
-- [Videos (104)](#videos)
-- [Blog Posts (287)](#blog-posts)
-- [Conference Talks (114)](#conference-talks)
+- [Projects (12)](#projects)
+- [Videos (113)](#videos)
+- [Blog Posts (297)](#blog-posts)
+- [Conference Talks (116)](#conference-talks)
 
 ## Projects
+
+### <a href="https://github.com/ErickWendel/DuckHunt-JS" target="_blank">2022-11-03 - DUCK HUNT JS v4.0 (en-us)</a>
+
+
+Abstract:
+
+> (fork) DuckHunt 4.0 ported to JS and HTML5 + Mobile Device control via Gyroscope in the browser
+> 
+> 
+
+
+_Tags: `chrome`, `nodejs`_
+
+### <a href="https://github.com/ErickWendel/myownnode" target="_blank">2022-10-10 - CapivaraBR - Creating your own JavaScript runtime tutorial (en-us)</a>
+
+
+Abstract:
+
+> (CapivaraBR is a JavaScript runtime built on top of V8 Javascript Engine and Libuv
+> 
+> 
+
+
+_Tags: `c++`_
+
+### <a href="https://github.com/ErickWendel/semana-javascript-expert06" target="_blank">2022-05-24 - Spotify Radio - JS Expert Week 6.0 (en-us)</a>
+
+
+Abstract:
+
+> Welcome to the sixth Javascript Expert Week. This is the starting code to start our journey.
+> 
+> 
+
+
+_Tags: `javascript`_
+
+### <a href="https://github.com/ErickWendel/semana-javascript-expert05" target="_blank">2021-09-11 - Google Drive Clone - JS Expert Week 5.0 (en-us)</a>
+
+
+Abstract:
+
+> Welcome to the fifth Javascript Expert Week. This is the starting code to start our journey.
+> 
+> 
+
+
+_Tags: `javascript`_
+
+### <a href="https://github.com/ErickWendel/semana-javascript-expert04" target="_blank">2021-05-21 - ClubHouse Clone Template - Semana JS Expert 4.0 (pt-br)</a>
+
+
+Abstract:
+
+> Seja bem vindo(a) à quarta Semana Javascript Expert.Este é o código inicial para iniciar nossa jornada.
+> 
+> 
+
+
+_Tags: `javascript`_
+
+### <a href="https://www.youtube.com/playlist?list=PLB1hpnUGshULerdlzMknMLrHI810xIBJv" target="_blank">2019-03-14 - Maratona Kubernetes (pt-br)</a>
+
+
+Abstract:
+
+> Ganhar eficiência e velocidade é uma busca constante em times de desenvolvimento em startups e grandes corporações, com o objetivo de aprimorar a qualidade
+> 
+> 
+
+
+_Tags: `kubernetes`_
 
 ### <a href="https://treinamento.nodebr.org" target="_blank">2018-11-27 - #CursoNodeBR - EW.IT + NodeBR (pt-br)</a>
 
@@ -123,12 +195,72 @@ _Tags: `translation`, `javascript`_
 
 ## Videos
 
+### <a href="https://youtu.be/Xyx_5F6IDqY" target="_blank">2022-11-23 - Como testar aplicações JavaScript sem frameworks com o Novo Node.js (pt-br)</a>
+
+
+Abstract:
+
+> Hoje vou contar sobre as novidades do Node.js test runner, o modulo nativo feito para te ajudar a testar aplicações complexas de forma simples.
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/n0lNNu2qMcU" target="_blank">2022-11-22 - 5 aprendizados sobre Node.js que se aplicam para o frontend (qualquer framework) (pt-br)</a>
+
+
+Abstract:
+
+> Hoje vou contar sobre aprendizados que você pode utilizar do Backend direto no frontend para empoderar a forma com que escreve código em qualquer ambiente.
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/tNjmQxwD1TM" target="_blank">2022-11-03 - Node.js Streams + Rate Limiting = Mastering Data processing (advanced JavaScript) (en-us)</a>
+
+
+Abstract:
+
+> In this video, you'll learn how to process thousands of items in memory using Node.js Streams respecting rate limits
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`, `Streams`_
+
 ### <a href="https://youtu.be/z99xPOyaNnQ" target="_blank">2022-10-18 - Broken Promises - Everything you should NOT do while using JavaScript Promises - #LearningfromTalks (en-us)</a>
 
 
 Abstract:
 
 > Did you know that poor error handling would lead to Memory Leaks in JavaScript?
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/z99xPOyaNnQ" target="_blank">2022-10-18 - Broken Promises - Everything you should NOT do while using JavaScript Promises - #LearningfromTalks (en-us)</a>
+
+
+Abstract:
+
+> Did you know that poor error handling would lead to Memory Leaks in JavaScript?
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/ynNDmp7hBdo" target="_blank">2022-10-11 - Bun? Deno? Node.js? Creating your own JavaScript Runtime using V8, Libuv and more (en-us)</a>
+
+
+Abstract:
+
+> Have you ever thought about how Node.js was built back in 2009?
 > 
 > 
 
@@ -159,6 +291,30 @@ Abstract:
 
 _Tags: `Node.js`, `Javascript`_
 
+### <a href="https://www.youtube.com/watch?v=qy2O_tkUjnM" target="_blank">2022-09-29 - Chega do 'terminei só falta testar' - Criando uma prática de testes automatizados em seu time dev (pt-br)</a>
+
+
+Abstract:
+
+> Criando uma prática de testes automatizados em seu time dev
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/f7MY2OtI7nA" target="_blank">2022-09-27 - Live - Exterminando a lenda do Node.js single-threaded na prática (pt-br)</a>
+
+
+Abstract:
+
+> Vou fazer uma super live mostrando na prática como funcionam as threads do Node.js e criar uma aplicação fazendo o poder dessa super functionalidade
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
 ### <a href="https://youtu.be/f7MY2OtI7nA" target="_blank">2022-09-27 - Live - Exterminando a lenda do Node.js single-threaded na prática (pt-br)</a>
 
 
@@ -177,6 +333,30 @@ _Tags: `Node.js`, `Javascript`_
 Abstract:
 
 > In this video, you'll catch up on the new functions for the native Node.js test runner.
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/xU1EmrhQCfw" target="_blank">2022-09-12 - What's new in the native Node.js Test Runner 2022 (en-us)</a>
+
+
+Abstract:
+
+> In this video, you'll catch up on the new functions for the native Node.js test runner.
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://www.youtube.com/watch?v=_8G5jf_Mi64" target="_blank">2022-09-05 - Hacking the JavaScript using Proxies and Reflection (en-us)</a>
+
+
+Abstract:
+
+> The Proxy object enables you to create a proxy for another object, which can intercept and redefine fundamental operations for that object.
 > 
 > 
 
@@ -1470,6 +1650,46 @@ _Tags: `wear`, `android`, `node.js`_
 
 ## Blog Posts
 
+### <a href="https://www.linkedin.com/posts/erickwendel_duckhunt-nodejs-javascript-activity-6999514707262885888-6ZVa?utm_source=share&utm_medium=member_desktop" target="_blank">2022-11-18 - Sextou emmmm! Consegui extender o projeto DuckHunt feito em JavaScript para usar o giroscópio do celular como um controlador 🤭 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_duckhunt-nodejs-javascript-activity-6999514707262885888-6ZVa?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Para quem acompanhou o outro video, eu estava usando Machine Learning com TensorFlow para reconhecer o movimento do celular como o disparo.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_duckhunt-nodejs-javascript-activity-6999514707262885888-6ZVa?utm_source=share&utm_medium=member_desktop" target="_blank">2022-11-18 - Sextou emmmm! Consegui extender o projeto DuckHunt feito em JavaScript para usar o giroscópio do celular como um controlador 🤭 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_duckhunt-nodejs-javascript-activity-6999514707262885888-6ZVa?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Para quem acompanhou o outro video, eu estava usando Machine Learning com TensorFlow para reconhecer o movimento do celular como o disparo.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
 ### <a href="https://www.linkedin.com/posts/erickwendel_javascript-designpatterns-100daysofcode-activity-6991405584075886592-a4le?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-28 - How to improve JavaScript performance while processing big collections using the Builder design pattern 🤯🤩 (en-us)</a>
 
 
@@ -1481,6 +1701,46 @@ Portal:
 Abstract:
 
 > The best thing you can do in JavaScript to process massive data collections in memory is to handle them on demand.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-designpatterns-100daysofcode-activity-6991405584075886592-a4le?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-28 - How to improve JavaScript performance while processing big collections using the Builder design pattern 🤯🤩 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-designpatterns-100daysofcode-activity-6991405584075886592-a4le?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> The best thing you can do in JavaScript to process massive data collections in memory is to handle them on demand.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-devtips-100daysofcode-activity-6990304730199568385-6Dhd?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-24 - Today is a day for a golden tip! How to know why a Node.js process is still running 🔥🫢 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-devtips-100daysofcode-activity-6990304730199568385-6Dhd?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Have you had to force a Node.js process to stop using `process.exit()` because it simply wasn't stopping by itself after finishing processing?
 > 
 > <b>Links</b>
 > 
@@ -1530,6 +1790,26 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-typescript-news-activity-6989222807263932416-Ev9X?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-21 - Will Node.js replace JavaScript with TypeScript? 🤯😱 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-typescript-news-activity-6989222807263932416-Ev9X?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> As much as many people want this to happen the answer is no 😬
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
 ### <a href="https://www.linkedin.com/posts/erickwendel_javascript-performance-devtips-activity-6986321878344720384-QBOY?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-13 - Top 5 things you can do to improve JS Performance (+secrets) 🔥 (en-us)</a>
 
 
@@ -1541,6 +1821,46 @@ Portal:
 Abstract:
 
 > 1 - Inspect the hottest paths in your app
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-performance-devtips-activity-6986321878344720384-QBOY?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-13 - Top 5 things you can do to improve JS Performance (+secrets) 🔥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-performance-devtips-activity-6986321878344720384-QBOY?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> 1 - Inspect the hottest paths in your app
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-devtip-nodejs-activity-6985984600627900416-TEmF?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-12 - Solving the problem of reading files with End of Lines (EOL) into different operating systems 🤩 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-devtip-nodejs-activity-6985984600627900416-TEmF?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> I recorded a class where I teach how to use Mocks, Spies, and Stubs for testing JavaScript applications.
 > 
 > <b>Links</b>
 > 
@@ -1590,6 +1910,26 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-devtips-nodejs-activity-6983772395459239936-NVJ6?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-06 - Did you know that neither console.log, setTimeout nor setInterval are part of the JavaScript language? 🤯😬 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-devtips-nodejs-activity-6983772395459239936-NVJ6?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Yes, my friend, probably the most common functions that you may use every day are not part of the JavaScript Specification (ECMAScript) 😱
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
 ### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-multithreading-activity-6978339191055110144-AZL4?utm_source=share&utm_medium=member_desktop" target="_blank">2022-09-21 - Node.js is multithreaded and you can create a powerful thread pool with this fantastic tool. Here's how 🧵 (en-us)</a>
 
 
@@ -1601,6 +1941,46 @@ Portal:
 Abstract:
 
 > Essentially, the only part that is single-threaded in Node.js is the evaluation of JS code in the V8 engine.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-multithreading-activity-6978339191055110144-AZL4?utm_source=share&utm_medium=member_desktop" target="_blank">2022-09-21 - Node.js is multithreaded and you can create a powerful thread pool with this fantastic tool. Here's how 🧵 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-multithreading-activity-6978339191055110144-AZL4?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Essentially, the only part that is single-threaded in Node.js is the evaluation of JS code in the V8 engine.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-buildyourownx-diy-activity-6971112676491952128-mmWU?utm_source=share&utm_medium=member_desktop" target="_blank">2022-09-01 - Why is the Websocket protocol so hard to implement from scratch? 🔥😬 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-buildyourownx-diy-activity-6971112676491952128-mmWU?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> In Node.js, the SocketIO and WS packages are enormous in the JavaScript ecosystem.
 > 
 > <b>Links</b>
 > 
@@ -6862,6 +7242,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 ## Conference Talks
 
+### 2022-11-26 - Como resolvi um bug no Node.js que afetou milhares de pacotes mundialmente (pt-br)
+
+
+<a href="https://devfestcerrado.com.br/" target="_blank">Dev Fest Cerrado 2022</a>
+
+
+  
+
+
+Abstract:
+
+> A jornada sobre como corrigi um bug no núcleo do Node.js que afetou milhares de pacotes
+> 
+> 
+
+
+_Tags: `nodejs`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-18.878831540966747,-48.246936766273215" target="_blank">Uberlândia - MG, Brasil</a>.
+
 ### 2022-09-17 - The Journey About How I Fixed a Bug in the Node.js Core That Affected Thousands of Packages (en-us)
 
 
@@ -6869,6 +7270,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
   
+
+
+Abstract:
+
+> In this talk, I'll dig into the process from opening and discussing an issue, to implementing a new feature on the Node.js core. 
+> 
+> 
+
+
+_Tags: `nodejs`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=35.5112404,124.521065" target="_blank">Seoul - KR, South Korea</a>.
+
+### 2022-09-17 - The Journey About How I Fixed a Bug in the Node.js Core That Affected Thousands of Packages (en-us)
+
+
+<a href="https://2022.jsconf.kr/en/speakers/erick-wendel" target="_blank">JS Conf Korea</a>
+
+
+<a href="https://www.icloud.com/keynote/0ebVCpbGca71WwkLlffcaSsyQ#The_Journey_About_How_I_Fixed_a_Bug_in_the_Node.js_Core_that_Affected_Thousands_of_Packages_-_jsconfkorea_-_17092022" target="_blank">slides</a> |   <a href="https://youtu.be/cxUWZoirTZk" target="_blank">video</a>
 
 
 Abstract:
