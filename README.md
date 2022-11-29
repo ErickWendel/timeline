@@ -15,19 +15,19 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 ### Contributions Summary
 
-* **Projects**: 2022/November - 2015/July 
-* **Videos**: 2022/November - 2016/September 
-* **Blog Posts**: 2022/November - 2015/February 
-* **Conference Talks**: 2022/November - 2015/January 
+* **Projects**: 2018/November - 2015/July 
+* **Videos**: 2022/October - 2016/September 
+* **Blog Posts**: 2022/October - 2015/February 
+* **Conference Talks**: 2022/September - 2015/January 
 
-#### Presentations' number: 115
+#### Presentations' number: 114
 
 ## Table of Contents
 
-- [Projects (12)](#projects)
-- [Videos (107)](#videos)
-- [Blog Posts (288)](#blog-posts)
-- [Conference Talks (115)](#conference-talks)
+- [Projects (06)](#projects)
+- [Videos (104)](#videos)
+- [Blog Posts (287)](#blog-posts)
+- [Conference Talks (114)](#conference-talks)
 
 ## Projects
 
@@ -194,42 +194,6 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
-
-### <a href="https://youtu.be/Xyx_5F6IDqY" target="_blank">2022-11-23 - Como testar aplicações JavaScript sem frameworks com o Novo Node.js (pt-br)</a>
-
-
-Abstract:
-
-> Hoje vou contar sobre as novidades do Node.js test runner, o modulo nativo feito para te ajudar a testar aplicações complexas de forma simples.
-> 
-> 
-
-
-_Tags: `Node.js`, `Javascript`_
-
-### <a href="https://youtu.be/n0lNNu2qMcU" target="_blank">2022-11-22 - 5 aprendizados sobre Node.js que se aplicam para o frontend (qualquer framework) (pt-br)</a>
-
-
-Abstract:
-
-> Hoje vou contar sobre aprendizados que você pode utilizar do Backend direto no frontend para empoderar a forma com que escreve código em qualquer ambiente.
-> 
-> 
-
-
-_Tags: `Node.js`, `Javascript`_
-
-### <a href="https://youtu.be/tNjmQxwD1TM" target="_blank">2022-11-03 - Node.js Streams + Rate Limiting = Mastering Data processing (advanced JavaScript) (en-us)</a>
-
-
-Abstract:
-
-> In this video, you'll learn how to process thousands of items in memory using Node.js Streams respecting rate limits
-> 
-> 
-
-
-_Tags: `Node.js`, `Javascript`, `Streams`_
 
 ### <a href="https://youtu.be/z99xPOyaNnQ" target="_blank">2022-10-18 - Broken Promises - Everything you should NOT do while using JavaScript Promises - #LearningfromTalks (en-us)</a>
 
@@ -1577,26 +1541,6 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
-
-### <a href="https://www.linkedin.com/posts/erickwendel_duckhunt-nodejs-javascript-activity-6999514707262885888-6ZVa?utm_source=share&utm_medium=member_desktop" target="_blank">2022-11-18 - Sextou emmmm! Consegui extender o projeto DuckHunt feito em JavaScript para usar o giroscópio do celular como um controlador 🤭 (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_duckhunt-nodejs-javascript-activity-6999514707262885888-6ZVa?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Para quem acompanhou o outro video, eu estava usando Machine Learning com TensorFlow para reconhecer o movimento do celular como o disparo.
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_javascript-designpatterns-100daysofcode-activity-6991405584075886592-a4le?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-28 - How to improve JavaScript performance while processing big collections using the Builder design pattern 🤯🤩 (en-us)</a>
 
@@ -6989,6 +6933,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2022-09-17 - The Journey About How I Fixed a Bug in the Node.js Core That Affected Thousands of Packages (en-us)
+
+
+<a href="https://2022.jsconf.kr/en/speakers/erick-wendel" target="_blank">JS Conf Korea</a>
+
+
+  
+
+
+Abstract:
+
+> In this talk, I'll dig into the process from opening and discussing an issue, to implementing a new feature on the Node.js core. 
+> 
+> 
+
+
+_Tags: `nodejs`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=35.5112404,124.521065" target="_blank">Seoul - KR, South Korea</a>.
 
 ### 2022-11-26 - Como resolvi um bug no Node.js que afetou milhares de pacotes mundialmente (pt-br)
 

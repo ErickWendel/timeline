@@ -136,6 +136,96 @@
     "date": "2022-09-05"
   },
   {
+    "title": "Broken Promises - Everything you should NOT do while using JavaScript Promises - #LearningfromTalks",
+    "abstract": "Did you know that poor error handling would lead to Memory Leaks in JavaScript?",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/z99xPOyaNnQ",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2022-10-18"
+  },
+  {
+    "title": "Bun? Deno? Node.js? Creating your own JavaScript Runtime using V8, Libuv and more",
+    "abstract": "Have you ever thought about how Node.js was built back in 2009?",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/ynNDmp7hBdo",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2022-10-11"
+  },
+  {
+    "title": "Chega do 'terminei só falta testar' - Criando uma prática de testes automatizados em seu time dev",
+    "abstract": "Criando uma prática de testes automatizados em seu time dev",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/watch?v=qy2O_tkUjnM",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-09-29"
+  },
+    {
+    "title": "Live - Exterminando a lenda do Node.js single-threaded na prática",
+    "abstract": "Vou fazer uma super live mostrando na prática como funcionam as threads do Node.js e criar uma aplicação fazendo o poder dessa super functionalidade",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/f7MY2OtI7nA",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-09-27"
+  },
+  {
+    "title": "What's new in the native Node.js Test Runner 2022",
+    "abstract": "In this video, you'll catch up on the new functions for the native Node.js test runner.",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/xU1EmrhQCfw",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2022-09-12"
+  },
+  {
+    "title": "Hacking the JavaScript using Proxies and Reflection",
+    "abstract": "The Proxy object enables you to create a proxy for another object, which can intercept and redefine fundamental operations for that object.",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/watch?v=_8G5jf_Mi64",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2022-09-05"
+  },
+  {
     "title": "Creating a Performance Monitor using JavaScript Decorators",
     "abstract": "Today you're gonna build a complete application to monitor Web APIs performance using the JS Decorators proposal with no frameworks.",
     "type": "video",
