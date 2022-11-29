@@ -16,18 +16,18 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2018/November - 2015/July 
-* **Videos**: 2022/July - 2016/September 
-* **Blog Posts**: 2022/July - 2015/February 
-* **Conference Talks**: 2022/July - 2015/January 
+* **Videos**: 2022/October - 2016/September 
+* **Blog Posts**: 2022/October - 2015/February 
+* **Conference Talks**: 2022/September - 2015/January 
 
-#### Presentations' number: 113
+#### Presentations' number: 114
 
 ## Table of Contents
 
 - [Projects (06)](#projects)
-- [Videos (94)](#videos)
-- [Blog Posts (273)](#blog-posts)
-- [Conference Talks (113)](#conference-talks)
+- [Videos (104)](#videos)
+- [Blog Posts (287)](#blog-posts)
+- [Conference Talks (114)](#conference-talks)
 
 ## Projects
 
@@ -122,6 +122,126 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/z99xPOyaNnQ" target="_blank">2022-10-18 - Broken Promises - Everything you should NOT do while using JavaScript Promises - #LearningfromTalks (en-us)</a>
+
+
+Abstract:
+
+> Did you know that poor error handling would lead to Memory Leaks in JavaScript?
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/ynNDmp7hBdo" target="_blank">2022-10-11 - Bun? Deno? Node.js? Creating your own JavaScript Runtime using V8, Libuv and more (en-us)</a>
+
+
+Abstract:
+
+> Have you ever thought about how Node.js was built back in 2009?
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://www.youtube.com/watch?v=qy2O_tkUjnM" target="_blank">2022-09-29 - Chega do 'terminei só falta testar' - Criando uma prática de testes automatizados em seu time dev (en-us)</a>
+
+
+Abstract:
+
+> Criando uma prática de testes automatizados em seu time dev
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/f7MY2OtI7nA" target="_blank">2022-09-27 - Live - Exterminando a lenda do Node.js single-threaded na prática (pt-br)</a>
+
+
+Abstract:
+
+> Vou fazer uma super live mostrando na prática como funcionam as threads do Node.js e criar uma aplicação fazendo o poder dessa super functionalidade
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/xU1EmrhQCfw" target="_blank">2022-09-12 - What's new in the native Node.js Test Runner 2022 (en-us)</a>
+
+
+Abstract:
+
+> In this video, you'll catch up on the new functions for the native Node.js test runner.
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://www.youtube.com/watch?v=_8G5jf_Mi64" target="_blank">2022-09-05 - Hacking the JavaScript using Proxies and Reflection (en-us)</a>
+
+
+Abstract:
+
+> The Proxy object enables you to create a proxy for another object, which can intercept and redefine fundamental operations for that object.
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/CS03W_YSdJc" target="_blank">2022-08-29 - Creating a Performance Monitor using JavaScript Decorators (en-us)</a>
+
+
+Abstract:
+
+> Today you're gonna build a complete application to monitor Web APIs performance using the JS Decorators proposal with no frameworks.
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/vMTThYRu7mU" target="_blank">2022-08-22 - What I've learned after giving over 100 talks around the world 🤯😱 (en-us)</a>
+
+
+Abstract:
+
+> Today you'll know how I started, how teaching helped me to become a dev specialist, struggles
+> 
+> 
+
+
+_Tags: `PublicSpeaking`_
+
+### <a href="https://youtu.be/Kga1Rf39x2U" target="_blank">2022-08-15 - ECMAScript 2023 - TOP 5 NEW FEATURES FOR JAVASCRIPT ARRAYS (en-us)</a>
+
+
+Abstract:
+
+> In this video, you'll learn in practice the new set of functions for JavaScript Arrays
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/AZ3SYoqwfnU" target="_blank">2022-08-08 - The JSON API as you know will change soon. Here's Why | ECMAScript2023 (en-us)</a>
+
+
+Abstract:
+
+> JSON.parse  and JSON.stringify are changing and as they change our life as developers become easier.
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
 
 ### <a href="https://youtu.be/qFoFKLI3O8w" target="_blank">2022-07-25 - Building a Complete WebSocket App From Scratch with JavaScript (with no libraries) - Crash Course (en-us)</a>
 
@@ -1349,6 +1469,286 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-designpatterns-100daysofcode-activity-6991405584075886592-a4le?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-28 - How to improve JavaScript performance while processing big collections using the Builder design pattern 🤯🤩 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-designpatterns-100daysofcode-activity-6991405584075886592-a4le?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> The best thing you can do in JavaScript to process massive data collections in memory is to handle them on demand.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-devtips-100daysofcode-activity-6990304730199568385-6Dhd?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-24 - Today is a day for a golden tip! How to know why a Node.js process is still running 🔥🫢 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-devtips-100daysofcode-activity-6990304730199568385-6Dhd?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Have you had to force a Node.js process to stop using `process.exit()` because it simply wasn't stopping by itself after finishing processing?
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-typescript-news-activity-6989222807263932416-Ev9X?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-21 - Will Node.js replace JavaScript with TypeScript? 🤯😱 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-typescript-news-activity-6989222807263932416-Ev9X?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> As much as many people want this to happen the answer is no 😬
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-performance-devtips-activity-6986321878344720384-QBOY?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-13 - Top 5 things you can do to improve JS Performance (+secrets) 🔥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-performance-devtips-activity-6986321878344720384-QBOY?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> 1 - Inspect the hottest paths in your app
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-devtip-nodejs-activity-6985984600627900416-TEmF?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-12 - Solving the problem of reading files with End of Lines (EOL) into different operating systems 🤩 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-devtip-nodejs-activity-6985984600627900416-TEmF?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> I recorded a class where I teach how to use Mocks, Spies, and Stubs for testing JavaScript applications.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-devtips-nodejs-activity-6983772395459239936-NVJ6?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-06 - Did you know that neither console.log, setTimeout nor setInterval are part of the JavaScript language? 🤯😬 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-devtips-nodejs-activity-6983772395459239936-NVJ6?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Yes, my friend, probably the most common functions that you may use every day are not part of the JavaScript Specification (ECMAScript) 😱
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-multithreading-activity-6978339191055110144-AZL4?utm_source=share&utm_medium=member_desktop" target="_blank">2022-09-21 - Node.js is multithreaded and you can create a powerful thread pool with this fantastic tool. Here's how 🧵 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-multithreading-activity-6978339191055110144-AZL4?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Essentially, the only part that is single-threaded in Node.js is the evaluation of JS code in the V8 engine.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-buildyourownx-diy-activity-6971112676491952128-mmWU?utm_source=share&utm_medium=member_desktop" target="_blank">2022-09-01 - Why is the Websocket protocol so hard to implement from scratch? 🔥😬 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-buildyourownx-diy-activity-6971112676491952128-mmWU?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> In Node.js, the SocketIO and WS packages are enormous in the JavaScript ecosystem.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-v8-activity-6968927365309575168-Tqyo?utm_source=share&utm_medium=member_desktop" target="_blank">2022-08-26 - wowwwww did you know that you can access the first ever Node.js version on GitHub and explore its timeline by just browsing the git history? 😬🔥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-v8-activity-6968927365309575168-Tqyo?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> It was early 2009 when Node.js got its first commit from its maker, Ryan Dahl
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_tips-nodejs-streams-activity-6968177483120586752-9N9n?utm_source=share&utm_medium=member_desktop" target="_blank">2022-08-24 - wowwww look at those new functions meant to help us consume Node.js Streams as JSON, text, blob, and much more! 😱🎉 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_tips-nodejs-streams-activity-6968177483120586752-9N9n?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> The Node.js project is on fire! Every day we see new functions, new shortcuts, and design improvements.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_fiiiiiiinaly-we-have-a-native-solution-to-activity-6967823827447767040-4FND?utm_source=share&utm_medium=member_desktop" target="_blank">2022-08-23 - Fiiiiiiinaly we have a native solution to catch CLI arguments in Node.js🔥😱 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_fiiiiiiinaly-we-have-a-native-solution-to-activity-6967823827447767040-4FND?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> There was a long discussion on how many existing npm packages were made to parse CLI args
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_programming-learning-experience-activity-6965648561564725248-jTko?utm_source=share&utm_medium=member_desktop" target="_blank">2022-08-17 - What would I do if I would have to start learning programming from absolute zero 🔥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_programming-learning-experience-activity-6965648561564725248-jTko?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> This week a friend came out with a question about what steps should he do to start learning programming from scratch
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-tc39-educators-activity-6960970403133419520-TPCU?utm_source=share&utm_medium=member_desktop" target="_blank">2022-08-04 - wow JavaScript is on 🔥with a lot of new functions in progress for Arrays 🤯😬 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-tc39-educators-activity-6960970403133419520-TPCU?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Welcome Immutability, Grouping, and Async helpers ❤️
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_regularexpressions-regex-100daysofcode-activity-6960582138492542976-dp5O?utm_source=share&utm_medium=member_desktop" target="_blank">2022-08-03 - When a RegExp could be the best option? 🤯🔥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_regularexpressions-regex-100daysofcode-activity-6960582138492542976-dp5O?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> In Brazilian-Portuguese we have an expression like 'if you have a problem and you fix it using Regular Expressions, now you have two problems...'
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_no-frameworks-no-libs-lets-build-everything-activity-6955511987883626496-_wvs?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">2022-07-20 - No frameworks, no libs, let's build everything from scratch 😳🤯 (en-us)</a>
 
@@ -6461,6 +6861,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2022-09-17 - The Journey About How I Fixed a Bug in the Node.js Core That Affected Thousands of Packages (en-us)
+
+
+<a href="https://2022.jsconf.kr/en/speakers/erick-wendel" target="_blank">JS Conf Korea</a>
+
+
+  
+
+
+Abstract:
+
+> In this talk, I'll dig into the process from opening and discussing an issue, to implementing a new feature on the Node.js core. 
+> 
+> 
+
+
+_Tags: `nodejs`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=35.5112404,124.521065" target="_blank">Seoul - KR, South Korea</a>.
 
 ### 2022-07-16 - Como resolvi um bug no Node.js que afetou milhares de pacotes mundialmente (pt-br)
 
