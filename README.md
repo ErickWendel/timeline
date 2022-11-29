@@ -24,7 +24,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 ## Table of Contents
 
-- [Projects (12)](#projects)
+- [Projects (11)](#projects)
 - [Videos (113)](#videos)
 - [Blog Posts (297)](#blog-posts)
 - [Conference Talks (116)](#conference-talks)
@@ -90,18 +90,6 @@ Abstract:
 
 
 _Tags: `javascript`_
-
-### <a href="https://www.youtube.com/playlist?list=PLB1hpnUGshULerdlzMknMLrHI810xIBJv" target="_blank">2019-03-14 - Maratona Kubernetes (pt-br)</a>
-
-
-Abstract:
-
-> Ganhar eficiência e velocidade é uma busca constante em times de desenvolvimento em startups e grandes corporações, com o objetivo de aprimorar a qualidade
-> 
-> 
-
-
-_Tags: `kubernetes`_
 
 ### <a href="https://treinamento.nodebr.org" target="_blank">2018-11-27 - #CursoNodeBR - EW.IT + NodeBR (pt-br)</a>
 

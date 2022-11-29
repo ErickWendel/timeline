@@ -50,16 +50,6 @@
         "date": "2021-05-21"
     },
     {
-        "title": "Maratona Kubernetes",
-        "abstract": "Ganhar eficiência e velocidade é uma busca constante em times de desenvolvimento em startups e grandes corporações, com o objetivo de aprimorar a qualidade",
-        "type": "project",
-        "link": "https://www.youtube.com/playlist?list=PLB1hpnUGshULerdlzMknMLrHI810xIBJv",
-        "tags": ["kubernetes"],
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2019-03-14"
-    },
-    {
         "title": "nCatossi Chrome Extension",
         "abstract": "Replaces all images on all pages to Catossi. (Fork of nCage plugin, all credits to qwertyman1)",
         "type": "project",
