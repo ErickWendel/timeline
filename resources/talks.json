@@ -1,5 +1,28 @@
 [
   {
+    "title": "Como resolvi um bug no Node.js que afetou milhares de pacotes mundialmente",
+    "abstract": "A jornada sobre como corrigi um bug no núcleo do Node.js que afetou milhares de pacotes",
+    "type": "talk",
+    "event": {
+        "link": "https://devfestcerrado.com.br/",
+        "name": "Dev Fest Cerrado 2022"
+    },
+    "slides": "https://bit.ly/slides-ew-devfestcerrado22",
+    "photos": "",
+    "video": "",
+    "tags": ["nodejs","javascript"],
+    "location": {
+      "latitude": -18.878831540966747,
+      "longitude": -48.246936766273215,
+      "country": "Brasil",
+      "uf": "MG",
+      "city": "Uberlândia"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2022-11-26"
+    },
+  {
     "title": "The Journey About How I Fixed a Bug in the Node.js Core That Affected Thousands of Packages",
     "abstract": "In this talk, I'll dig into the process from opening and discussing an issue, to implementing a new feature on the Node.js core. ",
     "type": "talk",
@@ -9,7 +32,7 @@
     },
     "slides": "https://www.icloud.com/keynote/0ebVCpbGca71WwkLlffcaSsyQ#The_Journey_About_How_I_Fixed_a_Bug_in_the_Node.js_Core_that_Affected_Thousands_of_Packages_-_jsconfkorea_-_17092022",
     "photos": "",
-    "video": "",
+    "video": "https://youtu.be/cxUWZoirTZk",
     "tags": ["nodejs","javascript"],
     "location": {
       "latitude": 35.5112404,
