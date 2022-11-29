@@ -1,5 +1,65 @@
 [
     {
+        "title": "DUCK HUNT JS v4.0",
+        "abstract": "(fork) DuckHunt 4.0 ported to JS and HTML5 + Mobile Device control via Gyroscope in the browser",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/DuckHunt-JS",
+        "tags": ["chrome", "nodejs"],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2022-11-03"
+    },
+    {
+        "title": "CapivaraBR - Creating your own JavaScript runtime tutorial",
+        "abstract": "(CapivaraBR is a JavaScript runtime built on top of V8 Javascript Engine and Libuv",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/myownnode",
+        "tags": ["c++"],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2022-10-10"
+    },
+    {
+        "title": "Spotify Radio - JS Expert Week 6.0",
+        "abstract": "Welcome to the sixth Javascript Expert Week. This is the starting code to start our journey.",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/semana-javascript-expert06",
+        "tags": ["javascript"],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2022-05-24"
+    },
+    {
+        "title": "Google Drive Clone - JS Expert Week 5.0",
+        "abstract": "Welcome to the fifth Javascript Expert Week. This is the starting code to start our journey.",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/semana-javascript-expert05",
+        "tags": ["javascript"],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2021-09-11"
+    },
+    {
+        "title": "ClubHouse Clone Template - Semana JS Expert 4.0",
+        "abstract": "Seja bem vindo(a) à quarta Semana Javascript Expert.Este é o código inicial para iniciar nossa jornada.",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/semana-javascript-expert04",
+        "tags": ["javascript"],
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2021-05-21"
+    },
+    {
+        "title": "Maratona Kubernetes",
+        "abstract": "Ganhar eficiência e velocidade é uma busca constante em times de desenvolvimento em startups e grandes corporações, com o objetivo de aprimorar a qualidade",
+        "type": "project",
+        "link": "https://www.youtube.com/playlist?list=PLB1hpnUGshULerdlzMknMLrHI810xIBJv",
+        "tags": ["kubernetes"],
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2019-03-14"
+    },
+    {
         "title": "nCatossi Chrome Extension",
         "abstract": "Replaces all images on all pages to Catossi. (Fork of nCage plugin, all credits to qwertyman1)",
         "type": "project",
