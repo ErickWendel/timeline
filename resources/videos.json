@@ -1,5 +1,51 @@
 [
   {
+    "title": "Como testar aplicações JavaScript sem frameworks com o Novo Node.js",
+    "abstract": "Hoje vou contar sobre as novidades do Node.js test runner, o modulo nativo feito para te ajudar a testar aplicações complexas de forma simples.",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/Xyx_5F6IDqY",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-11-23"
+  },
+  {
+    "title": "5 aprendizados sobre Node.js que se aplicam para o frontend (qualquer framework)",
+    "abstract": "Hoje vou contar sobre aprendizados que você pode utilizar do Backend direto no frontend para empoderar a forma com que escreve código em qualquer ambiente.",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/n0lNNu2qMcU",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-11-22"
+  },
+  {
+    "title": "Node.js Streams + Rate Limiting = Mastering Data processing (advanced JavaScript)",
+    "abstract": "In this video, you'll learn how to process thousands of items in memory using Node.js Streams respecting rate limits",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/tNjmQxwD1TM",
+    "tags": [
+      "Node.js",
+      "Javascript",
+      "Streams"
+    ],
+    "language": "en-us",
+    "date": "2022-11-03"
+  },
+  {
     "title": "Broken Promises - Everything you should NOT do while using JavaScript Promises - #LearningfromTalks",
     "abstract": "Did you know that poor error handling would lead to Memory Leaks in JavaScript?",
     "type": "video",
