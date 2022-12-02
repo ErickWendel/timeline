@@ -15,21 +15,81 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 ### Contributions Summary
 
-* **Projects**: 2018/November - 2015/July 
-* **Videos**: 2022/October - 2016/September 
-* **Blog Posts**: 2022/October - 2015/February 
-* **Conference Talks**: 2022/September - 2015/January 
+* **Projects**: 2022/November - 2015/July 
+* **Videos**: 2022/November - 2016/September 
+* **Blog Posts**: 2022/November - 2015/February 
+* **Conference Talks**: 2022/November - 2015/January 
 
-#### Presentations' number: 114
+#### Presentations' number: 115
 
 ## Table of Contents
 
-- [Projects (06)](#projects)
-- [Videos (104)](#videos)
-- [Blog Posts (287)](#blog-posts)
-- [Conference Talks (114)](#conference-talks)
+- [Projects (11)](#projects)
+- [Videos (107)](#videos)
+- [Blog Posts (288)](#blog-posts)
+- [Conference Talks (115)](#conference-talks)
 
 ## Projects
+
+### <a href="https://github.com/ErickWendel/DuckHunt-JS" target="_blank">2022-11-03 - DUCK HUNT JS v4.0 (en-us)</a>
+
+
+Abstract:
+
+> (fork) DuckHunt 4.0 ported to JS and HTML5 + Mobile Device control via Gyroscope in the browser
+> 
+> 
+
+
+_Tags: `chrome`, `nodejs`_
+
+### <a href="https://github.com/ErickWendel/myownnode" target="_blank">2022-10-10 - CapivaraBR - Creating your own JavaScript runtime tutorial (en-us)</a>
+
+
+Abstract:
+
+> (CapivaraBR is a JavaScript runtime built on top of V8 Javascript Engine and Libuv
+> 
+> 
+
+
+_Tags: `c++`_
+
+### <a href="https://github.com/ErickWendel/semana-javascript-expert06" target="_blank">2022-05-24 - Spotify Radio - JS Expert Week 6.0 (en-us)</a>
+
+
+Abstract:
+
+> Welcome to the sixth Javascript Expert Week. This is the starting code to start our journey.
+> 
+> 
+
+
+_Tags: `javascript`_
+
+### <a href="https://github.com/ErickWendel/semana-javascript-expert05" target="_blank">2021-09-11 - Google Drive Clone - JS Expert Week 5.0 (en-us)</a>
+
+
+Abstract:
+
+> Welcome to the fifth Javascript Expert Week. This is the starting code to start our journey.
+> 
+> 
+
+
+_Tags: `javascript`_
+
+### <a href="https://github.com/ErickWendel/semana-javascript-expert04" target="_blank">2021-05-21 - ClubHouse Clone Template - Semana JS Expert 4.0 (pt-br)</a>
+
+
+Abstract:
+
+> Seja bem vindo(a) à quarta Semana Javascript Expert.Este é o código inicial para iniciar nossa jornada.
+> 
+> 
+
+
+_Tags: `javascript`_
 
 ### <a href="https://treinamento.nodebr.org" target="_blank">2018-11-27 - #CursoNodeBR - EW.IT + NodeBR (pt-br)</a>
 
@@ -123,6 +183,42 @@ _Tags: `translation`, `javascript`_
 
 ## Videos
 
+### <a href="https://youtu.be/Xyx_5F6IDqY" target="_blank">2022-11-23 - Como testar aplicações JavaScript sem frameworks com o Novo Node.js (pt-br)</a>
+
+
+Abstract:
+
+> Hoje vou contar sobre as novidades do Node.js test runner, o modulo nativo feito para te ajudar a testar aplicações complexas de forma simples.
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/n0lNNu2qMcU" target="_blank">2022-11-22 - 5 aprendizados sobre Node.js que se aplicam para o frontend (qualquer framework) (pt-br)</a>
+
+
+Abstract:
+
+> Hoje vou contar sobre aprendizados que você pode utilizar do Backend direto no frontend para empoderar a forma com que escreve código em qualquer ambiente.
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/tNjmQxwD1TM" target="_blank">2022-11-03 - Node.js Streams + Rate Limiting = Mastering Data processing (advanced JavaScript) (en-us)</a>
+
+
+Abstract:
+
+> In this video, you'll learn how to process thousands of items in memory using Node.js Streams respecting rate limits
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`, `Streams`_
+
 ### <a href="https://youtu.be/z99xPOyaNnQ" target="_blank">2022-10-18 - Broken Promises - Everything you should NOT do while using JavaScript Promises - #LearningfromTalks (en-us)</a>
 
 
@@ -147,7 +243,7 @@ Abstract:
 
 _Tags: `Node.js`, `Javascript`_
 
-### <a href="https://www.youtube.com/watch?v=qy2O_tkUjnM" target="_blank">2022-09-29 - Chega do 'terminei só falta testar' - Criando uma prática de testes automatizados em seu time dev (en-us)</a>
+### <a href="https://www.youtube.com/watch?v=qy2O_tkUjnM" target="_blank">2022-09-29 - Chega do 'terminei só falta testar' - Criando uma prática de testes automatizados em seu time dev (pt-br)</a>
 
 
 Abstract:
@@ -1469,6 +1565,26 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_duckhunt-nodejs-javascript-activity-6999514707262885888-6ZVa?utm_source=share&utm_medium=member_desktop" target="_blank">2022-11-18 - Sextou emmmm! Consegui extender o projeto DuckHunt feito em JavaScript para usar o giroscópio do celular como um controlador 🤭 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_duckhunt-nodejs-javascript-activity-6999514707262885888-6ZVa?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Para quem acompanhou o outro video, eu estava usando Machine Learning com TensorFlow para reconhecer o movimento do celular como o disparo.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_javascript-designpatterns-100daysofcode-activity-6991405584075886592-a4le?utm_source=share&utm_medium=member_desktop" target="_blank">2022-10-28 - How to improve JavaScript performance while processing big collections using the Builder design pattern 🤯🤩 (en-us)</a>
 
@@ -6862,13 +6978,34 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 ## Conference Talks
 
+### 2022-11-26 - Como resolvi um bug no Node.js que afetou milhares de pacotes mundialmente (pt-br)
+
+
+<a href="https://devfestcerrado.com.br/" target="_blank">Dev Fest Cerrado 2022</a>
+
+
+  
+
+
+Abstract:
+
+> A jornada sobre como corrigi um bug no núcleo do Node.js que afetou milhares de pacotes
+> 
+> 
+
+
+_Tags: `nodejs`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-18.878831540966747,-48.246936766273215" target="_blank">Uberlândia - MG, Brasil</a>.
+
 ### 2022-09-17 - The Journey About How I Fixed a Bug in the Node.js Core That Affected Thousands of Packages (en-us)
 
 
 <a href="https://2022.jsconf.kr/en/speakers/erick-wendel" target="_blank">JS Conf Korea</a>
 
 
-  
+<a href="https://www.icloud.com/keynote/0ebVCpbGca71WwkLlffcaSsyQ#The_Journey_About_How_I_Fixed_a_Bug_in_the_Node.js_Core_that_Affected_Thousands_of_Packages_-_jsconfkorea_-_17092022" target="_blank">slides</a> |   <a href="https://youtu.be/cxUWZoirTZk" target="_blank">video</a>
 
 
 Abstract:
