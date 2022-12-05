@@ -1,5 +1,23 @@
 [
   {
+    "title": "Sextou emmmm! Consegui extender o projeto DuckHunt feito em JavaScript para usar o giroscópio do celular como um controlador 🤭",
+    "abstract": "Para quem acompanhou o outro video, eu estava usando Machine Learning com TensorFlow para reconhecer o movimento do celular como o disparo.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_duckhunt-nodejs-javascript-activity-6999514707262885888-6ZVa?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_duckhunt-nodejs-javascript-activity-6999514707262885888-6ZVa?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-11-18"
+  },
+  {
     "title": "How to improve JavaScript performance while processing big collections using the Builder design pattern 🤯🤩",
     "abstract": "The best thing you can do in JavaScript to process massive data collections in memory is to handle them on demand.",
     "type": "post",
