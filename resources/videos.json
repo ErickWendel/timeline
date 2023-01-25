@@ -1,5 +1,20 @@
 [
   {
+    "title": "Como hackeei um jogo antigo para controla-lo pelo giroscópio do meu celular com JavaScript",
+    "abstract": "Nesse vídeo vou te mostrar como hackeei o Duck Hunt para controlá-lo usando o giroscópio do meu celular",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/p_-RO6uH8Go",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-12-13"
+  },
+  {
     "title": "Como testar aplicações JavaScript sem frameworks com o Novo Node.js",
     "abstract": "Hoje vou contar sobre as novidades do Node.js test runner, o modulo nativo feito para te ajudar a testar aplicações complexas de forma simples.",
     "type": "video",
