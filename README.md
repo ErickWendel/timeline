@@ -16,8 +16,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2022/November - 2015/July 
-* **Videos**: 2022/November - 2016/September 
-* **Blog Posts**: 2022/November - 2015/February 
+* **Videos**: 2022/December - 2016/September 
+* **Blog Posts**: 2022/December - 2015/February 
 * **Conference Talks**: 2022/November - 2015/January 
 
 #### Presentations' number: 115
@@ -25,8 +25,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (11)](#projects)
-- [Videos (107)](#videos)
-- [Blog Posts (288)](#blog-posts)
+- [Videos (111)](#videos)
+- [Blog Posts (293)](#blog-posts)
 - [Conference Talks (115)](#conference-talks)
 
 ## Projects
@@ -183,6 +183,30 @@ _Tags: `translation`, `javascript`_
 
 ## Videos
 
+### <a href="https://youtu.be/p_-RO6uH8Go" target="_blank">2022-12-13 - Como hackeei um jogo antigo para controla-lo pelo giroscópio do meu celular com JavaScript (pt-br)</a>
+
+
+Abstract:
+
+> Nesse vídeo vou te mostrar como hackeei o Duck Hunt para controlá-lo usando o giroscópio do meu celular
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/Xyx_5F6IDqY" target="_blank">2022-11-23 - Como testar aplicações JavaScript sem frameworks com o Novo Node.js (pt-br)</a>
+
+
+Abstract:
+
+> Hoje vou contar sobre as novidades do Node.js test runner, o modulo nativo feito para te ajudar a testar aplicações complexas de forma simples.
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
 ### <a href="https://youtu.be/Xyx_5F6IDqY" target="_blank">2022-11-23 - Como testar aplicações JavaScript sem frameworks com o Novo Node.js (pt-br)</a>
 
 
@@ -206,6 +230,30 @@ Abstract:
 
 
 _Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/n0lNNu2qMcU" target="_blank">2022-11-22 - 5 aprendizados sobre Node.js que se aplicam para o frontend (qualquer framework) (pt-br)</a>
+
+
+Abstract:
+
+> Hoje vou contar sobre aprendizados que você pode utilizar do Backend direto no frontend para empoderar a forma com que escreve código em qualquer ambiente.
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/tNjmQxwD1TM" target="_blank">2022-11-03 - Node.js Streams + Rate Limiting = Mastering Data processing (advanced JavaScript) (en-us)</a>
+
+
+Abstract:
+
+> In this video, you'll learn how to process thousands of items in memory using Node.js Streams respecting rate limits
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`, `Streams`_
 
 ### <a href="https://youtu.be/tNjmQxwD1TM" target="_blank">2022-11-03 - Node.js Streams + Rate Limiting = Mastering Data processing (advanced JavaScript) (en-us)</a>
 
@@ -1565,6 +1613,106 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_machinelearning-tensorflow-js-activity-7009520916464300032-P0HG?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-16 - Running Machine Learning 100% on the browser using TensorFlow and Fingerpose.js 🤯🔥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_machinelearning-tensorflow-js-activity-7009520916464300032-P0HG?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> You won't believe that this code is running without any backend, and 100% in the browser 🤯
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-14 - Brincadeira da noite aqui! Usando TensorFlow.js para usar minhas mãos como o controle do jogo 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Eaí, acompanhou como hackeei esse jogo para controlá-lo com meu celular?
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-community-opensource-activity-7008794615457681408-L3Ub?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-14 - Bye-bye Sinon... Hello, Node.js 20 - using mocks, spies, and stubs natively in Node.js 🤯🔥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-community-opensource-activity-7008794615457681408-L3Ub?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Wowwwww, Node.js is on fire, my friends!
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_jsexpert-javascript-nodejs-activity-7005525737575182337-cjFi?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-05 - NestJS CLI, React CLI, Angular CLI... Mas e se você mesmo soubesse criar seu próprio gerador de código com JavaScript? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_jsexpert-javascript-nodejs-activity-7005525737575182337-cjFi?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Em minha vida de dev, o que eu mais curto fazer, é criar ferramentas para devs (e por isso faço parte do time de tooling do Node.js)
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-streams-activity-7004440440145899520-iXqW?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-02 - How to consume any Database as a Stream for heavy data processing using JavaScript 🤯🔥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-streams-activity-7004440440145899520-iXqW?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> The secret for processing anything using JavaScript is to handle data on demand.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_duckhunt-nodejs-javascript-activity-6999514707262885888-6ZVa?utm_source=share&utm_medium=member_desktop" target="_blank">2022-11-18 - Sextou emmmm! Consegui extender o projeto DuckHunt feito em JavaScript para usar o giroscópio do celular como um controlador 🤭 (pt-br)</a>
 
