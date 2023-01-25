@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "title": "Running Machine Learning 100% on the browser using TensorFlow and Fingerpose.js 🤯🔥",
     "abstract": "You won't believe that this code is running without any backend, and 100% in the browser 🤯",
     "type": "post",
@@ -90,6 +91,8 @@
     "date": "2022-12-02"
   },
   {
+=======
+>>>>>>> a57fcdf2416a7d96955ed28b611ce64117763117
     "title": "Sextou emmmm! Consegui extender o projeto DuckHunt feito em JavaScript para usar o giroscópio do celular como um controlador 🤭",
     "abstract": "Para quem acompanhou o outro video, eu estava usando Machine Learning com TensorFlow para reconhecer o movimento do celular como o disparo.",
     "type": "post",
