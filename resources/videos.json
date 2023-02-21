@@ -1,20 +1,5 @@
 [
   {
-    "title": "jess",
-    "abstract": "jess",
-    "type": "video",
-    "additionalLinks": [
-      ""
-    ],
-    "link": "link jess",
-    "tags": [
-      "Node.js",
-      "Javascript"
-    ],
-    "language": "jess",
-    "date": "2022-01-jess"
-  },
-  {
     "title": "A tour of my home studio + unboxing rare developer awards",
     "abstract": "In this video, I'm gonna show you the behind-the-scenes of my home studio and the rare pieces I've gathered",
     "type": "video",
@@ -41,7 +26,7 @@
       "Node.js",
       "Javascript"
     ],
-    "language": "jess",
+    "language": "pt-br",
     "date": "2022-01-16"
   },
   {
