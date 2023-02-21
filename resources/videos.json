@@ -1,4 +1,64 @@
 [
+  {
+    "title": "jess",
+    "abstract": "jess",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "link jess",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "jess",
+    "date": "2022-01-jess"
+  },
+  {
+    "title": "A tour of my home studio + unboxing rare developer awards",
+    "abstract": "In this video, I'm gonna show you the behind-the-scenes of my home studio and the rare pieces I've gathered",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/watch?v=5IZZYVeE8YQ",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2022-01-23"
+  },
+  {
+    "title": "Como ler 10GB de JSON no frontend sem travar a tela - Webstreams 101",
+    "abstract": "Consumir gigabytes de arquivo direto no frontend sem travar o backend, sem travar o frontend e melhor, com funcionalidade para cancelar requests. ",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/watch?v=-IpRYbL4yMk",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "jess",
+    "date": "2022-01-16"
+  },
+  {
+    "title": "Jest? C8? Istanbul? Creating your own code coverage tool using JavaScript, Node.js and the v8 engine",
+    "abstract": "Get ready to roll up your sleeves and build your very own code coverage tool from scratch!",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/watch?v=tDySiZck3jk",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2022-01-09"
+  },
     {
     "title": "Como hackeei um jogo antigo para controla-lo pelo giroscópio do meu celular com JavaScript",
     "abstract": "Nesse vídeo vou te mostrar como hackeei o Duck Hunt para controlá-lo usando o giroscópio do meu celular",
