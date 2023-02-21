@@ -25,7 +25,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (11)](#projects)
-- [Videos (116)](#videos)
+- [Videos (115)](#videos)
 - [Blog Posts (310)](#blog-posts)
 - [Conference Talks (115)](#conference-talks)
 
@@ -182,18 +182,6 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
-
-### <a href="link jess" target="_blank">2022-01-jess - jess (jess)</a>
-
-
-Abstract:
-
-> jess
-> 
-> 
-
-
-_Tags: `Node.js`, `Javascript`_
 
 ### <a href="https://youtu.be/p_-RO6uH8Go" target="_blank">2022-12-13 - Como hackeei um jogo antigo para controla-lo pelo giroscópio do meu celular com JavaScript (pt-br)</a>
 
@@ -675,7 +663,7 @@ Abstract:
 
 _Tags: `NodeJS`, `Javascript`_
 
-### <a href="https://www.youtube.com/watch?v=-IpRYbL4yMk" target="_blank">2022-01-16 - Como ler 10GB de JSON no frontend sem travar a tela - Webstreams 101 (jess)</a>
+### <a href="https://www.youtube.com/watch?v=-IpRYbL4yMk" target="_blank">2022-01-16 - Como ler 10GB de JSON no frontend sem travar a tela - Webstreams 101 (pt-br)</a>
 
 
 Abstract:
@@ -2934,7 +2922,7 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-js-activity-7023639461334818817-ls0K?utm_source=share&utm_medium=member_desktop" target="_blank">2022-01-24 - Sabia que é possível usar JavaScript para interpretar variáveis do bash direto do terminal? 🤯🔥 (jess)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-js-activity-7023639461334818817-ls0K?utm_source=share&utm_medium=member_desktop" target="_blank">2022-01-24 - Sabia que é possível usar JavaScript para interpretar variáveis do bash direto do terminal? 🤯🔥 (pt-br)</a>
 
 
 Portal:
