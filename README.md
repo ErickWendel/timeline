@@ -10117,4 +10117,3 @@ _Tags: `adwords`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-23.5506339,-46.5780888" target="_blank">São Paulo - SP, Brazil</a>.
-
