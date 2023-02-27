@@ -25,8 +25,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (11)](#projects)
-- [Videos (115)](#videos)
-- [Blog Posts (310)](#blog-posts)
+- [Videos (116)](#videos)
+- [Blog Posts (315)](#blog-posts)
 - [Conference Talks (115)](#conference-talks)
 
 ## Projects
@@ -182,6 +182,18 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/p_-RO6uH8Go" target="_blank">2022-12-13 - Como hackeei um jogo antigo para controla-lo pelo giroscópio do meu celular com JavaScript (pt-br)</a>
+
+
+Abstract:
+
+> Nesse vídeo vou te mostrar como hackeei o Duck Hunt para controlá-lo usando o giroscópio do meu celular
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
 
 ### <a href="https://youtu.be/p_-RO6uH8Go" target="_blank">2022-12-13 - Como hackeei um jogo antigo para controla-lo pelo giroscópio do meu celular com JavaScript (pt-br)</a>
 
@@ -1702,6 +1714,66 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
+### <a href="https://www.linkedin.com/posts/erickwendel_machinelearning-tensorflow-js-activity-7009520916464300032-P0HG?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-16 - Running Machine Learning 100% on the browser using TensorFlow and Fingerpose.js 🤯🔥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_machinelearning-tensorflow-js-activity-7009520916464300032-P0HG?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> You won't believe that this code is running without any backend, and 100% in the browser 🤯
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-14 - Brincadeira da noite aqui! Usando TensorFlow.js para usar minhas mãos como o controle do jogo 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Eaí, acompanhou como hackeei esse jogo para controlá-lo com meu celular?
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-community-opensource-activity-7008794615457681408-L3Ub?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-14 - Bye-bye Sinon... Hello, Node.js 20 - using mocks, spies, and stubs natively in Node.js 🤯🔥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-community-opensource-activity-7008794615457681408-L3Ub?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Wowwwww, Node.js is on fire, my friends!
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
 ### <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-14 - Brincadeira da noite aqui! Usando TensorFlow.js para usar minhas mãos como o controle do jogo 🔥 (pt-br)</a>
 
 
@@ -1813,6 +1885,46 @@ Portal:
 Abstract:
 
 > Em minha vida de dev, o que eu mais curto fazer, é criar ferramentas para devs (e por isso faço parte do time de tooling do Node.js)
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_jsexpert-javascript-nodejs-activity-7005525737575182337-cjFi?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-05 - NestJS CLI, React CLI, Angular CLI... Mas e se você mesmo soubesse criar seu próprio gerador de código com JavaScript? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_jsexpert-javascript-nodejs-activity-7005525737575182337-cjFi?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Em minha vida de dev, o que eu mais curto fazer, é criar ferramentas para devs (e por isso faço parte do time de tooling do Node.js)
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-streams-activity-7004440440145899520-iXqW?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-02 - How to consume any Database as a Stream for heavy data processing using JavaScript 🤯🔥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-streams-activity-7004440440145899520-iXqW?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> The secret for processing anything using JavaScript is to handle data on demand.
 > 
 > <b>Links</b>
 > 
@@ -10117,3 +10229,4 @@ _Tags: `adwords`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-23.5506339,-46.5780888" target="_blank">São Paulo - SP, Brazil</a>.
+
