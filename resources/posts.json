@@ -1,94 +1,4 @@
 [
-    {
-    "title": "Running Machine Learning 100% on the browser using TensorFlow and Fingerpose.js 🤯🔥",
-    "abstract": "You won't believe that this code is running without any backend, and 100% in the browser 🤯",
-    "type": "post",
-    "link": "https://www.linkedin.com/posts/erickwendel_machinelearning-tensorflow-js-activity-7009520916464300032-P0HG?utm_source=share&utm_medium=member_desktop",
-    "additionalLinks": [
-      " "
-    ],
-    "portal": {
-      "link": "https://www.linkedin.com/posts/erickwendel_machinelearning-tensorflow-js-activity-7009520916464300032-P0HG?utm_source=share&utm_medium=member_desktop",
-      "name": "Linkedin Post"
-    },
-    "tags": [
-      "linkedinPost"
-    ],
-    "language": "en-us",
-    "date": "2022-12-16"
-  },
-  {
-    "title": "Brincadeira da noite aqui! Usando TensorFlow.js para usar minhas mãos como o controle do jogo 🔥",
-    "abstract": "Eaí, acompanhou como hackeei esse jogo para controlá-lo com meu celular?",
-    "type": "post",
-    "link": "https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop",
-    "additionalLinks": [
-      " "
-    ],
-    "portal": {
-      "link": "https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop",
-      "name": "Linkedin Post"
-    },
-    "tags": [
-      "linkedinPost"
-    ],
-    "language": "pt-br",
-    "date": "2022-12-14"
-  },
-  {
-    "title": "Bye-bye Sinon... Hello, Node.js 20 - using mocks, spies, and stubs natively in Node.js 🤯🔥",
-    "abstract": "Wowwwww, Node.js is on fire, my friends!",
-    "type": "post",
-    "link": "https://www.linkedin.com/posts/erickwendel_javascript-community-opensource-activity-7008794615457681408-L3Ub?utm_source=share&utm_medium=member_desktop",
-    "additionalLinks": [
-      " "
-    ],
-    "portal": {
-      "link": "https://www.linkedin.com/posts/erickwendel_javascript-community-opensource-activity-7008794615457681408-L3Ub?utm_source=share&utm_medium=member_desktop",
-      "name": "Linkedin Post"
-    },
-    "tags": [
-      "linkedinPost"
-    ],
-    "language": "en-us",
-    "date": "2022-12-14"
-  },
-  {
-    "title": "NestJS CLI, React CLI, Angular CLI... Mas e se você mesmo soubesse criar seu próprio gerador de código com JavaScript? 🔥",
-    "abstract": "Em minha vida de dev, o que eu mais curto fazer, é criar ferramentas para devs (e por isso faço parte do time de tooling do Node.js)",
-    "type": "post",
-    "link": "https://www.linkedin.com/posts/erickwendel_jsexpert-javascript-nodejs-activity-7005525737575182337-cjFi?utm_source=share&utm_medium=member_desktop",
-    "additionalLinks": [
-      " "
-    ],
-    "portal": {
-      "link": "https://www.linkedin.com/posts/erickwendel_jsexpert-javascript-nodejs-activity-7005525737575182337-cjFi?utm_source=share&utm_medium=member_desktop",
-      "name": "Linkedin Post"
-    },
-    "tags": [
-      "linkedinPost"
-    ],
-    "language": "pt-br",
-    "date": "2022-12-05"
-  },
-  {
-    "title": "How to consume any Database as a Stream for heavy data processing using JavaScript 🤯🔥",
-    "abstract": "The secret for processing anything using JavaScript is to handle data on demand.",
-    "type": "post",
-    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-streams-activity-7004440440145899520-iXqW?utm_source=share&utm_medium=member_desktop",
-    "additionalLinks": [
-      " "
-    ],
-    "portal": {
-      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-streams-activity-7004440440145899520-iXqW?utm_source=share&utm_medium=member_desktop",
-      "name": "Linkedin Post"
-    },
-    "tags": [
-      "linkedinPost"
-    ],
-    "language": "en-us",
-    "date": "2022-12-02"
-  },
   {
     "title": "What if Node.js used Mozilla's SpiderMonkey instead of Chrome's V8? 🤯🔥",
     "abstract": "One of the best videos I've ever recorded is the one I teach how to recreate Node.js from Scratch",
@@ -105,7 +15,7 @@
       "linkedinPost"
     ],
     "language": "en-us",
-    "date": "2022-01-30"
+    "date": "2023-01-30"
   },
   {
     "title": "Será que implementar testes automatizados é tão demorado e custoso como falam? 😬",
@@ -123,7 +33,7 @@
       "linkedinPost"
     ],
     "language": "pt-br",
-    "date": "2022-01-26"
+    "date": "2023-01-26"
   },
   {
     "title": "Implementing the WebSocket protocol from scratch using Node.js",
@@ -141,7 +51,7 @@
       "linkedinPost"
     ],
     "language": "en-us",
-    "date": "2022-01-25"
+    "date": "2023-01-25"
   },
   {
     "title": "Sabia que é possível usar JavaScript para interpretar variáveis do bash direto do terminal? 🤯🔥",
@@ -159,7 +69,7 @@
       "linkedinPost"
     ],
     "language": "pt-br",
-    "date": "2022-01-24"
+    "date": "2023-01-24"
   },
   {
     "title": "Top 5 tecnologias que eu, Erick, estou mais animado para aprender sobre 🤯🤩",
@@ -177,7 +87,7 @@
       "linkedinPost"
     ],
     "language": "pt-br",
-    "date": "2022-01-18"
+    "date": "2023-01-18"
   },
   {
     "title": "Top 5 tips to skill up your JavaScript in 2023 🔥🚀",
@@ -195,7 +105,7 @@
       "linkedinPost"
     ],
     "language": "en-us",
-    "date": "2022-01-17"
+    "date": "2023-01-17"
   },
   {
     "title": "Qual é a mágica por trás de uma ferramenta de code coverage como o Jest, C8 ou nyc 🤯🔥",
@@ -213,7 +123,7 @@
       "linkedinPost"
     ],
     "language": "pt-br",
-    "date": "2022-01-12"
+    "date": "2023-01-12"
   },
   {
     "title": "How C++ has beaten Rust+WebAssembly in Node.js 🤯🔥",
@@ -231,7 +141,7 @@
       "linkedinPost"
     ],
     "language": "en-us",
-    "date": "2022-01-11"
+    "date": "2023-01-11"
   },
   {
     "title": "Por que é tão difícil aprender inglês no Brasil? 😬😱",
@@ -249,7 +159,7 @@
       "linkedinPost"
     ],
     "language": "pt-br",
-    "date": "2022-01-10"
+    "date": "2023-01-10"
   },
   {
     "title": "Python has 'with' statement, C# has 'using', well... JavaScript would soon have something similar 🤯😬",
@@ -267,7 +177,7 @@
       "linkedinPost"
     ],
     "language": "en-us",
-    "date": "2022-01-06"
+    "date": "2023-01-06"
   },
   {
     "title": "wowwww I fixed a bug in the Node.js core that allows you now mock static and instance methods in JS classes 🤯🤩",
@@ -285,7 +195,7 @@
       "linkedinPost"
     ],
     "language": "en-us",
-    "date": "2022-01-04"
+    "date": "2023-01-04"
   },
   {
     "title": "Como era a internet 13 anos atrás? O Node.js foi lançado em 2009 mas em 2010 já tinham brasileiros falando sobre 🤯",
@@ -303,7 +213,7 @@
       "linkedinPost"
     ],
     "language": "pt-br",
-    "date": "2022-01-03"
+    "date": "2023-01-03"
   },
     {
     "title": "Running Machine Learning 100% on the browser using TensorFlow and Fingerpose.js 🤯🔥",
@@ -340,168 +250,6 @@
     ],
     "language": "pt-br",
     "date": "2022-12-14"
-  },
-  {
-    "title": "Bye-bye Sinon... Hello, Node.js 20 - using mocks, spies, and stubs natively in Node.js 🤯🔥",
-    "abstract": "Wowwwww, Node.js is on fire, my friends!",
-    "type": "post",
-    "link": "https://www.linkedin.com/posts/erickwendel_javascript-community-opensource-activity-7008794615457681408-L3Ub?utm_source=share&utm_medium=member_desktop",
-    "additionalLinks": [
-      " "
-    ],
-    "portal": {
-      "link": "https://www.linkedin.com/posts/erickwendel_javascript-community-opensource-activity-7008794615457681408-L3Ub?utm_source=share&utm_medium=member_desktop",
-      "name": "Linkedin Post"
-    },
-    "tags": [
-      "linkedinPost"
-    ],
-    "language": "en-us",
-    "date": "2022-12-14"
-  },
-  {
-    "title": "NestJS CLI, React CLI, Angular CLI... Mas e se você mesmo soubesse criar seu próprio gerador de código com JavaScript? 🔥",
-    "abstract": "Em minha vida de dev, o que eu mais curto fazer, é criar ferramentas para devs (e por isso faço parte do time de tooling do Node.js)",
-    "type": "post",
-    "link": "https://www.linkedin.com/posts/erickwendel_jsexpert-javascript-nodejs-activity-7005525737575182337-cjFi?utm_source=share&utm_medium=member_desktop",
-    "additionalLinks": [
-      " "
-    ],
-    "portal": {
-      "link": "https://www.linkedin.com/posts/erickwendel_jsexpert-javascript-nodejs-activity-7005525737575182337-cjFi?utm_source=share&utm_medium=member_desktop",
-      "name": "Linkedin Post"
-    },
-    "tags": [
-      "linkedinPost"
-    ],
-    "language": "pt-br",
-    "date": "2022-12-05"
-  },
-  {
-    "title": "How to consume any Database as a Stream for heavy data processing using JavaScript 🤯🔥",
-    "abstract": "The secret for processing anything using JavaScript is to handle data on demand.",
-    "type": "post",
-    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-streams-activity-7004440440145899520-iXqW?utm_source=share&utm_medium=member_desktop",
-    "additionalLinks": [
-      " "
-    ],
-    "portal": {
-      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-streams-activity-7004440440145899520-iXqW?utm_source=share&utm_medium=member_desktop",
-      "name": "Linkedin Post"
-    },
-    "tags": [
-      "linkedinPost"
-    ],
-    "language": "en-us",
-    "date": "2022-12-02"
-  },
-  {
-    "title": "Running Machine Learning 100% on the browser using TensorFlow and Fingerpose.js 🤯🔥",
-    "abstract": "You won't believe that this code is running without any backend, and 100% in the browser 🤯",
-    "type": "post",
-    "link": "https://www.linkedin.com/posts/erickwendel_machinelearning-tensorflow-js-activity-7009520916464300032-P0HG?utm_source=share&utm_medium=member_desktop",
-    "additionalLinks": [
-      " "
-    ],
-    "portal": {
-      "link": "https://www.linkedin.com/posts/erickwendel_machinelearning-tensorflow-js-activity-7009520916464300032-P0HG?utm_source=share&utm_medium=member_desktop",
-      "name": "Linkedin Post"
-    },
-    "tags": [
-      "linkedinPost"
-    ],
-    "language": "en-us",
-    "date": "2022-12-16"
-  },
-  {
-    "title": "Brincadeira da noite aqui! Usando TensorFlow.js para usar minhas mãos como o controle do jogo 🔥",
-    "abstract": "Eaí, acompanhou como hackeei esse jogo para controlá-lo com meu celular?",
-    "type": "post",
-    "link": "https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop",
-    "additionalLinks": [
-      " "
-    ],
-    "portal": {
-      "link": "https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop",
-      "name": "Linkedin Post"
-    },
-    "tags": [
-      "linkedinPost"
-    ],
-    "language": "pt-br",
-    "date": "2022-12-14"
-  },
-  {
-    "title": "Bye-bye Sinon... Hello, Node.js 20 - using mocks, spies, and stubs natively in Node.js 🤯🔥",
-    "abstract": "Wowwwww, Node.js is on fire, my friends!",
-    "type": "post",
-    "link": "https://www.linkedin.com/posts/erickwendel_javascript-community-opensource-activity-7008794615457681408-L3Ub?utm_source=share&utm_medium=member_desktop",
-    "additionalLinks": [
-      " "
-    ],
-    "portal": {
-      "link": "https://www.linkedin.com/posts/erickwendel_javascript-community-opensource-activity-7008794615457681408-L3Ub?utm_source=share&utm_medium=member_desktop",
-      "name": "Linkedin Post"
-    },
-    "tags": [
-      "linkedinPost"
-    ],
-    "language": "en-us",
-    "date": "2022-12-14"
-  },
-  {
-    "title": "NestJS CLI, React CLI, Angular CLI... Mas e se você mesmo soubesse criar seu próprio gerador de código com JavaScript? 🔥",
-    "abstract": "Em minha vida de dev, o que eu mais curto fazer, é criar ferramentas para devs (e por isso faço parte do time de tooling do Node.js)",
-    "type": "post",
-    "link": "https://www.linkedin.com/posts/erickwendel_jsexpert-javascript-nodejs-activity-7005525737575182337-cjFi?utm_source=share&utm_medium=member_desktop",
-    "additionalLinks": [
-      " "
-    ],
-    "portal": {
-      "link": "https://www.linkedin.com/posts/erickwendel_jsexpert-javascript-nodejs-activity-7005525737575182337-cjFi?utm_source=share&utm_medium=member_desktop",
-      "name": "Linkedin Post"
-    },
-    "tags": [
-      "linkedinPost"
-    ],
-    "language": "pt-br",
-    "date": "2022-12-05"
-  },
-  {
-    "title": "How to consume any Database as a Stream for heavy data processing using JavaScript 🤯🔥",
-    "abstract": "The secret for processing anything using JavaScript is to handle data on demand.",
-    "type": "post",
-    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-streams-activity-7004440440145899520-iXqW?utm_source=share&utm_medium=member_desktop",
-    "additionalLinks": [
-      " "
-    ],
-    "portal": {
-      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-streams-activity-7004440440145899520-iXqW?utm_source=share&utm_medium=member_desktop",
-      "name": "Linkedin Post"
-    },
-    "tags": [
-      "linkedinPost"
-    ],
-    "language": "en-us",
-    "date": "2022-12-02"
-  },
-  {
-    "title": "Running Machine Learning 100% on the browser using TensorFlow and Fingerpose.js 🤯🔥",
-    "abstract": "You won't believe that this code is running without any backend, and 100% in the browser 🤯",
-    "type": "post",
-    "link": "https://www.linkedin.com/posts/erickwendel_machinelearning-tensorflow-js-activity-7009520916464300032-P0HG?utm_source=share&utm_medium=member_desktop",
-    "additionalLinks": [
-      " "
-    ],
-    "portal": {
-      "link": "https://www.linkedin.com/posts/erickwendel_machinelearning-tensorflow-js-activity-7009520916464300032-P0HG?utm_source=share&utm_medium=member_desktop",
-      "name": "Linkedin Post"
-    },
-    "tags": [
-      "linkedinPost"
-    ],
-    "language": "en-us",
-    "date": "2022-12-16"
   },
   {
     "title": "Brincadeira da noite aqui! Usando TensorFlow.js para usar minhas mãos como o controle do jogo 🔥",
