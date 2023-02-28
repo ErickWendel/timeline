@@ -44,6 +44,82 @@
     "language": "en-us",
     "date": "2022-01-09"
   },
+    {
+    "title": "Como hackeei um jogo antigo para controla-lo pelo giroscópio do meu celular com JavaScript",
+    "abstract": "Nesse vídeo vou te mostrar como hackeei o Duck Hunt para controlá-lo usando o giroscópio do meu celular",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/p_-RO6uH8Go",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-12-13"
+  },
+  {
+    "title": "Como hackeei um jogo antigo para controla-lo pelo giroscópio do meu celular com JavaScript",
+    "abstract": "Nesse vídeo vou te mostrar como hackeei o Duck Hunt para controlá-lo usando o giroscópio do meu celular",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/p_-RO6uH8Go",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-12-13"
+  },
+  {
+    "title": "Como testar aplicações JavaScript sem frameworks com o Novo Node.js",
+    "abstract": "Hoje vou contar sobre as novidades do Node.js test runner, o modulo nativo feito para te ajudar a testar aplicações complexas de forma simples.",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/Xyx_5F6IDqY",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-11-23"
+  },
+  {
+    "title": "5 aprendizados sobre Node.js que se aplicam para o frontend (qualquer framework)",
+    "abstract": "Hoje vou contar sobre aprendizados que você pode utilizar do Backend direto no frontend para empoderar a forma com que escreve código em qualquer ambiente.",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/n0lNNu2qMcU",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2022-11-22"
+  },
+  {
+    "title": "Node.js Streams + Rate Limiting = Mastering Data processing (advanced JavaScript)",
+    "abstract": "In this video, you'll learn how to process thousands of items in memory using Node.js Streams respecting rate limits",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/tNjmQxwD1TM",
+    "tags": [
+      "Node.js",
+      "Javascript",
+      "Streams"
+    ],
+    "language": "en-us",
+    "date": "2022-11-03"
+  },
   {
     "title": "Como hackeei um jogo antigo para controla-lo pelo giroscópio do meu celular com JavaScript",
     "abstract": "Nesse vídeo vou te mostrar como hackeei o Duck Hunt para controlá-lo usando o giroscópio do meu celular",

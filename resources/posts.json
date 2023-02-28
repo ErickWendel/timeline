@@ -252,6 +252,24 @@
     "date": "2022-12-14"
   },
   {
+    "title": "Brincadeira da noite aqui! Usando TensorFlow.js para usar minhas mãos como o controle do jogo 🔥",
+    "abstract": "Eaí, acompanhou como hackeei esse jogo para controlá-lo com meu celular?",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2022-12-14"
+  },
+  {
     "title": "Bye-bye Sinon... Hello, Node.js 20 - using mocks, spies, and stubs natively in Node.js 🤯🔥",
     "abstract": "Wowwwww, Node.js is on fire, my friends!",
     "type": "post",
