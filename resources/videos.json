@@ -1,19 +1,4 @@
 [
-    {
-    "title": "Como hackeei um jogo antigo para controla-lo pelo giroscópio do meu celular com JavaScript",
-    "abstract": "Nesse vídeo vou te mostrar como hackeei o Duck Hunt para controlá-lo usando o giroscópio do meu celular",
-    "type": "video",
-    "additionalLinks": [
-      ""
-    ],
-    "link": "https://youtu.be/p_-RO6uH8Go",
-    "tags": [
-      "Node.js",
-      "Javascript"
-    ],
-    "language": "pt-br",
-    "date": "2022-12-13"
-  },
   {
     "title": "A tour of my home studio + unboxing rare developer awards",
     "abstract": "In this video, I'm gonna show you the behind-the-scenes of my home studio and the rare pieces I've gathered",
@@ -58,21 +43,6 @@
     ],
     "language": "en-us",
     "date": "2022-01-09"
-  },
-    {
-    "title": "Como hackeei um jogo antigo para controla-lo pelo giroscópio do meu celular com JavaScript",
-    "abstract": "Nesse vídeo vou te mostrar como hackeei o Duck Hunt para controlá-lo usando o giroscópio do meu celular",
-    "type": "video",
-    "additionalLinks": [
-      ""
-    ],
-    "link": "https://youtu.be/p_-RO6uH8Go",
-    "tags": [
-      "Node.js",
-      "Javascript"
-    ],
-    "language": "pt-br",
-    "date": "2022-12-13"
   },
   {
     "title": "Como hackeei um jogo antigo para controla-lo pelo giroscópio do meu celular com JavaScript",
