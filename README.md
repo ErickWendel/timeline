@@ -16,7 +16,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2022/November - 2015/July 
-* **Videos**: 2022/December - 2016/September 
+* **Videos**: 2023/January - 2016/September 
 * **Blog Posts**: 2023/January - 2015/February 
 * **Conference Talks**: 2022/November - 2015/January 
 
@@ -182,6 +182,42 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://www.youtube.com/watch?v=5IZZYVeE8YQ" target="_blank">2023-01-23 - A tour of my home studio + unboxing rare developer awards (en-us)</a>
+
+
+Abstract:
+
+> In this video, I'm gonna show you the behind-the-scenes of my home studio and the rare pieces I've gathered
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://www.youtube.com/watch?v=-IpRYbL4yMk" target="_blank">2023-01-16 - Como ler 10GB de JSON no frontend sem travar a tela - Webstreams 101 (pt-br)</a>
+
+
+Abstract:
+
+> Consumir gigabytes de arquivo direto no frontend sem travar o backend, sem travar o frontend e melhor, com funcionalidade para cancelar requests. 
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://www.youtube.com/watch?v=tDySiZck3jk" target="_blank">2023-01-09 - Jest? C8? Istanbul? Creating your own code coverage tool using JavaScript, Node.js and the v8 engine (en-us)</a>
+
+
+Abstract:
+
+> Get ready to roll up your sleeves and build your very own code coverage tool from scratch!
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
 
 ### <a href="https://youtu.be/p_-RO6uH8Go" target="_blank">2022-12-13 - Como hackeei um jogo antigo para controla-lo pelo giroscópio do meu celular com JavaScript (pt-br)</a>
 
@@ -687,18 +723,6 @@ Abstract:
 
 _Tags: `Performance`, `Javascript`_
 
-### <a href="https://www.youtube.com/watch?v=5IZZYVeE8YQ" target="_blank">2022-01-23 - A tour of my home studio + unboxing rare developer awards (en-us)</a>
-
-
-Abstract:
-
-> In this video, I'm gonna show you the behind-the-scenes of my home studio and the rare pieces I've gathered
-> 
-> 
-
-
-_Tags: `Node.js`, `Javascript`_
-
 ### <a href="https://youtu.be/rcQgqerZ48E" target="_blank">2022-01-17 - Para que serve um Generator em JavaScript? Qual é o seu caso de uso perfeito ? (pt-br)</a>
 
 
@@ -711,18 +735,6 @@ Abstract:
 
 _Tags: `NodeJS`, `Javascript`_
 
-### <a href="https://www.youtube.com/watch?v=-IpRYbL4yMk" target="_blank">2022-01-16 - Como ler 10GB de JSON no frontend sem travar a tela - Webstreams 101 (pt-br)</a>
-
-
-Abstract:
-
-> Consumir gigabytes de arquivo direto no frontend sem travar o backend, sem travar o frontend e melhor, com funcionalidade para cancelar requests. 
-> 
-> 
-
-
-_Tags: `Node.js`, `Javascript`_
-
 ### <a href="https://youtu.be/fCfmW_yZVeI" target="_blank">2022-01-10 - O passo a passo de como resolvi um Bug crítico no coração do Node.js (pt-br)</a>
 
 
@@ -734,18 +746,6 @@ Abstract:
 
 
 _Tags: `NodeJS`, `Javascript`_
-
-### <a href="https://www.youtube.com/watch?v=tDySiZck3jk" target="_blank">2022-01-09 - Jest? C8? Istanbul? Creating your own code coverage tool using JavaScript, Node.js and the v8 engine (en-us)</a>
-
-
-Abstract:
-
-> Get ready to roll up your sleeves and build your very own code coverage tool from scratch!
-> 
-> 
-
-
-_Tags: `Node.js`, `Javascript`_
 
 ### <a href="https://youtu.be/vyRKmL3oDbY" target="_blank">2022-01-05 - Como Resolvi o Segundo Desafio do Treinamento JS Expert - Bate papo com alunos (pt-br)</a>
 
