@@ -1,5 +1,35 @@
 [
     {
+        "title": "JSExpertMax Gesture Controller - Semana JS Expert 7.0",
+        "abstract": "JS Expert Week 7.0 - 🙅🤏🏻 Controlling Streaming Platforms using Eye and Hand Detection 👁🖐",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/semana-javascript-expert07",
+        "tags": ["machine learning", "nodejs"],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-02-27"
+    },
+    {
+        "title": "processing-large-reports-in-the-browser",
+        "abstract": "This is the examples shown in my live screen about Recognizing gestures in real time right from the browser (pt-br)",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/processing-large-reports-in-the-browser",
+        "tags": ["machine learning", "nodejs"],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-02-23"
+    },
+    {
+        "title": "live-recognizing-multiple-gestures-tensorflowjs",
+        "abstract": "This is the examples shown in my live screen about Recognizing gestures in real time right from the browser (pt-br)",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/live-recognizing-multiple-gestures-tensorflowjs",
+        "tags": ["machine learning", "nodejs"],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-02-16"
+    },
+    {
         "title": "DUCK HUNT JS v4.0",
         "abstract": "(fork) DuckHunt 4.0 ported to JS and HTML5 + Mobile Device control via Gyroscope in the browser",
         "type": "project",

@@ -1,5 +1,49 @@
 [
   {
+    "title": "Performance e multithreading em navegadores + ECMAScript Modules em Web Workers",
+    "abstract": "Nesse video vou te apresentar como fazer com que funções pesadas sejam executadas em segundo plano no navegador com Web Workers.",
+    "additionalLinks": [
+      "https://github.com/ErickWendel/processing-large-reports-in-the-browser"
+    ],
+    "link": "https://www.youtube.com/live/-wXPxJYhZeI?feature=share",
+    "tags": [
+      "Node.js",
+      "Javascript",
+      "Machine Learning"
+    ],
+    "language": "pt-br",
+    "date": "2023-02-23"
+  },
+  {
+    "title": "Reconhecendo gestos em tempo real direto do navegador - Machine Learning para Web Developers",
+    "abstract": " Nesse video vou te mostrar como reconhecer gestos em tempo real a partir da sua webcam usando #JavaScript, #TensorFlow.js e o pacote #fingerpose.",
+    "additionalLinks": [
+      "https://github.com/ErickWendel/live-recognizing-multiple-gestures-tensorflowjs"
+    ],
+    "link": "https://www.youtube.com/live/MeS6dX2a2zQ?feature=share",
+    "tags": [
+      "Node.js",
+      "Javascript",
+      "Machine Learning"
+    ],
+    "language": "pt-br",
+    "date": "2023-02-16"
+  },
+  {
+    "title": "Consumindo e editando videos sob demanda em Web APIs usando Node.js Streams e FFmpeg",
+    "abstract": " Nesse video vou te mostrar como produzir e consumir videos sob demanda em Web APIs usando a biblioteca FFmpeg",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/live/RixFzeltO68?feature=share",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2023-02-02"
+  },
+  {
     "title": "A tour of my home studio + unboxing rare developer awards",
     "abstract": "In this video, I'm gonna show you the behind-the-scenes of my home studio and the rare pieces I've gathered",
     "type": "video",
