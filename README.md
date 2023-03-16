@@ -15,21 +15,33 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 ### Contributions Summary
 
-* **Projects**: 2023/February - 2015/July 
+* **Projects**: 2023/March - 2015/July 
 * **Videos**: 2023/February - 2016/September 
-* **Blog Posts**: 2023/February - 2015/February 
-* **Conference Talks**: 2022/November - 2015/January 
+* **Blog Posts**: 2023/March - 2015/February 
+* **Conference Talks**: 2023/March - 2015/January 
 
-#### Presentations' number: 115
+#### Presentations' number: 116
 
 ## Table of Contents
 
-- [Projects (14)](#projects)
+- [Projects (15)](#projects)
 - [Videos (122)](#videos)
-- [Blog Posts (308)](#blog-posts)
-- [Conference Talks (115)](#conference-talks)
+- [Blog Posts (311)](#blog-posts)
+- [Conference Talks (116)](#conference-talks)
 
 ## Projects
+
+### <a href="https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk" target="_blank">2023-03-11 - 5 golden lessons about Node.js that apply to the frontend development (or any environment) (pt-br)</a>
+
+
+Abstract:
+
+> Examples of my talk given in Brazilian Portuguese at #DevPR at 11/03/2023
+> 
+> 
+
+
+_Tags: `frontend`, `javascript`, `nodejs`_
 
 ### <a href="https://github.com/ErickWendel/semana-javascript-expert07" target="_blank">2023-02-27 - JSExpertMax Gesture Controller - Semana JS Expert 7.0 (en-us)</a>
 
@@ -1787,6 +1799,66 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_webcontainers-future-javascript-activity-7041765090093674498-nN9o?utm_source=share&utm_medium=member_desktop" target="_blank">2023-03-15 - Why WebAssembly is the Key to Cost Savings and Improved User Experience 🤯🔥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_webcontainers-future-javascript-activity-7041765090093674498-nN9o?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> The Web is reaching a point that blows my mind every day 🤯🥳
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_pas-activity-7039599223041867776-4p-n?utm_source=share&utm_medium=member_desktop" target="_blank">2023-03-09 - Melhorar a performance de aplicações não deveria ser algo incrível 👀🥵 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_pas-activity-7039599223041867776-4p-n?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sim, eu acredito que deveria ser o básico!
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-opensource-nodejs-activity-7039235997242408960-Se9V?utm_source=share&utm_medium=member_desktop" target="_blank">2023-03-08 - Resolvi um novo bug crítico no Node.js core com apenas UMA LINHA de código🤯 (e 30 linhas de testes 🥳) (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-opensource-nodejs-activity-7039235997242408960-Se9V?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Ontem saiu o Node.js v18.15 com uma pancada de coisas legais e esse bug eu havia corrigido no 19 e finalmente ele veio para a versão LTS
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-javascript-machinelearning-activity-7031257064047833090-8DLm?utm_source=share&utm_medium=member_desktop" target="_blank">2023-02-14 - Triplicando a performance de aplicações no navegador 🔥🤩 (pt-br)</a>
 
@@ -7599,6 +7671,30 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2023-03-11 - 5 aprendizados incríveis sobre backend que se aplicam para o frontend (pt-br)
+
+
+<a href="https://www.linkedin.com/company/devparana/" target="_blank">Dev Paraná Conf 2023</a>
+
+
+  
+
+
+Abstract:
+
+> Sobre padrões de projeto, práticas de testes unitários, performance, multithreading, webassembly, streams e MUITO mais.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk" target="_blank">https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk</a>
+> 
+
+
+_Tags: `nodejs`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.4108407,-52.1106945" target="_blank">Maringá - PR, Brasil</a>.
 
 ### 2022-11-26 - Como resolvi um bug no Node.js que afetou milhares de pacotes mundialmente (pt-br)
 
