@@ -1,5 +1,41 @@
 [
   {
+    "title": "Triplicando a performance de aplicações no navegador 🔥🤩",
+    "abstract": "Estou aqui trabalhando na #SemanaJSExpert e trouxe um experimento bem bacana para otimizar no navegador",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_semanajsexpert-javascript-machinelearning-activity-7031257064047833090-8DLm?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_semanajsexpert-javascript-machinelearning-activity-7031257064047833090-8DLm?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-02-14"
+  },
+  {
+    "title": "Como alterei um projeto open source para reconhecer dois gestos de mãos simultaneamente 🤯🔥",
+    "abstract": "Se você está me acompanhando aqui nas redes, deve ter notado o quão animado estou para projetos",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_machinelearning-javascript-nodejs-activity-7029076260341362688-7YMo?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_machinelearning-javascript-nodejs-activity-7029076260341362688-7YMo?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-02-08"
+  },
+  {
     "title": "What if Node.js used Mozilla's SpiderMonkey instead of Chrome's V8? 🤯🔥",
     "abstract": "One of the best videos I've ever recorded is the one I teach how to recreate Node.js from Scratch",
     "type": "post",

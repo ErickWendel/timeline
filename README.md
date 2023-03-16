@@ -15,21 +15,57 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 ### Contributions Summary
 
-* **Projects**: 2022/November - 2015/July 
-* **Videos**: 2023/January - 2016/September 
-* **Blog Posts**: 2023/January - 2015/February 
+* **Projects**: 2023/February - 2015/July 
+* **Videos**: 2023/February - 2016/September 
+* **Blog Posts**: 2023/February - 2015/February 
 * **Conference Talks**: 2022/November - 2015/January 
 
 #### Presentations' number: 115
 
 ## Table of Contents
 
-- [Projects (11)](#projects)
-- [Videos (119)](#videos)
-- [Blog Posts (306)](#blog-posts)
+- [Projects (14)](#projects)
+- [Videos (122)](#videos)
+- [Blog Posts (308)](#blog-posts)
 - [Conference Talks (115)](#conference-talks)
 
 ## Projects
+
+### <a href="https://github.com/ErickWendel/semana-javascript-expert07" target="_blank">2023-02-27 - JSExpertMax Gesture Controller - Semana JS Expert 7.0 (en-us)</a>
+
+
+Abstract:
+
+> JS Expert Week 7.0 - 🙅🤏🏻 Controlling Streaming Platforms using Eye and Hand Detection 👁🖐
+> 
+> 
+
+
+_Tags: `machine learning`, `nodejs`_
+
+### <a href="https://github.com/ErickWendel/processing-large-reports-in-the-browser" target="_blank">2023-02-23 - processing-large-reports-in-the-browser (en-us)</a>
+
+
+Abstract:
+
+> This is the examples shown in my live screen about Recognizing gestures in real time right from the browser (pt-br)
+> 
+> 
+
+
+_Tags: `machine learning`, `nodejs`_
+
+### <a href="https://github.com/ErickWendel/live-recognizing-multiple-gestures-tensorflowjs" target="_blank">2023-02-16 - live-recognizing-multiple-gestures-tensorflowjs (en-us)</a>
+
+
+Abstract:
+
+> This is the examples shown in my live screen about Recognizing gestures in real time right from the browser (pt-br)
+> 
+> 
+
+
+_Tags: `machine learning`, `nodejs`_
 
 ### <a href="https://github.com/ErickWendel/DuckHunt-JS" target="_blank">2022-11-03 - DUCK HUNT JS v4.0 (en-us)</a>
 
@@ -182,6 +218,48 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://www.youtube.com/live/-wXPxJYhZeI?feature=share" target="_blank">2023-02-23 - Performance e multithreading em navegadores + ECMAScript Modules em Web Workers (pt-br)</a>
+
+
+Abstract:
+
+> Nesse video vou te apresentar como fazer com que funções pesadas sejam executadas em segundo plano no navegador com Web Workers.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/processing-large-reports-in-the-browser" target="_blank">https://github.com/ErickWendel/processing-large-reports-in-the-browser</a>
+> 
+
+
+_Tags: `Node.js`, `Javascript`, `Machine Learning`_
+
+### <a href="https://www.youtube.com/live/MeS6dX2a2zQ?feature=share" target="_blank">2023-02-16 - Reconhecendo gestos em tempo real direto do navegador - Machine Learning para Web Developers (pt-br)</a>
+
+
+Abstract:
+
+>  Nesse video vou te mostrar como reconhecer gestos em tempo real a partir da sua webcam usando #JavaScript, #TensorFlow.js e o pacote #fingerpose.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/live-recognizing-multiple-gestures-tensorflowjs" target="_blank">https://github.com/ErickWendel/live-recognizing-multiple-gestures-tensorflowjs</a>
+> 
+
+
+_Tags: `Node.js`, `Javascript`, `Machine Learning`_
+
+### <a href="https://www.youtube.com/live/RixFzeltO68?feature=share" target="_blank">2023-02-02 - Consumindo e editando videos sob demanda em Web APIs usando Node.js Streams e FFmpeg (pt-br)</a>
+
+
+Abstract:
+
+>  Nesse video vou te mostrar como produzir e consumir videos sob demanda em Web APIs usando a biblioteca FFmpeg
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
 
 ### <a href="https://www.youtube.com/watch?v=5IZZYVeE8YQ" target="_blank">2023-01-23 - A tour of my home studio + unboxing rare developer awards (en-us)</a>
 
@@ -1709,6 +1787,46 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-javascript-machinelearning-activity-7031257064047833090-8DLm?utm_source=share&utm_medium=member_desktop" target="_blank">2023-02-14 - Triplicando a performance de aplicações no navegador 🔥🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-javascript-machinelearning-activity-7031257064047833090-8DLm?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Estou aqui trabalhando na #SemanaJSExpert e trouxe um experimento bem bacana para otimizar no navegador
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_machinelearning-javascript-nodejs-activity-7029076260341362688-7YMo?utm_source=share&utm_medium=member_desktop" target="_blank">2023-02-08 - Como alterei um projeto open source para reconhecer dois gestos de mãos simultaneamente 🤯🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_machinelearning-javascript-nodejs-activity-7029076260341362688-7YMo?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Se você está me acompanhando aqui nas redes, deve ter notado o quão animado estou para projetos
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_gitpod-javascript-bun-activity-7025815168295030786-KBQA?utm_source=share&utm_medium=member_desktop" target="_blank">2023-01-30 - What if Node.js used Mozilla's SpiderMonkey instead of Chrome's V8? 🤯🔥 (en-us)</a>
 
