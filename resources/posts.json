@@ -1,5 +1,41 @@
 [
   {
+    "title": "Uma super dica para você que está saindo de alguma outra área e migrando para programação 🔥",
+    "abstract": "Estou recebendo um volume grande de mensagens de pessoas que estão na busca do primeiro emprego e sempre me pedem dicas",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_software-carreira-techcareer-activity-7044674914296971264-Rsb5?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_software-carreira-techcareer-activity-7044674914296971264-Rsb5?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-03-23"
+  },
+  {
+    "title": "From Testing to Deployment: 5 Must-Know Tips for Intermediate Developers 🔥🥳",
+    "abstract": "1 - How to Test: Unit and E2E Tests",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_softwaredevelopment-software-quality-activity-7042125585904472064-CVpN?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_softwaredevelopment-software-quality-activity-7042125585904472064-CVpN?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2023-03-16"
+  },
+  {
     "title": "Why WebAssembly is the Key to Cost Savings and Improved User Experience 🤯🔥",
     "abstract": "The Web is reaching a point that blows my mind every day 🤯🥳",
     "type": "post",

@@ -1,5 +1,28 @@
 [
   {
+    "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "type": "talk",
+    "event": {
+        "link": "https://london.cityjsconf.org/events/",
+        "name": "CityJS World series London 2023"
+    },
+    "slides": "https://www.icloud.com/keynote/06dpzgSEjXmN7RnaVSFlaqEpg#recreating-nodejs-from-scratch-cityjs-london-31032023",
+    "photos": "",
+    "video": "https://www.youtube.com/live/RdiXuoMPtUA",
+    "tags": ["nodejs","javascript", "runtime"],
+    "location": {
+      "latitude":51.5013608,
+      "longitude": -0.1776963,
+      "country": "United Kingdon",
+      "uf": "uk",
+      "city": "London"
+        },
+        "additionalLinks": ["https://www.youtube.com/live/RdiXuoMPtUA?feature=share"],
+        "language": "en-us",
+        "date": "2023-03-31"
+  },
+  {
     "title": "5 aprendizados incríveis sobre backend que se aplicam para o frontend",
     "abstract": "Sobre padrões de projeto, práticas de testes unitários, performance, multithreading, webassembly, streams e MUITO mais.",
     "type": "talk",
