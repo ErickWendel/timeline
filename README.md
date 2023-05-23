@@ -16,18 +16,18 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2023/March - 2015/July 
-* **Videos**: 2023/February - 2016/September 
+* **Videos**: 2023/March - 2016/September 
 * **Blog Posts**: 2023/March - 2015/February 
 * **Conference Talks**: 2023/March - 2015/January 
 
-#### Presentations' number: 116
+#### Presentations' number: 117
 
 ## Table of Contents
 
 - [Projects (15)](#projects)
-- [Videos (122)](#videos)
-- [Blog Posts (311)](#blog-posts)
-- [Conference Talks (116)](#conference-talks)
+- [Videos (124)](#videos)
+- [Blog Posts (313)](#blog-posts)
+- [Conference Talks (117)](#conference-talks)
 
 ## Projects
 
@@ -230,6 +230,36 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/DxpXjsfW484" target="_blank">2023-03-30 - 5 Shocking Things About Node.js That You Thought You Knew But Didn't! 🤯🔥 (en-us)</a>
+
+
+Abstract:
+
+> In this video, we'll explore some of the surprising and lesser-known aspects of Node.js, the popular JavaScript runtime. 
+> 
+> <b>Links</b>
+> 
+> - <a href="https://www.youtube.com/watch?v=ynNDmp7hBdo&t" target="_blank">https://www.youtube.com/watch?v=ynNDmp7hBdo&t</a>
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/EexM7EL9Blk" target="_blank">2023-03-22 - Read 30GB+ Data in the Browser Without Blocking the Screen  (en-us)</a>
+
+
+Abstract:
+
+> Consuming gigabytes of data without causing bottlenecks or locking up applications
+> 
+> <b>Links</b>
+> 
+> - <a href="https://bit.ly/30GB-with-js-streams-code" target="_blank">https://bit.ly/30GB-with-js-streams-code</a>
+> 
+
+
+_Tags: `Node.js`, `Javascript`, `Webstreams`_
 
 ### <a href="https://www.youtube.com/live/-wXPxJYhZeI?feature=share" target="_blank">2023-02-23 - Performance e multithreading em navegadores + ECMAScript Modules em Web Workers (pt-br)</a>
 
@@ -1799,6 +1829,46 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_software-carreira-techcareer-activity-7044674914296971264-Rsb5?utm_source=share&utm_medium=member_desktop" target="_blank">2023-03-23 - Uma super dica para você que está saindo de alguma outra área e migrando para programação 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_software-carreira-techcareer-activity-7044674914296971264-Rsb5?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Estou recebendo um volume grande de mensagens de pessoas que estão na busca do primeiro emprego e sempre me pedem dicas
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_softwaredevelopment-software-quality-activity-7042125585904472064-CVpN?utm_source=share&utm_medium=member_desktop" target="_blank">2023-03-16 - From Testing to Deployment: 5 Must-Know Tips for Intermediate Developers 🔥🥳 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_softwaredevelopment-software-quality-activity-7042125585904472064-CVpN?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> 1 - How to Test: Unit and E2E Tests
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_webcontainers-future-javascript-activity-7041765090093674498-nN9o?utm_source=share&utm_medium=member_desktop" target="_blank">2023-03-15 - Why WebAssembly is the Key to Cost Savings and Improved User Experience 🤯🔥 (en-us)</a>
 
@@ -7671,6 +7741,30 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2023-03-31 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
+
+
+<a href="https://london.cityjsconf.org/events/" target="_blank">CityJS World series London 2023</a>
+
+
+<a href="https://www.icloud.com/keynote/06dpzgSEjXmN7RnaVSFlaqEpg#recreating-nodejs-from-scratch-cityjs-london-31032023" target="_blank">slides</a> |   <a href="https://www.youtube.com/live/RdiXuoMPtUA" target="_blank">video</a>
+
+
+Abstract:
+
+> Bun?Deno?Node.js?Recreating a JS Runtime from scratch
+> 
+> <b>Links</b>
+> 
+> - <a href="https://www.youtube.com/live/RdiXuoMPtUA?feature=share" target="_blank">https://www.youtube.com/live/RdiXuoMPtUA?feature=share</a>
+> 
+
+
+_Tags: `nodejs`, `javascript`, `runtime`_
+
+
+Location: <a href="https://www.google.com/maps/?q=51.5013608,-0.1776963" target="_blank">London - uk, United Kingdon</a>.
 
 ### 2023-03-11 - 5 aprendizados incríveis sobre backend que se aplicam para o frontend (pt-br)
 
