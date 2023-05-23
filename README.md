@@ -1,3 +1,4 @@
+# Activities by <a href="https://twitter.com/erickwendel_" target="_blank">Erick Wendel</a>
 
 _Search with `⌘/ctrl + f`_
 
@@ -14,10 +15,10 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 ### Contributions Summary
 
-* **Projects**: 2022/November - 2015/July 
-* **Videos**: 2023/January - 2016/September 
-* **Blog Posts**: 2023/January - 2015/February 
-* **Conference Talks**: 2022/November - 2015/January 
+* **Projects**: 2023/March - 2015/July 
+* **Videos**: 2023/March - 2016/September 
+* **Blog Posts**: 2023/March - 2015/February 
+* **Conference Talks**: 2023/March - 2015/January 
 
 #### Presentations' number: 117
 
