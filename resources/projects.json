@@ -1,5 +1,15 @@
 [
     {
+        "title": "5 golden lessons about Node.js that apply to the frontend development (or any environment)",
+        "abstract": "Examples of my talk given in Brazilian Portuguese at #DevPR at 11/03/2023",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk",
+        "tags": ["frontend","javascript", "nodejs"],
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2023-03-11"
+    },
+    {
         "title": "JSExpertMax Gesture Controller - Semana JS Expert 7.0",
         "abstract": "JS Expert Week 7.0 - 🙅🤏🏻 Controlling Streaming Platforms using Eye and Hand Detection 👁🖐",
         "type": "project",

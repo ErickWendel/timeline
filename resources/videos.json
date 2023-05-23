@@ -1,5 +1,34 @@
 [
   {
+    "title": "5 Shocking Things About Node.js That You Thought You Knew But Didn't! 🤯🔥",
+    "abstract": "In this video, we'll explore some of the surprising and lesser-known aspects of Node.js, the popular JavaScript runtime. ",
+    "additionalLinks": [
+      "https://www.youtube.com/watch?v=ynNDmp7hBdo&t"
+    ],
+    "link": "https://youtu.be/DxpXjsfW484",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2023-03-30"
+  },
+  {
+    "title": "Read 30GB+ Data in the Browser Without Blocking the Screen ",
+    "abstract": "Consuming gigabytes of data without causing bottlenecks or locking up applications",
+    "additionalLinks": [
+      "https://bit.ly/30GB-with-js-streams-code"
+    ],
+    "link": "https://youtu.be/EexM7EL9Blk",
+    "tags": [
+      "Node.js",
+      "Javascript",
+      "Webstreams"
+    ],
+    "language": "en-us",
+    "date": "2023-03-22"
+  },
+  {
     "title": "Performance e multithreading em navegadores + ECMAScript Modules em Web Workers",
     "abstract": "Nesse video vou te apresentar como fazer com que funções pesadas sejam executadas em segundo plano no navegador com Web Workers.",
     "additionalLinks": [
