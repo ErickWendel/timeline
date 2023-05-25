@@ -1,5 +1,41 @@
 [
   {
+    "title": "Most of the complaints about JavaScript come from people who don't know JavaScript 👀 Here's why!",
+    "abstract": "We're in 2023 and I believe any modern programming language is able to do whatever task is needed 🥶",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-devtips-activity-7059514646520578049-8nux?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-devtips-activity-7059514646520578049-8nux?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2023-05-03"
+  },
+  {
+    "title": "Não existe dev Node.js - e aqui vão 5 aprendizados sobre Node.js que se aplicam para o frontend 🤯🔥",
+    "abstract": "Algo que ouço bastante quando pergunto o que as pessoas fazem é que são Node.js devs, mas a real",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-react-frontenddeveloper-activity-7058800327902322688-Yg_w?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-react-frontenddeveloper-activity-7058800327902322688-Yg_w?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-05-01"
+  },
+  {
     "title": "No one should need Postman/Insomnia to test an endpoint 🤯🤩 Here's why!",
     "abstract": "This tip will make you more productive while programming and still write software",
     "type": "post",
@@ -14,7 +50,7 @@
     "tags": [
       "linkedinPost"
     ],
-    "language": "pt-br",
+    "language": "en-us",
     "date": "2023-04-26"
   },
   {
@@ -32,7 +68,7 @@
     "tags": [
       "linkedinPost"
     ],
-    "language": "pt-br",
+    "language": "en-us",
     "date": "2023-04-20"
   },
   {
@@ -50,7 +86,7 @@
     "tags": [
       "linkedinPost"
     ],
-    "language": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-howto-activity-7054444705362698240-edYA?utm_source=share&utm_medium=member_desktop",
+    "language": "pt-br",
     "date": "2023-04-19"
   },
   {

@@ -1,5 +1,19 @@
 [
   {
+    "title": "Migrating from Jest to Node.js Native Test Runner",
+    "abstract": "Migrating from Jest to Node.js Native Test Runner",
+    "additionalLinks": [
+      "https://github.com/ErickWendel/migrating-from-jest-to-node-test-runner"
+    ],
+    "link": "https://youtu.be/2YfIB4gia60",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2023-04-08"
+  },
+  {
     "title": "Ninguém deveria precisar de Postman/Insomnia pra testar um endpoint",
     "abstract": "Eaaaai beleza? Eu sou o Erick Wendel e hoje vou te mostrar uma técnica incrível para melhorar a sua produtividade",
     "additionalLinks": [

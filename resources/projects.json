@@ -1,5 +1,15 @@
 [
     {
+        "title": "Step-by-Step Guide: Migrating from Jest to Node.js Native Test Runner (en-us)",
+        "abstract": "A video (and blog post) tutorial about how to migrate from Jest to the Node.js native test runner",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/migrating-from-jest-to-node-test-runner",
+        "tags": ["tests","javascript", "nodejs"],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-05-08"
+    },
+    {
         "title": "No one should need Postman/Insomnia to test an endpoint",
         "abstract": "A video (and blog post) tutorial about an incredible technique to improve your productivity",
         "type": "project",
