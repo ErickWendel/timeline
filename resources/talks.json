@@ -4,6 +4,29 @@
     "abstract": "The next level for Web developers: Machine Learning on browsers",
     "type": "talk",
     "event": {
+        "link": "https://www.bejs.io/",
+        "name": "BeJS : Belgian JavaScript Community"
+    },
+    "slides": "https://www.icloud.com/keynote/0373zPb_rl1cwWtyk53ZN9mPg#machine-learning4devs-bejs-brussels-12052023",
+    "photos": "",
+    "video": "",
+    "tags": ["nodejs","javascript", "Machine Learning"],
+    "location": {
+      "latitude":50.8510781,
+      "longitude":4.3318835,
+      "country": "Belgian",
+      "uf": "BEL",
+      "city": "Brussels"
+        },
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-05-12"
+  },
+  {
+    "title": "The next level for Web developers: Machine Learning on browsers",
+    "abstract": "The next level for Web developers: Machine Learning on browsers",
+    "type": "talk",
+    "event": {
         "link": "https://brazil.cityjsconf.org/",
         "name": "CityJS World series São Paulo 2023"
     },

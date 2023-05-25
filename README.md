@@ -15,21 +15,33 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 ### Contributions Summary
 
-* **Projects**: 2023/April - 2015/July 
+* **Projects**: 2023/May - 2015/July 
 * **Videos**: 2023/April - 2016/September 
-* **Blog Posts**: 2023/April - 2015/February 
-* **Conference Talks**: 2023/April - 2015/January 
+* **Blog Posts**: 2023/May - 2015/February 
+* **Conference Talks**: 2023/May - 2015/January 
 
-#### Presentations' number: 119
+#### Presentations' number: 120
 
 ## Table of Contents
 
-- [Projects (18)](#projects)
-- [Videos (126)](#videos)
-- [Blog Posts (320)](#blog-posts)
-- [Conference Talks (119)](#conference-talks)
+- [Projects (19)](#projects)
+- [Videos (127)](#videos)
+- [Blog Posts (322)](#blog-posts)
+- [Conference Talks (120)](#conference-talks)
 
 ## Projects
+
+### <a href="https://github.com/ErickWendel/migrating-from-jest-to-node-test-runner" target="_blank">2023-05-08 - Step-by-Step Guide: Migrating from Jest to Node.js Native Test Runner (en-us) (en-us)</a>
+
+
+Abstract:
+
+> A video (and blog post) tutorial about how to migrate from Jest to the Node.js native test runner
+> 
+> 
+
+
+_Tags: `tests`, `javascript`, `nodejs`_
 
 ### <a href="https://github.com/ErickWendel/postman-is-slowing-you-down" target="_blank">2023-04-24 - No one should need Postman/Insomnia to test an endpoint (en-us)</a>
 
@@ -292,6 +304,21 @@ Abstract:
 > <b>Links</b>
 > 
 > - <a href="https://github.com/ErickWendel/how-to-e2e-testing-nodejs-with-no-frameworks" target="_blank">https://github.com/ErickWendel/how-to-e2e-testing-nodejs-with-no-frameworks</a>
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/2YfIB4gia60" target="_blank">2023-04-08 - Migrating from Jest to Node.js Native Test Runner (en-us)</a>
+
+
+Abstract:
+
+> Migrating from Jest to Node.js Native Test Runner
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/migrating-from-jest-to-node-test-runner" target="_blank">https://github.com/ErickWendel/migrating-from-jest-to-node-test-runner</a>
 > 
 
 
@@ -1896,7 +1923,47 @@ _Tags: `wear`, `android`, `node.js`_
 
 ## Blog Posts
 
-### <a href="https://www.linkedin.com/posts/erickwendel_no-one-should-need-postmaninsomnia-to-test-activity-7056985775137071104-CLP1?utm_source=share&utm_medium=member_desktop" target="_blank">2023-04-26 - No one should need Postman/Insomnia to test an endpoint 🤯🤩 Here's why! (pt-br)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-devtips-activity-7059514646520578049-8nux?utm_source=share&utm_medium=member_desktop" target="_blank">2023-05-03 - Most of the complaints about JavaScript come from people who don't know JavaScript 👀 Here's why! (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-devtips-activity-7059514646520578049-8nux?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> We're in 2023 and I believe any modern programming language is able to do whatever task is needed 🥶
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-react-frontenddeveloper-activity-7058800327902322688-Yg_w?utm_source=share&utm_medium=member_desktop" target="_blank">2023-05-01 - Não existe dev Node.js - e aqui vão 5 aprendizados sobre Node.js que se aplicam para o frontend 🤯🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-react-frontenddeveloper-activity-7058800327902322688-Yg_w?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Algo que ouço bastante quando pergunto o que as pessoas fazem é que são Node.js devs, mas a real
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_no-one-should-need-postmaninsomnia-to-test-activity-7056985775137071104-CLP1?utm_source=share&utm_medium=member_desktop" target="_blank">2023-04-26 - No one should need Postman/Insomnia to test an endpoint 🤯🤩 Here's why! (en-us)</a>
 
 
 Portal:
@@ -1916,7 +1983,7 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-ecmascript-nodejs-activity-7054815055434964992-w3Ky?utm_source=share&utm_medium=member_desktop" target="_blank">2023-04-20 - Everything you need to know about the new Array methods in JavaScript 🔥 (pt-br)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-ecmascript-nodejs-activity-7054815055434964992-w3Ky?utm_source=share&utm_medium=member_desktop" target="_blank">2023-04-20 - Everything you need to know about the new Array methods in JavaScript 🔥 (en-us)</a>
 
 
 Portal:
@@ -1936,7 +2003,7 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-howto-activity-7054444705362698240-edYA?utm_source=share&utm_medium=member_desktop" target="_blank">2023-04-19 - Vi um post sobre 'o ritmo de novidades/evolução no Node.js parece ter diminuído' (https://www.linkedin.com/posts/erickwendel_nodejs-javascript-howto-activity-7054444705362698240-edYA?utm_source=share&utm_medium=member_desktop)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-howto-activity-7054444705362698240-edYA?utm_source=share&utm_medium=member_desktop" target="_blank">2023-04-19 - Vi um post sobre 'o ritmo de novidades/evolução no Node.js parece ter diminuído' (pt-br)</a>
 
 
 Portal:
@@ -7947,6 +8014,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2023-05-12 - The next level for Web developers: Machine Learning on browsers (en-us)
+
+
+<a href="https://www.bejs.io/" target="_blank">BeJS : Belgian JavaScript Community</a>
+
+
+  
+
+
+Abstract:
+
+> The next level for Web developers: Machine Learning on browsers
+> 
+> 
+
+
+_Tags: `nodejs`, `javascript`, `Machine Learning`_
+
+
+Location: <a href="https://www.google.com/maps/?q=50.8510781,4.3318835" target="_blank">Brussels - BEL, Belgian</a>.
 
 ### 2023-04-26 - The next level for Web developers: Machine Learning on browsers (en-us)
 
