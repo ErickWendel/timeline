@@ -1,5 +1,51 @@
 [
   {
+    "title": "The next level for Web developers: Machine Learning on browsers",
+    "abstract": "The next level for Web developers: Machine Learning on browsers",
+    "type": "talk",
+    "event": {
+        "link": "https://brazil.cityjsconf.org/",
+        "name": "CityJS World series São Paulo 2023"
+    },
+    "slides": "https://www.icloud.com/keynote/066J6r58vIhiFSFFgfxDyZXuw#machine-learning4devs-cityjs-sp-26042023",
+    "photos": "",
+    "video": "https://www.youtube.com/live/lD39kjrXRvo?feature=share",
+    "tags": ["nodejs","javascript", "Machine Learning"],
+    "location": {
+      "latitude":-23.508559,
+      "longitude": -46.7215608,
+      "country": "Brasil",
+      "uf": "SP",
+      "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-04-26"
+  },
+  {
+    "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "type": "talk",
+    "event": {
+        "link": "https://nodecongress.com/",
+        "name": "Node Congress Berlin"
+    },
+    "slides": "https://www.icloud.com/keynote/0fa15m5m7-8C0qHo2M48JomLQ#recreating-nodejs-from-scratch-nodecongress-berlin-14042023",
+    "photos": "",
+    "video": "https://portal.gitnation.org/contents/bun-deno-nodejs-recreating-a-javascript-runtime-from-scratch-understand-magic-behind-nodejs",
+    "tags": ["nodejs","javascript", "runtime"],
+    "location": {
+      "latitude":52.5169221,
+      "longitude":13.449893,
+      "country": "Germany",
+      "uf": "BER",
+      "city": "Berlin"
+        },
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-04-14"
+  },
+  {
     "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
     "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
     "type": "talk",
@@ -18,7 +64,7 @@
       "uf": "uk",
       "city": "London"
         },
-        "additionalLinks": ["https://www.youtube.com/live/RdiXuoMPtUA?feature=share"],
+        "additionalLinks": ["https://www.youtube.com/live/RdiXuoMPtUA"],
         "language": "en-us",
         "date": "2023-03-31"
   },

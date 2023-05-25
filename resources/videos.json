@@ -1,5 +1,33 @@
 [
   {
+    "title": "Ninguém deveria precisar de Postman/Insomnia pra testar um endpoint",
+    "abstract": "Eaaaai beleza? Eu sou o Erick Wendel e hoje vou te mostrar uma técnica incrível para melhorar a sua produtividade",
+    "additionalLinks": [
+      "https://github.com/ErickWendel/postman-is-slowing-you-down"
+    ],
+    "link": "https://youtu.be/SrpIo_V-ZCg",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2023-04-24"
+  },
+  {
+    "title": "Como criar testes E2E em Node.js sem frameworks",
+    "abstract": "Vim te mostrar uma excelente notícia! O motor de testes nativo do Node.js finalmente entrou no estágio de funcionalidade estável",
+    "additionalLinks": [
+      "https://github.com/ErickWendel/how-to-e2e-testing-nodejs-with-no-frameworks"
+    ],
+    "link": "https://youtu.be/xSDJnj-pgxU",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2023-04-17"
+  },
+  {
     "title": "5 Shocking Things About Node.js That You Thought You Knew But Didn't! 🤯🔥",
     "abstract": "In this video, we'll explore some of the surprising and lesser-known aspects of Node.js, the popular JavaScript runtime. ",
     "additionalLinks": [

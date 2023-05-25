@@ -15,21 +15,57 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 ### Contributions Summary
 
-* **Projects**: 2023/March - 2015/July 
-* **Videos**: 2023/March - 2016/September 
-* **Blog Posts**: 2023/March - 2015/February 
-* **Conference Talks**: 2023/March - 2015/January 
+* **Projects**: 2023/April - 2015/July 
+* **Videos**: 2023/April - 2016/September 
+* **Blog Posts**: 2023/April - 2015/February 
+* **Conference Talks**: 2023/April - 2015/January 
 
-#### Presentations' number: 117
+#### Presentations' number: 119
 
 ## Table of Contents
 
-- [Projects (15)](#projects)
-- [Videos (124)](#videos)
-- [Blog Posts (313)](#blog-posts)
-- [Conference Talks (117)](#conference-talks)
+- [Projects (18)](#projects)
+- [Videos (126)](#videos)
+- [Blog Posts (320)](#blog-posts)
+- [Conference Talks (119)](#conference-talks)
 
 ## Projects
+
+### <a href="https://github.com/ErickWendel/postman-is-slowing-you-down" target="_blank">2023-04-24 - No one should need Postman/Insomnia to test an endpoint (en-us)</a>
+
+
+Abstract:
+
+> A video (and blog post) tutorial about an incredible technique to improve your productivity
+> 
+> 
+
+
+_Tags: `tests E2E`, `javascript`, `nodejs`_
+
+### <a href="https://github.com/ErickWendel/how-to-e2e-testing-nodejs-with-no-frameworks" target="_blank">2023-04-17 - how-to-e2e-testing-nodejs-with-no-frameworks (en-us)</a>
+
+
+Abstract:
+
+> A video tutorial about E2E Testing in Node.js using only the native Node.js test runner
+> 
+> 
+
+
+_Tags: `tests E2E`, `javascript`, `nodejs`_
+
+### <a href="https://github.com/ErickWendel/processing-30GB-data-with-JavaScript-Streams" target="_blank">2023-03-22 - How to read 30GB+ data in the frontend without blocking the screen - Webstreams 101 (en-us)</a>
+
+
+Abstract:
+
+> Welcome, this repo is part of my youtube video about How to read 30GB+ data in the frontend without blocking the screen - Webstreams 101(en-us)
+> 
+> 
+
+
+_Tags: `webstreams`, `javascript`, `nodejs`_
 
 ### <a href="https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk" target="_blank">2023-03-11 - 5 golden lessons about Node.js that apply to the frontend development (or any environment) (pt-br)</a>
 
@@ -230,6 +266,36 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/SrpIo_V-ZCg" target="_blank">2023-04-24 - Ninguém deveria precisar de Postman/Insomnia pra testar um endpoint (pt-br)</a>
+
+
+Abstract:
+
+> Eaaaai beleza? Eu sou o Erick Wendel e hoje vou te mostrar uma técnica incrível para melhorar a sua produtividade
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/postman-is-slowing-you-down" target="_blank">https://github.com/ErickWendel/postman-is-slowing-you-down</a>
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/xSDJnj-pgxU" target="_blank">2023-04-17 - Como criar testes E2E em Node.js sem frameworks (pt-br)</a>
+
+
+Abstract:
+
+> Vim te mostrar uma excelente notícia! O motor de testes nativo do Node.js finalmente entrou no estágio de funcionalidade estável
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/how-to-e2e-testing-nodejs-with-no-frameworks" target="_blank">https://github.com/ErickWendel/how-to-e2e-testing-nodejs-with-no-frameworks</a>
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
 
 ### <a href="https://youtu.be/DxpXjsfW484" target="_blank">2023-03-30 - 5 Shocking Things About Node.js That You Thought You Knew But Didn't! 🤯🔥 (en-us)</a>
 
@@ -1829,6 +1895,146 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_no-one-should-need-postmaninsomnia-to-test-activity-7056985775137071104-CLP1?utm_source=share&utm_medium=member_desktop" target="_blank">2023-04-26 - No one should need Postman/Insomnia to test an endpoint 🤯🤩 Here's why! (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_no-one-should-need-postmaninsomnia-to-test-activity-7056985775137071104-CLP1?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> This tip will make you more productive while programming and still write software
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-ecmascript-nodejs-activity-7054815055434964992-w3Ky?utm_source=share&utm_medium=member_desktop" target="_blank">2023-04-20 - Everything you need to know about the new Array methods in JavaScript 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-ecmascript-nodejs-activity-7054815055434964992-w3Ky?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Node.js 20 was released this week with A LOT of new great features
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-howto-activity-7054444705362698240-edYA?utm_source=share&utm_medium=member_desktop" target="_blank">2023-04-19 - Vi um post sobre 'o ritmo de novidades/evolução no Node.js parece ter diminuído' (https://www.linkedin.com/posts/erickwendel_nodejs-javascript-howto-activity-7054444705362698240-edYA?utm_source=share&utm_medium=member_desktop)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-howto-activity-7054444705362698240-edYA?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Galera, vocês precisam dar uma olhada na quantidade de coisas que entraram para o Node.js core
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://blog.erickwendel.com.br/how-to-create-e2e-tests-in-nodejs-with-no-frameworks-step-by-step" target="_blank">2023-04-12 - How to create E2E tests in Node.js with no frameworks - step by step! (en-us)</a>
+
+
+Portal:
+
+> <a href="https://blog.erickwendel.com.br/how-to-create-e2e-tests-in-nodejs-with-no-frameworks-step-by-step" target="_blank">Blog Erick Wendel</a>
+
+
+Abstract:
+
+> Heello my friend, how've you been? I'm Erick Wendel, and I'm here to bring you some great news!
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `blogPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_coding-developertips-developercommunity-activity-7050083359930167297-oJ_l?utm_source=share&utm_medium=member_desktop" target="_blank">2023-04-07 - OMG! I've started learning Vim and I'm already falling in love with it 💚🤩 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_coding-developertips-developercommunity-activity-7050083359930167297-oJ_l?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> In my entire career, I learned two things about Vim: How to exit it and how complex it seems 😟
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_webgpu-googlechrome-frontend-activity-7049727856590954496-hA1G?utm_source=share&utm_medium=member_desktop" target="_blank">2023-04-06 - Wow! Time do Google Chrome acabou de lançar o WebGPU como padrão no navegador 🤯🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_webgpu-googlechrome-frontend-activity-7049727856590954496-hA1G?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> E isso parte do que eu penso: O Sistema operacional do futuro será o navegador
+> 
+> <b>Links</b>
+> 
+> - <a href="https://bit.ly/webgpu-release-ew" target="_blank">https://bit.ly/webgpu-release-ew</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-webdevelopment-activity-7048656798395899904-iLCM?utm_source=share&utm_medium=member_desktop" target="_blank">2023-04-03 - JavaScript is not a single-threaded or multithreaded language 🤯🔥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-webdevelopment-activity-7048656798395899904-iLCM?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> In this network, I saw some people complaining about JavaScript and it's full of misconceptions 🤨
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_software-carreira-techcareer-activity-7044674914296971264-Rsb5?utm_source=share&utm_medium=member_desktop" target="_blank">2023-03-23 - Uma super dica para você que está saindo de alguma outra área e migrando para programação 🔥 (pt-br)</a>
 
@@ -7742,6 +7948,48 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 ## Conference Talks
 
+### 2023-04-26 - The next level for Web developers: Machine Learning on browsers (en-us)
+
+
+<a href="https://brazil.cityjsconf.org/" target="_blank">CityJS World series São Paulo 2023</a>
+
+
+<a href="https://www.icloud.com/keynote/066J6r58vIhiFSFFgfxDyZXuw#machine-learning4devs-cityjs-sp-26042023" target="_blank">slides</a> |   <a href="https://www.youtube.com/live/lD39kjrXRvo?feature=share" target="_blank">video</a>
+
+
+Abstract:
+
+> The next level for Web developers: Machine Learning on browsers
+> 
+> 
+
+
+_Tags: `nodejs`, `javascript`, `Machine Learning`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.508559,-46.7215608" target="_blank">São Paulo - SP, Brasil</a>.
+
+### 2023-04-14 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
+
+
+<a href="https://nodecongress.com/" target="_blank">Node Congress Berlin</a>
+
+
+<a href="https://www.icloud.com/keynote/0fa15m5m7-8C0qHo2M48JomLQ#recreating-nodejs-from-scratch-nodecongress-berlin-14042023" target="_blank">slides</a> |   <a href="https://portal.gitnation.org/contents/bun-deno-nodejs-recreating-a-javascript-runtime-from-scratch-understand-magic-behind-nodejs" target="_blank">video</a>
+
+
+Abstract:
+
+> Bun?Deno?Node.js?Recreating a JS Runtime from scratch
+> 
+> 
+
+
+_Tags: `nodejs`, `javascript`, `runtime`_
+
+
+Location: <a href="https://www.google.com/maps/?q=52.5169221,13.449893" target="_blank">Berlin - BER, Germany</a>.
+
 ### 2023-03-31 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
 
 
@@ -7757,7 +8005,7 @@ Abstract:
 > 
 > <b>Links</b>
 > 
-> - <a href="https://www.youtube.com/live/RdiXuoMPtUA?feature=share" target="_blank">https://www.youtube.com/live/RdiXuoMPtUA?feature=share</a>
+> - <a href="https://www.youtube.com/live/RdiXuoMPtUA" target="_blank">https://www.youtube.com/live/RdiXuoMPtUA</a>
 > 
 
 
