@@ -1,5 +1,131 @@
 [
   {
+    "title": "No one should need Postman/Insomnia to test an endpoint 🤯🤩 Here's why!",
+    "abstract": "This tip will make you more productive while programming and still write software",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_no-one-should-need-postmaninsomnia-to-test-activity-7056985775137071104-CLP1?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_no-one-should-need-postmaninsomnia-to-test-activity-7056985775137071104-CLP1?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-04-26"
+  },
+  {
+    "title": "Everything you need to know about the new Array methods in JavaScript 🔥",
+    "abstract": "Node.js 20 was released this week with A LOT of new great features",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-ecmascript-nodejs-activity-7054815055434964992-w3Ky?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-ecmascript-nodejs-activity-7054815055434964992-w3Ky?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-04-20"
+  },
+  {
+    "title": "Vi um post sobre 'o ritmo de novidades/evolução no Node.js parece ter diminuído'",
+    "abstract": "Galera, vocês precisam dar uma olhada na quantidade de coisas que entraram para o Node.js core",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-howto-activity-7054444705362698240-edYA?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-howto-activity-7054444705362698240-edYA?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-howto-activity-7054444705362698240-edYA?utm_source=share&utm_medium=member_desktop",
+    "date": "2023-04-19"
+  },
+  {
+    "title": "How to create E2E tests in Node.js with no frameworks - step by step!",
+    "abstract": "Heello my friend, how've you been? I'm Erick Wendel, and I'm here to bring you some great news!",
+    "type": "post",
+    "link": "https://blog.erickwendel.com.br/how-to-create-e2e-tests-in-nodejs-with-no-frameworks-step-by-step",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://blog.erickwendel.com.br/how-to-create-e2e-tests-in-nodejs-with-no-frameworks-step-by-step",
+      "name": "Blog Erick Wendel"
+    },
+    "tags": [
+      "blogPost"
+    ],
+    "language": "en-us",
+    "date": "2023-04-12"
+  },
+  {
+    "title": "OMG! I've started learning Vim and I'm already falling in love with it 💚🤩",
+    "abstract": "In my entire career, I learned two things about Vim: How to exit it and how complex it seems 😟",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_coding-developertips-developercommunity-activity-7050083359930167297-oJ_l?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_coding-developertips-developercommunity-activity-7050083359930167297-oJ_l?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2023-04-07"
+  },
+  {
+    "title": "Wow! Time do Google Chrome acabou de lançar o WebGPU como padrão no navegador 🤯🔥",
+    "abstract": "E isso parte do que eu penso: O Sistema operacional do futuro será o navegador",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_webgpu-googlechrome-frontend-activity-7049727856590954496-hA1G?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      "https://bit.ly/webgpu-release-ew"
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_webgpu-googlechrome-frontend-activity-7049727856590954496-hA1G?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-04-06"
+  },
+  {
+    "title": "JavaScript is not a single-threaded or multithreaded language 🤯🔥",
+    "abstract": "In this network, I saw some people complaining about JavaScript and it's full of misconceptions 🤨",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-webdevelopment-activity-7048656798395899904-iLCM?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-webdevelopment-activity-7048656798395899904-iLCM?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2023-04-03"
+  },
+  {
     "title": "Uma super dica para você que está saindo de alguma outra área e migrando para programação 🔥",
     "abstract": "Estou recebendo um volume grande de mensagens de pessoas que estão na busca do primeiro emprego e sempre me pedem dicas",
     "type": "post",
