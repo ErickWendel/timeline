@@ -1,5 +1,55 @@
 [
     {
+        "title": "Step-by-Step Guide: Migrating from Jest to Node.js Native Test Runner (en-us)",
+        "abstract": "A video (and blog post) tutorial about how to migrate from Jest to the Node.js native test runner",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/migrating-from-jest-to-node-test-runner",
+        "tags": ["tests","javascript", "nodejs"],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-05-08"
+    },
+    {
+        "title": "No one should need Postman/Insomnia to test an endpoint",
+        "abstract": "A video (and blog post) tutorial about an incredible technique to improve your productivity",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/postman-is-slowing-you-down",
+        "tags": ["tests E2E","javascript", "nodejs"],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-04-24"
+    },
+    {
+        "title": "how-to-e2e-testing-nodejs-with-no-frameworks",
+        "abstract": "A video tutorial about E2E Testing in Node.js using only the native Node.js test runner",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/how-to-e2e-testing-nodejs-with-no-frameworks",
+        "tags": ["tests E2E","javascript", "nodejs"],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-04-17"
+    },
+    {
+        "title": "How to read 30GB+ data in the frontend without blocking the screen - Webstreams 101",
+        "abstract": "Welcome, this repo is part of my youtube video about How to read 30GB+ data in the frontend without blocking the screen - Webstreams 101(en-us)",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/processing-30GB-data-with-JavaScript-Streams",
+        "tags": ["webstreams","javascript", "nodejs"],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-03-22"
+    },
+    {
+        "title": "5 golden lessons about Node.js that apply to the frontend development (or any environment)",
+        "abstract": "Examples of my talk given in Brazilian Portuguese at #DevPR at 11/03/2023",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk",
+        "tags": ["frontend","javascript", "nodejs"],
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2023-03-11"
+    },
+    {
         "title": "JSExpertMax Gesture Controller - Semana JS Expert 7.0",
         "abstract": "JS Expert Week 7.0 - 🙅🤏🏻 Controlling Streaming Platforms using Eye and Hand Detection 👁🖐",
         "type": "project",

@@ -1,5 +1,76 @@
 [
   {
+    "title": "Migrating from Jest to Node.js Native Test Runner",
+    "abstract": "Migrating from Jest to Node.js Native Test Runner",
+    "additionalLinks": [
+      "https://github.com/ErickWendel/migrating-from-jest-to-node-test-runner"
+    ],
+    "link": "https://youtu.be/2YfIB4gia60",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2023-04-08"
+  },
+  {
+    "title": "Ninguém deveria precisar de Postman/Insomnia pra testar um endpoint",
+    "abstract": "Eaaaai beleza? Eu sou o Erick Wendel e hoje vou te mostrar uma técnica incrível para melhorar a sua produtividade",
+    "additionalLinks": [
+      "https://github.com/ErickWendel/postman-is-slowing-you-down"
+    ],
+    "link": "https://youtu.be/SrpIo_V-ZCg",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2023-04-24"
+  },
+  {
+    "title": "Como criar testes E2E em Node.js sem frameworks",
+    "abstract": "Vim te mostrar uma excelente notícia! O motor de testes nativo do Node.js finalmente entrou no estágio de funcionalidade estável",
+    "additionalLinks": [
+      "https://github.com/ErickWendel/how-to-e2e-testing-nodejs-with-no-frameworks"
+    ],
+    "link": "https://youtu.be/xSDJnj-pgxU",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2023-04-17"
+  },
+  {
+    "title": "5 Shocking Things About Node.js That You Thought You Knew But Didn't! 🤯🔥",
+    "abstract": "In this video, we'll explore some of the surprising and lesser-known aspects of Node.js, the popular JavaScript runtime. ",
+    "additionalLinks": [
+      "https://www.youtube.com/watch?v=ynNDmp7hBdo&t"
+    ],
+    "link": "https://youtu.be/DxpXjsfW484",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2023-03-30"
+  },
+  {
+    "title": "Read 30GB+ Data in the Browser Without Blocking the Screen ",
+    "abstract": "Consuming gigabytes of data without causing bottlenecks or locking up applications",
+    "additionalLinks": [
+      "https://bit.ly/30GB-with-js-streams-code"
+    ],
+    "link": "https://youtu.be/EexM7EL9Blk",
+    "tags": [
+      "Node.js",
+      "Javascript",
+      "Webstreams"
+    ],
+    "language": "en-us",
+    "date": "2023-03-22"
+  },
+  {
     "title": "Performance e multithreading em navegadores + ECMAScript Modules em Web Workers",
     "abstract": "Nesse video vou te apresentar como fazer com que funções pesadas sejam executadas em segundo plano no navegador com Web Workers.",
     "additionalLinks": [

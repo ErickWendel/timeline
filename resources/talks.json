@@ -1,5 +1,120 @@
 [
   {
+    "title": "The next level for Web developers: Machine Learning on browsers",
+    "abstract": "The next level for Web developers: Machine Learning on browsers",
+    "type": "talk",
+    "event": {
+        "link": "https://www.bejs.io/",
+        "name": "BeJS : Belgian JavaScript Community"
+    },
+    "slides": "https://www.icloud.com/keynote/0373zPb_rl1cwWtyk53ZN9mPg#machine-learning4devs-bejs-brussels-12052023",
+    "photos": "",
+    "video": "",
+    "tags": ["nodejs","javascript", "Machine Learning"],
+    "location": {
+      "latitude":50.8510781,
+      "longitude":4.3318835,
+      "country": "Belgian",
+      "uf": "BEL",
+      "city": "Brussels"
+        },
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-05-12"
+  },
+  {
+    "title": "The next level for Web developers: Machine Learning on browsers",
+    "abstract": "The next level for Web developers: Machine Learning on browsers",
+    "type": "talk",
+    "event": {
+        "link": "https://brazil.cityjsconf.org/",
+        "name": "CityJS World series São Paulo 2023"
+    },
+    "slides": "https://www.icloud.com/keynote/066J6r58vIhiFSFFgfxDyZXuw#machine-learning4devs-cityjs-sp-26042023",
+    "photos": "",
+    "video": "https://www.youtube.com/live/lD39kjrXRvo?feature=share",
+    "tags": ["nodejs","javascript", "Machine Learning"],
+    "location": {
+      "latitude":-23.508559,
+      "longitude": -46.7215608,
+      "country": "Brasil",
+      "uf": "SP",
+      "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-04-26"
+  },
+  {
+    "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "type": "talk",
+    "event": {
+        "link": "https://nodecongress.com/",
+        "name": "Node Congress Berlin"
+    },
+    "slides": "https://www.icloud.com/keynote/0fa15m5m7-8C0qHo2M48JomLQ#recreating-nodejs-from-scratch-nodecongress-berlin-14042023",
+    "photos": "",
+    "video": "https://portal.gitnation.org/contents/bun-deno-nodejs-recreating-a-javascript-runtime-from-scratch-understand-magic-behind-nodejs",
+    "tags": ["nodejs","javascript", "runtime"],
+    "location": {
+      "latitude":52.5169221,
+      "longitude":13.449893,
+      "country": "Germany",
+      "uf": "BER",
+      "city": "Berlin"
+        },
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-04-14"
+  },
+  {
+    "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "type": "talk",
+    "event": {
+        "link": "https://london.cityjsconf.org/events/",
+        "name": "CityJS World series London 2023"
+    },
+    "slides": "https://www.icloud.com/keynote/06dpzgSEjXmN7RnaVSFlaqEpg#recreating-nodejs-from-scratch-cityjs-london-31032023",
+    "photos": "",
+    "video": "https://www.youtube.com/live/RdiXuoMPtUA",
+    "tags": ["nodejs","javascript", "runtime"],
+    "location": {
+      "latitude":51.5013608,
+      "longitude": -0.1776963,
+      "country": "United Kingdon",
+      "uf": "uk",
+      "city": "London"
+        },
+        "additionalLinks": ["https://www.youtube.com/live/RdiXuoMPtUA"],
+        "language": "en-us",
+        "date": "2023-03-31"
+  },
+  {
+    "title": "5 aprendizados incríveis sobre backend que se aplicam para o frontend",
+    "abstract": "Sobre padrões de projeto, práticas de testes unitários, performance, multithreading, webassembly, streams e MUITO mais.",
+    "type": "talk",
+    "event": {
+        "link": "https://www.linkedin.com/company/devparana/",
+        "name": "Dev Paraná Conf 2023"
+    },
+    "slides": "https://www.icloud.com/keynote/08cfNEtaMB0WK7EdnDp6i2DJQ#5-aprendizados-sobre-backend-para-frontenders-devpr-11032023",
+    "photos": "",
+    "video": "",
+    "tags": ["nodejs","javascript"],
+    "location": {
+      "latitude": -23.4108407,
+      "longitude": -52.1106945,
+      "country": "Brasil",
+      "uf": "PR",
+      "city": "Maringá"
+        },
+        "additionalLinks": ["https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk"],
+        "language": "pt-br",
+        "date": "2023-03-11"
+  },
+  {
     "title": "Como resolvi um bug no Node.js que afetou milhares de pacotes mundialmente",
     "abstract": "A jornada sobre como corrigi um bug no núcleo do Node.js que afetou milhares de pacotes",
     "type": "talk",
