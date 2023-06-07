@@ -2503,46 +2503,6 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-14 - Brincadeira da noite aqui! Usando TensorFlow.js para usar minhas mãos como o controle do jogo 🔥 (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Eaí, acompanhou como hackeei esse jogo para controlá-lo com meu celular?
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
-### <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-14 - Brincadeira da noite aqui! Usando TensorFlow.js para usar minhas mãos como o controle do jogo 🔥 (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Eaí, acompanhou como hackeei esse jogo para controlá-lo com meu celular?
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
 ### <a href="https://www.linkedin.com/posts/erickwendel_javascript-community-opensource-activity-7008794615457681408-L3Ub?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-14 - Bye-bye Sinon... Hello, Node.js 20 - using mocks, spies, and stubs natively in Node.js 🤯🔥 (en-us)</a>
 
 
@@ -2554,6 +2514,46 @@ Portal:
 Abstract:
 
 > Wowwwww, Node.js is on fire, my friends!
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-14 - Brincadeira da noite aqui! Usando TensorFlow.js para usar minhas mãos como o controle do jogo 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Eaí, acompanhou como hackeei esse jogo para controlá-lo com meu celular?
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-14 - Brincadeira da noite aqui! Usando TensorFlow.js para usar minhas mãos como o controle do jogo 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Eaí, acompanhou como hackeei esse jogo para controlá-lo com meu celular?
 > 
 > <b>Links</b>
 > 
@@ -4378,7 +4378,7 @@ Portal:
 
 Abstract:
 
-> Como dizem por aí: `a melhor máquina do mundo, é aquela que não é a sua` 🤣
+> 
 > 
 > 
 
@@ -4395,7 +4395,7 @@ Portal:
 
 Abstract:
 
-> 
+> Como dizem por aí: `a melhor máquina do mundo, é aquela que não é a sua` 🤣
 > 
 > 
 
@@ -6792,23 +6792,6 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.freecodecamp.org/news/how-to-enable-live-reload-on-docker-based-applications/" target="_blank">2020-06-12 - How to Enable Live-reload on Docker-based Applications with Docker Volumes (en-us)</a>
-
-
-Portal:
-
-> <a href="https://www.freecodecamp.org/news/author/erickwendel/" target="_blank">freeCodeCamp.org</a>
-
-
-Abstract:
-
-> In this post you'll learn how to configure a development environment with live-reload enabled. This will allow you to convert a legacy application so it uses Docker, Docker volumes, and docker-compose
-> 
-> 
-
-
-_Tags: `freeCodeCamp`_
-
 ### <a href="https://www.freecodecamp.org/news/node-js-debugging/" target="_blank">2020-06-12 - How to Debug a Node.js Application with VSCode, Docker, and your Terminal (en-us)</a>
 
 
@@ -6825,6 +6808,23 @@ Abstract:
 
 
 _Tags: `linkedinPost`_
+
+### <a href="https://www.freecodecamp.org/news/how-to-enable-live-reload-on-docker-based-applications/" target="_blank">2020-06-12 - How to Enable Live-reload on Docker-based Applications with Docker Volumes (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.freecodecamp.org/news/author/erickwendel/" target="_blank">freeCodeCamp.org</a>
+
+
+Abstract:
+
+> In this post you'll learn how to configure a development environment with live-reload enabled. This will allow you to convert a legacy application so it uses Docker, Docker volumes, and docker-compose
+> 
+> 
+
+
+_Tags: `freeCodeCamp`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-n%C3%A3o-sabia-sobre-debugging-de-aplica%C3%A7%C3%B5es-activity-6677204437842325504-h6gA" target="_blank">2020-06-12 - Você conhece as 6 principais formas de depurar aplicações Node.js? 🔥🎉 (pt-br)</a>
 
@@ -6954,23 +6954,6 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b?source=friends_link&sk=6986b760d9468e9ec96a5c7482d1c541" target="_blank">2020-06-01 - Node v14.x is up — deep diving into new features 🎉 (en-us)</a>
-
-
-Portal:
-
-> <a href="https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b?source=friends_link&sk=6986b760d9468e9ec96a5c7482d1c541" target="_blank">Medium portal</a>
-
-
-Abstract:
-
-> Node v14 came with lots of new exciting features. Let’s dive into some of those features by creating a real app.
-> 
-> 
-
-
-_Tags: `linkedinPost`_
-
 ### <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-fosse-fazer-upload-de-arquivos-activity-6671046670186287104-oHfP" target="_blank">2020-06-01 - E se você fosse fazer upload de arquivos em Node.js, como faria? 🔥 (pt-br)</a>
 
 
@@ -6987,6 +6970,23 @@ Abstract:
 > 
 > - <a href="https://lnkd.in/eHRQDZE" target="_blank">https://lnkd.in/eHRQDZE</a>
 > - <a href="https://lnkd.in/d-QuUwm" target="_blank">https://lnkd.in/d-QuUwm</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b?source=friends_link&sk=6986b760d9468e9ec96a5c7482d1c541" target="_blank">2020-06-01 - Node v14.x is up — deep diving into new features 🎉 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b?source=friends_link&sk=6986b760d9468e9ec96a5c7482d1c541" target="_blank">Medium portal</a>
+
+
+Abstract:
+
+> Node v14 came with lots of new exciting features. Let’s dive into some of those features by creating a real app.
+> 
 > 
 
 
@@ -8034,7 +8034,7 @@ Abstract:
 _Tags: `nodejs`, `javascript`, `Machine Learning`_
 
 
-Location: <a href="https://www.google.com/maps/?q=50.8510781,4.3318835" target="_blank">Brussels - BEL, Belgian</a>.
+Location: <a href="https://www.google.com/maps/?q=50.8510781,4.3318835" target="_blank">Brussels - BEL, Belgium</a>.
 
 ### 2023-04-26 - The next level for Web developers: Machine Learning on browsers (en-us)
 
@@ -8055,7 +8055,7 @@ Abstract:
 _Tags: `nodejs`, `javascript`, `Machine Learning`_
 
 
-Location: <a href="https://www.google.com/maps/?q=-23.508559,-46.7215608" target="_blank">São Paulo - SP, Brasil</a>.
+Location: <a href="https://www.google.com/maps/?q=-23.508559,-46.7215608" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2023-04-14 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
 
@@ -8100,7 +8100,7 @@ Abstract:
 _Tags: `nodejs`, `javascript`, `runtime`_
 
 
-Location: <a href="https://www.google.com/maps/?q=51.5013608,-0.1776963" target="_blank">London - uk, United Kingdon</a>.
+Location: <a href="https://www.google.com/maps/?q=51.5013608,-0.1776963" target="_blank">London - uk, 🏴󠁧󠁢󠁥󠁮󠁧󠁿England</a>.
 
 ### 2023-03-11 - 5 aprendizados incríveis sobre backend que se aplicam para o frontend (pt-br)
 
@@ -8124,7 +8124,7 @@ Abstract:
 _Tags: `nodejs`, `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=-23.4108407,-52.1106945" target="_blank">Maringá - PR, Brasil</a>.
+Location: <a href="https://www.google.com/maps/?q=-23.4108407,-52.1106945" target="_blank">Maringá - PR, Brazil</a>.
 
 ### 2022-11-26 - Como resolvi um bug no Node.js que afetou milhares de pacotes mundialmente (pt-br)
 
@@ -8145,7 +8145,7 @@ Abstract:
 _Tags: `nodejs`, `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=-18.878831540966747,-48.246936766273215" target="_blank">Uberlândia - MG, Brasil</a>.
+Location: <a href="https://www.google.com/maps/?q=-18.878831540966747,-48.246936766273215" target="_blank">Uberlândia - MG, Brazil</a>.
 
 ### 2022-09-17 - The Journey About How I Fixed a Bug in the Node.js Core That Affected Thousands of Packages (en-us)
 
