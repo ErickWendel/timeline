@@ -4,343 +4,422 @@
     "abstract": "The next level for Web developers: Machine Learning on browsers",
     "type": "talk",
     "event": {
-        "link": "https://www.bejs.io/",
-        "name": "BeJS : Belgian JavaScript Community"
+      "link": "https://www.bejs.io/",
+      "name": "BeJS : Belgian JavaScript Community"
     },
     "slides": "https://www.icloud.com/keynote/0373zPb_rl1cwWtyk53ZN9mPg#machine-learning4devs-bejs-brussels-12052023",
     "photos": "",
     "video": "",
-    "tags": ["nodejs","javascript", "Machine Learning"],
+    "tags": [
+      "nodejs",
+      "javascript",
+      "Machine Learning"
+    ],
     "location": {
-      "latitude":50.8510781,
-      "longitude":4.3318835,
-      "country": "Belgian",
+      "latitude": 50.8510781,
+      "longitude": 4.3318835,
+      "country": "Belgium",
       "uf": "BEL",
       "city": "Brussels"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-05-12"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2023-05-12"
   },
   {
     "title": "The next level for Web developers: Machine Learning on browsers",
     "abstract": "The next level for Web developers: Machine Learning on browsers",
     "type": "talk",
     "event": {
-        "link": "https://brazil.cityjsconf.org/",
-        "name": "CityJS World series São Paulo 2023"
+      "link": "https://brazil.cityjsconf.org/",
+      "name": "CityJS World series São Paulo 2023"
     },
     "slides": "https://www.icloud.com/keynote/066J6r58vIhiFSFFgfxDyZXuw#machine-learning4devs-cityjs-sp-26042023",
     "photos": "",
     "video": "https://www.youtube.com/live/lD39kjrXRvo?feature=share",
-    "tags": ["nodejs","javascript", "Machine Learning"],
+    "tags": [
+      "nodejs",
+      "javascript",
+      "Machine Learning"
+    ],
     "location": {
-      "latitude":-23.508559,
+      "latitude": -23.508559,
       "longitude": -46.7215608,
-      "country": "Brasil",
+      "country": "Brazil",
       "uf": "SP",
       "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-04-26"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2023-04-26"
   },
   {
     "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
     "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
     "type": "talk",
     "event": {
-        "link": "https://nodecongress.com/",
-        "name": "Node Congress Berlin"
+      "link": "https://nodecongress.com/",
+      "name": "Node Congress Berlin"
     },
     "slides": "https://www.icloud.com/keynote/0fa15m5m7-8C0qHo2M48JomLQ#recreating-nodejs-from-scratch-nodecongress-berlin-14042023",
     "photos": "",
     "video": "https://portal.gitnation.org/contents/bun-deno-nodejs-recreating-a-javascript-runtime-from-scratch-understand-magic-behind-nodejs",
-    "tags": ["nodejs","javascript", "runtime"],
+    "tags": [
+      "nodejs",
+      "javascript",
+      "runtime"
+    ],
     "location": {
-      "latitude":52.5169221,
-      "longitude":13.449893,
+      "latitude": 52.5169221,
+      "longitude": 13.449893,
       "country": "Germany",
       "uf": "BER",
       "city": "Berlin"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-04-14"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2023-04-14"
   },
   {
     "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
     "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
     "type": "talk",
     "event": {
-        "link": "https://london.cityjsconf.org/events/",
-        "name": "CityJS World series London 2023"
+      "link": "https://london.cityjsconf.org/events/",
+      "name": "CityJS World series London 2023"
     },
     "slides": "https://www.icloud.com/keynote/06dpzgSEjXmN7RnaVSFlaqEpg#recreating-nodejs-from-scratch-cityjs-london-31032023",
     "photos": "",
     "video": "https://www.youtube.com/live/RdiXuoMPtUA",
-    "tags": ["nodejs","javascript", "runtime"],
+    "tags": [
+      "nodejs",
+      "javascript",
+      "runtime"
+    ],
     "location": {
-      "latitude":51.5013608,
+      "latitude": 51.5013608,
       "longitude": -0.1776963,
-      "country": "United Kingdon",
+      "country": "🏴󠁧󠁢󠁥󠁮󠁧󠁿England",
       "uf": "uk",
       "city": "London"
-        },
-        "additionalLinks": ["https://www.youtube.com/live/RdiXuoMPtUA"],
-        "language": "en-us",
-        "date": "2023-03-31"
+    },
+    "additionalLinks": [
+      "https://www.youtube.com/live/RdiXuoMPtUA"
+    ],
+    "language": "en-us",
+    "date": "2023-03-31"
   },
   {
     "title": "5 aprendizados incríveis sobre backend que se aplicam para o frontend",
     "abstract": "Sobre padrões de projeto, práticas de testes unitários, performance, multithreading, webassembly, streams e MUITO mais.",
     "type": "talk",
     "event": {
-        "link": "https://www.linkedin.com/company/devparana/",
-        "name": "Dev Paraná Conf 2023"
+      "link": "https://www.linkedin.com/company/devparana/",
+      "name": "Dev Paraná Conf 2023"
     },
     "slides": "https://www.icloud.com/keynote/08cfNEtaMB0WK7EdnDp6i2DJQ#5-aprendizados-sobre-backend-para-frontenders-devpr-11032023",
     "photos": "",
     "video": "",
-    "tags": ["nodejs","javascript"],
+    "tags": [
+      "nodejs",
+      "javascript"
+    ],
     "location": {
       "latitude": -23.4108407,
       "longitude": -52.1106945,
-      "country": "Brasil",
+      "country": "Brazil",
       "uf": "PR",
       "city": "Maringá"
-        },
-        "additionalLinks": ["https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk"],
-        "language": "pt-br",
-        "date": "2023-03-11"
+    },
+    "additionalLinks": [
+      "https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk"
+    ],
+    "language": "pt-br",
+    "date": "2023-03-11"
   },
   {
     "title": "Como resolvi um bug no Node.js que afetou milhares de pacotes mundialmente",
     "abstract": "A jornada sobre como corrigi um bug no núcleo do Node.js que afetou milhares de pacotes",
     "type": "talk",
     "event": {
-        "link": "https://devfestcerrado.com.br/",
-        "name": "Dev Fest Cerrado 2022"
+      "link": "https://devfestcerrado.com.br/",
+      "name": "Dev Fest Cerrado 2022"
     },
     "slides": "https://bit.ly/slides-ew-devfestcerrado22",
     "photos": "",
     "video": "",
-    "tags": ["nodejs","javascript"],
+    "tags": [
+      "nodejs",
+      "javascript"
+    ],
     "location": {
       "latitude": -18.878831540966747,
       "longitude": -48.246936766273215,
-      "country": "Brasil",
+      "country": "Brazil",
       "uf": "MG",
       "city": "Uberlândia"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2022-11-26"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2022-11-26"
   },
   {
     "title": "The Journey About How I Fixed a Bug in the Node.js Core That Affected Thousands of Packages",
     "abstract": "In this talk, I'll dig into the process from opening and discussing an issue, to implementing a new feature on the Node.js core. ",
     "type": "talk",
     "event": {
-        "link": "https://2022.jsconf.kr/en/speakers/erick-wendel",
-        "name": "JS Conf Korea"
+      "link": "https://2022.jsconf.kr/en/speakers/erick-wendel",
+      "name": "JS Conf Korea"
     },
     "slides": "https://www.icloud.com/keynote/0ebVCpbGca71WwkLlffcaSsyQ#The_Journey_About_How_I_Fixed_a_Bug_in_the_Node.js_Core_that_Affected_Thousands_of_Packages_-_jsconfkorea_-_17092022",
     "photos": "",
     "video": "https://youtu.be/cxUWZoirTZk",
-    "tags": ["nodejs","javascript"],
+    "tags": [
+      "nodejs",
+      "javascript"
+    ],
     "location": {
       "latitude": 35.5112404,
       "longitude": 124.521065,
       "country": "South Korea",
       "uf": "KR",
       "city": "Seoul"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2022-09-17"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2022-09-17"
   },
   {
     "title": "Como resolvi um bug no Node.js que afetou milhares de pacotes mundialmente",
     "abstract": "A jornada sobre como corrigi um bug no núcleo do Node.js que afetou milhares de pacotes",
     "type": "talk",
     "event": {
-        "link": "https://conteudo.frontinsampa.com.br/sampa",
-        "name": "Frontin Sampa"
+      "link": "https://conteudo.frontinsampa.com.br/sampa",
+      "name": "Frontin Sampa"
     },
     "slides": "https://www.icloud.com/keynote/030o6u1lhZWuB80MSfUdFio1A#The_Journey_About_How_I_Fixed_a_Bug_in_the_Node.js_Core_that_Affected_Thousands_of_Packages_-_frontinsampa_-_16072022",
     "photos": "",
     "video": "",
-    "tags": ["iot","javascript"],
+    "tags": [
+      "iot",
+      "javascript"
+    ],
     "location": {
       "latitude": -23.5966179,
       "longitude": -46.6890048,
       "country": "Brazil",
       "uf": "SP",
       "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2022-07-16"
     },
-    {
-      "title": "How I Fixed a Bug in the Node.js Core that Affected Thousands of Packages",
-      "abstract": "Working on the Node.js core could be an exciting task and many developers want to contribute",
-      "type": "talk",
-      "event": {
-          "link": "https://www.nodetlv.com/",
-          "name": "Node.TLV"
-      },
-      "slides": "https://www.icloud.com/keynote/081FgwiIxwZEhBo9TjZSK0qUQ#The_Journey_About_How_I_Fixed_a_Bug_in_the_Node.js_Core_that_Affected_Thousands_of_Packages_-_nodetlv_-_28062022",
-      "photos": "",
-      "video": "",
-      "tags": ["nodejs","javascript"],
-      "location": {
-          "latitude": 32.166313,
-          "longitude": 34.843311,
-          "country": "Israel",
-          "uf": "IL",
-          "city": "Tel Aviv"
-          },
-          "additionalLinks": [""],
-          "language": "en-us",
-          "date": "2022-06-29"
-      },
-  {
-    "title": "How I've been using JavaScript to automate my house",
-    "abstract": "Software Programming is naturally fun but making something physical, ti interact with the world thats you live in, is like magic",
-    "type": "talk",
-    "event": {
-        "link": "https://jsnation.com",
-        "name": "Js Nation"
-    },
-    "slides": "https://bit.ly/js-iot-jsnation22",
-    "photos": "",
-    "video": "",
-    "tags": ["iot","javascript"],
-    "location": {
-        "latitude": 52.3738,
-        "longitude": 4.89093,
-        "country": "Netherlands",
-        "uf": "NED",
-        "city": "Amsterdam"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2022-06-16"
-    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2022-07-16"
+  },
   {
     "title": "How I Fixed a Bug in the Node.js Core that Affected Thousands of Packages",
     "abstract": "Working on the Node.js core could be an exciting task and many developers want to contribute",
     "type": "talk",
     "event": {
-        "link": "https://bit.ly/openjs-world-22-ew-talk",
-        "name": "Open JS World 2022"
+      "link": "https://www.nodetlv.com/",
+      "name": "Node.TLV"
     },
-    "slides": "https://bit.ly/openjsworld-22-erickwendel",
+    "slides": "https://www.icloud.com/keynote/081FgwiIxwZEhBo9TjZSK0qUQ#The_Journey_About_How_I_Fixed_a_Bug_in_the_Node.js_Core_that_Affected_Thousands_of_Packages_-_nodetlv_-_28062022",
     "photos": "",
-    "video": "https://youtu.be/zVDN0z6I7Pc",
-    "tags": ["nodejs","javascript"],
+    "video": "",
+    "tags": [
+      "nodejs",
+      "javascript"
+    ],
     "location": {
-        "latitude": 30.267222,
-        "longitude": -97.743056,
-        "country": "United States",
-        "uf": "AUS",
-        "city": "Austin"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2022-06-08"
+      "latitude": 32.166313,
+      "longitude": 34.843311,
+      "country": "Israel",
+      "uf": "IL",
+      "city": "Tel Aviv"
     },
-  {
-    "title": "Deep dive into Node.js Streams",
-    "abstract": "Node.js was built to solve a specific problem to handle on-demand processing",
-    "type": "talk",
-    "event": {
-        "link": "https://greece.cityjsconf.org/speaker/40SIDUGz4y2ukJ8e6V2bC7",
-        "name": "CityJS World series"
-    },
-    "slides": " https://bit.ly/deep-dive-nodejs-streams-cityjs",
-    "photos": "",
-    "video": "https://youtu.be/3kq3pPRx8-A",
-    "tags": ["iot","javascript"],
-    "location": {
-        "latitude": 37.992767,
-        "longitude": 23.795970,
-        "country": "Greece",
-        "uf": "GR",
-        "city": "Athens"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2022-05-29"
-    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2022-06-29"
+  },
   {
     "title": "How I've been using JavaScript to automate my house",
     "abstract": "Software Programming is naturally fun but making something physical, ti interact with the world thats you live in, is like magic",
     "type": "talk",
     "event": {
-        "link": "https://cityjsconf.org/",
-        "name": "CityJS World series"
+      "link": "https://jsnation.com",
+      "name": "Js Nation"
+    },
+    "slides": "https://bit.ly/js-iot-jsnation22",
+    "photos": "",
+    "video": "",
+    "tags": [
+      "iot",
+      "javascript"
+    ],
+    "location": {
+      "latitude": 52.3738,
+      "longitude": 4.89093,
+      "country": "Netherlands",
+      "uf": "NED",
+      "city": "Amsterdam"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2022-06-16"
+  },
+  {
+    "title": "How I Fixed a Bug in the Node.js Core that Affected Thousands of Packages",
+    "abstract": "Working on the Node.js core could be an exciting task and many developers want to contribute",
+    "type": "talk",
+    "event": {
+      "link": "https://bit.ly/openjs-world-22-ew-talk",
+      "name": "Open JS World 2022"
+    },
+    "slides": "https://bit.ly/openjsworld-22-erickwendel",
+    "photos": "",
+    "video": "https://youtu.be/zVDN0z6I7Pc",
+    "tags": [
+      "nodejs",
+      "javascript"
+    ],
+    "location": {
+      "latitude": 30.267222,
+      "longitude": -97.743056,
+      "country": "United States",
+      "uf": "AUS",
+      "city": "Austin"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2022-06-08"
+  },
+  {
+    "title": "Deep dive into Node.js Streams",
+    "abstract": "Node.js was built to solve a specific problem to handle on-demand processing",
+    "type": "talk",
+    "event": {
+      "link": "https://greece.cityjsconf.org/speaker/40SIDUGz4y2ukJ8e6V2bC7",
+      "name": "CityJS World series"
+    },
+    "slides": " https://bit.ly/deep-dive-nodejs-streams-cityjs",
+    "photos": "",
+    "video": "https://youtu.be/3kq3pPRx8-A",
+    "tags": [
+      "iot",
+      "javascript"
+    ],
+    "location": {
+      "latitude": 37.992767,
+      "longitude": 23.795970,
+      "country": "Greece",
+      "uf": "GR",
+      "city": "Athens"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2022-05-29"
+  },
+  {
+    "title": "How I've been using JavaScript to automate my house",
+    "abstract": "Software Programming is naturally fun but making something physical, ti interact with the world thats you live in, is like magic",
+    "type": "talk",
+    "event": {
+      "link": "https://cityjsconf.org/",
+      "name": "CityJS World series"
     },
     "slides": "",
     "photos": "",
     "video": "https://youtu.be/CtQTlvWZYts",
-    "tags": ["iot","javascript"],
+    "tags": [
+      "iot",
+      "javascript"
+    ],
     "location": {
-        "latitude": -23.5966179,
-        "longitude": -46.6890048,
-        "country": "Brazil",
-        "uf": "SP",
-        "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2022-04-29"
+      "latitude": -23.5966179,
+      "longitude": -46.6890048,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2022-04-29"
+  },
   {
     "title": "A vida e as aventuras de desenvolvedor de software",
     "abstract": "Nessa apresentação eu trouxe projetos divertidos que fiz, mostrei os principais desafios da área, quais os primeiros passos para ir de cabeça no mundo de programação e claro, mostrei como eu me mantenho motivado e com sede de sempre aprender mais.",
     "type": "talk",
     "event": {
-        "link": "https://www.linkedin.com/company/ong-pequeno-cidadao/",
-        "name": "ONG Pequeno Cidadão"
+      "link": "https://www.linkedin.com/company/ong-pequeno-cidadao/",
+      "name": "ONG Pequeno Cidadão"
     },
     "slides": "https://www.icloud.com/keynote/0e95qj_GuTCDZa_P-wcn9P8Aw#A_vida_e_as_aventuras_de_desenvolvedor_de_software_-_ONG",
     "photos": "",
     "video": "",
-    "tags": ["carreira","javascript"],
+    "tags": [
+      "carreira",
+      "javascript"
+    ],
     "location": {
-        "latitude": -23.5966179,
-        "longitude": -46.6890048,
-        "country": "Brazil",
-        "uf": "SP",
-        "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2022-04-09"
+      "latitude": -23.5966179,
+      "longitude": -46.6890048,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2022-04-09"
+  },
   {
     "title": "10 secrets to Improve Node.js Security - CityJS 2021",
     "abstract": "Javascript has become strong, trustable and super powerful for Web/Desktop/IoT/Wearable/etc applications.",
     "type": "talk",
     "event": {
-        "link": "https://cityjsconf.org",
-        "name": "CityJS 2021"
+      "link": "https://cityjsconf.org",
+      "name": "CityJS 2021"
     },
     "slides": "",
     "photos": "",
     "video": "https://www.youtube.com/watch?v=gJwrRTTb2Qw&t=27600s",
-    "tags": ["node","javascript"],
+    "tags": [
+      "node",
+      "javascript"
+    ],
     "location": {
-        "latitude": -23.5966179,
-        "longitude": -46.6890048,
-        "country": "Brazil",
-        "uf": "SP",
-        "city": "São Paulo"
+      "latitude": -23.5966179,
+      "longitude": -46.6890048,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "en-us",
     "date": "2021-03-24"
   },
@@ -349,21 +428,27 @@
     "abstract": "Nesse episódio, conversamos sobre as novas features do Node, certificação e um pouco sobre Deno.",
     "type": "talk",
     "event": {
-        "link": "https://podtag.com.br/tag-42-node",
-        "name": "podTag"
+      "link": "https://podtag.com.br/tag-42-node",
+      "name": "podTag"
     },
     "slides": "",
     "photos": "",
     "video": "",
-    "tags": ["node","javascript","deno"],
+    "tags": [
+      "node",
+      "javascript",
+      "deno"
+    ],
     "location": {
-        "latitude": -23.5966179,
-        "longitude": -46.6890048,
-        "country": "Brazil",
-        "uf": "SP",
-        "city": "São Paulo"
+      "latitude": -23.5966179,
+      "longitude": -46.6890048,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2020-09-02"
   },
@@ -378,7 +463,11 @@
     "slides": "https://bit.ly/10-tips-security-ew",
     "photos": "",
     "video": "https://youtu.be/FZCGnm-MiJ0",
-    "tags": ["node.js", "javascript", "security"],
+    "tags": [
+      "node.js",
+      "javascript",
+      "security"
+    ],
     "location": {
       "latitude": -23.5966179,
       "longitude": -46.6890048,
@@ -386,7 +475,9 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "en-us",
     "date": "2020-11-02"
   },
@@ -401,7 +492,11 @@
     "slides": "https://bit.ly/sls-apps-azurers",
     "photos": "",
     "video": "https://youtu.be/WG-Vi9MSS3c",
-    "tags": ["serverless", "node.js", "career"],
+    "tags": [
+      "serverless",
+      "node.js",
+      "career"
+    ],
     "location": {
       "latitude": -23.5966179,
       "longitude": -46.6890048,
@@ -409,7 +504,9 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2020-07-02"
   },
@@ -424,7 +521,11 @@
     "slides": "https://bit.ly/sls-apps-azurers",
     "photos": "",
     "video": "https://youtu.be/2ARbnZ1VRCI",
-    "tags": ["serverless", "node.js", "career"],
+    "tags": [
+      "serverless",
+      "node.js",
+      "career"
+    ],
     "location": {
       "latitude": -23.5966179,
       "longitude": -46.6890048,
@@ -432,7 +533,9 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2020-06-30"
   },
@@ -447,7 +550,11 @@
     "slides": "https://bit.ly/nodejs-streams-ew-01",
     "photos": "2020-05-30-deep_dive_into_nodejs_streams",
     "video": "https://youtu.be/nNrp7pOJMbM",
-    "tags": ["node.js", "english", "javascript"],
+    "tags": [
+      "node.js",
+      "english",
+      "javascript"
+    ],
     "location": {
       "latitude": -23.5966179,
       "longitude": -46.6890048,
@@ -473,7 +580,9 @@
     "slides": "https://bit.ly/10-tips-perf-jsvidcon2020",
     "photos": "",
     "video": "",
-    "tags": ["node.js"],
+    "tags": [
+      "node.js"
+    ],
     "location": {
       "latitude": -23.5966179,
       "longitude": -46.6890048,
@@ -481,7 +590,9 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "en-us",
     "date": "2020-05-07"
   },
@@ -496,7 +607,11 @@
     "slides": "http://bit.ly/a-lenda-do-tdd-erickwendel",
     "photos": "2020-01-28-a_lenda_do_desenvolvimento_orientado_a_testes",
     "video": "",
-    "tags": ["tdd", "node.js", "tests"],
+    "tags": [
+      "tdd",
+      "node.js",
+      "tests"
+    ],
     "location": {
       "latitude": -23.5966179,
       "longitude": -46.6890048,
@@ -504,7 +619,9 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2020-01-28"
   },
@@ -519,7 +636,13 @@
     "slides": "http://bit.ly/scaling-nodejs-k8s-erickwendel-njsi2019",
     "photos": "2019-12-11-scaling_node.js_applications_with_kubernetes_and_docker",
     "video": "https://youtu.be/Jmf9jilQUsU",
-    "tags": ["docker", "kubernetes", "k8s", "node.js", "javascript"],
+    "tags": [
+      "docker",
+      "kubernetes",
+      "k8s",
+      "node.js",
+      "javascript"
+    ],
     "location": {
       "latitude": 45.5023889,
       "longitude": -73.5675776,
@@ -527,7 +650,9 @@
       "uf": "MTL",
       "city": "Montréal"
     },
-    "additionalLinks": ["https://sched.co/XgHG"],
+    "additionalLinks": [
+      "https://sched.co/XgHG"
+    ],
     "language": "en-us",
     "date": "2019-12-11"
   },
@@ -542,7 +667,11 @@
     "slides": "http://bit.ly/livecoding-docker-erickwendel",
     "photos": "2019-12-09-from_monoliths_to_microservices_with_docker",
     "video": "",
-    "tags": ["node.js", "docker", "devops"],
+    "tags": [
+      "node.js",
+      "docker",
+      "devops"
+    ],
     "location": {
       "latitude": 45.50239,
       "longitude": -73.56539,
@@ -550,7 +679,9 @@
       "uf": "MTL",
       "city": "Montréal"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "en-us",
     "date": "2019-12-09"
   },
@@ -565,7 +696,11 @@
     "slides": "http://bit.ly/10-secrets-perf-js-devfestpantanal",
     "photos": "2019-11-30-10_secrets_to_improve_javascript_performance",
     "video": "",
-    "tags": ["node.js", "performance", "javascript"],
+    "tags": [
+      "node.js",
+      "performance",
+      "javascript"
+    ],
     "location": {
       "latitude": -15.565715,
       "longitude": -56.1085687,
@@ -590,7 +725,11 @@
     "slides": "http://bit.ly/js-recognise-people-erickwendel",
     "photos": "2019-11-15-javascript,_serviços_cognitivos_do_azure_e_raspberrypi",
     "video": "",
-    "tags": ["node.js", "opencv", "faceapi"],
+    "tags": [
+      "node.js",
+      "opencv",
+      "faceapi"
+    ],
     "location": {
       "latitude": -10.9695271,
       "longitude": -37.0607327,
@@ -598,7 +737,9 @@
       "uf": "SE",
       "city": "Aracajú"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2019-11-15"
   },
@@ -613,7 +754,11 @@
     "slides": "http://bit.ly/10-tips-jsperf-jsfestua",
     "photos": "2019-11-09-10_secrets_to_improve_javascript_performance",
     "video": "https://youtu.be/GQlgR_69dmI",
-    "tags": ["node.js", "performance", "javascript"],
+    "tags": [
+      "node.js",
+      "performance",
+      "javascript"
+    ],
     "location": {
       "latitude": 50.450245,
       "longitude": 30.442075,
@@ -639,7 +784,10 @@
     "slides": "http://bit.ly/10-tips-jsperf-montevideojs",
     "photos": "2019-10-23-10_secrets_to_improve_javascript_performance",
     "video": "",
-    "tags": ["node.js", "performance"],
+    "tags": [
+      "node.js",
+      "performance"
+    ],
     "location": {
       "latitude": -34.90712,
       "longitude": -56.201138,
@@ -647,7 +795,9 @@
       "uf": "MVD",
       "city": "Montevideo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "en-us",
     "date": "2019-10-23"
   },
@@ -662,7 +812,12 @@
     "slides": "http://bit.ly/using-js-to-recognize-people-erickwendel",
     "photos": "2019-10-22-javascript,-azure-cognitive-services-and-raspberrypi---using-javascript-to-recognise-people!",
     "video": "",
-    "tags": ["node.js", "raspberrypi", "azure", "javascript"],
+    "tags": [
+      "node.js",
+      "raspberrypi",
+      "azure",
+      "javascript"
+    ],
     "location": {
       "latitude": -34.891944,
       "longitude": -56.1969107,
@@ -670,7 +825,9 @@
       "uf": "MVD",
       "city": "Montevideo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "en-us",
     "date": "2019-10-22"
   },
@@ -685,7 +842,11 @@
     "slides": "http://bit.ly/nerdzao-behind-scenes-slides",
     "photos": "2019-10-15-nerdzao_behind_the_scenes_of_a_brazillian_technology_community",
     "video": "",
-    "tags": ["communities", "english", "career"],
+    "tags": [
+      "communities",
+      "english",
+      "career"
+    ],
     "location": {
       "latitude": -23.562573,
       "longitude": -46.6569407,
@@ -710,7 +871,11 @@
     "slides": "http://bit.ly/k8s-apiworld-erickwendel",
     "photos": "2019-10-09-scaling_node.js_applications_with_kubernetes_and_docker",
     "video": "",
-    "tags": ["kubernetes", "node.js", "docker"],
+    "tags": [
+      "kubernetes",
+      "node.js",
+      "docker"
+    ],
     "location": {
       "latitude": 37.3294048,
       "longitude": -121.8893849,
@@ -718,7 +883,9 @@
       "uf": "CA",
       "city": "San Jose"
     },
-    "additionalLinks": ["https://sched.co/SLWf"],
+    "additionalLinks": [
+      "https://sched.co/SLWf"
+    ],
     "language": "en-us",
     "date": "2019-10-09"
   },
@@ -733,7 +900,13 @@
     "slides": "http://bit.ly/abcdev-js-raspberry-facerecognition",
     "photos": "2019-09-20-javascript_azure_cognitive_services_and_raspberrypi",
     "video": "",
-    "tags": ["node.js", "raspberrypi", "azure", "microsoft", "opencv"],
+    "tags": [
+      "node.js",
+      "raspberrypi",
+      "azure",
+      "microsoft",
+      "opencv"
+    ],
     "location": {
       "latitude": -23.612027,
       "longitude": -46.570758,
@@ -758,7 +931,9 @@
     "slides": "http://bit.ly/as-aventuras-dev-internorte",
     "photos": "2019-09-14-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software",
     "video": "https://youtu.be/DfIHMBorhoM",
-    "tags": ["career"],
+    "tags": [
+      "career"
+    ],
     "location": {
       "latitude": -8.0385551,
       "longitude": -50.0368336,
@@ -766,7 +941,9 @@
       "uf": "PA",
       "city": "Redenção"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2019-09-14"
   },
@@ -781,7 +958,11 @@
     "slides": "http://bit.ly/robos-com-js-hacktown2019",
     "photos": "2019-09-07-construindo_robôs_automatizados_para_extração_de_informações",
     "video": "https://youtu.be/evGwqDwSitA",
-    "tags": ["node.js", "seleniumwebdriver", "javascript"],
+    "tags": [
+      "node.js",
+      "seleniumwebdriver",
+      "javascript"
+    ],
     "location": {
       "latitude": -22.2562972,
       "longitude": -45.7056318,
@@ -804,7 +985,11 @@
     "slides": "http://bit.ly/js-reconhecer-pessoas-cpgoias2019",
     "photos": "2019-09-06-javascript_azure_cognitive_services_e_raspberrypi",
     "video": "https://t.co/pBXaXMUo31?amp=1",
-    "tags": ["node.js", "opencv", "faceapi"],
+    "tags": [
+      "node.js",
+      "opencv",
+      "faceapi"
+    ],
     "location": {
       "latitude": -16.6298953,
       "longitude": -49.2806259,
@@ -830,7 +1015,12 @@
     "slides": "http://bit.ly/ew-graphql-azfn-brjs2019",
     "photos": "2019-08-23-graphql_+_apollo_server_+_azure_functions_=_magic",
     "video": "https://youtu.be/ApGZeBH_HeI",
-    "tags": ["node.js", "graphql", "apolloserver", "serverless"],
+    "tags": [
+      "node.js",
+      "graphql",
+      "apolloserver",
+      "serverless"
+    ],
     "location": {
       "latitude": -30.0846697,
       "longitude": -51.2480271,
@@ -856,7 +1046,13 @@
     "slides": "http://bit.ly/graphql-serverless-apps-ew",
     "photos": "2019-08-17-graphql_+_apollo_server_+_azure_functions_=_magic",
     "video": "https://www.youtube.com/watch?v=aQw8LDBspSg",
-    "tags": ["english", "node.js", "graphql", "apolloserver", "serverless"],
+    "tags": [
+      "english",
+      "node.js",
+      "graphql",
+      "apolloserver",
+      "serverless"
+    ],
     "location": {
       "latitude": -23.5816151,
       "longitude": -46.6843488,
@@ -881,7 +1077,11 @@
     "slides": "http://bit.ly/10-tips-jsperf-nodeconfco",
     "photos": "2019-06-22-10_secrets_to_improve_javascript_performance",
     "video": "",
-    "tags": ["node.js", "javascript", "performance"],
+    "tags": [
+      "node.js",
+      "javascript",
+      "performance"
+    ],
     "location": {
       "latitude": 6.2648627,
       "longitude": -75.5687837,
@@ -907,7 +1107,11 @@
     "slides": "http://bit.ly/erickwendel-nodebr-ts-node",
     "photos": "2019-06-06-the_power_of_typescript_to_work_with_node.js_applications",
     "video": "",
-    "tags": ["node.js", "typescript", "design patterns"],
+    "tags": [
+      "node.js",
+      "typescript",
+      "design patterns"
+    ],
     "location": {
       "latitude": -23.553513,
       "longitude": -46.657505,
@@ -966,7 +1170,13 @@
     "slides": "http://bit.ly/workshop-vscode-ext-erickwendel",
     "photos": "2019-04-20-building_a_vs_code_extension_using_typescript",
     "video": "",
-    "tags": ["node.js", "vscode", "workshop", "typescript", "javascript"],
+    "tags": [
+      "node.js",
+      "vscode",
+      "workshop",
+      "typescript",
+      "javascript"
+    ],
     "location": {
       "latitude": 37.7846235,
       "longitude": -122.400417,
@@ -992,7 +1202,11 @@
     "slides": "http://bit.ly/wtf-are-sls-apps-gdgberkeley",
     "photos": "2019-04-19-wtf_are_serverless_apps",
     "video": "http://bit.ly/wtf-sls-apps-erickwendel",
-    "tags": ["node.js", "serverless", "architecture"],
+    "tags": [
+      "node.js",
+      "serverless",
+      "architecture"
+    ],
     "location": {
       "latitude": 37.870922,
       "longitude": -122.27144,
@@ -1017,7 +1231,12 @@
     "slides": "http://bit.ly/vscode-ext-erickwendel-sfnode",
     "photos": "2019-04-04-building_vscode_extensions",
     "video": "https://www.youtube.com/watch?v=wNOaM6ZzX-Y",
-    "tags": ["node.js", "vscode", "extensions", "typescript"],
+    "tags": [
+      "node.js",
+      "vscode",
+      "extensions",
+      "typescript"
+    ],
     "location": {
       "latitude": 37.7867895,
       "longitude": -122.4019862,
@@ -1042,7 +1261,12 @@
     "slides": "http://bit.ly/workshop-hapijs-erickwendel-sfnodeschool",
     "photos": "2019-03-30-creating_a_complete_web_api_using_hapijs_and_mongodb",
     "video": "",
-    "tags": ["node.js", "hapijs", "workshop", "javascript"],
+    "tags": [
+      "node.js",
+      "hapijs",
+      "workshop",
+      "javascript"
+    ],
     "location": {
       "latitude": 37.782757,
       "longitude": -122.39363,
@@ -1068,7 +1292,12 @@
     "slides": "http://bit.ly/erickwendel-k8s-nodejs-jskongress2019",
     "photos": "2019-03-12-scaling_node.js_applications_with_kubernetes_and_docker",
     "video": "https://youtu.be/ZgMAYQmSJO4",
-    "tags": ["kubernetes", "k8s", "node.js", "javascript"],
+    "tags": [
+      "kubernetes",
+      "k8s",
+      "node.js",
+      "javascript"
+    ],
     "location": {
       "latitude": 48.1319997,
       "longitude": 11.5444438,
@@ -1076,7 +1305,9 @@
       "uf": "MU",
       "city": "Munich"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "en-us",
     "date": "2019-03-12"
   },
@@ -1091,7 +1322,11 @@
     "slides": "http://bit.ly/erickwendel-gdgsv-ts-node",
     "photos": "2019-02-23-the_power_of_typescript_to_work_with_node.js_applications",
     "video": "https://twitter.com/i/status/1099477700652150785",
-    "tags": ["node.js", "typescript", "javascript"],
+    "tags": [
+      "node.js",
+      "typescript",
+      "javascript"
+    ],
     "location": {
       "latitude": 37.4121686,
       "longitude": -122.0206659,
@@ -1117,7 +1352,13 @@
     "slides": "http://bit.ly/graphql-azfunction-erickwendel",
     "photos": "2019-02-17-creating_serverless_apis_using_graphql,_apolloserver_and_azure_functions",
     "video": "",
-    "tags": ["node.js", "serverless", "javascript", "graphql", "workshop"],
+    "tags": [
+      "node.js",
+      "serverless",
+      "javascript",
+      "graphql",
+      "workshop"
+    ],
     "location": {
       "latitude": 37.7846235,
       "longitude": -122.400417,
@@ -1143,7 +1384,10 @@
     "slides": "",
     "photos": "",
     "video": "https://www.youtube.com/watch?v=rwlGnRdk2U4",
-    "tags": ["webinar", "serverless"],
+    "tags": [
+      "webinar",
+      "serverless"
+    ],
     "location": {
       "latitude": -23.5882491,
       "longitude": -46.6346657,
@@ -1151,7 +1395,9 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2017-11-16"
   },
@@ -1166,7 +1412,11 @@
     "slides": "https://docs.google.com/presentation/d/10oIZDmxbaTemW5aIv0d_Vp2IxM5gvzwCpwuV6AdIOu0/edit?usp=sharing",
     "photos": "2017-11-03-construindo_sua_própria_inteligência_artificial_como_assistente_pessoal",
     "video": "",
-    "tags": ["node.js", "aws", "typescript"],
+    "tags": [
+      "node.js",
+      "aws",
+      "typescript"
+    ],
     "location": {
       "latitude": -19.920275,
       "longitude": -43.934066,
@@ -1174,7 +1424,9 @@
       "uf": "MG",
       "city": "Belo Horizonte"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2017-11-03"
   },
@@ -1189,7 +1441,11 @@
     "slides": "https://slides.com/erickwendel/building-vscode-extensions-with-typescript-capiconf-mini/",
     "photos": "",
     "video": "",
-    "tags": ["node.js", "vscode", "typescript"],
+    "tags": [
+      "node.js",
+      "vscode",
+      "typescript"
+    ],
     "location": {
       "latitude": -25.4332082,
       "longitude": -49.2752017,
@@ -1214,7 +1470,11 @@
     "slides": "http://slides.com/erickwendel/alta-performance-e-disponibilidade-de-aplicaes-nodejs-devxperience/fullscreen",
     "photos": "2017-09-01-alta_performance_e_disponibilidade_de_aplicações_nodejs",
     "video": "",
-    "tags": ["node.js", "performance", "hapijs"],
+    "tags": [
+      "node.js",
+      "performance",
+      "hapijs"
+    ],
     "location": {
       "latitude": -23.5816653,
       "longitude": -46.6690279,
@@ -1239,7 +1499,9 @@
     "slides": "",
     "photos": "2017-08-26-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software",
     "video": "",
-    "tags": ["career"],
+    "tags": [
+      "career"
+    ],
     "location": {
       "latitude": -22.4290082,
       "longitude": -45.4568706,
@@ -1247,7 +1509,9 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2017-08-26"
   },
@@ -1262,7 +1526,10 @@
     "slides": "https://slides.com/erickwendel/jobtask-queue-with-nodejs-tdc-2017",
     "photos": "",
     "video": "",
-    "tags": ["node.js", "performance"],
+    "tags": [
+      "node.js",
+      "performance"
+    ],
     "location": {
       "latitude": -23.6002334,
       "longitude": -46.6788224,
@@ -1287,7 +1554,10 @@
     "slides": "",
     "photos": "",
     "video": "https://youtu.be/H66DlBkJYCk?t=704",
-    "tags": ["webinar", "career"],
+    "tags": [
+      "webinar",
+      "career"
+    ],
     "location": {
       "latitude": -23.5625707,
       "longitude": -46.6565045,
@@ -1295,7 +1565,9 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2017-08-10"
   },
@@ -1310,7 +1582,11 @@
     "slides": "",
     "photos": "",
     "video": "",
-    "tags": ["node.js", "workshop", "typescript"],
+    "tags": [
+      "node.js",
+      "workshop",
+      "typescript"
+    ],
     "location": {
       "latitude": -23.5493645,
       "longitude": -46.6498912,
@@ -1335,7 +1611,10 @@
     "slides": "http://slides.com/erickwendel/apis-com-nodejs-typescript/fullscreen",
     "photos": "",
     "video": "",
-    "tags": ["node.js", "typescript"],
+    "tags": [
+      "node.js",
+      "typescript"
+    ],
     "location": {
       "latitude": -23.5542518,
       "longitude": -46.7330228,
@@ -1360,7 +1639,11 @@
     "slides": "https://slides.com/erickwendel/hands-on-angularjs-html5-study-group/fullscreen",
     "photos": "",
     "video": "",
-    "tags": ["node.js", "angular", "javascript"],
+    "tags": [
+      "node.js",
+      "angular",
+      "javascript"
+    ],
     "location": {
       "latitude": -23.5452767,
       "longitude": -46.6373743,
@@ -1385,7 +1668,10 @@
     "slides": "",
     "photos": "",
     "video": "https://youtu.be/VLqX2oTtvz8?t=625",
-    "tags": ["webinar", "career"],
+    "tags": [
+      "webinar",
+      "career"
+    ],
     "location": {
       "latitude": -23.5555873,
       "longitude": -46.6635681,
@@ -1393,7 +1679,9 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2016-11-03"
   },
@@ -1408,7 +1696,10 @@
     "slides": "",
     "photos": "",
     "video": "https://youtu.be/TshiaAMiFR4",
-    "tags": ["typescript", "webinar"],
+    "tags": [
+      "typescript",
+      "webinar"
+    ],
     "location": {
       "latitude": -23.5555873,
       "longitude": -46.6635681,
@@ -1416,7 +1707,9 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2016-11-14"
   },
@@ -1431,7 +1724,10 @@
     "slides": "https://docs.google.com/presentation/d/1SjRVW9Sei4wI2Lr45FdDJoShZr97gVmJ10lhYwKaoTM/edit?usp=sharing",
     "photos": "2017-11-11-desenvolvimento_de_malwares_com_c#",
     "video": "https://www.facebook.com/EriickWendel/videos/1530672087012334/",
-    "tags": ["malware", "c#"],
+    "tags": [
+      "malware",
+      "c#"
+    ],
     "location": {
       "latitude": -23.5283405,
       "longitude": -46.6695493,
@@ -1456,7 +1752,11 @@
     "slides": "https://docs.google.com/presentation/d/18Pmr-81goU0XDjABDGrcJldlYjAquoqJxLbNZ-G7XNQ/edit?usp=sharing",
     "photos": "2017-10-15_arquitetura_serverlessnanoservices",
     "video": "https://www.youtube.com/watch?v=mxypKdbCJOY",
-    "tags": ["serverless", "node.js", "aws"],
+    "tags": [
+      "serverless",
+      "node.js",
+      "aws"
+    ],
     "location": {
       "latitude": -23.5816653,
       "longitude": -46.6690279,
@@ -1464,7 +1764,9 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2017-10-15"
   },
@@ -1479,7 +1781,11 @@
     "slides": "https://docs.google.com/presentation/d/1GgngBBGz-qK_7dahn3hTSJOGwL7B7MjnlE2L5HfXDRU/edit?usp=sharing",
     "photos": "",
     "video": "https://www.facebook.com/StartupWithIBM/videos/1498309570256837",
-    "tags": ["node.js", "javascript", "typescript"],
+    "tags": [
+      "node.js",
+      "javascript",
+      "typescript"
+    ],
     "location": {
       "latitude": -23.5805414,
       "longitude": -46.6461597,
@@ -1487,7 +1793,9 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2017-09-27"
   },
@@ -1502,7 +1810,10 @@
     "slides": "https://docs.google.com/presentation/d/1SlNX3L5UC4QL1CjDdVI_GS4GhuOt366icyGSLv04kUY/edit?usp=sharing",
     "photos": "",
     "video": "https://www.youtube.com/watch?v=Gv6pfL5QxRs",
-    "tags": ["git", "gitcrypt"],
+    "tags": [
+      "git",
+      "gitcrypt"
+    ],
     "location": {
       "latitude": -23.5523916,
       "longitude": -46.6800878,
@@ -1510,7 +1821,9 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2018-02-02"
   },
@@ -1525,7 +1838,9 @@
     "slides": "",
     "photos": "",
     "video": "http://bit.ly/thevelopers-erickwendel",
-    "tags": ["webinar"],
+    "tags": [
+      "webinar"
+    ],
     "location": {
       "latitude": -23.5523916,
       "longitude": -46.6800878,
@@ -1533,7 +1848,9 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2019-01-02"
   },
@@ -1548,7 +1865,12 @@
     "slides": "http://bit.ly/wtf-serverless-connect",
     "photos": "2019-01-19_-_wtf_are_serverless_apps",
     "video": "",
-    "tags": ["node.js", "serverless", "aws", "azure"],
+    "tags": [
+      "node.js",
+      "serverless",
+      "aws",
+      "azure"
+    ],
     "location": {
       "latitude": -23.5512,
       "longitude": -46.73564,
@@ -1556,7 +1878,9 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": ["https://github.com/ErickWendel/wtf-serverless-talk"],
+    "additionalLinks": [
+      "https://github.com/ErickWendel/wtf-serverless-talk"
+    ],
     "language": "pt-br",
     "date": "2019-01-19"
   },
@@ -1571,7 +1895,12 @@
     "slides": "https://www.icloud.com/keynote/0cu5MB1vmU-Znze_o5ETuYZaw#Dojo-online_-_liveshare_10012019",
     "photos": "",
     "video": "https://youtu.be/-JehgrelrfU",
-    "tags": ["codingdojo", "online", "webinar", "vscode"],
+    "tags": [
+      "codingdojo",
+      "online",
+      "webinar",
+      "vscode"
+    ],
     "location": {
       "latitude": -23.5542256,
       "longitude": -46.6744607,
@@ -1579,7 +1908,9 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2019-01-10"
   },
@@ -1591,11 +1922,18 @@
       "link": "https://braziljs.org/eventos/braziljs-on-the-road-joinville/",
       "name": "Braziljs on the road Joinville"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "http://bit.ly/talk-rxjs-braziljs-24112018",
     "photos": "2018-11-24-node.js_observables_e_rxjs_-_programação_reativa_no_backend!",
     "video": "https://youtu.be/1we5tC1oyYA",
-    "tags": ["node.js", "rxjs", "javascript", "observable"],
+    "tags": [
+      "node.js",
+      "rxjs",
+      "javascript",
+      "observable"
+    ],
     "location": {
       "latitude": -26.242434,
       "longitude": -48.8812217,
@@ -1614,11 +1952,19 @@
       "link": "https://developerssergipe.com",
       "name": "Developers Sergipe Summit 2018"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": " http://bit.ly/talk-vscode-ext-erickwendel-devsergipe2018",
     "photos": "2018-12-15-building_vscode_extensions_with_typescript",
     "video": "",
-    "tags": ["node.js", "vscode", "javascript", "siri", "extensions"],
+    "tags": [
+      "node.js",
+      "vscode",
+      "javascript",
+      "siri",
+      "extensions"
+    ],
     "location": {
       "latitude": -10.900247,
       "longitude": -37.055603,
@@ -1637,11 +1983,18 @@
       "link": "https://cpee.unifei.edu.br/Programacao.html",
       "name": "III Congresso de Pesquisa Extensão e Ensino da Unifei-Itabira"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw",
     "photos": "2018-10-25-node.js_docker_containerizacao",
     "video": "",
-    "tags": ["node.js", "javascript", "docker", "microservices"],
+    "tags": [
+      "node.js",
+      "javascript",
+      "docker",
+      "microservices"
+    ],
     "location": {
       "latitude": -19.6743348,
       "longitude": -43.2144952,
@@ -1660,11 +2013,16 @@
       "link": "",
       "name": "E.E. Vila Bela - Projeto [R]EVOLUÇÃO"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "https://docs.google.com/presentation/d/1VhpAZC1mZgmuJXy9Qt_mbPce4aC-rvtFu6RYzKAXIlE/edit?usp=sharing",
     "photos": "2018-10-18-a_vida_e_as_aventuras_de_um_desenvolvedor_de_software",
     "video": "",
-    "tags": ["career", "javascript"],
+    "tags": [
+      "career",
+      "javascript"
+    ],
     "location": {
       "latitude": -23.6099272,
       "longitude": -46.4499841,
@@ -1683,11 +2041,16 @@
       "link": "https://credencial.imasters.com.br/community-leaders-summit-2018",
       "name": "Community Leaders Summit"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "https://www.icloud.com/keynote/0vGhAy4B7cCUt_5B94zJvKV_A#O_que_aprendi_organizando_uma_grande_comunidade_-_Community_Summit",
     "photos": "2018-10-05-o_que_aprendi_organizando_grandes_comunidades",
     "video": "https://web.facebook.com/fernando.veiga.3950/videos/1122170867935213/",
-    "tags": ["career", "communities"],
+    "tags": [
+      "career",
+      "communities"
+    ],
     "location": {
       "latitude": -23.5816604,
       "longitude": -46.6690279,
@@ -1712,7 +2075,12 @@
     "slides": "https://www.icloud.com/keynote/0mpRDRsKBIcIkmNCTrOstp5fQ#Scalling_your_apps_with_K8s_and_Docker_-_TheConf_-_21092018",
     "photos": "2018-09-21-scaling_your_applications_with_kubernetes_and_docker",
     "video": "https://youtu.be/cAwDALyoVUw",
-    "tags": ["english", "node.js", "docker", "kubernetes"],
+    "tags": [
+      "english",
+      "node.js",
+      "docker",
+      "kubernetes"
+    ],
     "location": {
       "latitude": -23.5816151,
       "longitude": -46.6843488,
@@ -1731,11 +2099,19 @@
       "link": "https://hacktown.com.br/programacao/dia/8-Sep/",
       "name": "Hack Town 2018"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "https://www.icloud.com/keynote/0geBVltLvSHcKRwabA4OCfppA#Usando_Javascript_para_reconhecer_pessoas!_-_HackTown_-_07092018.key",
     "photos": "2018-09-08-usando_javascript_para_reconhecer_pessoas",
     "video": "https://youtu.be/1gC1kOZDZEA",
-    "tags": ["node.js", "azure", "faceapi", "opencv", "javascript"],
+    "tags": [
+      "node.js",
+      "azure",
+      "faceapi",
+      "opencv",
+      "javascript"
+    ],
     "location": {
       "latitude": -22.2562972,
       "longitude": -45.7056318,
@@ -1754,11 +2130,18 @@
       "link": "https://www.meetup.com/pt-BR/DevelopersBR/events/253660887/",
       "name": "MSP Tech Days"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "https://www.icloud.com/keynote/0ipUo_tvnKEe-w07Dr86vWHfw",
     "photos": "2018-09-01-node.js-microservicos-e-containerizacao",
     "video": "",
-    "tags": ["node.js", "javascript", "docker", "microservices"],
+    "tags": [
+      "node.js",
+      "javascript",
+      "docker",
+      "microservices"
+    ],
     "location": {
       "latitude": -23.54645,
       "longitude": -46.623615,
@@ -1777,11 +2160,18 @@
       "link": "https://www.meetup.com/pt-BR/FCTech/events/252754164",
       "name": "FC Tech #2 - Poderes do JS"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "https://www.icloud.com/keynote/09M3Bdis-aIhQa85AUZ1v792w#Nodejs%2C_Rxjs_e_Reactive_Programming_-_FCTech_18082018.key",
     "photos": "2018-08-18-node.js_observables_e_rxjs_-_programação_reativa_no_backend!",
     "video": "",
-    "tags": ["node.js", "rxjs", "reactive", "observable"],
+    "tags": [
+      "node.js",
+      "rxjs",
+      "reactive",
+      "observable"
+    ],
     "location": {
       "latitude": -23.5556096,
       "longitude": -46.6613902,
@@ -1800,11 +2190,18 @@
       "link": "https://www.meetup.com/pt-BR/sfnode/events/mxstsmyxlbdb/",
       "name": "San Francisco Node at Mixmax"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "https://www.icloud.com/keynote/02WBW9IrCGUW9Q2Z9DsPvkcqA#Manage_the_Javascript_Asynchronous_flow.key",
     "photos": "2018-08-02-managing_the_flow_of_asynchronous_operations_in_node.js",
     "video": "2018-08-02-managing_the_flow_of_asynchronous_operations_in_node.js/video.mp4",
-    "tags": ["node.js", "javascript", "async", "english"],
+    "tags": [
+      "node.js",
+      "javascript",
+      "async",
+      "english"
+    ],
     "location": {
       "latitude": 37.7827092,
       "longitude": -122.3935642,
@@ -1823,11 +2220,17 @@
       "link": "https://eventos.imasters.com.br/jsexperience/",
       "name": "JS Experience – 7Masters - Edição 2018"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "https://www.icloud.com/keynote/0a-nP8fSdgrIwtbcdLcp2025w#7Masters_-_Gerenciando_o_Fluxo_Assincrono_de_operac%CC%A7o%CC%83es_JS.key",
     "photos": "2018-07-05-gerenciando_o_fluxo_assincrono_de_operações_javascript",
     "video": "",
-    "tags": ["javascript", "async", "node.js"],
+    "tags": [
+      "javascript",
+      "async",
+      "node.js"
+    ],
     "location": {
       "latitude": -23.5588643,
       "longitude": -46.6645247,
@@ -1838,7 +2241,6 @@
     "language": "pt-br",
     "date": "2018-07-05"
   },
-
   {
     "title": "Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos",
     "abstract": "Já pensou em reviver os tempos antigos de uma forma mais digital? Nessa palestra os participantes aprenderão como criar aplicações em tempo real com Node.js baseado no projeto Original Potato que desenvolvemos explorando o podencial de aplicações Web e facilidades do Javascript.",
@@ -1847,11 +2249,18 @@
       "link": "https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/criando-um-jogo-de-batata-em-tempo-real-com-nodejs-para-milhoes-de-usuarios-simultaneos-cpbsb2/",
       "name": "Campus Party Brasilia 2018"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "https://www.icloud.com/keynote/0MMt9tvBlfTWYNxOQqRktqn8A#CampusBSB2_-_Criando_um_jogo_de_Batata_Quente_em_tempo_real_com_Nodejs.key",
     "photos": "2018-06-29-criando_um_jogo_de_batata_em_tempo_real_com_node.js_para_de_usuarios_simultaneos",
     "video": "https://www.youtube.com/watch?v=NexvZCJFil8",
-    "tags": ["node.js", "javascript", "websocket", "socketio"],
+    "tags": [
+      "node.js",
+      "javascript",
+      "websocket",
+      "socketio"
+    ],
     "location": {
       "latitude": -15.7835191,
       "longitude": -47.9013997,
@@ -1870,11 +2279,18 @@
       "link": "https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/",
       "name": "Campus Party Brasilia 2018"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "https://erickwendel.github.io/palestra-criciumadev-Javascript-para-reconhecer-pessoas/",
     "photos": "2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!",
     "video": "",
-    "tags": ["node.js", "javascript", "faceapi", "azure"],
+    "tags": [
+      "node.js",
+      "javascript",
+      "faceapi",
+      "azure"
+    ],
     "location": {
       "latitude": -15.7835191,
       "longitude": -47.9013997,
@@ -1885,7 +2301,6 @@
     "language": "pt-br",
     "date": "2018-06-29"
   },
-
   {
     "title": "Node.js e Typescript - Extraindo informações da Marvel Comics com Web Scrapping",
     "abstract": "Em nossa vida, fazemos diversas ações repetitivas, seja entrar em um site para visualizar dados e registrar em uma base posterior, seja cadastrar um mesmo item a cada tempo ou até mesmo publicar coisas no Facebook. Nesta palestra, você entenderá a facilidade de criar seu robô totalmente atualizado e pronto para liberar aquele tempo preciso para focar no que realmente é estratégico. Vamos conhecer a ferramenta Selenium Web Driver para simular um usuário no navegador e fazer todas as suas tarefas automagicamente.",
@@ -1894,11 +2309,17 @@
       "link": "https://www.eventbrite.com.br/e/building-devs-do-front-end-ao-back-end-tickets-46591861512#",
       "name": "Building Devs"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "http://bit.ly/building-devs-contruindo-robos-automatizados-erickwendel",
     "photos": "2018-06-16-node.js_e_typescript_-_extraindo_informações_da_marvel_comics_com_web-scrapping",
     "video": "",
-    "tags": ["node.js", "webscrapping", "typescript"],
+    "tags": [
+      "node.js",
+      "webscrapping",
+      "typescript"
+    ],
     "location": {
       "latitude": -23.9438135,
       "longitude": -46.3299362,
@@ -1917,11 +2338,17 @@
       "link": "https://www.sympla.com.br/devprimeone--vssummit-2018__235493#info",
       "name": "Visual Studio Summit 2018"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "https://www.icloud.com/keynote/0GGt3v3cs19jzWzcsrOsFSVXA#VSSUMMIT2018V1.key",
     "photos": "2018-06-02-escalando_microservices_no_kubernetes",
     "video": "",
-    "tags": ["kubernetes", "devops", "docker"],
+    "tags": [
+      "kubernetes",
+      "devops",
+      "docker"
+    ],
     "location": {
       "latitude": -23.6092811,
       "longitude": -46.6989541,
@@ -1940,7 +2367,9 @@
       "link": "https://www.sympla.com.br/criciuma-dev-conference__213460",
       "name": "Criciúma Dev Conference"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "http://bit.ly/criciumadev2018-erickwendel-slides",
     "photos": "2018-05-19-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!",
     "video": "https://www.youtube.com/watch?v=0agHnvbHIQg&list=PL1B8Ym-og4vJ-V_uLM1LQUo9wNzLNTDEr&index=7",
@@ -1970,11 +2399,18 @@
       "link": "https://www.sympla.com.br/microsoft-mvp-conference__246657#info",
       "name": "Microsoft MVP Conference 2018"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "http://bit.ly/mvpconf-slides-erickwendel-typescript",
     "photos": "2018-04-06-conhecendo_o_poder_do_typescript_para_aplicações_nodejs",
     "video": "",
-    "tags": ["node.js", "typescript", "javascript", "vscode"],
+    "tags": [
+      "node.js",
+      "typescript",
+      "javascript",
+      "vscode"
+    ],
     "location": {
       "latitude": -23.5283295,
       "longitude": -46.5675101,
@@ -1999,7 +2435,11 @@
     "slides": "http://bit.ly/canalnet-aggregation-framework-slides-erickwendel",
     "photos": "2018-03-28-o_poder_do_mongodb_aggregation_framework",
     "video": "https://youtu.be/pWT-KF0Z2fA",
-    "tags": ["mongodb", "database", "webinar"],
+    "tags": [
+      "mongodb",
+      "database",
+      "webinar"
+    ],
     "location": {
       "latitude": -23.5618829,
       "longitude": -46.6555644,
@@ -2018,11 +2458,18 @@
       "link": "https://www.meetup.com/pt-BR/Nerdzao/events/247993427",
       "name": "Nerdzão #36 - Cloud & DevOps"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "http://bit.ly/slides-docker-registry-erickwendel",
     "photos": "2018-02-26-docker_registry:_adeus_deploy_via_ssh!",
     "video": "",
-    "tags": ["docker", "node.js", "javascript", "devops"],
+    "tags": [
+      "docker",
+      "node.js",
+      "javascript",
+      "devops"
+    ],
     "location": {
       "latitude": -23.5541617,
       "longitude": -46.6622279,
@@ -2041,11 +2488,18 @@
       "link": "http://apicon.com.br/",
       "name": "API Connect Conference 2018"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "http://bit.ly/apicon-serverless-erickwendel-slides",
     "photos": "2018-03-23-arquitetando_aplicações_serverless_-_arquitetura,_padrões_e_organização_de_aplicações",
     "video": "",
-    "tags": ["serverless", "node.js", "design patterns", "javascript"],
+    "tags": [
+      "serverless",
+      "node.js",
+      "design patterns",
+      "javascript"
+    ],
     "location": {
       "latitude": -23.5958279,
       "longitude": -46.6869613,
@@ -2064,11 +2518,19 @@
       "link": "https://www.meetup.com/pt-BR/Nerdzao/events/247508769",
       "name": "Nerdzão #28 - Conhecendo o poder de Node.js"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "http://bit.ly/cpbr-erickwendel-robos-automatizados-slides",
     "photos": "2018-02-07-construindo_robôs_automatizados_com_selenium_web_driver_e_typescript",
     "video": "",
-    "tags": ["node.js", "typescript", "mongodb", "javascript", "web scrapping"],
+    "tags": [
+      "node.js",
+      "typescript",
+      "mongodb",
+      "javascript",
+      "web scrapping"
+    ],
     "location": {
       "latitude": -23.594657,
       "longitude": -46.6859886,
@@ -2093,7 +2555,11 @@
     "slides": "http://bit.ly/cpbr-erickwendel-robos-automatizados-slides",
     "photos": "2018-02-01-Construindo_Robôs_automatizados_para_extração_de_informações",
     "video": "https://youtu.be/FANolqvoQQA",
-    "tags": ["node.js", "javascript", "web scrapping"],
+    "tags": [
+      "node.js",
+      "javascript",
+      "web scrapping"
+    ],
     "location": {
       "latitude": -23.5161769,
       "longitude": -46.6388346,
@@ -2112,11 +2578,16 @@
       "link": "https://campuse.ro/events/campus-party-brasil-2018/talk/pensando-alem-do-codigo-dicas-e-segredos-para-criacao-de-um-software-cpbr11/",
       "name": "Campus Party BR - 2018"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "http://bit.ly/cpbr11-erickwendel-pensando-alem-do-codigo",
     "photos": "2018-01-31-pensando_além_do_código,_dicas_e_segredos_para_criação_de_um_software",
     "video": "",
-    "tags": ["node.js", "career"],
+    "tags": [
+      "node.js",
+      "career"
+    ],
     "location": {
       "latitude": -23.5161769,
       "longitude": -46.6388346,
@@ -2141,7 +2612,10 @@
     "slides": "http://slides.com/erickwendel/coding-dojo-com-javascript-purple99#/",
     "photos": "2017-08-15-coding_dojo_com_javascript",
     "video": "",
-    "tags": ["node.js", "javascript"],
+    "tags": [
+      "node.js",
+      "javascript"
+    ],
     "location": {
       "latitude": -23.551343,
       "longitude": -46.6361995,
@@ -2166,7 +2640,12 @@
     "slides": "http://slides.com/erickwendel/jobtask-queue-with-nodejs#/",
     "photos": "2017-06-26-performance_e_resiliência_em_aplicações_nodejs",
     "video": "",
-    "tags": ["node.js", "javascript", "beequeue", "performance"],
+    "tags": [
+      "node.js",
+      "javascript",
+      "beequeue",
+      "performance"
+    ],
     "location": {
       "latitude": -23.5522844,
       "longitude": -46.6613565,
@@ -2185,11 +2664,16 @@
       "link": "https://www.meetup.com/pt-BR/totvsdevelopers/events/240360503/",
       "name": "TOTVS Developers #1"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "http://slides.com/erickwendel/introducao-ao-nodejs-totvs#/",
     "photos": "2017-06-19-conhecendo_o_nodejs",
     "video": "",
-    "tags": ["node.js", "javascript"],
+    "tags": [
+      "node.js",
+      "javascript"
+    ],
     "location": {
       "latitude": -23.5086459,
       "longitude": -46.6509652,
@@ -2214,7 +2698,11 @@
     "slides": "http://slides.com/erickwendel/nodejs-microservicos-e-containerizao#/",
     "photos": "2017-06-09-nodejs,_microserviços_e_containerização",
     "video": "",
-    "tags": ["node.js", "docker", "javascript"],
+    "tags": [
+      "node.js",
+      "docker",
+      "javascript"
+    ],
     "location": {
       "latitude": -23.6101631,
       "longitude": -46.6990182,
@@ -2239,7 +2727,11 @@
     "slides": "http://slides.com/erickwendel/workshop-docker-nodejs-azure-microsoft",
     "photos": "2017-04-12-docker_e_aplicações_node.js_no_microsoft_azure",
     "video": "https://www.facebook.com/MicrosoftDeveloper.Brasil/videos/1437245592963996/",
-    "tags": ["node.js", "azure", "microsoft"],
+    "tags": [
+      "node.js",
+      "azure",
+      "microsoft"
+    ],
     "location": {
       "latitude": -23.6101631,
       "longitude": -46.6990182,
@@ -2258,11 +2750,17 @@
       "link": "http://erickwendel.com.br/2017/04/05/criando-aplicacoes-distribuidas-com-node-js-feira-de-oportunidades-impacta/",
       "name": "Feira de Oportunidades - Faculdade Impacta"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "http://slides.com/erickwendel/desenvolvendo-web-apis-com-nodejs",
     "photos": "",
     "video": "",
-    "tags": ["node.js", "javascript", "hapijs"],
+    "tags": [
+      "node.js",
+      "javascript",
+      "hapijs"
+    ],
     "location": {
       "latitude": -23.5257509,
       "longitude": -46.6517142,
@@ -2273,7 +2771,6 @@
     "language": "pt-br",
     "date": "2017-04-05"
   },
-
   {
     "title": "Typescript para aplicações Node.js na era de ECMAScript 7",
     "abstract": "Nesta palestra falaremos sobre a linha do tempo do ECMAScript e como typescript pode ajudar no desenvolvimento e acompanhamento das novas features do Javascript",
@@ -2282,11 +2779,17 @@
       "link": "",
       "name": "MVP Community Summit 2017"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "https://1drv.ms/p/s!AjT_1Ts1KuWNjRYRHlWdFl7oqBR9",
     "photos": "2017-03-25-typescript_para_aplicações_node.js_na_era_do_es7",
     "video": "",
-    "tags": ["node.js", "javascript", "typescript"],
+    "tags": [
+      "node.js",
+      "javascript",
+      "typescript"
+    ],
     "location": {
       "latitude": -23.5283295,
       "longitude": -46.5675101,
@@ -2305,11 +2808,16 @@
       "link": "http://campuse.ro/events/campus-party-brasil-2017/talk/a-vida-e-as-aventuras-de-um-desenvolvedor-de-software/",
       "name": "Campus Party SP"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "http://slides.com/erickwendel/a-vida-e-as-aventuras-de-um-desenvolvedor-de-software-campus-party/fullscreen",
     "photos": "2017-01-27-aventuras_de_um_desenvolvedor_de_software",
     "video": "",
-    "tags": ["node.js", "javascript"],
+    "tags": [
+      "node.js",
+      "javascript"
+    ],
     "location": {
       "latitude": -23.5161769,
       "longitude": -46.6388346,
@@ -2320,7 +2828,6 @@
     "language": "pt-br",
     "date": "2017-01-27"
   },
-
   {
     "title": "Web APIS with NodeJS and TypeScript",
     "abstract": "NodeJS e TypeScript, mostrando os benefícios, features e futuro da linguagem.",
@@ -2329,11 +2836,17 @@
       "link": "https://www.meetup.com/pt-BR/NetCoders/events/236064655/",
       "name": "Desenvolvimento de Aplicativos com Xamarin e NodeJS - CUBO Network"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "http://slides.com/erickwendel/apis-com-nodejs-typescript",
     "photos": "2016-12-09-web_apis_with_nodejs_and_typescript",
     "video": "https://www.facebook.com/cyzanoni/videos/1350663608285420",
-    "tags": ["node.js", "typescript", "javascript"],
+    "tags": [
+      "node.js",
+      "typescript",
+      "javascript"
+    ],
     "location": {
       "latitude": -23.5977308,
       "longitude": -46.6821916,
@@ -2352,7 +2865,9 @@
       "link": "https://www.meetup.com/pt-BR/VueJS-SP/events/234296196/",
       "name": "Segundo São Paulo VueJS Meetup - Viva Real"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "http://slides.com/erickwendel/testes-com-javascript",
     "photos": "2016-12-01-software_testing_with_javascript",
     "video": "",
@@ -2383,11 +2898,15 @@
       "link": "",
       "name": "Feira de oportunidades - Faculdade Impacta"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "",
     "photos": "",
     "video": "https://www.facebook.com/FacImpacta/videos/1352590924752354/",
-    "tags": ["career"],
+    "tags": [
+      "career"
+    ],
     "location": {
       "latitude": -23.5257509,
       "longitude": -46.6517142,
@@ -2406,11 +2925,17 @@
       "link": "",
       "name": "Faculdade Impacta Tecnologia"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "http://slides.com/erickwendel/web-apis-com-nodejs",
     "photos": "2016-11-18-construindo_apis_com_javascript",
     "video": "",
-    "tags": ["node.js", "typescript", "javascript"],
+    "tags": [
+      "node.js",
+      "typescript",
+      "javascript"
+    ],
     "location": {
       "latitude": -23.5257509,
       "longitude": -46.6517142,
@@ -2429,11 +2954,17 @@
       "link": "http://erickwendel.com.br/2016/11/05/palestra-nodejs-feira-de-oportunidades-faculdade-impacta/",
       "name": "Feira de Oportunidades Faculdade Impacta"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "http://slides.com/erickwendel/restfull-apis-com-nodejs",
     "photos": "2016-11-05-desenvolvendo_restfull_apis_com_nodejs",
     "video": "",
-    "tags": ["node.js", "typescript", "javascript"],
+    "tags": [
+      "node.js",
+      "typescript",
+      "javascript"
+    ],
     "location": {
       "latitude": -23.5257509,
       "longitude": -46.6517142,
@@ -2452,11 +2983,16 @@
       "link": "http://erickwendel.com.br/2016/10/29/carreira-em-desenvolvimento-de-software-universidade-anhanguera-de-sao-paulo/",
       "name": "Universidade Anhanguera De São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "",
     "photos": "",
     "video": "",
-    "tags": ["career", "node.js"],
+    "tags": [
+      "career",
+      "node.js"
+    ],
     "location": {
       "latitude": -23.6674085,
       "longitude": -46.5850207,
@@ -2475,11 +3011,16 @@
       "link": "https://www.meetup.com/GDG-SP/events/234003629",
       "name": "HTML5 Study Group #53"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "https://github.com/ErickWendel/meetup-ionic-mqtt",
     "photos": "2016-09-12-iot_e_arduino_na_nuvem_com_nodejs,_ionic_e_angularjs",
     "video": "https://www.youtube.com/channel/UC8yjEZ7-hroweXUgjPMwXNQ",
-    "tags": ["angular", "javascript"],
+    "tags": [
+      "angular",
+      "javascript"
+    ],
     "location": {
       "latitude": -23.5805414,
       "longitude": -46.6461597,
@@ -2498,11 +3039,18 @@
       "link": "http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-node-js",
       "name": "The Developers Conference 2016"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "https://www.slideshare.net/EriickWendell/desenvolvendo-bots-com-telegram-e-javascript-tdc2016",
     "photos": "2016-07-07-desenvolvendo_bots_com_telegram_e_javascript",
     "video": "",
-    "tags": ["telegram", "bots", "node.js", "javascript"],
+    "tags": [
+      "telegram",
+      "bots",
+      "node.js",
+      "javascript"
+    ],
     "location": {
       "latitude": -23.6002334,
       "longitude": -46.6788224,
@@ -2521,11 +3069,16 @@
       "link": "http://brazil.nodeconf.com/",
       "name": "NodeConf Brazil 2016"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "http://slides.com/erickwendel/control-flow-nodejs",
     "photos": "2016-07-05-managing_the_flow_of_asynchronous_operations_in_nodejs",
     "video": "",
-    "tags": ["node.js", "javascript"],
+    "tags": [
+      "node.js",
+      "javascript"
+    ],
     "location": {
       "latitude": -23.5541967,
       "longitude": -46.6547464,
@@ -2544,11 +3097,18 @@
       "link": "http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-javascript",
       "name": "The Developers Conference 2016"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "https://www.slideshare.net/EriickWendell/js-ferramentas-code-analysis-e-fixed-para-js-tdc2016",
     "photos": "2016-07-05-ferramentas_de_code_analysis_e_code_fixed_para_javascript",
     "video": "",
-    "tags": ["node.js", "codefix", "code analysis", "node.js"],
+    "tags": [
+      "node.js",
+      "codefix",
+      "code analysis",
+      "node.js"
+    ],
     "location": {
       "latitude": -23.6002334,
       "longitude": -46.6788224,
@@ -2567,11 +3127,16 @@
       "link": "http://www.thedevelopersconference.com.br/tdc/2016/saopaulo/trilha-javascript",
       "name": "The Developers Conference 2016 | Trilha Javascript"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "",
     "photos": "",
     "video": "https://youtu.be/9TomOahsIdY",
-    "tags": ["node.js", "webinar"],
+    "tags": [
+      "node.js",
+      "webinar"
+    ],
     "location": {
       "latitude": -23.6002334,
       "longitude": -46.6788224,
@@ -2590,11 +3155,17 @@
       "link": "https://congressodeti.com.br/palestras/#1502307578034-e352a847-d2c5",
       "name": "Congresso de TI"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "https://slides.com/erickwendel/c9-io/fullscreen",
     "photos": "",
     "video": "",
-    "tags": ["node.js", "javascript", "cloud9"],
+    "tags": [
+      "node.js",
+      "javascript",
+      "cloud9"
+    ],
     "location": {
       "latitude": -23.5632754,
       "longitude": -46.6455011,
@@ -2613,11 +3184,16 @@
       "link": "https://channel9.msdn.com/Shows/MarlonLuz/Uber-do-Marlon-10-Erick-Wendel",
       "name": "Carona do Marlon - Microsoft"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "",
     "photos": "",
     "video": "https://channel9.msdn.com/Shows/MarlonLuz/Uber-do-Marlon-10-Erick-Wendel",
-    "tags": ["vscode", "webinar"],
+    "tags": [
+      "vscode",
+      "webinar"
+    ],
     "location": {
       "latitude": -23.6101631,
       "longitude": -46.6990182,
@@ -2636,11 +3212,17 @@
       "link": "https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg",
       "name": "Canal dotNET"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "https://slides.com/erickwendel/introducao-ao-angularjs#/",
     "photos": "",
     "video": "https://youtu.be/DGR6Bu8nb14",
-    "tags": ["angular", "javascript", "webinar"],
+    "tags": [
+      "angular",
+      "javascript",
+      "webinar"
+    ],
     "location": {
       "latitude": -23.5632754,
       "longitude": -46.6455011,
@@ -2659,11 +3241,17 @@
       "link": "https://www.meetup.com/pt-BR/NetCoders/events/227844050/",
       "name": "NETCoders"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "slides": "https://slides.com/erickwendel/introduce-typescript-vscode-netcoders/fullscreen#/",
     "photos": "2016-02-13-mini_curso_gratuito_de_node.js_e_typescript",
     "video": "",
-    "tags": ["node.js", "typescript", "javascript"],
+    "tags": [
+      "node.js",
+      "typescript",
+      "javascript"
+    ],
     "location": {
       "latitude": -23.5506312,
       "longitude": -46.5758785,
@@ -2685,7 +3273,11 @@
     "slides": "http://1drv.ms/1RWSAZv%C2%AD",
     "photos": "",
     "video": "",
-    "tags": ["vscode", "node.js", "typescript"],
+    "tags": [
+      "vscode",
+      "node.js",
+      "typescript"
+    ],
     "location": {
       "latitude": -23.5660935,
       "longitude": -46.6525401,
@@ -2693,7 +3285,9 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2016-01-16"
   },
@@ -2708,7 +3302,11 @@
     "slides": "https://1drv.ms/p/s!AjT_1Ts1KuWNjFHYTOqhRSLOCaVz",
     "photos": "",
     "video": "",
-    "tags": ["c#", "dotnet", ".net"],
+    "tags": [
+      "c#",
+      "dotnet",
+      ".net"
+    ],
     "location": {
       "latitude": -23.9675782,
       "longitude": -46.3342055,
@@ -2735,7 +3333,12 @@
     "slides": "https://www.slideshare.net/EriickWendell/desenvolvimento-de-malwares-com-c",
     "photos": "2015-11-02-desenvolvimento_de_malwares_com_c#",
     "video": "",
-    "tags": ["malware", "trojan", "c#", "dotnet"],
+    "tags": [
+      "malware",
+      "trojan",
+      "c#",
+      "dotnet"
+    ],
     "location": {
       "latitude": -23.9675782,
       "longitude": -46.3342055,
@@ -2743,7 +3346,9 @@
       "uf": "SP",
       "city": "Santos"
     },
-    "additionalLinks": ["https://goo.gl/photos/rcmee57s4PTJvakZ9"],
+    "additionalLinks": [
+      "https://goo.gl/photos/rcmee57s4PTJvakZ9"
+    ],
     "language": "pt-br",
     "date": "2015-11-02"
   },
@@ -2758,7 +3363,11 @@
     "slides": "https://pt.slideshare.net/EriickWendell/mini-curso-webscraping",
     "photos": "2015-06-12-webscraping_com_c#",
     "video": "",
-    "tags": ["c#", "dotnet", "webscrapping"],
+    "tags": [
+      "c#",
+      "dotnet",
+      "webscrapping"
+    ],
     "location": {
       "latitude": -23.5092369,
       "longitude": -46.62805,
@@ -2784,7 +3393,11 @@
     "slides": "http://pt.slideshare.net/EriickWendell/net-coders",
     "photos": "2015-06-12-WebScraping_com_C#",
     "video": "",
-    "tags": ["c#", "dotnet", "webscrapping"],
+    "tags": [
+      "c#",
+      "dotnet",
+      "webscrapping"
+    ],
     "location": {
       "latitude": -23.5092369,
       "longitude": -46.62805,
@@ -2792,7 +3405,9 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": ["https://github.com/nerdzao/.NETCodersDay-13-06-15"],
+    "additionalLinks": [
+      "https://github.com/nerdzao/.NETCodersDay-13-06-15"
+    ],
     "language": "pt-br",
     "date": "2015-06-12"
   },
@@ -2807,7 +3422,9 @@
     "slides": "",
     "photos": "2015-08-23_corujão_de_asp.net_mvc",
     "video": "",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "location": {
       "latitude": -23.5506339,
       "longitude": -46.5780888,
@@ -2815,7 +3432,9 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2015-08-23"
   },
@@ -2830,7 +3449,9 @@
     "slides": "https://pt.slideshare.net/EriickWendell/palestra-de-google-adwords",
     "photos": "",
     "video": "",
-    "tags": ["adwords"],
+    "tags": [
+      "adwords"
+    ],
     "location": {
       "latitude": -23.5506339,
       "longitude": -46.5780888,
@@ -2838,7 +3459,9 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2015-01-30"
   },
@@ -2853,7 +3476,10 @@
     "slides": "",
     "photos": "",
     "video": "https://www.youtube.com/watch?v=WhwwwNyWroc",
-    "tags": ["webinar", "ionic"],
+    "tags": [
+      "webinar",
+      "ionic"
+    ],
     "location": {
       "latitude": -23.5506339,
       "longitude": -46.5780888,
@@ -2861,7 +3487,9 @@
       "uf": "SP",
       "city": "São Paulo"
     },
-    "additionalLinks": [""],
+    "additionalLinks": [
+      ""
+    ],
     "language": "pt-br",
     "date": "2015-03-31"
   }
