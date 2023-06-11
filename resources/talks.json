@@ -1,5 +1,51 @@
 [
   {
+    "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "type": "talk",
+    "event": {
+        "link": "https://ndcoslo.com/",
+        "name": "NDC Oslo"
+    },
+    "slides": "https://www.icloud.com/keynote/0d7cWC5W_Z_XukyK2z0qNNq0A#recreating-nodejs-from-scratch-ndcoslo-26052023",
+    "photos": "",
+    "video": "https://portal.gitnation.org/contents/bun-deno-nodejs-recreating-a-javascript-runtime-from-scratch-understand-magic-behind-nodejs",
+    "tags": ["nodejs","javascript", "runtime"],
+    "location": {
+      "latitude":59.9125923,
+      "longitude":10.7522277,
+      "country": "Noruega",
+      "uf": "OSL",
+      "city": "Oslo"
+        },
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-05-26"
+  },
+  {
+    "title": "A vida e as aventuras de desenvolvedor de software",
+    "abstract": "Nessa apresentação eu trouxe projetos divertidos que fiz, mostrei os principais desafios da área, quais os primeiros passos para ir de cabeça no mundo de programação e claro, mostrei como eu me mantenho motivado e com sede de sempre aprender mais.",
+    "type": "talk",
+    "event": {
+        "link": "https://www.instagram.com/cedespchantal_oficial/",
+        "name": "Cedesp Agostiniana Dona Chantal"
+    },
+    "slides": "https://www.icloud.com/keynote/08cogYYnoMtVTcHSv9-dXwT3g#A_vida_e_as_aventuras_de_desenvolvedor_de_software_-_cedesp_-_17052022",
+    "photos": "",
+    "video": "",
+    "tags": ["nodejs","javascript", "Machine Learning"],
+    "location": {
+      "latitude":-23.6155618,
+      "longitude":-46.4570683,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2023-05-17"
+  },
+  {
     "title": "The next level for Web developers: Machine Learning on browsers",
     "abstract": "The next level for Web developers: Machine Learning on browsers",
     "type": "talk",
@@ -37,7 +83,7 @@
     "location": {
       "latitude":-23.508559,
       "longitude": -46.7215608,
-      "country": "Brasil",
+      "country": "Brazil",
       "uf": "SP",
       "city": "São Paulo"
         },
@@ -106,7 +152,7 @@
     "location": {
       "latitude": -23.4108407,
       "longitude": -52.1106945,
-      "country": "Brasil",
+      "country": "Brazil",
       "uf": "PR",
       "city": "Maringá"
         },
@@ -129,7 +175,7 @@
     "location": {
       "latitude": -18.878831540966747,
       "longitude": -48.246936766273215,
-      "country": "Brasil",
+      "country": "Brazil",
       "uf": "MG",
       "city": "Uberlândia"
         },

@@ -1,7 +1,8 @@
-[
+[  
   {
     "title": "Migrating from Jest to Node.js Native Test Runner",
     "abstract": "Migrating from Jest to Node.js Native Test Runner",
+    "type": "video",
     "additionalLinks": [
       "https://github.com/ErickWendel/migrating-from-jest-to-node-test-runner"
     ],
@@ -12,10 +13,11 @@
     ],
     "language": "en-us",
     "date": "2023-04-08"
-  },
+    },
   {
     "title": "Ninguém deveria precisar de Postman/Insomnia pra testar um endpoint",
     "abstract": "Eaaaai beleza? Eu sou o Erick Wendel e hoje vou te mostrar uma técnica incrível para melhorar a sua produtividade",
+    "type": "video",
     "additionalLinks": [
       "https://github.com/ErickWendel/postman-is-slowing-you-down"
     ],
@@ -30,6 +32,7 @@
   {
     "title": "Como criar testes E2E em Node.js sem frameworks",
     "abstract": "Vim te mostrar uma excelente notícia! O motor de testes nativo do Node.js finalmente entrou no estágio de funcionalidade estável",
+    "type": "video",
     "additionalLinks": [
       "https://github.com/ErickWendel/how-to-e2e-testing-nodejs-with-no-frameworks"
     ],
@@ -44,6 +47,7 @@
   {
     "title": "5 Shocking Things About Node.js That You Thought You Knew But Didn't! 🤯🔥",
     "abstract": "In this video, we'll explore some of the surprising and lesser-known aspects of Node.js, the popular JavaScript runtime. ",
+    "type": "video",
     "additionalLinks": [
       "https://www.youtube.com/watch?v=ynNDmp7hBdo&t"
     ],
@@ -58,6 +62,7 @@
   {
     "title": "Read 30GB+ Data in the Browser Without Blocking the Screen ",
     "abstract": "Consuming gigabytes of data without causing bottlenecks or locking up applications",
+    "type": "video",
     "additionalLinks": [
       "https://bit.ly/30GB-with-js-streams-code"
     ],
@@ -73,6 +78,7 @@
   {
     "title": "Performance e multithreading em navegadores + ECMAScript Modules em Web Workers",
     "abstract": "Nesse video vou te apresentar como fazer com que funções pesadas sejam executadas em segundo plano no navegador com Web Workers.",
+    "type": "video",
     "additionalLinks": [
       "https://github.com/ErickWendel/processing-large-reports-in-the-browser"
     ],
@@ -88,6 +94,7 @@
   {
     "title": "Reconhecendo gestos em tempo real direto do navegador - Machine Learning para Web Developers",
     "abstract": " Nesse video vou te mostrar como reconhecer gestos em tempo real a partir da sua webcam usando #JavaScript, #TensorFlow.js e o pacote #fingerpose.",
+    "type": "video",
     "additionalLinks": [
       "https://github.com/ErickWendel/live-recognizing-multiple-gestures-tensorflowjs"
     ],
@@ -103,6 +110,7 @@
   {
     "title": "Consumindo e editando videos sob demanda em Web APIs usando Node.js Streams e FFmpeg",
     "abstract": " Nesse video vou te mostrar como produzir e consumir videos sob demanda em Web APIs usando a biblioteca FFmpeg",
+    "type": "video",
     "additionalLinks": [
       ""
     ],

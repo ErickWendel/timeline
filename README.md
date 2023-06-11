@@ -20,14 +20,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2023/May - 2015/February 
 * **Conference Talks**: 2023/May - 2015/January 
 
-#### Presentations' number: 120
+#### Presentations' number: 122
 
 ## Table of Contents
 
 - [Projects (19)](#projects)
 - [Videos (127)](#videos)
-- [Blog Posts (322)](#blog-posts)
-- [Conference Talks (120)](#conference-talks)
+- [Blog Posts (326)](#blog-posts)
+- [Conference Talks (122)](#conference-talks)
 
 ## Projects
 
@@ -1922,6 +1922,86 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-performance-jsexpert-activity-7069303873575731200-3L-b?utm_source=share&utm_medium=member_desktop" target="_blank">2023-05-30 - Hoje é dia de dica de ouro! Chega de ouvir eventos e acumular resultados em memória, essa forma aqui é extremamente mais eficiente 🤩🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-performance-jsexpert-activity-7069303873575731200-3L-b?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> É comum ver pessoas usando JavaScript para por exemplo ler arquivos, usar o método .on('data')
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-devcommunity-activity-7066738414473158656-rG3S?utm_source=share&utm_medium=member_desktop" target="_blank">2023-05-23 - PriorityQueue: A estrutura de dados incrível que está melhorando o Node.js internamente 🤯🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-devcommunity-activity-7066738414473158656-rG3S?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Em resumo, a PriorityQueue é uma estrutura de dados que permite inserir elementos de forma ordenada com base em sua prioridade.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-js-activity-7064247173294473216-p8wp?utm_source=share&utm_medium=member_desktop" target="_blank">2023-05-16 - Woowwwww, I'm working on a new and challenging API for Node.js: the first end-to-end (docs, tests, API design, etc) feature I've worked on so far 🤩🔥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-js-activity-7064247173294473216-p8wp?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Node.js has been evolving fast and we get weekly new features for improving security, performance, developer experience, and more
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://blog.erickwendel.com.br/step-by-step-guide-migrating-from-jest-to-nodejs-native-test-runner" target="_blank">2023-05-11 - Step-by-Step Guide: Migrating from Jest to Node.js Native Test Runner (en-us)</a>
+
+
+Portal:
+
+> <a href="https://blog.erickwendel.com.br/step-by-step-guide-migrating-from-jest-to-nodejs-native-test-runner" target="_blank">Blog Erick Wendel</a>
+
+
+Abstract:
+
+> Learn how to migrate your current test suites from Jest to Node.js test runner and check out what's different between both approaches
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `BlogPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-devtips-activity-7059514646520578049-8nux?utm_source=share&utm_medium=member_desktop" target="_blank">2023-05-03 - Most of the complaints about JavaScript come from people who don't know JavaScript 👀 Here's why! (en-us)</a>
 
@@ -8015,6 +8095,48 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 ## Conference Talks
 
+### 2023-05-26 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
+
+
+<a href="https://ndcoslo.com/" target="_blank">NDC Oslo</a>
+
+
+<a href="https://www.icloud.com/keynote/0d7cWC5W_Z_XukyK2z0qNNq0A#recreating-nodejs-from-scratch-ndcoslo-26052023" target="_blank">slides</a> |   <a href="https://portal.gitnation.org/contents/bun-deno-nodejs-recreating-a-javascript-runtime-from-scratch-understand-magic-behind-nodejs" target="_blank">video</a>
+
+
+Abstract:
+
+> Bun?Deno?Node.js?Recreating a JS Runtime from scratch
+> 
+> 
+
+
+_Tags: `nodejs`, `javascript`, `runtime`_
+
+
+Location: <a href="https://www.google.com/maps/?q=59.9125923,10.7522277" target="_blank">Oslo - OSL, Noruega</a>.
+
+### 2023-05-17 - A vida e as aventuras de desenvolvedor de software (pt-br)
+
+
+<a href="https://www.instagram.com/cedespchantal_oficial/" target="_blank">Cedesp Agostiniana Dona Chantal</a>
+
+
+  
+
+
+Abstract:
+
+> Nessa apresentação eu trouxe projetos divertidos que fiz, mostrei os principais desafios da área, quais os primeiros passos para ir de cabeça no mundo de programação e claro, mostrei como eu me mantenho motivado e com sede de sempre aprender mais.
+> 
+> 
+
+
+_Tags: `nodejs`, `javascript`, `Machine Learning`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.6155618,-46.4570683" target="_blank">São Paulo - SP, Brazil</a>.
+
 ### 2023-05-12 - The next level for Web developers: Machine Learning on browsers (en-us)
 
 
@@ -8055,7 +8177,7 @@ Abstract:
 _Tags: `nodejs`, `javascript`, `Machine Learning`_
 
 
-Location: <a href="https://www.google.com/maps/?q=-23.508559,-46.7215608" target="_blank">São Paulo - SP, Brasil</a>.
+Location: <a href="https://www.google.com/maps/?q=-23.508559,-46.7215608" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2023-04-14 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
 
@@ -8124,7 +8246,7 @@ Abstract:
 _Tags: `nodejs`, `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=-23.4108407,-52.1106945" target="_blank">Maringá - PR, Brasil</a>.
+Location: <a href="https://www.google.com/maps/?q=-23.4108407,-52.1106945" target="_blank">Maringá - PR, Brazil</a>.
 
 ### 2022-11-26 - Como resolvi um bug no Node.js que afetou milhares de pacotes mundialmente (pt-br)
 
@@ -8145,7 +8267,7 @@ Abstract:
 _Tags: `nodejs`, `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=-18.878831540966747,-48.246936766273215" target="_blank">Uberlândia - MG, Brasil</a>.
+Location: <a href="https://www.google.com/maps/?q=-18.878831540966747,-48.246936766273215" target="_blank">Uberlândia - MG, Brazil</a>.
 
 ### 2022-09-17 - The Journey About How I Fixed a Bug in the Node.js Core That Affected Thousands of Packages (en-us)
 

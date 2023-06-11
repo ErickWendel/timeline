@@ -1,5 +1,77 @@
 [
   {
+    "title": "Hoje é dia de dica de ouro! Chega de ouvir eventos e acumular resultados em memória, essa forma aqui é extremamente mais eficiente 🤩🔥",
+    "abstract": "É comum ver pessoas usando JavaScript para por exemplo ler arquivos, usar o método .on('data')",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-performance-jsexpert-activity-7069303873575731200-3L-b?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-performance-jsexpert-activity-7069303873575731200-3L-b?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-05-30"
+  },
+  {
+    "title": "PriorityQueue: A estrutura de dados incrível que está melhorando o Node.js internamente 🤯🔥",
+    "abstract": "Em resumo, a PriorityQueue é uma estrutura de dados que permite inserir elementos de forma ordenada com base em sua prioridade.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-devcommunity-activity-7066738414473158656-rG3S?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-devcommunity-activity-7066738414473158656-rG3S?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-05-23"
+  },
+  {
+    "title": "Woowwwww, I'm working on a new and challenging API for Node.js: the first end-to-end (docs, tests, API design, etc) feature I've worked on so far 🤩🔥",
+    "abstract": "Node.js has been evolving fast and we get weekly new features for improving security, performance, developer experience, and more",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-js-activity-7064247173294473216-p8wp?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-js-activity-7064247173294473216-p8wp?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2023-05-16"
+  },
+  {
+    "title": "Step-by-Step Guide: Migrating from Jest to Node.js Native Test Runner",
+    "abstract": "Learn how to migrate your current test suites from Jest to Node.js test runner and check out what's different between both approaches",
+    "type": "post",
+    "link": "https://blog.erickwendel.com.br/step-by-step-guide-migrating-from-jest-to-nodejs-native-test-runner",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://blog.erickwendel.com.br/step-by-step-guide-migrating-from-jest-to-nodejs-native-test-runner",
+      "name": "Blog Erick Wendel"
+    },
+    "tags": [
+      "BlogPost"
+    ],
+    "language": "en-us",
+    "date": "2023-05-11"
+  },
+  {
     "title": "Most of the complaints about JavaScript come from people who don't know JavaScript 👀 Here's why!",
     "abstract": "We're in 2023 and I believe any modern programming language is able to do whatever task is needed 🥶",
     "type": "post",
