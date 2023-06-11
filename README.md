@@ -20,14 +20,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2023/May - 2015/February 
 * **Conference Talks**: 2023/May - 2015/January 
 
-#### Presentations' number: 122
+#### Presentations' number: 127
 
 ## Table of Contents
 
 - [Projects (19)](#projects)
 - [Videos (127)](#videos)
 - [Blog Posts (326)](#blog-posts)
-- [Conference Talks (122)](#conference-talks)
+- [Conference Talks (127)](#conference-talks)
 
 ## Projects
 
@@ -8158,6 +8158,27 @@ _Tags: `nodejs`, `javascript`, `Machine Learning`_
 
 Location: <a href="https://www.google.com/maps/?q=50.8510781,4.3318835" target="_blank">Brussels - BEL, Belgian</a>.
 
+### 2023-05-12 - The next level for Web developers: Machine Learning on browsers (en-us)
+
+
+<a href="https://www.bejs.io/" target="_blank">BeJS : Belgian JavaScript Community</a>
+
+
+  
+
+
+Abstract:
+
+> The next level for Web developers: Machine Learning on browsers
+> 
+> 
+
+
+_Tags: `nodejs`, `javascript`, `Machine Learning`_
+
+
+Location: <a href="https://www.google.com/maps/?q=50.8510781,4.3318835" target="_blank">Brussels - BEL, Belgium</a>.
+
 ### 2023-04-26 - The next level for Web developers: Machine Learning on browsers (en-us)
 
 
@@ -8178,6 +8199,48 @@ _Tags: `nodejs`, `javascript`, `Machine Learning`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-23.508559,-46.7215608" target="_blank">São Paulo - SP, Brazil</a>.
+
+### 2023-04-26 - The next level for Web developers: Machine Learning on browsers (en-us)
+
+
+<a href="https://brazil.cityjsconf.org/" target="_blank">CityJS World series São Paulo 2023</a>
+
+
+<a href="https://www.icloud.com/keynote/066J6r58vIhiFSFFgfxDyZXuw#machine-learning4devs-cityjs-sp-26042023" target="_blank">slides</a> |   <a href="https://www.youtube.com/live/lD39kjrXRvo?feature=share" target="_blank">video</a>
+
+
+Abstract:
+
+> The next level for Web developers: Machine Learning on browsers
+> 
+> 
+
+
+_Tags: `nodejs`, `javascript`, `Machine Learning`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.508559,-46.7215608" target="_blank">São Paulo - SP, Brazil</a>.
+
+### 2023-04-14 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
+
+
+<a href="https://nodecongress.com/" target="_blank">Node Congress Berlin</a>
+
+
+<a href="https://www.icloud.com/keynote/0fa15m5m7-8C0qHo2M48JomLQ#recreating-nodejs-from-scratch-nodecongress-berlin-14042023" target="_blank">slides</a> |   <a href="https://portal.gitnation.org/contents/bun-deno-nodejs-recreating-a-javascript-runtime-from-scratch-understand-magic-behind-nodejs" target="_blank">video</a>
+
+
+Abstract:
+
+> Bun?Deno?Node.js?Recreating a JS Runtime from scratch
+> 
+> 
+
+
+_Tags: `nodejs`, `javascript`, `runtime`_
+
+
+Location: <a href="https://www.google.com/maps/?q=52.5169221,13.449893" target="_blank">Berlin - BER, Germany</a>.
 
 ### 2023-04-14 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
 
@@ -8223,6 +8286,54 @@ _Tags: `nodejs`, `javascript`, `runtime`_
 
 
 Location: <a href="https://www.google.com/maps/?q=51.5013608,-0.1776963" target="_blank">London - uk, United Kingdon</a>.
+
+### 2023-03-31 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
+
+
+<a href="https://london.cityjsconf.org/events/" target="_blank">CityJS World series London 2023</a>
+
+
+<a href="https://www.icloud.com/keynote/06dpzgSEjXmN7RnaVSFlaqEpg#recreating-nodejs-from-scratch-cityjs-london-31032023" target="_blank">slides</a> |   <a href="https://www.youtube.com/live/RdiXuoMPtUA" target="_blank">video</a>
+
+
+Abstract:
+
+> Bun?Deno?Node.js?Recreating a JS Runtime from scratch
+> 
+> <b>Links</b>
+> 
+> - <a href="https://www.youtube.com/live/RdiXuoMPtUA" target="_blank">https://www.youtube.com/live/RdiXuoMPtUA</a>
+> 
+
+
+_Tags: `nodejs`, `javascript`, `runtime`_
+
+
+Location: <a href="https://www.google.com/maps/?q=51.5013608,-0.1776963" target="_blank">London - uk, 🏴󠁧󠁢󠁥󠁮󠁧󠁿England</a>.
+
+### 2023-03-11 - 5 aprendizados incríveis sobre backend que se aplicam para o frontend (pt-br)
+
+
+<a href="https://www.linkedin.com/company/devparana/" target="_blank">Dev Paraná Conf 2023</a>
+
+
+  
+
+
+Abstract:
+
+> Sobre padrões de projeto, práticas de testes unitários, performance, multithreading, webassembly, streams e MUITO mais.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk" target="_blank">https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk</a>
+> 
+
+
+_Tags: `nodejs`, `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.4108407,-52.1106945" target="_blank">Maringá - PR, Brazil</a>.
 
 ### 2023-03-11 - 5 aprendizados incríveis sobre backend que se aplicam para o frontend (pt-br)
 
