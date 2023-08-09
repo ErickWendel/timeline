@@ -1,4 +1,34 @@
-[  
+[ 
+  {
+    "title": "Recreating Uglifyjs From Scratch: How To Minify Code And Generate Source Maps",
+    "abstract": "Have you wondered how you can debug TypeScript applications in the browser while browsers only understand JavaScript?",
+    "type": "video",
+    "additionalLinks": [
+      "https://github.com/ErickWendel/how-minifying-code-and-source-maps-work-in-practice"
+    ],
+    "link": "https://youtu.be/la0312YZJ9Y",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2023-06-20"
+    },
+  {
+    "title": "Erick Wendel interviewed at JS Nation by Ixchel Ruiz",
+    "abstract": "Erick Wendel interviewed at JS Nation by Ixchel Ruiz",
+    "type": "video",
+    "additionalLinks": [
+      "https://jnation.pt/stream/"
+    ],
+    "link": "https://www.linkedin.com/feed/update/urn:li:activity:7071874470356877312?utm_source=share&utm_medium=member_desktop",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2023-06-06"
+    },
   {
     "title": "Migrating from Jest to Node.js Native Test Runner",
     "abstract": "Migrating from Jest to Node.js Native Test Runner",

@@ -1,6 +1,75 @@
 [
   {
     "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "abstract": "Do you think you know everything about Node.js? Think again!",
+    "type": "talk",
+    "event": {
+        "link": "https://www.nodetlv.com/",
+        "name": "Node.TLV"
+    },
+    "slides": "https://www.icloud.com/keynote/0eaPwCtMQXB2iqw698wL9Opqw#recreating-nodejs-from-scratch-nodetlv-28062023",
+    "photos": "",
+    "video": "",
+    "tags": ["nodejs","javascript", "runtime"],
+    "location": {
+      "latitude": 32.166313,
+      "longitude": 34.843311,
+      "country": "Israel",
+      "uf": "IL",
+      "city": "Tel Aviv"
+        },
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-06-28"
+  },
+  {
+    "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "type": "talk",
+    "event": {
+        "link": "https://jnation.pt/",
+        "name": "JS Nation Portugal"
+    },
+    "slides": "https://www.icloud.com/keynote/0acML9UEH5sUJzn23fZ0QwBSg#recreating-nodejs-from-scratch-jnation-06062023",
+    "photos": "",
+    "video": "https://jnation.pt/stream/",
+    "tags": ["nodejs","javascript", "runtime"],
+    "location": {
+      "latitude":40.2056400,
+      "longitude":-8.41955000,
+      "country": "Portugal",
+      "uf": "PT",
+      "city": "Coimbra"
+        },
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-06-06"
+  },
+  {
+    "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "type": "talk",
+    "event": {
+        "link": "https://jsnation.com/",
+        "name": "Js Nation"
+    },
+    "slides": "https://www.icloud.com/keynote/069dqLiq47sD7-QczGdY-6B4A#recreating-nodejs-from-scratch-jsnation-amsterdam-01062023",
+    "photos": "",
+    "video": "https://portal.gitnation.org/contents/bun-deno-nodejs-recreating-a-javascript-runtime-from-scratch",
+    "tags": ["nodejs","javascript", "runtime"],
+    "location": {
+      "latitude":52.3738,
+      "longitude":4.89093,
+      "country": "Netherlands",
+      "uf": "NED",
+      "city": "Amsterdam"
+        },
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-06-01"
+  },
+  {
+    "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
     "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
     "type": "talk",
     "event": {
