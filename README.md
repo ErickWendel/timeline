@@ -16,18 +16,18 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2023/May - 2015/July 
-* **Videos**: 2023/April - 2016/September 
-* **Blog Posts**: 2023/May - 2015/February 
-* **Conference Talks**: 2023/May - 2015/January 
+* **Videos**: 2023/June - 2016/September 
+* **Blog Posts**: 2023/June - 2015/February 
+* **Conference Talks**: 2023/June - 2015/January 
 
-#### Presentations' number: 127
+#### Presentations' number: 130
 
 ## Table of Contents
 
 - [Projects (19)](#projects)
-- [Videos (127)](#videos)
-- [Blog Posts (326)](#blog-posts)
-- [Conference Talks (127)](#conference-talks)
+- [Videos (129)](#videos)
+- [Blog Posts (334)](#blog-posts)
+- [Conference Talks (130)](#conference-talks)
 
 ## Projects
 
@@ -278,6 +278,36 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/la0312YZJ9Y" target="_blank">2023-06-20 - Recreating Uglifyjs From Scratch: How To Minify Code And Generate Source Maps (en-us)</a>
+
+
+Abstract:
+
+> Have you wondered how you can debug TypeScript applications in the browser while browsers only understand JavaScript?
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/how-minifying-code-and-source-maps-work-in-practice" target="_blank">https://github.com/ErickWendel/how-minifying-code-and-source-maps-work-in-practice</a>
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://www.linkedin.com/feed/update/urn:li:activity:7071874470356877312?utm_source=share&utm_medium=member_desktop" target="_blank">2023-06-06 - Erick Wendel interviewed at JS Nation by Ixchel Ruiz (en-us)</a>
+
+
+Abstract:
+
+> Erick Wendel interviewed at JS Nation by Ixchel Ruiz
+> 
+> <b>Links</b>
+> 
+> - <a href="https://jnation.pt/stream/" target="_blank">https://jnation.pt/stream/</a>
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
 
 ### <a href="https://youtu.be/SrpIo_V-ZCg" target="_blank">2023-04-24 - Ninguém deveria precisar de Postman/Insomnia pra testar um endpoint (pt-br)</a>
 
@@ -1922,6 +1952,166 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-devcommunity-activity-7079043842527698944-YyI3?utm_source=share&utm_medium=member_desktop" target="_blank">2023-06-26 - Let's start this week with a golden 💡 tip: How to consume Web Streams on demand properly 🔥💥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-devcommunity-activity-7079043842527698944-YyI3?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Web Streams are one of the most powerful JavaScript features ever
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodetlv-testival2023-nodejs-activity-7080241443293831170-4yBx?utm_source=share&utm_medium=member_desktop" target="_blank">2023-06-23 - Jest? Supertest? Portfinder? What about using only native Node.js functions? (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodetlv-testival2023-nodejs-activity-7080241443293831170-4yBx?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+>  Here are my tips for you to write E2E tests with no libraries 💥
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-devcommunity-devtips-activity-7078019693613060096-FFWH?utm_source=share&utm_medium=member_desktop" target="_blank">2023-06-23 - Node.js agora terá MockTimers nativo! 🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-devcommunity-devtips-activity-7078019693613060096-FFWH?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Que dia meus amigos! Implementei algo de ponta a ponta no Node.js e finalmente foi mergeado!
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_npm-nodejs-javascript-activity-7077641701137293312-gEAj?utm_source=share&utm_medium=member_desktop" target="_blank">2023-06-22 - Check out this golden tip 💡: using `npm pkg set` to change package.json files 🤯🔥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_npm-nodejs-javascript-activity-7077641701137293312-gEAj?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> I've been doing a lot of repetitive tasks when creating projects.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-semanajsexpert-clubhouseclone-activity-7075105475410673664-1TjS?utm_source=share&utm_medium=member_desktop" target="_blank">2023-06-15 - Fazendo ligações com JavaScript de forma gratuita (e ainda com código fonte aqui no post) (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-semanajsexpert-clubhouseclone-activity-7075105475410673664-1TjS?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+>  além de criar salas individuais e poder banir usuários 😱 Se liga só!
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/semana-javascript-expert04" target="_blank">https://github.com/ErickWendel/semana-javascript-expert04</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-java-python-activity-7074384917333237760-Qlvy?utm_source=share&utm_medium=member_desktop" target="_blank">2023-06-13 - C#, Java, Ruby, Python, and many other options were available in 2009. (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-java-python-activity-7074384917333237760-Qlvy?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> How Node.js was able to become one of the most popular tools back then?
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_carreira-software-qualidade-activity-7074020742727647232-gsJL?utm_source=share&utm_medium=member_desktop" target="_blank">2023-06-12 - Já dormi embaixo da mesa de escritório, já vesti a 'camisa da empresa' (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_carreira-software-qualidade-activity-7074020742727647232-gsJL?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> fui o herói, mas, como as histórias contam: o herói sempre morre no fim
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_jsnation-webpack-turbopack-activity-7070366684921929728-juxP?utm_source=share&utm_medium=member_desktop" target="_blank">2023-06-02 - Como é ter a oportunidade de conhecer meus heróis em tecnologia 😍🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_jsnation-webpack-turbopack-activity-7070366684921929728-juxP?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Este ano está sendo incrível, mesmo morando no Brasil, estou tendo a oportunidade de viajar
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_javascript-performance-jsexpert-activity-7069303873575731200-3L-b?utm_source=share&utm_medium=member_desktop" target="_blank">2023-05-30 - Hoje é dia de dica de ouro! Chega de ouvir eventos e acumular resultados em memória, essa forma aqui é extremamente mais eficiente 🤩🔥 (pt-br)</a>
 
@@ -8094,6 +8284,69 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2023-06-28 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
+
+
+<a href="https://www.nodetlv.com/" target="_blank">Node.TLV</a>
+
+
+  
+
+
+Abstract:
+
+> Do you think you know everything about Node.js? Think again!
+> 
+> 
+
+
+_Tags: `nodejs`, `javascript`, `runtime`_
+
+
+Location: <a href="https://www.google.com/maps/?q=32.166313,34.843311" target="_blank">Tel Aviv - IL, Israel</a>.
+
+### 2023-06-06 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
+
+
+<a href="https://jnation.pt/" target="_blank">JS Nation Portugal</a>
+
+
+<a href="https://www.icloud.com/keynote/0acML9UEH5sUJzn23fZ0QwBSg#recreating-nodejs-from-scratch-jnation-06062023" target="_blank">slides</a> |   <a href="https://jnation.pt/stream/" target="_blank">video</a>
+
+
+Abstract:
+
+> Bun?Deno?Node.js?Recreating a JS Runtime from scratch
+> 
+> 
+
+
+_Tags: `nodejs`, `javascript`, `runtime`_
+
+
+Location: <a href="https://www.google.com/maps/?q=40.20564,-8.41955" target="_blank">Coimbra - PT, Portugal</a>.
+
+### 2023-06-01 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
+
+
+<a href="https://jsnation.com/" target="_blank">Js Nation</a>
+
+
+<a href="https://www.icloud.com/keynote/069dqLiq47sD7-QczGdY-6B4A#recreating-nodejs-from-scratch-jsnation-amsterdam-01062023" target="_blank">slides</a> |   <a href="https://portal.gitnation.org/contents/bun-deno-nodejs-recreating-a-javascript-runtime-from-scratch" target="_blank">video</a>
+
+
+Abstract:
+
+> Bun?Deno?Node.js?Recreating a JS Runtime from scratch
+> 
+> 
+
+
+_Tags: `nodejs`, `javascript`, `runtime`_
+
+
+Location: <a href="https://www.google.com/maps/?q=52.3738,4.89093" target="_blank">Amsterdam - NED, Netherlands</a>.
 
 ### 2023-05-26 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
 

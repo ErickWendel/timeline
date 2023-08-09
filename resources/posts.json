@@ -1,5 +1,149 @@
 [
   {
+    "title": "Jest? Supertest? Portfinder? What about using only native Node.js functions?",
+    "abstract": " Here are my tips for you to write E2E tests with no libraries 💥",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodetlv-testival2023-nodejs-activity-7080241443293831170-4yBx?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodetlv-testival2023-nodejs-activity-7080241443293831170-4yBx?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2023-06-23"
+  },
+  {
+    "title": "Let's start this week with a golden 💡 tip: How to consume Web Streams on demand properly 🔥💥",
+    "abstract": "Web Streams are one of the most powerful JavaScript features ever",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-devcommunity-activity-7079043842527698944-YyI3?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-devcommunity-activity-7079043842527698944-YyI3?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2023-06-26"
+  },
+  {
+    "title": "Node.js agora terá MockTimers nativo! 🤩",
+    "abstract": "Que dia meus amigos! Implementei algo de ponta a ponta no Node.js e finalmente foi mergeado!",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-devcommunity-devtips-activity-7078019693613060096-FFWH?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-devcommunity-devtips-activity-7078019693613060096-FFWH?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-06-23"
+  },
+  {
+    "title": "Check out this golden tip 💡: using `npm pkg set` to change package.json files 🤯🔥",
+    "abstract": "I've been doing a lot of repetitive tasks when creating projects.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_npm-nodejs-javascript-activity-7077641701137293312-gEAj?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_npm-nodejs-javascript-activity-7077641701137293312-gEAj?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2023-06-22"
+  },
+  {
+    "title": "Fazendo ligações com JavaScript de forma gratuita (e ainda com código fonte aqui no post)",
+    "abstract": " além de criar salas individuais e poder banir usuários 😱 Se liga só!",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-semanajsexpert-clubhouseclone-activity-7075105475410673664-1TjS?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      "https://github.com/ErickWendel/semana-javascript-expert04"
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-semanajsexpert-clubhouseclone-activity-7075105475410673664-1TjS?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-06-15"
+  },
+  {
+    "title": "C#, Java, Ruby, Python, and many other options were available in 2009.",
+    "abstract": "How Node.js was able to become one of the most popular tools back then?",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-java-python-activity-7074384917333237760-Qlvy?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-java-python-activity-7074384917333237760-Qlvy?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2023-06-13"
+  },
+  {
+    "title": "Já dormi embaixo da mesa de escritório, já vesti a 'camisa da empresa'",
+    "abstract": "fui o herói, mas, como as histórias contam: o herói sempre morre no fim",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_carreira-software-qualidade-activity-7074020742727647232-gsJL?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_carreira-software-qualidade-activity-7074020742727647232-gsJL?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-06-12"
+  },
+  {
+    "title": "Como é ter a oportunidade de conhecer meus heróis em tecnologia 😍🔥",
+    "abstract": "Este ano está sendo incrível, mesmo morando no Brasil, estou tendo a oportunidade de viajar",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_jsnation-webpack-turbopack-activity-7070366684921929728-juxP?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_jsnation-webpack-turbopack-activity-7070366684921929728-juxP?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-06-02"
+  },
+  {
     "title": "Hoje é dia de dica de ouro! Chega de ouvir eventos e acumular resultados em memória, essa forma aqui é extremamente mais eficiente 🤩🔥",
     "abstract": "É comum ver pessoas usando JavaScript para por exemplo ler arquivos, usar o método .on('data')",
     "type": "post",
