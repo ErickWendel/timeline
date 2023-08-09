@@ -1,5 +1,149 @@
 [
   {
+    "title": "Entendendo a fundo como o ESLint funciona recriando o projeto do zero 🤯",
+    "abstract": "Atendendo a pedidos liberei o código fonte do projeto lá no GitHub",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_entendendo-a-fundo-como-o-eslint-funciona-activity-7087439568076967936-it6Z?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_entendendo-a-fundo-como-o-eslint-funciona-activity-7087439568076967936-it6Z?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-07-19"
+  },
+  {
+    "title": "Use cases for using Multithreading on web apps (in the browser) to boost your app performance and user experience 🔥👻",
+    "abstract": "I care a lot about Web performance and user experience;",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_use-cases-for-using-multithreading-on-web-activity-7086715434263019520-HjqB?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_use-cases-for-using-multithreading-on-web-activity-7086715434263019520-HjqB?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2023-07-17"
+  },
+  {
+    "title": "How Webpack, ESLint, TypeScript, Babel, and others can generate code for you in a very clever way 💥🥳",
+    "abstract": "I've been doing crazy experiments and teaching it on my Youtube channel",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-eslint-advancedjavascript-activity-7085619117998714880-_A1n?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-eslint-advancedjavascript-activity-7085619117998714880-_A1n?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2023-07-14"
+  },
+  {
+    "title": "Node.js Streams are so fast that they can overflow consumers",
+    "abstract": "Here's how you can Throttle data and rate limit it 🧵",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_streams-nodejs-javascript-activity-7084539206122840065-iiQc?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_streams-nodejs-javascript-activity-7084539206122840065-iiQc?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2023-07-11"
+  },
+  {
+    "title": "E se você quisesse refazer o ESLint do Zero, como faria?",
+    "abstract": "Uma das coisas mais interessantes em programação é entender",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-acorn-javascript-activity-7084166497916399616-3wU9?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-acorn-javascript-activity-7084166497916399616-3wU9?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-07-10"
+  },
+  {
+    "title": "Understand the Node.js system and how V8, Libuv, and C++ work in harmony 🤩",
+    "abstract": "Understand the Node.js system and how V8, Libuv, and C++ work in harmony 🤩",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-howto-activity-7082346896073048064-slKh?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-howto-activity-7082346896073048064-slKh?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2023-07-05"
+  },
+  {
+    "title": "Você sabia que existe uma plataforma incrível, 100% brasileira especializada em aplicações serverless? 🤯🔥",
+    "abstract": "Quem me conhece sabe o quanto eu curto aplicações serverless",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_bohrio-bohr-producthunt-activity-7081976940277956609-9LEH?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_bohrio-bohr-producthunt-activity-7081976940277956609-9LEH?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-07-04"
+  },
+  {
+    "title": "Angular, VueJS, Webpack, e outros: conheça o segredo por trás dos mais populares geradores de código da atualidade 🔥💥",
+    "abstract": "É doido pensar a quantidade de coisas complexas que geradores de código abstraem para nós que desenvolvemos na Web 🔥",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-devcommunity-activity-7081635875951906818-i-9I?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-devcommunity-activity-7081635875951906818-i-9I?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-07-03"
+  },
+  {
     "title": "Jest? Supertest? Portfinder? What about using only native Node.js functions?",
     "abstract": " Here are my tips for you to write E2E tests with no libraries 💥",
     "type": "post",

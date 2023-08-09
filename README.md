@@ -16,8 +16,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2023/May - 2015/July 
-* **Videos**: 2023/June - 2016/September 
-* **Blog Posts**: 2023/June - 2015/February 
+* **Videos**: 2023/July - 2016/September 
+* **Blog Posts**: 2023/July - 2015/February 
 * **Conference Talks**: 2023/June - 2015/January 
 
 #### Presentations' number: 130
@@ -25,8 +25,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (19)](#projects)
-- [Videos (129)](#videos)
-- [Blog Posts (334)](#blog-posts)
+- [Videos (130)](#videos)
+- [Blog Posts (342)](#blog-posts)
 - [Conference Talks (130)](#conference-talks)
 
 ## Projects
@@ -278,6 +278,18 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/AvXe5_xZmeg" target="_blank">2023-07-18 - ESLint Reimagined: Creating a Linter from Scratch (en-us)</a>
+
+
+Abstract:
+
+> In this video, I'll show you in-depth how ESLint works by recreating the original project.
+> 
+> 
+
+
+_Tags: `ESLint`, `Javascript`_
 
 ### <a href="https://youtu.be/la0312YZJ9Y" target="_blank">2023-06-20 - Recreating Uglifyjs From Scratch: How To Minify Code And Generate Source Maps (en-us)</a>
 
@@ -1952,6 +1964,166 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_entendendo-a-fundo-como-o-eslint-funciona-activity-7087439568076967936-it6Z?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-19 - Entendendo a fundo como o ESLint funciona recriando o projeto do zero 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_entendendo-a-fundo-como-o-eslint-funciona-activity-7087439568076967936-it6Z?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Atendendo a pedidos liberei o código fonte do projeto lá no GitHub
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_use-cases-for-using-multithreading-on-web-activity-7086715434263019520-HjqB?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-17 - Use cases for using Multithreading on web apps (in the browser) to boost your app performance and user experience 🔥👻 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_use-cases-for-using-multithreading-on-web-activity-7086715434263019520-HjqB?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> I care a lot about Web performance and user experience;
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-eslint-advancedjavascript-activity-7085619117998714880-_A1n?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-14 - How Webpack, ESLint, TypeScript, Babel, and others can generate code for you in a very clever way 💥🥳 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-eslint-advancedjavascript-activity-7085619117998714880-_A1n?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> I've been doing crazy experiments and teaching it on my Youtube channel
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_streams-nodejs-javascript-activity-7084539206122840065-iiQc?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-11 - Node.js Streams are so fast that they can overflow consumers (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_streams-nodejs-javascript-activity-7084539206122840065-iiQc?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Here's how you can Throttle data and rate limit it 🧵
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-acorn-javascript-activity-7084166497916399616-3wU9?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-10 - E se você quisesse refazer o ESLint do Zero, como faria? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-acorn-javascript-activity-7084166497916399616-3wU9?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Uma das coisas mais interessantes em programação é entender
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-howto-activity-7082346896073048064-slKh?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-05 - Understand the Node.js system and how V8, Libuv, and C++ work in harmony 🤩 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-howto-activity-7082346896073048064-slKh?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Understand the Node.js system and how V8, Libuv, and C++ work in harmony 🤩
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_bohrio-bohr-producthunt-activity-7081976940277956609-9LEH?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-04 - Você sabia que existe uma plataforma incrível, 100% brasileira especializada em aplicações serverless? 🤯🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_bohrio-bohr-producthunt-activity-7081976940277956609-9LEH?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Quem me conhece sabe o quanto eu curto aplicações serverless
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-devcommunity-activity-7081635875951906818-i-9I?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-03 - Angular, VueJS, Webpack, e outros: conheça o segredo por trás dos mais populares geradores de código da atualidade 🔥💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-devcommunity-activity-7081635875951906818-i-9I?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> É doido pensar a quantidade de coisas complexas que geradores de código abstraem para nós que desenvolvemos na Web 🔥
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-devcommunity-activity-7079043842527698944-YyI3?utm_source=share&utm_medium=member_desktop" target="_blank">2023-06-26 - Let's start this week with a golden 💡 tip: How to consume Web Streams on demand properly 🔥💥 (en-us)</a>
 
