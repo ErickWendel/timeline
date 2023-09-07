@@ -1,5 +1,97 @@
 [
   {
+    "title": "O próximo nível para desenvolvedores Web:Machine Learning em Navegadores",
+    "abstract": "O próximo nível para desenvolvedores Web:Machine Learning em Navegadores",
+    "type": "talk",
+    "event": {
+        "link": "https://www.linkedin.com/company/nodebr/",
+        "name": "NodeBR"
+    },
+    "slides": "https://www.icloud.com/keynote/065BSSFjTeEp72oUs4W_Z-BXg#machine-learning4devs-nodebr-sp-31082023",
+    "photos": "",
+    "video": "",
+    "tags": ["javascript"],
+    "location": {
+      "latitude": -23.568864,
+      "longitude": -46.6499899,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2023-08-31"
+  },
+  {
+    "title": "O próximo nível para desenvolvedores Web:Machine Learning em Navegadores",
+    "abstract": "O próximo nível para desenvolvedores Web:Machine Learning em Navegadores",
+    "type": "talk",
+    "event": {
+        "link": "https://www.linkedin.com/company/nodebr/",
+        "name": "NodeBR"
+    },
+    "slides": "https://www.icloud.com/keynote/065BSSFjTeEp72oUs4W_Z-BXg#machine-learning4devs-nodebr-sp-31082023",
+    "photos": "",
+    "video": "",
+    "tags": ["javascript"],
+    "location": {
+      "latitude": -23.568864,
+      "longitude": -46.6499899,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2023-08-31"
+  },
+  {
+    "title": "O segredo para processar terabytes de dados em JavaScript",
+    "abstract": "O segredo para processar terabytes de dados em JavaScript",
+    "type": "talk",
+    "event": {
+        "link": "https://www.linkedin.com/company/codecondev/",
+        "name": "Codecon"
+    },
+    "slides": "https://drive.google.com/drive/folders/17may8spjii6wlcHSGDIsjBKJ82ZCZyLb",
+    "photos": "",
+    "video": "",
+    "tags": ["javascript", "web workers", "web Streams"],
+    "location": {
+      "latitude": -26.2630382,
+      "longitude": -49.2925363,
+      "country": "Brazil",
+      "uf": "SC",
+      "city": "Joinville"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2023-08-26"
+  },
+  {
+    "title": "10 must-know design patterns for Javascript Developers",
+    "abstract": "10 must-know design patterns for Javascript Developers",
+    "type": "talk",
+    "event": {
+        "link": "https://www.wearedevelopers.com/",
+        "name": "We Are Developers"
+    },
+    "slides": "https://www.icloud.com/keynote/0d220FhfLqbo30J502HQdV39g#10-design-patterns-for-js-devs-wearedevs-27072023",
+    "photos": "",
+    "video": "",
+    "tags": ["javascript", "design patterns"],
+    "location": {
+      "latitude": 52.5043277,
+      "longitude": 13.3276465,
+      "country": "Germany",
+      "uf": "BER",
+      "city": "Berlin"
+        },
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-07-27"
+  },
+  {
     "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
     "abstract": "Do you think you know everything about Node.js? Think again!",
     "type": "talk",

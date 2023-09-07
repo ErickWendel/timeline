@@ -17,17 +17,17 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 * **Projects**: 2023/May - 2015/July 
 * **Videos**: 2023/July - 2016/September 
-* **Blog Posts**: 2023/July - 2015/February 
-* **Conference Talks**: 2023/June - 2015/January 
+* **Blog Posts**: 2023/September - 2015/February 
+* **Conference Talks**: 2023/August - 2015/January 
 
-#### Presentations' number: 130
+#### Presentations' number: 134
 
 ## Table of Contents
 
 - [Projects (19)](#projects)
-- [Videos (130)](#videos)
-- [Blog Posts (342)](#blog-posts)
-- [Conference Talks (130)](#conference-talks)
+- [Videos (131)](#videos)
+- [Blog Posts (365)](#blog-posts)
+- [Conference Talks (134)](#conference-talks)
 
 ## Projects
 
@@ -278,6 +278,18 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://open.spotify.com/episode/3Jq8vDZumXEPAVy7S6zPFh" target="_blank">2023-07-18 - #156 - Erick Wendel: O Brasileiro que consertou o Node.js (pt-br)</a>
+
+
+Abstract:
+
+> Solos que guitarra não vão me conquistar
+> 
+> 
+
+
+_Tags: `ESLint`, `Javascript`_
 
 ### <a href="https://youtu.be/AvXe5_xZmeg" target="_blank">2023-07-18 - ESLint Reimagined: Creating a Linter from Scratch (en-us)</a>
 
@@ -1964,6 +1976,466 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_esses-s%C3%A3o-os-conceitos-mais-importantes-para-activity-7104467171111518208-nVgx?utm_source=share&utm_medium=member_desktop" target="_blank">2023-09-01 - Esses são os conceitos mais importantes para se aprimorar como Dev JavaScript 💥🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_esses-s%C3%A3o-os-conceitos-mais-importantes-para-activity-7104467171111518208-nVgx?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> O que mais vejo hoje em dia são pessoas presas à framework X, biblioteca Y mas esquecem que no fim
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-opensource-javascript-activity-7103004954344239104-ukf1?utm_source=share&utm_medium=member_desktop" target="_blank">2023-08-31 - Mais uma contribuição mergeada no projeto Node.js 😱🥳 se liga nessas curiosidades 💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-opensource-javascript-activity-7103004954344239104-ukf1?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Mais uma contribuição mergeada no projeto Node.js 😱🥳 se liga nessas curiosidades 💥
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_metodotajs-programador-javascript-activity-7102795535660544000-YD3x?utm_source=share&utm_medium=member_desktop" target="_blank">2023-08-30 - Olha que sacada: Ativei Live reload + Debugging + Testes automatizados 💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_metodotajs-programador-javascript-activity-7102795535660544000-YD3x?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sempre falo para os meus alunos do #MetodoTAJS: Prepare o setup ferramental (testes e debugging) no momento da criação do projeto
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-testesautomatizados-activity-7102661030912114689-XCxo?utm_source=share&utm_medium=member_desktop" target="_blank">2023-08-30 - Ninguém do meu time usa testes automatizados, como eu poderia usar? 💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-testesautomatizados-activity-7102661030912114689-XCxo?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Algo que você pode fazer para ter mais confiança em suas entregas
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_testesautomatizados-desenvolvimentodesoftware-activity-7100829912499957761-Ruds?utm_source=share&utm_medium=member_desktop" target="_blank">2023-08-25 - Eaí, Jest, Mocha, Vitest ou o Node.js test runner, o que é melhor? 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_testesautomatizados-desenvolvimentodesoftware-activity-7100829912499957761-Ruds?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Me conta aqui nos comentários qual é o seu preferido, qual usa no dia a dia e qual é a sua stack atual 💥
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-testesautomatizados-tdd-activity-7100478554638856192-TWhR?utm_source=share&utm_medium=member_desktop" target="_blank">2023-08-24 - Como vender testes automatizados para o seu time 💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-testesautomatizados-tdd-activity-7100478554638856192-TWhR?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Recentemente muita gente pontuou que é difícil quebrar a cultura caótica
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodetestrunner-erickwendel-activity-7100222578350276608-XzZf?utm_source=share&utm_medium=member_desktop" target="_blank">2023-08-23 - Vou te ensinar sobre Mocking, Stub e como testar serviços em JavaScript 💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodetestrunner-erickwendel-activity-7100222578350276608-XzZf?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Assista aqui: https://lnkd.in/e5mKYZDJ
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-testesautomatizados-erickwendel-activity-7099736552360017920-Ehpa?utm_source=share&utm_medium=member_desktop" target="_blank">2023-08-23 - 4 Motivos de porque você deveria implementar testes automatizados no seu código 💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-testesautomatizados-erickwendel-activity-7099736552360017920-Ehpa?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> 1 - Economia de tempo no processo de Debugging
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-testesautomatizados-erickwendel-activity-7099736552360017920-Ehpa?utm_source=share&utm_medium=member_desktop" target="_blank">2023-08-22 - 'Meu chefe não me deixa criar testes automatizados...'😥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-testesautomatizados-erickwendel-activity-7099736552360017920-Ehpa?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Já ouvi muitas vezes esse tipo de discurso, bem similar com aquela do 'ninguém do meu time cria testes, como eu vou criar?' 😩
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-webdevelopment-nodejs-activity-7097558016761196544-liaz?utm_source=share&utm_medium=member_desktop" target="_blank">2023-08-16 - 5 aprendizados usados em Node.js que para aplicar no frontend (ou qualquer ambiente) 💥🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-webdevelopment-nodejs-activity-7097558016761196544-liaz?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> 1 - Use ECMAScript Modules
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-webdevelopment-designpatterns-activity-7096862513740283906-dZKR?utm_source=share&utm_medium=member_desktop" target="_blank">2023-08-14 - 90% da galera que eu conheço nunca ouviu falar sobre Design Patterns para Testes Automatizados 🤯💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-webdevelopment-designpatterns-activity-7096862513740283906-dZKR?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> É normal ter milhares de linhas de código em arquivos de testes automatizados pois geralmente copiamos casos de teste
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-testing-activity-7094653247251976192-X9s4?utm_source=share&utm_medium=member_desktop" target="_blank">2023-08-08 - Se você está testando datas, você precisa se ligar nesse problema 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-testing-activity-7094653247251976192-X9s4?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Até eu me ligar que meu teste estava errado, precisei ver ele quebrando dias depois e demorei um tempão para resolver 🤨
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-testing-tutorial-activity-7094291129080139776-CbDq?utm_source=share&utm_medium=member_desktop" target="_blank">2023-08-07 - Não dependa de conexões externas em seus testes unitários 💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-testing-tutorial-activity-7094291129080139776-CbDq?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Acesse o vídeo completo: https://lnkd.in/e5mKYZDJ
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascripttips-codetesting101-devtips-activity-7091792471742980096-LQ0f?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-31 - Como testar métodos privados em JavaScript (ou qualquer linguagem) 💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascripttips-codetesting101-devtips-activity-7091792471742980096-LQ0f?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Quando se começa a trabalhar com testes unitários é normal ver que o projeto
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_caraca-completei-hoje-9-anos-como-desenvolvedor-activity-7091457727192850432-UI_Z?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-30 -  Completei hoje 9 anos como desenvolvedor de software 😳🥳🥳 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_caraca-completei-hoje-9-anos-como-desenvolvedor-activity-7091457727192850432-UI_Z?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Comecei em 2014 com C#, comecei a estudar Node.js em 2015
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_programaaexaeto-programador-javascript-activity-7091007380326334464-VzYd?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-29 - Se você fica com medo de ser demitido(a) porque toda tarefa que entrega volta com algum bug e você precisa retrabalhar, vem comigo nessa dica 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_programaaexaeto-programador-javascript-activity-7091007380326334464-VzYd?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> É normal querer mostrar trabalho e se comparar com outras pessoas do time
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_a-hist%C3%B3ria-de-como-implementar-testes-automatizados-activity-7090694568118992897-Cutf?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-28 - A história de como implementar testes automatizados no meu código me salvou de horas de retrabalho corrigindo bugs 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_a-hist%C3%B3ria-de-como-implementar-testes-automatizados-activity-7090694568118992897-Cutf?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Veja como implementar testes no meu código me salvou de horas de retrabalho... 🔥
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejstesting-javascripttests-testrunner-activity-7089941361050738688-lWS8?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-26 - Se você está perdido em qual framework de testes usar, vem comigo nessa dica 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejstesting-javascripttests-testrunner-activity-7089941361050738688-lWS8?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Já usei Mocha, Tap, Jest e outros e sempre quis que o Node.js tivesse uma ferramenta interna que fosse otimizada 🤨
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_uma-dica-para-voc%C3%AA-que-quer-pedir-um-aumento-activity-7089593458000093189-b1hG?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-25 - Uma dica para você que quer pedir um aumento de salário ou buscar novas oportunidades 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_uma-dica-para-voc%C3%AA-que-quer-pedir-um-aumento-activity-7089593458000093189-b1hG?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Um erro comum é chegar no chefe e mandar aquela 'ah eu quero um aumento por isso e isso...'
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_testesautomatizados-testesdesoftware-automatizaaexaetodetestes-activity-7089337286835810304-b3EH?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-24 - Como eu escolho o que testar 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_testesautomatizados-testesdesoftware-automatizaaexaetodetestes-activity-7089337286835810304-b3EH?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> #TestesAutomatizados
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_esse-%C3%A9-o-problema-mais-dif%C3%ADcilchato-de-resolver-activity-7089245258927996931-wQvd?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-24 - Esse é o problema mais difícil/chato de resolver quando testando aplicações, aqui vão minhas dicas de como inspecionar e resolve-lo 🔥🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_esse-%C3%A9-o-problema-mais-dif%C3%ADcilchato-de-resolver-activity-7089245258927996931-wQvd?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Flaky Tests ou testes frágeis são testes instáveis
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_testesautomatizados-desenvolvimentodesoftware-activity-7088914909219950592-fpww?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-23 - Se você acha que criar testes automatizados é um processo demorado e não vale a pena, eu tenho uma dica para você! (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_testesautomatizados-desenvolvimentodesoftware-activity-7088914909219950592-fpww?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> #TestesAutomatizados 
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-testes-automatizados-podem-elevar-sua-activity-7087795576011993088-fOEi?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-20 - Como testes automatizados podem elevar sua produtividade! 🔥🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-testes-automatizados-podem-elevar-sua-activity-7087795576011993088-fOEi?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Em toda minha carreira ouço discursos como
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_entendendo-a-fundo-como-o-eslint-funciona-activity-7087439568076967936-it6Z?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-19 - Entendendo a fundo como o ESLint funciona recriando o projeto do zero 🤯 (pt-br)</a>
 
@@ -8456,6 +8928,90 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2023-08-31 - O próximo nível para desenvolvedores Web:Machine Learning em Navegadores (pt-br)
+
+
+<a href="https://www.linkedin.com/company/nodebr/" target="_blank">NodeBR</a>
+
+
+  
+
+
+Abstract:
+
+> O próximo nível para desenvolvedores Web:Machine Learning em Navegadores
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.568864,-46.6499899" target="_blank">São Paulo - SP, Brazil</a>.
+
+### 2023-08-31 - O próximo nível para desenvolvedores Web:Machine Learning em Navegadores (pt-br)
+
+
+<a href="https://www.linkedin.com/company/nodebr/" target="_blank">NodeBR</a>
+
+
+  
+
+
+Abstract:
+
+> O próximo nível para desenvolvedores Web:Machine Learning em Navegadores
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.568864,-46.6499899" target="_blank">São Paulo - SP, Brazil</a>.
+
+### 2023-08-26 - O segredo para processar terabytes de dados em JavaScript (pt-br)
+
+
+<a href="https://www.linkedin.com/company/codecondev/" target="_blank">Codecon</a>
+
+
+  
+
+
+Abstract:
+
+> O segredo para processar terabytes de dados em JavaScript
+> 
+> 
+
+
+_Tags: `javascript`, `web workers`, `web Streams`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-26.2630382,-49.2925363" target="_blank">Joinville - SC, Brazil</a>.
+
+### 2023-07-27 - 10 must-know design patterns for Javascript Developers (en-us)
+
+
+<a href="https://www.wearedevelopers.com/" target="_blank">We Are Developers</a>
+
+
+  
+
+
+Abstract:
+
+> 10 must-know design patterns for Javascript Developers
+> 
+> 
+
+
+_Tags: `javascript`, `design patterns`_
+
+
+Location: <a href="https://www.google.com/maps/?q=52.5043277,13.3276465" target="_blank">Berlin - BER, Germany</a>.
 
 ### 2023-06-28 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
 
