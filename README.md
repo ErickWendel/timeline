@@ -284,7 +284,7 @@ _Tags: `translation`, `javascript`_
 
 Abstract:
 
-> Solos que guitarra não vão me conquistar
+> Solos de guitarra + desafios + NodeJS + o mundo da tecnologia conquistaram o grande Erick Wendel
 > 
 > 
 
@@ -8940,7 +8940,7 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 Abstract:
 
-> O próximo nível para desenvolvedores Web:Machine Learning em Navegadores
+> Explore o futuro da web: descubra como o Machine Learning está transformando a experiência do usuário nos navegadores
 > 
 > 
 
@@ -8961,7 +8961,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.568864,-46.6499899" target
 
 Abstract:
 
-> O próximo nível para desenvolvedores Web:Machine Learning em Navegadores
+> Explore o futuro da web: descubra como o Machine Learning está transformando a experiência do usuário nos navegadores
 > 
 > 
 
@@ -8982,7 +8982,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.568864,-46.6499899" target
 
 Abstract:
 
-> O segredo para processar terabytes de dados em JavaScript
+> Descubra os segredos por trás do processamento eficiente de terabytes de dados usando JavaScript
 > 
 > 
 
@@ -9003,7 +9003,7 @@ Location: <a href="https://www.google.com/maps/?q=-26.2630382,-49.2925363" targe
 
 Abstract:
 
-> 10 must-know design patterns for Javascript Developers
+> Unlock the power of JavaScript with these 10 essential design patterns, boosting your development skills and code efficiency
 > 
 > 
 
@@ -9013,7 +9013,7 @@ _Tags: `javascript`, `design patterns`_
 
 Location: <a href="https://www.google.com/maps/?q=52.5043277,13.3276465" target="_blank">Berlin - BER, Germany</a>.
 
-### 2023-06-28 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
+### 2023-06-28 - Bun? Deno? Node.js? Recreating a JS Runtime from scratch (en-us)
 
 
 <a href="https://www.nodetlv.com/" target="_blank">Node.TLV</a>
@@ -9024,7 +9024,7 @@ Location: <a href="https://www.google.com/maps/?q=52.5043277,13.3276465" target=
 
 Abstract:
 
-> Do you think you know everything about Node.js? Think again!
+> Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime
 > 
 > 
 
@@ -9034,7 +9034,7 @@ _Tags: `nodejs`, `javascript`, `runtime`_
 
 Location: <a href="https://www.google.com/maps/?q=32.166313,34.843311" target="_blank">Tel Aviv - IL, Israel</a>.
 
-### 2023-06-06 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
+### 2023-06-06 - Bun? Deno? Node.js? Recreating a JS Runtime from scratch (en-us)
 
 
 <a href="https://jnation.pt/" target="_blank">JS Nation Portugal</a>
@@ -9045,7 +9045,7 @@ Location: <a href="https://www.google.com/maps/?q=32.166313,34.843311" target="_
 
 Abstract:
 
-> Bun?Deno?Node.js?Recreating a JS Runtime from scratch
+> Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime
 > 
 > 
 
@@ -9055,7 +9055,7 @@ _Tags: `nodejs`, `javascript`, `runtime`_
 
 Location: <a href="https://www.google.com/maps/?q=40.20564,-8.41955" target="_blank">Coimbra - PT, Portugal</a>.
 
-### 2023-06-01 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
+### 2023-06-01 - Bun? Deno? Node.js? Recreating a JS Runtime from scratch (en-us)
 
 
 <a href="https://jsnation.com/" target="_blank">Js Nation</a>
@@ -9066,7 +9066,7 @@ Location: <a href="https://www.google.com/maps/?q=40.20564,-8.41955" target="_bl
 
 Abstract:
 
-> Bun?Deno?Node.js?Recreating a JS Runtime from scratch
+> Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime
 > 
 > 
 
@@ -9076,18 +9076,18 @@ _Tags: `nodejs`, `javascript`, `runtime`_
 
 Location: <a href="https://www.google.com/maps/?q=52.3738,4.89093" target="_blank">Amsterdam - NED, Netherlands</a>.
 
-### 2023-05-26 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
+### 2023-05-26 - Bun? Deno? Node.js? Recreating a JS Runtime from scratch (en-us)
 
 
 <a href="https://ndcoslo.com/" target="_blank">NDC Oslo</a>
 
 
-<a href="https://www.icloud.com/keynote/0d7cWC5W_Z_XukyK2z0qNNq0A#recreating-nodejs-from-scratch-ndcoslo-26052023" target="_blank">slides</a> |   <a href="https://portal.gitnation.org/contents/bun-deno-nodejs-recreating-a-javascript-runtime-from-scratch-understand-magic-behind-nodejs" target="_blank">video</a>
+<a href="https://www.icloud.com/keynote/0d7cWC5W_Z_XukyK2z0qNNq0A#recreating-nodejs-from-scratch-ndcoslo-26052023" target="_blank">slides</a> |   <a href="https://youtu.be/uNGDW3snVyA?si=tepKjmfUE-LmkpFI" target="_blank">video</a>
 
 
 Abstract:
 
-> Bun?Deno?Node.js?Recreating a JS Runtime from scratch
+> Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime
 > 
 > 
 
@@ -9129,7 +9129,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.6155618,-46.4570683" targe
 
 Abstract:
 
-> The next level for Web developers: Machine Learning on browsers
+> Explore the Future of the Web: Discover How Machine Learning Is Transforming the User Experience in Browsers
 > 
 > 
 
@@ -9150,7 +9150,7 @@ Location: <a href="https://www.google.com/maps/?q=50.8510781,4.3318835" target="
 
 Abstract:
 
-> The next level for Web developers: Machine Learning on browsers
+> Explore the Future of the Web: Discover How Machine Learning Is Transforming the User Experience in Browsers
 > 
 > 
 
@@ -9171,7 +9171,7 @@ Location: <a href="https://www.google.com/maps/?q=50.8510781,4.3318835" target="
 
 Abstract:
 
-> The next level for Web developers: Machine Learning on browsers
+> Explore the Future of the Web: Discover How Machine Learning Is Transforming the User Experience in Browsers
 > 
 > 
 
@@ -9192,7 +9192,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.508559,-46.7215608" target
 
 Abstract:
 
-> The next level for Web developers: Machine Learning on browsers
+> Explore the Future of the Web: Discover How Machine Learning Is Transforming the User Experience in Browsers
 > 
 > 
 
@@ -9213,7 +9213,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.508559,-46.7215608" target
 
 Abstract:
 
-> Bun?Deno?Node.js?Recreating a JS Runtime from scratch
+> Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime
 > 
 > 
 
@@ -9234,7 +9234,7 @@ Location: <a href="https://www.google.com/maps/?q=52.5169221,13.449893" target="
 
 Abstract:
 
-> Bun?Deno?Node.js?Recreating a JS Runtime from scratch
+> Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime
 > 
 > 
 
@@ -9255,7 +9255,7 @@ Location: <a href="https://www.google.com/maps/?q=52.5169221,13.449893" target="
 
 Abstract:
 
-> Bun?Deno?Node.js?Recreating a JS Runtime from scratch
+> Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime
 > 
 > <b>Links</b>
 > 
@@ -9279,7 +9279,7 @@ Location: <a href="https://www.google.com/maps/?q=51.5013608,-0.1776963" target=
 
 Abstract:
 
-> Bun?Deno?Node.js?Recreating a JS Runtime from scratch
+> Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime
 > 
 > <b>Links</b>
 > 

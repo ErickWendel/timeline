@@ -1,7 +1,7 @@
 [
   {
     "title": "O próximo nível para desenvolvedores Web:Machine Learning em Navegadores",
-    "abstract": "O próximo nível para desenvolvedores Web:Machine Learning em Navegadores",
+    "abstract": "Explore o futuro da web: descubra como o Machine Learning está transformando a experiência do usuário nos navegadores",
     "type": "talk",
     "event": {
         "link": "https://www.linkedin.com/company/nodebr/",
@@ -24,7 +24,7 @@
   },
   {
     "title": "O próximo nível para desenvolvedores Web:Machine Learning em Navegadores",
-    "abstract": "O próximo nível para desenvolvedores Web:Machine Learning em Navegadores",
+    "abstract": "Explore o futuro da web: descubra como o Machine Learning está transformando a experiência do usuário nos navegadores",
     "type": "talk",
     "event": {
         "link": "https://www.linkedin.com/company/nodebr/",
@@ -47,13 +47,13 @@
   },
   {
     "title": "O segredo para processar terabytes de dados em JavaScript",
-    "abstract": "O segredo para processar terabytes de dados em JavaScript",
+    "abstract": "Descubra os segredos por trás do processamento eficiente de terabytes de dados usando JavaScript",
     "type": "talk",
     "event": {
         "link": "https://www.linkedin.com/company/codecondev/",
         "name": "Codecon"
     },
-    "slides": "https://drive.google.com/drive/folders/17may8spjii6wlcHSGDIsjBKJ82ZCZyLb",
+    "slides": "https://bit.ly/o-segredo-para-processar-terabytes-em-js",
     "photos": "",
     "video": "",
     "tags": ["javascript", "web workers", "web Streams"],
@@ -70,7 +70,7 @@
   },
   {
     "title": "10 must-know design patterns for Javascript Developers",
-    "abstract": "10 must-know design patterns for Javascript Developers",
+    "abstract": "Unlock the power of JavaScript with these 10 essential design patterns, boosting your development skills and code efficiency",
     "type": "talk",
     "event": {
         "link": "https://www.wearedevelopers.com/",
@@ -92,8 +92,8 @@
         "date": "2023-07-27"
   },
   {
-    "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
-    "abstract": "Do you think you know everything about Node.js? Think again!",
+    "title": "Bun? Deno? Node.js? Recreating a JS Runtime from scratch",
+    "abstract": "Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime",
     "type": "talk",
     "event": {
         "link": "https://www.nodetlv.com/",
@@ -115,8 +115,8 @@
         "date": "2023-06-28"
   },
   {
-    "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
-    "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "title": "Bun? Deno? Node.js? Recreating a JS Runtime from scratch",
+    "abstract": "Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime",
     "type": "talk",
     "event": {
         "link": "https://jnation.pt/",
@@ -138,8 +138,8 @@
         "date": "2023-06-06"
   },
   {
-    "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
-    "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "title": "Bun? Deno? Node.js? Recreating a JS Runtime from scratch",
+    "abstract": "Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime",
     "type": "talk",
     "event": {
         "link": "https://jsnation.com/",
@@ -161,8 +161,8 @@
         "date": "2023-06-01"
   },
   {
-    "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
-    "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "title": "Bun? Deno? Node.js? Recreating a JS Runtime from scratch",
+    "abstract": "Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime",
     "type": "talk",
     "event": {
         "link": "https://ndcoslo.com/",
@@ -170,7 +170,7 @@
     },
     "slides": "https://www.icloud.com/keynote/0d7cWC5W_Z_XukyK2z0qNNq0A#recreating-nodejs-from-scratch-ndcoslo-26052023",
     "photos": "",
-    "video": "https://portal.gitnation.org/contents/bun-deno-nodejs-recreating-a-javascript-runtime-from-scratch-understand-magic-behind-nodejs",
+    "video": "https://youtu.be/uNGDW3snVyA?si=tepKjmfUE-LmkpFI",
     "tags": ["nodejs","javascript", "runtime"],
     "location": {
       "latitude":59.9125923,
@@ -208,7 +208,7 @@
   },
   {
     "title": "The next level for Web developers: Machine Learning on browsers",
-    "abstract": "The next level for Web developers: Machine Learning on browsers",
+    "abstract": "Explore the Future of the Web: Discover How Machine Learning Is Transforming the User Experience in Browsers",
     "type": "talk",
     "event": {
         "link": "https://www.bejs.io/",
@@ -231,7 +231,7 @@
   },
   {
     "title": "The next level for Web developers: Machine Learning on browsers",
-    "abstract": "The next level for Web developers: Machine Learning on browsers",
+    "abstract": "Explore the Future of the Web: Discover How Machine Learning Is Transforming the User Experience in Browsers",
     "type": "talk",
     "event": {
         "link": "https://brazil.cityjsconf.org/",
@@ -254,7 +254,7 @@
   },
   {
     "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
-    "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "abstract": "Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime",
     "type": "talk",
     "event": {
         "link": "https://nodecongress.com/",
@@ -277,7 +277,7 @@
   },
   {
     "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
-    "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "abstract": "Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime",
     "type": "talk",
     "event": {
         "link": "https://london.cityjsconf.org/events/",
@@ -323,7 +323,7 @@
   },
   {
     "title": "The next level for Web developers: Machine Learning on browsers",
-    "abstract": "The next level for Web developers: Machine Learning on browsers",
+    "abstract": "Explore the Future of the Web: Discover How Machine Learning Is Transforming the User Experience in Browsers",
     "type": "talk",
     "event": {
       "link": "https://www.bejs.io/",
@@ -352,7 +352,7 @@
   },
   {
     "title": "The next level for Web developers: Machine Learning on browsers",
-    "abstract": "The next level for Web developers: Machine Learning on browsers",
+    "abstract": "Explore the Future of the Web: Discover How Machine Learning Is Transforming the User Experience in Browsers",
     "type": "talk",
     "event": {
       "link": "https://brazil.cityjsconf.org/",
@@ -381,7 +381,7 @@
   },
   {
     "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
-    "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "abstract": "Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime",
     "type": "talk",
     "event": {
       "link": "https://nodecongress.com/",
@@ -410,7 +410,7 @@
   },
   {
     "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
-    "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "abstract": "Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime",
     "type": "talk",
     "event": {
       "link": "https://london.cityjsconf.org/events/",
