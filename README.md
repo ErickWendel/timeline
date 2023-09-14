@@ -26,7 +26,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 - [Projects (19)](#projects)
 - [Videos (131)](#videos)
-- [Blog Posts (365)](#blog-posts)
+- [Blog Posts (366)](#blog-posts)
 - [Conference Talks (134)](#conference-talks)
 
 ## Projects
@@ -1977,12 +1977,32 @@ _Tags: `wear`, `android`, `node.js`_
 
 ## Blog Posts
 
-### <a href="https://www.linkedin.com/posts/erickwendel_esses-s%C3%A3o-os-conceitos-mais-importantes-para-activity-7104467171111518208-nVgx?utm_source=share&utm_medium=member_desktop" target="_blank">2023-09-01 - Esses são os conceitos mais importantes para se aprimorar como Dev JavaScript 💥🔥 (pt-br)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-breakingnews-activity-7105541987545624576-44ij?utm_source=share&utm_medium=member_desktop" target="_blank">2023-09-07 - Vixe, Acabou para o dotenv? 😱 (pt-br)</a>
 
 
 Portal:
 
-> <a href="https://www.linkedin.com/posts/erickwendel_esses-s%C3%A3o-os-conceitos-mais-importantes-para-activity-7104467171111518208-nVgx?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-breakingnews-activity-7105541987545624576-44ij?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Node.js v20.6 agora carrega variáveis de ambiente NATIVAMENTE! 🔥
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-breakingnews-activity-7105541987545624576-44ij?utm_source=share&utm_medium=member_desktop" target="_blank">2023-09-01 - Esses são os conceitos mais importantes para se aprimorar como Dev JavaScript 💥🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-breakingnews-activity-7105541987545624576-44ij?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
 
 
 Abstract:
