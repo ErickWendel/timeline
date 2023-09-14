@@ -1,14 +1,32 @@
 [
-  {
-    "title": "Esses são os conceitos mais importantes para se aprimorar como Dev JavaScript 💥🔥",
-    "abstract": "O que mais vejo hoje em dia são pessoas presas à framework X, biblioteca Y mas esquecem que no fim",
+    {
+    "title": "Vixe, Acabou para o dotenv? 😱",
+    "abstract": "Node.js v20.6 agora carrega variáveis de ambiente NATIVAMENTE! 🔥",
     "type": "post",
-    "link": "https://www.linkedin.com/posts/erickwendel_esses-s%C3%A3o-os-conceitos-mais-importantes-para-activity-7104467171111518208-nVgx?utm_source=share&utm_medium=member_desktop",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-breakingnews-activity-7105541987545624576-44ij?utm_source=share&utm_medium=member_desktop",
     "additionalLinks": [
       " "
     ],
     "portal": {
-      "link": "https://www.linkedin.com/posts/erickwendel_esses-s%C3%A3o-os-conceitos-mais-importantes-para-activity-7104467171111518208-nVgx?utm_source=share&utm_medium=member_desktop",
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-breakingnews-activity-7105541987545624576-44ij?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-09-07"
+  },
+  {
+    "title": "Esses são os conceitos mais importantes para se aprimorar como Dev JavaScript 💥🔥",
+    "abstract": "O que mais vejo hoje em dia são pessoas presas à framework X, biblioteca Y mas esquecem que no fim",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-breakingnews-activity-7105541987545624576-44ij?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-breakingnews-activity-7105541987545624576-44ij?utm_source=share&utm_medium=member_desktop",
       "name": "Linkedin Post"
     },
     "tags": [
