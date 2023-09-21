@@ -1,5 +1,23 @@
 [
     {
+    "title": "Bun vs Node.js: Será que o Bun vai perder desempenho quando implementar tudo necessário para colocar apps em produção?🔥",
+    "abstract": "Vai ser interessante acompanhar esse processo pois a maioria dos APMs feitos para o Node.js comprometem a capacidade de resposta das aplicações",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_bun-vs-nodejs-ser%C3%A1-que-o-bun-vai-perder-activity-7109538753819348992-Z546?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_bun-vs-nodejs-ser%C3%A1-que-o-bun-vai-perder-activity-7109538753819348992-Z546?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-09-18"
+    },
+    {
     "title": "Vixe, Acabou para o dotenv? 😱",
     "abstract": "Node.js v20.6 agora carrega variáveis de ambiente NATIVAMENTE! 🔥",
     "type": "post",
