@@ -1,5 +1,41 @@
 [
   {
+    "title": "FINALMENTEEE, agora Node.js vai detectar o tipo do arquivo (commonjs ou ESModule) automaticamente 🔥🥳🥳",
+    "abstract": "Horizontal partitioning or Sharding is a cool concept to help you split your processing into different units",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_this-is-game-changing-nodejs-allows-you-activity-7129841393530748930-uYeH?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_this-is-game-changing-nodejs-allows-you-activity-7129841393530748930-uYeH?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2023-11-13"
+    },
+  {
+    "title": "FINALMENTEEE, agora Node.js vai detectar o tipo do arquivo (commonjs ou ESModule) automaticamente 🔥🥳🥳",
+    "abstract": "A tática é definir no comentário onde está o tipo/arquivo/class/função de referencia que ele entende o tipo.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-webdevelopment-activity-7125487780956098560--FaT?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-webdevelopment-activity-7125487780956098560--FaT?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-11-01"
+    },
+  {
     "title": "Mapeando um objeto para JSDocs",
     "abstract": "A tática é definir no comentário onde está o tipo/arquivo/class/função de referencia que ele entende o tipo.",
     "type": "post",

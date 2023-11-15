@@ -15,7 +15,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 ### Contributions Summary
 
-* **Projects**: 2023/May - 2015/July 
+* **Projects**: 2023/October - 2015/July 
 * **Videos**: 2023/October - 2016/September 
 * **Blog Posts**: 2023/October - 2015/February 
 * **Conference Talks**: 2023/October - 2015/January 
@@ -24,12 +24,24 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 ## Table of Contents
 
-- [Projects (19)](#projects)
+- [Projects (20)](#projects)
 - [Videos (134)](#videos)
 - [Blog Posts (369)](#blog-posts)
 - [Conference Talks (137)](#conference-talks)
 
 ## Projects
+
+### <a href="https://github.com/ErickWendel/semana-javascript-expert08" target="_blank">2023-10-06 - JSExpertHub Pre-processing videos on browsers - Semana JS Expert 8.0 (en-us)</a>
+
+
+Abstract:
+
+> Pre processing videos before uploading in the browser 😏
+> 
+> 
+
+
+_Tags: `webstreams`, `javascript`, `nodejs`_
 
 ### <a href="https://github.com/ErickWendel/migrating-from-jest-to-node-test-runner" target="_blank">2023-05-08 - Step-by-Step Guide: Migrating from Jest to Node.js Native Test Runner (en-us) (en-us)</a>
 
