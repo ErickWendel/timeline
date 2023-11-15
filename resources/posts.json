@@ -1,4 +1,40 @@
 [
+  {
+    "title": "Mapeando um objeto para JSDocs",
+    "abstract": "A tática é definir no comentário onde está o tipo/arquivo/class/função de referencia que ele entende o tipo.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_vscode-jsdocs-devtips-activity-7120815628273299456-ku9h?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_vscode-jsdocs-devtips-activity-7120815628273299456-ku9h?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-10-19"
+    },
+  {
+    "title": "Finalmente saiu o documentário do TypeScript 🥳💥",
+    "abstract": "Esse sou eu em Março de 2018 com o Anders Hejlsberg co-criador das linguagens Delphi, Pascal, C# e claro *TypeScript* 😳💥",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_typescript-typescriptorigins-activity-7112095840185298945-Un47?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_typescript-typescriptorigins-activity-7112095840185298945-Un47?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-09-25"
+    },
     {
     "title": "Bun vs Node.js: Será que o Bun vai perder desempenho quando implementar tudo necessário para colocar apps em produção?🔥",
     "abstract": "Vai ser interessante acompanhar esse processo pois a maioria dos APMs feitos para o Node.js comprometem a capacidade de resposta das aplicações",

@@ -1,5 +1,74 @@
 [
   {
+    "title": "Bun? Deno? Node.js? Recreating a JS Runtime from scratch",
+    "abstract": "Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime",
+    "type": "talk",
+    "event": {
+        "link": "https://www.linkedin.com/company/codemotion/",
+        "name": "Codemotion"
+    },
+    "slides": "https://www.icloud.com/keynote/039aIOI_SEX1fFvtZp9lNWsCg#recreating-nodejs-from-scratch-codemotion-milan-24102023",
+    "photos": "",
+    "video": "",
+    "tags": ["javascript"],
+    "location": {
+      "latitude": 45.4517463,
+      "longitude": 9.1633404,
+      "country": "Italia",
+      "uf": "IT",
+      "city": "Milão"
+        },
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-10-24"
+  },
+  {
+    "title": " 10 must-know design patterns for JavaScript developers",
+    "abstract": "This talk show you how to reuse code by applying known design patterns highly used in other programming languages",
+    "type": "talk",
+    "event": {
+        "link": "https://www.schrodinger-hat.it/",
+        "name": "Schrödinger Hat"
+    },
+    "slides": "https://www.icloud.com/keynote/04efwUBHU7vJLOGj8a24OaeRg#10-design-patterns-for-js-devs-schrodingerhat-23102023",
+    "photos": "",
+    "video": "https://www.youtube.com/live/4cB9Y77YXkI?si=QjS1DMX7oNaHdZoE",
+    "tags": ["javascript"],
+    "location": {
+      "latitude": 45.4846083,
+      "longitude": 9.1961786,
+      "country": "Italia",
+      "uf": "IT",
+      "city": "Milão"
+        },
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-10-23"
+  },
+  {
+    "title": "Node.js in 2023 – What’s New in the Node.js Native Test Runner",
+    "abstract": "Node.js has been evolving fast. Jest? Mocha? What about using only Node.js without installing any additional libraries?",
+    "type": "talk",
+    "event": {
+        "link": "https://revojs.ro/2023/speakers/erick-wendel/",
+        "name": "Revo JS"
+    },
+    "slides": "https://www.icloud.com/keynote/0b86e6mnqvEtl5KrwUtMBThoQ#whats-new-in-the-nodejs-test-runner-revojsro-05102023",
+    "photos": "",
+    "video": "",
+    "tags": ["javascript"],
+    "location": {
+      "latitude": 45.7669644,
+      "longitude": 21.2287188,
+      "country": "Romênia",
+      "uf": "RO",
+      "city": "Timisoara"
+        },
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-10-06"
+  },
+  {
     "title": "O próximo nível para desenvolvedores Web:Machine Learning em Navegadores",
     "abstract": "Explore o futuro da web: descubra como o Machine Learning está transformando a experiência do usuário nos navegadores",
     "type": "talk",

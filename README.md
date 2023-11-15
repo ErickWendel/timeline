@@ -16,18 +16,18 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2023/May - 2015/July 
-* **Videos**: 2023/July - 2016/September 
-* **Blog Posts**: 2023/September - 2015/February 
-* **Conference Talks**: 2023/August - 2015/January 
+* **Videos**: 2023/October - 2016/September 
+* **Blog Posts**: 2023/October - 2015/February 
+* **Conference Talks**: 2023/October - 2015/January 
 
-#### Presentations' number: 134
+#### Presentations' number: 137
 
 ## Table of Contents
 
 - [Projects (19)](#projects)
-- [Videos (131)](#videos)
-- [Blog Posts (366)](#blog-posts)
-- [Conference Talks (134)](#conference-talks)
+- [Videos (134)](#videos)
+- [Blog Posts (369)](#blog-posts)
+- [Conference Talks (137)](#conference-talks)
 
 ## Projects
 
@@ -278,6 +278,42 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/QVOHQsHCnRY?si=3uMO8oK3BbR5rntB" target="_blank">2023-10-18 - O segredo para escalar aplicações JavaScript (mobile, desktop, web e mais) (pt-br)</a>
+
+
+Abstract:
+
+> Hoje eu trouxe o necessário para você poder processar terabytes de dados em JavaScript, entender o principal erro que todo mundo comete ao usar JavaScript
+> 
+> 
+
+
+_Tags: `ESLint`, `Javascript`_
+
+### <a href="https://www.youtube.com/live/RQ83zcTACnw?si=-6J_4qC5MTq47eB1" target="_blank">2023-10-09 - Node, Deno e Bun: A Batalha dos Runtimes JavaScript (pt-br)</a>
+
+
+Abstract:
+
+> Qual será o futuro do JavaScript no back-end? Node, Deno ou Bun?
+> 
+> 
+
+
+_Tags: `ESLint`, `Javascript`_
+
+### <a href="https://www.youtube.com/live/1TfwPLaoxNE?si=7dLdI1GWEMrQdSmx" target="_blank">2023-09-27 - Erick Wendel @DEVS40 24 (pt-br)</a>
+
+
+Abstract:
+
+> Convidado do episódio 24 no podcast Devs40+, falando sobre Node.js e Javascript
+> 
+> 
+
+
+_Tags: `ESLint`, `Javascript`_
 
 ### <a href="https://open.spotify.com/episode/3Jq8vDZumXEPAVy7S6zPFh" target="_blank">2023-07-18 - #156 - Erick Wendel: O Brasileiro que consertou o Node.js (pt-br)</a>
 
@@ -1976,6 +2012,66 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_vscode-jsdocs-devtips-activity-7120815628273299456-ku9h?utm_source=share&utm_medium=member_desktop" target="_blank">2023-10-19 - Mapeando um objeto para JSDocs (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_vscode-jsdocs-devtips-activity-7120815628273299456-ku9h?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> A tática é definir no comentário onde está o tipo/arquivo/class/função de referencia que ele entende o tipo.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_typescript-typescriptorigins-activity-7112095840185298945-Un47?utm_source=share&utm_medium=member_desktop" target="_blank">2023-09-25 - Finalmente saiu o documentário do TypeScript 🥳💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_typescript-typescriptorigins-activity-7112095840185298945-Un47?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Esse sou eu em Março de 2018 com o Anders Hejlsberg co-criador das linguagens Delphi, Pascal, C# e claro *TypeScript* 😳💥
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_bun-vs-nodejs-ser%C3%A1-que-o-bun-vai-perder-activity-7109538753819348992-Z546?utm_source=share&utm_medium=member_desktop" target="_blank">2023-09-18 - Bun vs Node.js: Será que o Bun vai perder desempenho quando implementar tudo necessário para colocar apps em produção?🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_bun-vs-nodejs-ser%C3%A1-que-o-bun-vai-perder-activity-7109538753819348992-Z546?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Vai ser interessante acompanhar esse processo pois a maioria dos APMs feitos para o Node.js comprometem a capacidade de resposta das aplicações
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-javascript-breakingnews-activity-7105541987545624576-44ij?utm_source=share&utm_medium=member_desktop" target="_blank">2023-09-07 - Vixe, Acabou para o dotenv? 😱 (pt-br)</a>
 
@@ -8948,6 +9044,69 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2023-10-24 - Bun? Deno? Node.js? Recreating a JS Runtime from scratch (en-us)
+
+
+<a href="https://www.linkedin.com/company/codemotion/" target="_blank">Codemotion</a>
+
+
+  
+
+
+Abstract:
+
+> Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=45.4517463,9.1633404" target="_blank">Milão - IT, Italia</a>.
+
+### 2023-10-23 -  10 must-know design patterns for JavaScript developers (en-us)
+
+
+<a href="https://www.schrodinger-hat.it/" target="_blank">Schrödinger Hat</a>
+
+
+<a href="https://www.icloud.com/keynote/04efwUBHU7vJLOGj8a24OaeRg#10-design-patterns-for-js-devs-schrodingerhat-23102023" target="_blank">slides</a> |   <a href="https://www.youtube.com/live/4cB9Y77YXkI?si=QjS1DMX7oNaHdZoE" target="_blank">video</a>
+
+
+Abstract:
+
+> This talk show you how to reuse code by applying known design patterns highly used in other programming languages
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=45.4846083,9.1961786" target="_blank">Milão - IT, Italia</a>.
+
+### 2023-10-06 - Node.js in 2023 – What’s New in the Node.js Native Test Runner (en-us)
+
+
+<a href="https://revojs.ro/2023/speakers/erick-wendel/" target="_blank">Revo JS</a>
+
+
+  
+
+
+Abstract:
+
+> Node.js has been evolving fast. Jest? Mocha? What about using only Node.js without installing any additional libraries?
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=45.7669644,21.2287188" target="_blank">Timisoara - RO, Romênia</a>.
 
 ### 2023-08-31 - O próximo nível para desenvolvedores Web:Machine Learning em Navegadores (pt-br)
 
