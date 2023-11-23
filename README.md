@@ -17,8 +17,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 * **Projects**: 2023/October - 2015/July 
 * **Videos**: 2023/October - 2016/September 
-* **Blog Posts**: 2023/October - 2015/February 
-* **Conference Talks**: 2023/October - 2015/January 
+* **Blog Posts**: 2023/November - 2015/February 
+* **Conference Talks**: 2023/November - 2015/January 
 
 #### Presentations' number: 137
 
@@ -26,7 +26,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 - [Projects (20)](#projects)
 - [Videos (134)](#videos)
-- [Blog Posts (369)](#blog-posts)
+- [Blog Posts (373)](#blog-posts)
 - [Conference Talks (137)](#conference-talks)
 
 ## Projects
@@ -2024,6 +2024,86 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_testes-automatizados-n%C3%A3o-devem-ser-escritos-activity-7133454198997667840-oPCD?utm_source=share&utm_medium=member_desktop" target="_blank">2023-11-23 - Testes automatizados não devem ser escritos nem antes, nem depois do desenvolvimento 💥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_testes-automatizados-n%C3%A3o-devem-ser-escritos-activity-7133454198997667840-oPCD?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> A real é que todo mundo que fala que escrever testes automatizados é um processo demorado
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-treta-com-code-coverage-por-que-activity-7132739220455997440-czBP?utm_source=share&utm_medium=member_desktop" target="_blank">2023-11-21 - Qual é a treta com Code Coverage? Por que muita gente diz que Code coverage não garante segurança nos testes automatizados? Bora comigo 💥🔥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-treta-com-code-coverage-por-que-activity-7132739220455997440-czBP?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Cobertura de código ou Code Coverage é uma métrica que usamos para definir qual código está realmente sendo usado no projeto 👻
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_this-is-game-changing-nodejs-allows-you-activity-7129841393530748930-uYeH?utm_source=share&utm_medium=member_desktop" target="_blank">2023-11-13 - THIS IS GAME CHANGING! Node.js allows you to split your test files into different machines 🤯💥 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_this-is-game-changing-nodejs-allows-you-activity-7129841393530748930-uYeH?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Horizontal partitioning or Sharding is a cool concept to help you split your processing into different units
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-webdevelopment-activity-7125487780956098560--FaT?utm_source=share&utm_medium=member_desktop" target="_blank">2023-11-01 - FINALMENTEEE, agora Node.js vai detectar o tipo do arquivo (commonjs ou ESModule) automaticamente 🔥🥳🥳 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-webdevelopment-activity-7125487780956098560--FaT?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> A tática é definir no comentário onde está o tipo/arquivo/class/função de referencia que ele entende o tipo.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_vscode-jsdocs-devtips-activity-7120815628273299456-ku9h?utm_source=share&utm_medium=member_desktop" target="_blank">2023-10-19 - Mapeando um objeto para JSDocs (pt-br)</a>
 
@@ -9057,6 +9137,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 ## Conference Talks
 
+### 2023-11-18 - How to consume gigabytes of data in Javascript without slowing down applications (en-us)
+
+
+<a href="http://nodeconf.co" target="_blank">NodeConf Colombia 2023</a>
+
+
+  
+
+
+Abstract:
+
+> Learn how to measure data consumption in JavaScript and prevent applications from slowing down.
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=6.2648627,-75.5687837" target="_blank">Medellin - ME, Colombia</a>.
+
 ### 2023-10-24 - Bun? Deno? Node.js? Recreating a JS Runtime from scratch (en-us)
 
 
@@ -9119,27 +9220,6 @@ _Tags: `javascript`_
 
 
 Location: <a href="https://www.google.com/maps/?q=45.7669644,21.2287188" target="_blank">Timisoara - RO, Romênia</a>.
-
-### 2023-08-31 - O próximo nível para desenvolvedores Web:Machine Learning em Navegadores (pt-br)
-
-
-<a href="https://www.linkedin.com/company/nodebr/" target="_blank">NodeBR</a>
-
-
-  
-
-
-Abstract:
-
-> Explore o futuro da web: descubra como o Machine Learning está transformando a experiência do usuário nos navegadores
-> 
-> 
-
-
-_Tags: `javascript`_
-
-
-Location: <a href="https://www.google.com/maps/?q=-23.568864,-46.6499899" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2023-08-31 - O próximo nível para desenvolvedores Web:Machine Learning em Navegadores (pt-br)
 

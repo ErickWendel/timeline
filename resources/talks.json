@@ -1,9 +1,34 @@
 [
   {
+    "title": "How to consume gigabytes of data in Javascript without slowing down applications",
+    "abstract": "Learn how to measure data consumption in JavaScript and prevent applications from slowing down.",
+    "type": "talk",
+    "event": {
+      "reach": 1000,
+      "link": "http://nodeconf.co",
+      "name": "NodeConf Colombia 2023"
+    },
+    "slides": "https://www.icloud.com/keynote/09dn-Gx10Rcx5N28FYtF1Jv2Q#How-to-consume-gigabytes-of-data-in-JavaScript-without-slowing-down-applications-jsconfco-18112023",
+    "photos": "",
+    "video": "",
+    "tags": ["javascript"],
+    "location": {
+      "latitude": 6.2648627,
+      "longitude": -75.5687837,
+      "country": "Colombia",
+      "uf": "ME",
+      "city": "Medellin"
+        },
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-11-18"
+  },
+  {
     "title": "Bun? Deno? Node.js? Recreating a JS Runtime from scratch",
     "abstract": "Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime",
     "type": "talk",
     "event": {
+        "reach": 600,
         "link": "https://www.linkedin.com/company/codemotion/",
         "name": "Codemotion"
     },
@@ -27,6 +52,7 @@
     "abstract": "This talk show you how to reuse code by applying known design patterns highly used in other programming languages",
     "type": "talk",
     "event": {
+        "reach": 150,
         "link": "https://www.schrodinger-hat.it/",
         "name": "Schrödinger Hat"
     },
@@ -50,6 +76,7 @@
     "abstract": "Node.js has been evolving fast. Jest? Mocha? What about using only Node.js without installing any additional libraries?",
     "type": "talk",
     "event": {
+        "reach": 600,
         "link": "https://revojs.ro/2023/speakers/erick-wendel/",
         "name": "Revo JS"
     },
@@ -73,29 +100,7 @@
     "abstract": "Explore o futuro da web: descubra como o Machine Learning está transformando a experiência do usuário nos navegadores",
     "type": "talk",
     "event": {
-        "link": "https://www.linkedin.com/company/nodebr/",
-        "name": "NodeBR"
-    },
-    "slides": "https://www.icloud.com/keynote/065BSSFjTeEp72oUs4W_Z-BXg#machine-learning4devs-nodebr-sp-31082023",
-    "photos": "",
-    "video": "",
-    "tags": ["javascript"],
-    "location": {
-      "latitude": -23.568864,
-      "longitude": -46.6499899,
-      "country": "Brazil",
-      "uf": "SP",
-      "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2023-08-31"
-  },
-  {
-    "title": "O próximo nível para desenvolvedores Web:Machine Learning em Navegadores",
-    "abstract": "Explore o futuro da web: descubra como o Machine Learning está transformando a experiência do usuário nos navegadores",
-    "type": "talk",
-    "event": {
+        "reach": 50,
         "link": "https://www.linkedin.com/company/nodebr/",
         "name": "NodeBR"
     },
@@ -119,6 +124,7 @@
     "abstract": "Descubra os segredos por trás do processamento eficiente de terabytes de dados usando JavaScript",
     "type": "talk",
     "event": {
+        "reach": 700,
         "link": "https://www.linkedin.com/company/codecondev/",
         "name": "Codecon"
     },
@@ -142,6 +148,7 @@
     "abstract": "Unlock the power of JavaScript with these 10 essential design patterns, boosting your development skills and code efficiency",
     "type": "talk",
     "event": {
+        "reach": 200,
         "link": "https://www.wearedevelopers.com/",
         "name": "We Are Developers"
     },
@@ -165,6 +172,7 @@
     "abstract": "Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime",
     "type": "talk",
     "event": {
+        "reach": 700,
         "link": "https://www.nodetlv.com/",
         "name": "Node.TLV"
     },

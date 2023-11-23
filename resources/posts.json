@@ -1,6 +1,42 @@
 [
   {
-    "title": "FINALMENTEEE, agora Node.js vai detectar o tipo do arquivo (commonjs ou ESModule) automaticamente 🔥🥳🥳",
+    "title": "Testes automatizados não devem ser escritos nem antes, nem depois do desenvolvimento 💥",
+    "abstract": "A real é que todo mundo que fala que escrever testes automatizados é um processo demorado",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_testes-automatizados-n%C3%A3o-devem-ser-escritos-activity-7133454198997667840-oPCD?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_testes-automatizados-n%C3%A3o-devem-ser-escritos-activity-7133454198997667840-oPCD?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2023-11-23"
+    },
+  {
+    "title": "Qual é a treta com Code Coverage? Por que muita gente diz que Code coverage não garante segurança nos testes automatizados? Bora comigo 💥🔥",
+    "abstract": "Cobertura de código ou Code Coverage é uma métrica que usamos para definir qual código está realmente sendo usado no projeto 👻",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-treta-com-code-coverage-por-que-activity-7132739220455997440-czBP?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-treta-com-code-coverage-por-que-activity-7132739220455997440-czBP?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2023-11-21"
+    },
+  {
+    "title": "THIS IS GAME CHANGING! Node.js allows you to split your test files into different machines 🤯💥",
     "abstract": "Horizontal partitioning or Sharding is a cool concept to help you split your processing into different units",
     "type": "post",
     "link": "https://www.linkedin.com/posts/erickwendel_this-is-game-changing-nodejs-allows-you-activity-7129841393530748930-uYeH?utm_source=share&utm_medium=member_desktop",
