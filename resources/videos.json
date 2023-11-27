@@ -1,7 +1,113 @@
-[
+[ 
+  {
+    "title": "O segredo para escalar aplicações JavaScript (mobile, desktop, web e mais)",
+    "abstract": "Hoje eu trouxe o necessário para você poder processar terabytes de dados em JavaScript, entender o principal erro que todo mundo comete ao usar JavaScript",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/QVOHQsHCnRY?si=3uMO8oK3BbR5rntB",
+    "tags": [
+      "ESLint",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2023-10-18"
+    }, 
+  {
+    "title": "Node, Deno e Bun: A Batalha dos Runtimes JavaScript",
+    "abstract": "Qual será o futuro do JavaScript no back-end? Node, Deno ou Bun?",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/live/RQ83zcTACnw?si=-6J_4qC5MTq47eB1",
+    "tags": [
+      "ESLint",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2023-10-09"
+    }, 
+  {
+    "title": "Erick Wendel @DEVS40 24",
+    "abstract": "Convidado do episódio 24 no podcast Devs40+, falando sobre Node.js e Javascript",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/live/1TfwPLaoxNE?si=7dLdI1GWEMrQdSmx",
+    "tags": [
+      "ESLint",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2023-09-27"
+    }, 
+  {
+    "title": "#156 - Erick Wendel: O Brasileiro que consertou o Node.js",
+    "abstract": "Solos de guitarra + desafios + NodeJS + o mundo da tecnologia conquistaram o grande Erick Wendel",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://open.spotify.com/episode/3Jq8vDZumXEPAVy7S6zPFh",
+    "tags": [
+      "ESLint",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2023-07-18"
+    }, 
+  {
+    "title": "ESLint Reimagined: Creating a Linter from Scratch",
+    "abstract": "In this video, I'll show you in-depth how ESLint works by recreating the original project.",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/AvXe5_xZmeg",
+    "tags": [
+      "ESLint",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2023-07-18"
+    }, 
+  {
+    "title": "Recreating Uglifyjs From Scratch: How To Minify Code And Generate Source Maps",
+    "abstract": "Have you wondered how you can debug TypeScript applications in the browser while browsers only understand JavaScript?",
+    "type": "video",
+    "additionalLinks": [
+      "https://github.com/ErickWendel/how-minifying-code-and-source-maps-work-in-practice"
+    ],
+    "link": "https://youtu.be/la0312YZJ9Y",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2023-06-20"
+    },
+  {
+    "title": "Erick Wendel interviewed at JS Nation by Ixchel Ruiz",
+    "abstract": "Erick Wendel interviewed at JS Nation by Ixchel Ruiz",
+    "type": "video",
+    "additionalLinks": [
+      "https://jnation.pt/stream/"
+    ],
+    "link": "https://www.linkedin.com/feed/update/urn:li:activity:7071874470356877312?utm_source=share&utm_medium=member_desktop",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "en-us",
+    "date": "2023-06-06"
+    },
   {
     "title": "Migrating from Jest to Node.js Native Test Runner",
     "abstract": "Migrating from Jest to Node.js Native Test Runner",
+    "type": "video",
     "additionalLinks": [
       "https://github.com/ErickWendel/migrating-from-jest-to-node-test-runner"
     ],
@@ -12,10 +118,11 @@
     ],
     "language": "en-us",
     "date": "2023-04-08"
-  },
+    },
   {
     "title": "Ninguém deveria precisar de Postman/Insomnia pra testar um endpoint",
     "abstract": "Eaaaai beleza? Eu sou o Erick Wendel e hoje vou te mostrar uma técnica incrível para melhorar a sua produtividade",
+    "type": "video",
     "additionalLinks": [
       "https://github.com/ErickWendel/postman-is-slowing-you-down"
     ],
@@ -30,6 +137,7 @@
   {
     "title": "Como criar testes E2E em Node.js sem frameworks",
     "abstract": "Vim te mostrar uma excelente notícia! O motor de testes nativo do Node.js finalmente entrou no estágio de funcionalidade estável",
+    "type": "video",
     "additionalLinks": [
       "https://github.com/ErickWendel/how-to-e2e-testing-nodejs-with-no-frameworks"
     ],
@@ -44,6 +152,7 @@
   {
     "title": "5 Shocking Things About Node.js That You Thought You Knew But Didn't! 🤯🔥",
     "abstract": "In this video, we'll explore some of the surprising and lesser-known aspects of Node.js, the popular JavaScript runtime. ",
+    "type": "video",
     "additionalLinks": [
       "https://www.youtube.com/watch?v=ynNDmp7hBdo&t"
     ],
@@ -58,6 +167,7 @@
   {
     "title": "Read 30GB+ Data in the Browser Without Blocking the Screen ",
     "abstract": "Consuming gigabytes of data without causing bottlenecks or locking up applications",
+    "type": "video",
     "additionalLinks": [
       "https://bit.ly/30GB-with-js-streams-code"
     ],
@@ -73,6 +183,7 @@
   {
     "title": "Performance e multithreading em navegadores + ECMAScript Modules em Web Workers",
     "abstract": "Nesse video vou te apresentar como fazer com que funções pesadas sejam executadas em segundo plano no navegador com Web Workers.",
+    "type": "video",
     "additionalLinks": [
       "https://github.com/ErickWendel/processing-large-reports-in-the-browser"
     ],
@@ -88,6 +199,7 @@
   {
     "title": "Reconhecendo gestos em tempo real direto do navegador - Machine Learning para Web Developers",
     "abstract": " Nesse video vou te mostrar como reconhecer gestos em tempo real a partir da sua webcam usando #JavaScript, #TensorFlow.js e o pacote #fingerpose.",
+    "type": "video",
     "additionalLinks": [
       "https://github.com/ErickWendel/live-recognizing-multiple-gestures-tensorflowjs"
     ],
@@ -103,6 +215,7 @@
   {
     "title": "Consumindo e editando videos sob demanda em Web APIs usando Node.js Streams e FFmpeg",
     "abstract": " Nesse video vou te mostrar como produzir e consumir videos sob demanda em Web APIs usando a biblioteca FFmpeg",
+    "type": "video",
     "additionalLinks": [
       ""
     ],
