@@ -30,7 +30,7 @@
     "reach": 600,
     "event": {
         "link": "https://www.linkedin.com/company/codemotion/",
-        "name": "Codemotion"
+        "name": "Codemotion Milan"
     },
     "slides": "https://www.icloud.com/keynote/039aIOI_SEX1fFvtZp9lNWsCg#recreating-nodejs-from-scratch-codemotion-milan-24102023",
     "photos": "",
@@ -39,9 +39,9 @@
     "location": {
       "latitude": 45.4517463,
       "longitude": 9.1633404,
-      "country": "Italia",
+      "country": "Italy",
       "uf": "IT",
-      "city": "Milão"
+      "city": "Milan"
         },
         "additionalLinks": [""],
         "language": "en-us",
@@ -63,9 +63,9 @@
     "location": {
       "latitude": 45.4846083,
       "longitude": 9.1961786,
-      "country": "Italia",
+      "country": "Italy",
       "uf": "IT",
-      "city": "Milão"
+      "city": "Milan"
         },
         "additionalLinks": [""],
         "language": "en-us",
@@ -87,7 +87,7 @@
     "location": {
       "latitude": 45.7669644,
       "longitude": 21.2287188,
-      "country": "Romênia",
+      "country": "Romania",
       "uf": "RO",
       "city": "Timisoara"
         },
@@ -101,7 +101,7 @@
     "type": "talk",
     "reach": 50,
     "event": {
-        "link": "https://www.linkedin.com/company/nodebr/",
+        "link": "https://guild.host/nodebr",
         "name": "NodeBR"
     },
     "slides": "https://www.icloud.com/keynote/065BSSFjTeEp72oUs4W_Z-BXg#machine-learning4devs-nodebr-sp-31082023",
@@ -125,7 +125,7 @@
     "type": "talk",
     "reach": 700,
     "event": {
-        "link": "https://www.linkedin.com/company/codecondev/",
+        "link": "https://www.codecon.dev/summit/quem-vai/erick-wendel",
         "name": "Codecon"
     },
     "slides": "https://bit.ly/o-segredo-para-processar-terabytes-em-js",
@@ -147,7 +147,7 @@
     "title": "10 must-know design patterns for Javascript Developers",
     "abstract": "Unlock the power of JavaScript with these 10 essential design patterns, boosting your development skills and code efficiency",
     "type": "talk",
-    "reach": 200,
+    "reach": 800,
     "event": {
         "link": "https://www.wearedevelopers.com/",
         "name": "We Are Developers"
@@ -252,7 +252,7 @@
     "location": {
       "latitude":59.9125923,
       "longitude":10.7522277,
-      "country": "Noruega",
+      "country": "Norway",
       "uf": "OSL",
       "city": "Oslo"
         },
