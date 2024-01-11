@@ -1,5 +1,29 @@
 [
   {
+    "title": "Recriando o Node.JS do zero",
+    "abstract": "Explore uma jornada pelos runtimes do Javascript, do Node.js ao Deno, e aprenda como construir seu próprio runtime personalizado",
+    "type": "talk",
+    "event": {
+      "reach": 800,
+      "link": "https://www.frontinpoa.com.br/",
+      "name": "Frontin POA"
+    },
+    "slides": "https://www.icloud.com/keynote/060OLXDOZ0tblEdSF346cmnDg#recreating-nodejs-from-scratch-frontinpoa-01122023",
+    "photos": "",
+    "video": "",
+    "tags": ["javascript"],
+    "location": {
+      "latitude": -30.0846697,
+      "longitude": -51.2480271,
+      "country": "Brazil",
+      "uf": "RS",
+      "city": "Porto Alegre"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2023-12-02"
+  },
+  {
     "title": "How to consume gigabytes of data in Javascript without slowing down applications",
     "abstract": "Learn how to measure data consumption in JavaScript and prevent applications from slowing down.",
     "type": "talk",
@@ -1424,7 +1448,7 @@
       "latitude": -30.0846697,
       "longitude": -51.2480271,
       "country": "Brazil",
-      "uf": "POA",
+      "uf": "RS",
       "city": "Porto Alegre"
     },
     "additionalLinks": [
