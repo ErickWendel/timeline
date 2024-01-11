@@ -1,5 +1,59 @@
 [
   {
+    "title": "Como eu aprendi Regex (e continuo aprendendo) 🔥",
+    "abstract": "A forma que aprendi foi pegando um texto grande, algo como um contrato de trabalho ou currículo de mais de uma pessoa e tentava encontrar padrões",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-eu-aprendi-regex-e-continuo-aprendendo-activity-7135262800951582722-20dR?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_como-eu-aprendi-regex-e-continuo-aprendendo-activity-7135262800951582722-20dR?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-11-28"
+    },
+  {
+    "title": "Essa é a maior e mais épica treta do projeto Node.js até hoje 💥",
+    "abstract": "Dia 27 de Novembro é uma data histórica para o projeto Node.js, marca a separação do projeto Node.js em 2 partes e a transferencia de poder de uma empresa para a comunidade 😱",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-iojs-javascript-activity-7134913864407597056-MCbG?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-iojs-javascript-activity-7134913864407597056-MCbG?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-11-27"
+    },
+  {
+    "title": "Se você nao se acha produtivo(a) no dia a dia provavelmente o problema esta no seu ferramental de desenvolvimento! 🤯",
+    "abstract": "Antes de iniciar qualquer tarefa, tenha seu ambiente configurado com debug, testes automatizados e live reload ativados por padrão 💡",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_se-voc%C3%AA-nao-se-acha-produtivoa-no-dia-a-activity-7133859564063444992-aLfP?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_se-voc%C3%AA-nao-se-acha-produtivoa-no-dia-a-activity-7133859564063444992-aLfP?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-11-24"
+    },
+  {
     "title": "Testes automatizados não devem ser escritos nem antes, nem depois do desenvolvimento 💥",
     "abstract": "A real é que todo mundo que fala que escrever testes automatizados é um processo demorado",
     "type": "post",
@@ -14,7 +68,7 @@
     "tags": [
       "linkedinPost"
     ],
-    "language": "en-us",
+    "language": "pt-br",
     "date": "2023-11-23"
     },
   {
@@ -32,7 +86,7 @@
     "tags": [
       "linkedinPost"
     ],
-    "language": "en-us",
+    "language": "pt-br",
     "date": "2023-11-21"
     },
   {
