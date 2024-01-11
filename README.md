@@ -16,18 +16,18 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2023/October - 2015/July 
-* **Videos**: 2023/October - 2016/September 
-* **Blog Posts**: 2023/November - 2015/February 
-* **Conference Talks**: 2023/November - 2015/January 
+* **Videos**: 2023/December - 2016/September 
+* **Blog Posts**: 2023/December - 2015/February 
+* **Conference Talks**: 2023/December - 2015/January 
 
-#### Presentations' number: 137
+#### Presentations' number: 138
 
 ## Table of Contents
 
 - [Projects (20)](#projects)
-- [Videos (134)](#videos)
-- [Blog Posts (373)](#blog-posts)
-- [Conference Talks (137)](#conference-talks)
+- [Videos (135)](#videos)
+- [Blog Posts (384)](#blog-posts)
+- [Conference Talks (138)](#conference-talks)
 
 ## Projects
 
@@ -290,6 +290,18 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://www.youtube.com/watch?v=iC_tKAyLeag" target="_blank">2023-12-18 - Sistemas feitos em JavaScript não são confiáveis?! Error Handling - Let it Crash - Graceful Shutdown (pt-br)</a>
+
+
+Abstract:
+
+> Nesse video, você vai descobrir como fazer suas aplicações JavaScript serem mais confiáveis, quais as dificuldades que o Primeagen pode ter tido e como não ter surpresas em produção
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
 
 ### <a href="https://youtu.be/QVOHQsHCnRY?si=3uMO8oK3BbR5rntB" target="_blank">2023-10-18 - O segredo para escalar aplicações JavaScript (mobile, desktop, web e mais) (pt-br)</a>
 
@@ -2025,7 +2037,227 @@ _Tags: `wear`, `android`, `node.js`_
 
 ## Blog Posts
 
-### <a href="https://www.linkedin.com/posts/erickwendel_testes-automatizados-n%C3%A3o-devem-ser-escritos-activity-7133454198997667840-oPCD?utm_source=share&utm_medium=member_desktop" target="_blank">2023-11-23 - Testes automatizados não devem ser escritos nem antes, nem depois do desenvolvimento 💥 (en-us)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_como-dizer-n%C3%A3o-melhorou-minha-vida-como-programador-activity-7143247991439622145-o946?utm_source=share&utm_medium=member_desktop" target="_blank">2023-12-20 - Como dizer não melhorou minha vida como programador 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-dizer-n%C3%A3o-melhorou-minha-vida-como-programador-activity-7143247991439622145-o946?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Por isso, ao invés de cair na pilha de sair codificando como se não houvesse amanhã, use a cabeça e pare de sofrer!
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-programador-opensource-activity-7142872251414089728-QPo3?utm_source=share&utm_medium=member_desktop" target="_blank">2023-12-18 - É até difícil descrever essa sensação! (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-programador-opensource-activity-7142872251414089728-QPo3?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Como é implementar uma nova funcionalidade no projeto do Node.js
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_acho-que-ap%C3%B3s-a-treta-do-n%C3%A3o-use-else-activity-7141431018674184193-dhA0?utm_source=share&utm_medium=member_desktop" target="_blank">2023-12-15 - Acho que após a treta do 'não use else', agora iniciamos a não use try/catch  (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_acho-que-ap%C3%B3s-a-treta-do-n%C3%A3o-use-else-activity-7141431018674184193-dhA0?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Existem formas mais elegantes que até outras linguagens usam por padrão, vou falar sobre isso lá no próximo video no meu canal!
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_esse-m%C3%A9todo-te-ensina-o-que-testar-e-melhora-activity-7141421344612691968-huz6?utm_source=share&utm_medium=member_desktop" target="_blank">2023-12-15 - Sistemas feitos em JavaScript não são confiáveis?! É o que? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_esse-m%C3%A9todo-te-ensina-o-que-testar-e-melhora-activity-7141421344612691968-huz6?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Se você não trabalha com testes automatizados essa é uma excelente prática que ajuda toda a empresa a se comunicar melhor e de quebra entregar software que funciona de primeira 👻
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-bestpractices-activity-7141182158181761025-HWzA?utm_source=share&utm_medium=member_desktop" target="_blank">2023-12-14 - Sistemas feitos em JavaScript não são confiáveis?! É o que? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-bestpractices-activity-7141182158181761025-HWzA?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Você acredita que não pode confiar em um código escrito em javascript? Então vou te mostrar  alguns pontos
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-eu-consegui-processar-mais-de-30gb-de-activity-7141048802714595328-5Iog?utm_source=share&utm_medium=member_desktop" target="_blank">2023-12-14 - Como eu consegui processar mais de 30GB de dados no navegador sem qualquer servidor no backend 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-eu-consegui-processar-mais-de-30gb-de-activity-7141048802714595328-5Iog?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Em JavaScript, o segredo é processar dados sob demanda, mesmo que o arquivo tenha 1 terabyte você processa ele em picadinhos, a cada dez megabytes por exemplo.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-meus-projetos-na-github-que-entraram-activity-7140348176837902336-d2C5?utm_source=share&utm_medium=member_desktop" target="_blank">2023-12-13 - Você precisa sair do piloto automático e começar a acertar de primeira 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-meus-projetos-na-github-que-entraram-activity-7140348176837902336-d2C5?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Eu pessoalmente criei um método para desenvolver que me ajudou demais: Jamais tocar no código sem ter a certeza que entendeu o que foi pedido 🤔
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-meus-projetos-na-github-que-entraram-activity-7140348176837902336-d2C5?utm_source=share&utm_medium=member_desktop" target="_blank">2023-12-12 - Conheça meus projetos na GitHub que entraram para a lista dos mais populares do mundo em 2023 💥🪄 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-meus-projetos-na-github-que-entraram-activity-7140348176837902336-d2C5?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Ensinei a como navegar em páginas web usando gestos e machine learning direto navegador 🔥
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-eu-aprendi-regex-e-continuo-aprendendo-activity-7135262800951582722-20dR?utm_source=share&utm_medium=member_desktop" target="_blank">2023-11-28 - Como eu aprendi Regex (e continuo aprendendo) 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-eu-aprendi-regex-e-continuo-aprendendo-activity-7135262800951582722-20dR?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> A forma que aprendi foi pegando um texto grande, algo como um contrato de trabalho ou currículo de mais de uma pessoa e tentava encontrar padrões
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-iojs-javascript-activity-7134913864407597056-MCbG?utm_source=share&utm_medium=member_desktop" target="_blank">2023-11-27 - Essa é a maior e mais épica treta do projeto Node.js até hoje 💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-iojs-javascript-activity-7134913864407597056-MCbG?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Dia 27 de Novembro é uma data histórica para o projeto Node.js, marca a separação do projeto Node.js em 2 partes e a transferencia de poder de uma empresa para a comunidade 😱
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_se-voc%C3%AA-nao-se-acha-produtivoa-no-dia-a-activity-7133859564063444992-aLfP?utm_source=share&utm_medium=member_desktop" target="_blank">2023-11-24 - Se você nao se acha produtivo(a) no dia a dia provavelmente o problema esta no seu ferramental de desenvolvimento! 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_se-voc%C3%AA-nao-se-acha-produtivoa-no-dia-a-activity-7133859564063444992-aLfP?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Antes de iniciar qualquer tarefa, tenha seu ambiente configurado com debug, testes automatizados e live reload ativados por padrão 💡
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_testes-automatizados-n%C3%A3o-devem-ser-escritos-activity-7133454198997667840-oPCD?utm_source=share&utm_medium=member_desktop" target="_blank">2023-11-23 - Testes automatizados não devem ser escritos nem antes, nem depois do desenvolvimento 💥 (pt-br)</a>
 
 
 Portal:
@@ -2045,7 +2277,7 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-treta-com-code-coverage-por-que-activity-7132739220455997440-czBP?utm_source=share&utm_medium=member_desktop" target="_blank">2023-11-21 - Qual é a treta com Code Coverage? Por que muita gente diz que Code coverage não garante segurança nos testes automatizados? Bora comigo 💥🔥 (en-us)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-treta-com-code-coverage-por-que-activity-7132739220455997440-czBP?utm_source=share&utm_medium=member_desktop" target="_blank">2023-11-21 - Qual é a treta com Code Coverage? Por que muita gente diz que Code coverage não garante segurança nos testes automatizados? Bora comigo 💥🔥 (pt-br)</a>
 
 
 Portal:
@@ -9137,6 +9369,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 ## Conference Talks
 
+### 2023-12-02 - Recriando o Node.JS do zero (pt-br)
+
+
+<a href="https://www.frontinpoa.com.br/" target="_blank">Frontin POA</a>
+
+
+  
+
+
+Abstract:
+
+> Explore uma jornada pelos runtimes do Javascript, do Node.js ao Deno, e aprenda como construir seu próprio runtime personalizado
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-30.0846697,-51.2480271" target="_blank">Porto Alegre - RS, Brazil</a>.
+
 ### 2023-11-18 - How to consume gigabytes of data in Javascript without slowing down applications (en-us)
 
 
@@ -10338,7 +10591,7 @@ Abstract:
 _Tags: `node.js`, `graphql`, `apolloserver`, `serverless`_
 
 
-Location: <a href="https://www.google.com/maps/?q=-30.0846697,-51.2480271" target="_blank">Porto Alegre - POA, Brazil</a>.
+Location: <a href="https://www.google.com/maps/?q=-30.0846697,-51.2480271" target="_blank">Porto Alegre - RS, Brazil</a>.
 
 ### 2019-08-17 - GraphQL + Apollo Server + Azure Functions = Magic (en-us)
 
