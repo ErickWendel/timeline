@@ -1,5 +1,563 @@
 [
   {
+    "title": "Testes automatizados não devem ser escritos nem antes, nem depois do desenvolvimento 💥",
+    "abstract": "A real é que todo mundo que fala que escrever testes automatizados é um processo demorado",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_testes-automatizados-n%C3%A3o-devem-ser-escritos-activity-7133454198997667840-oPCD?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_testes-automatizados-n%C3%A3o-devem-ser-escritos-activity-7133454198997667840-oPCD?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2023-11-23"
+    },
+  {
+    "title": "Qual é a treta com Code Coverage? Por que muita gente diz que Code coverage não garante segurança nos testes automatizados? Bora comigo 💥🔥",
+    "abstract": "Cobertura de código ou Code Coverage é uma métrica que usamos para definir qual código está realmente sendo usado no projeto 👻",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-treta-com-code-coverage-por-que-activity-7132739220455997440-czBP?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-treta-com-code-coverage-por-que-activity-7132739220455997440-czBP?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2023-11-21"
+    },
+  {
+    "title": "THIS IS GAME CHANGING! Node.js allows you to split your test files into different machines 🤯💥",
+    "abstract": "Horizontal partitioning or Sharding is a cool concept to help you split your processing into different units",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_this-is-game-changing-nodejs-allows-you-activity-7129841393530748930-uYeH?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_this-is-game-changing-nodejs-allows-you-activity-7129841393530748930-uYeH?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "en-us",
+    "date": "2023-11-13"
+    },
+  {
+    "title": "FINALMENTEEE, agora Node.js vai detectar o tipo do arquivo (commonjs ou ESModule) automaticamente 🔥🥳🥳",
+    "abstract": "A tática é definir no comentário onde está o tipo/arquivo/class/função de referencia que ele entende o tipo.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-webdevelopment-activity-7125487780956098560--FaT?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-webdevelopment-activity-7125487780956098560--FaT?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-11-01"
+    },
+  {
+    "title": "Mapeando um objeto para JSDocs",
+    "abstract": "A tática é definir no comentário onde está o tipo/arquivo/class/função de referencia que ele entende o tipo.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_vscode-jsdocs-devtips-activity-7120815628273299456-ku9h?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_vscode-jsdocs-devtips-activity-7120815628273299456-ku9h?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-10-19"
+    },
+  {
+    "title": "Finalmente saiu o documentário do TypeScript 🥳💥",
+    "abstract": "Esse sou eu em Março de 2018 com o Anders Hejlsberg co-criador das linguagens Delphi, Pascal, C# e claro *TypeScript* 😳💥",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_typescript-typescriptorigins-activity-7112095840185298945-Un47?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_typescript-typescriptorigins-activity-7112095840185298945-Un47?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-09-25"
+    },
+    {
+    "title": "Bun vs Node.js: Será que o Bun vai perder desempenho quando implementar tudo necessário para colocar apps em produção?🔥",
+    "abstract": "Vai ser interessante acompanhar esse processo pois a maioria dos APMs feitos para o Node.js comprometem a capacidade de resposta das aplicações",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_bun-vs-nodejs-ser%C3%A1-que-o-bun-vai-perder-activity-7109538753819348992-Z546?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_bun-vs-nodejs-ser%C3%A1-que-o-bun-vai-perder-activity-7109538753819348992-Z546?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-09-18"
+    },
+    {
+    "title": "Vixe, Acabou para o dotenv? 😱",
+    "abstract": "Node.js v20.6 agora carrega variáveis de ambiente NATIVAMENTE! 🔥",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-breakingnews-activity-7105541987545624576-44ij?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-breakingnews-activity-7105541987545624576-44ij?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-09-07"
+  },
+  {
+    "title": "Esses são os conceitos mais importantes para se aprimorar como Dev JavaScript 💥🔥",
+    "abstract": "O que mais vejo hoje em dia são pessoas presas à framework X, biblioteca Y mas esquecem que no fim",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-breakingnews-activity-7105541987545624576-44ij?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-javascript-breakingnews-activity-7105541987545624576-44ij?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-09-01"
+  },
+  {
+    "title": "Mais uma contribuição mergeada no projeto Node.js 😱🥳 se liga nessas curiosidades 💥",
+    "abstract": "Mais uma contribuição mergeada no projeto Node.js 😱🥳 se liga nessas curiosidades 💥",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-opensource-javascript-activity-7103004954344239104-ukf1?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-opensource-javascript-activity-7103004954344239104-ukf1?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-08-31"
+  },
+  {
+    "title": "Olha que sacada: Ativei Live reload + Debugging + Testes automatizados 💥",
+    "abstract": "Sempre falo para os meus alunos do #MetodoTAJS: Prepare o setup ferramental (testes e debugging) no momento da criação do projeto",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_metodotajs-programador-javascript-activity-7102795535660544000-YD3x?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_metodotajs-programador-javascript-activity-7102795535660544000-YD3x?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-08-30"
+  },
+  {
+    "title": "Ninguém do meu time usa testes automatizados, como eu poderia usar? 💥",
+    "abstract": "Algo que você pode fazer para ter mais confiança em suas entregas",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-testesautomatizados-activity-7102661030912114689-XCxo?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-testesautomatizados-activity-7102661030912114689-XCxo?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-08-30"
+  },
+  {
+    "title": "Eaí, Jest, Mocha, Vitest ou o Node.js test runner, o que é melhor? 🔥",
+    "abstract": "Me conta aqui nos comentários qual é o seu preferido, qual usa no dia a dia e qual é a sua stack atual 💥",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_testesautomatizados-desenvolvimentodesoftware-activity-7100829912499957761-Ruds?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_testesautomatizados-desenvolvimentodesoftware-activity-7100829912499957761-Ruds?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-08-25"
+  },
+  {
+    "title": "Como vender testes automatizados para o seu time 💥",
+    "abstract": "Recentemente muita gente pontuou que é difícil quebrar a cultura caótica",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-testesautomatizados-tdd-activity-7100478554638856192-TWhR?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-testesautomatizados-tdd-activity-7100478554638856192-TWhR?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-08-24"
+  },
+  {
+    "title": "Vou te ensinar sobre Mocking, Stub e como testar serviços em JavaScript 💥",
+    "abstract": "Assista aqui: https://lnkd.in/e5mKYZDJ",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodetestrunner-erickwendel-activity-7100222578350276608-XzZf?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodetestrunner-erickwendel-activity-7100222578350276608-XzZf?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-08-23"
+  },
+  {
+    "title": "4 Motivos de porque você deveria implementar testes automatizados no seu código 💥",
+    "abstract": "1 - Economia de tempo no processo de Debugging",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-testesautomatizados-erickwendel-activity-7099736552360017920-Ehpa?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-testesautomatizados-erickwendel-activity-7099736552360017920-Ehpa?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-08-23"
+  },
+  {
+    "title": "'Meu chefe não me deixa criar testes automatizados...'😥",
+    "abstract": "Já ouvi muitas vezes esse tipo de discurso, bem similar com aquela do 'ninguém do meu time cria testes, como eu vou criar?' 😩",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-testesautomatizados-erickwendel-activity-7099736552360017920-Ehpa?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-testesautomatizados-erickwendel-activity-7099736552360017920-Ehpa?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-08-22"
+  },
+  {
+    "title": "5 aprendizados usados em Node.js que para aplicar no frontend (ou qualquer ambiente) 💥🔥",
+    "abstract": "1 - Use ECMAScript Modules",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-webdevelopment-nodejs-activity-7097558016761196544-liaz?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-webdevelopment-nodejs-activity-7097558016761196544-liaz?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-08-16"
+  },
+  {
+    "title": "90% da galera que eu conheço nunca ouviu falar sobre Design Patterns para Testes Automatizados 🤯💥",
+    "abstract": "É normal ter milhares de linhas de código em arquivos de testes automatizados pois geralmente copiamos casos de teste",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-webdevelopment-designpatterns-activity-7096862513740283906-dZKR?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-webdevelopment-designpatterns-activity-7096862513740283906-dZKR?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-08-14"
+  },
+  {
+    "title": "Se você está testando datas, você precisa se ligar nesse problema 🤯",
+    "abstract": "Até eu me ligar que meu teste estava errado, precisei ver ele quebrando dias depois e demorei um tempão para resolver 🤨",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-testing-activity-7094653247251976192-X9s4?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-testing-activity-7094653247251976192-X9s4?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-08-08"
+  },
+  {
+    "title": "Não dependa de conexões externas em seus testes unitários 💥",
+    "abstract": "Acesse o vídeo completo: https://lnkd.in/e5mKYZDJ",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-testing-tutorial-activity-7094291129080139776-CbDq?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-testing-tutorial-activity-7094291129080139776-CbDq?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-08-07"
+  },
+  {
+    "title": "Como testar métodos privados em JavaScript (ou qualquer linguagem) 💥",
+    "abstract": "Quando se começa a trabalhar com testes unitários é normal ver que o projeto",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascripttips-codetesting101-devtips-activity-7091792471742980096-LQ0f?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascripttips-codetesting101-devtips-activity-7091792471742980096-LQ0f?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-07-31"
+  },
+  {
+    "title": " Completei hoje 9 anos como desenvolvedor de software 😳🥳🥳",
+    "abstract": "Comecei em 2014 com C#, comecei a estudar Node.js em 2015",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_caraca-completei-hoje-9-anos-como-desenvolvedor-activity-7091457727192850432-UI_Z?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_caraca-completei-hoje-9-anos-como-desenvolvedor-activity-7091457727192850432-UI_Z?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-07-30"
+  },
+  {
+    "title": "Se você fica com medo de ser demitido(a) porque toda tarefa que entrega volta com algum bug e você precisa retrabalhar, vem comigo nessa dica 🔥",
+    "abstract": "É normal querer mostrar trabalho e se comparar com outras pessoas do time",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_programaaexaeto-programador-javascript-activity-7091007380326334464-VzYd?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_programaaexaeto-programador-javascript-activity-7091007380326334464-VzYd?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-07-29"
+  },
+  {
+    "title": "A história de como implementar testes automatizados no meu código me salvou de horas de retrabalho corrigindo bugs 🔥",
+    "abstract": "Veja como implementar testes no meu código me salvou de horas de retrabalho... 🔥",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_a-hist%C3%B3ria-de-como-implementar-testes-automatizados-activity-7090694568118992897-Cutf?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_a-hist%C3%B3ria-de-como-implementar-testes-automatizados-activity-7090694568118992897-Cutf?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-07-28"
+  },
+  {
+    "title": "Se você está perdido em qual framework de testes usar, vem comigo nessa dica 🔥",
+    "abstract": "Já usei Mocha, Tap, Jest e outros e sempre quis que o Node.js tivesse uma ferramenta interna que fosse otimizada 🤨",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejstesting-javascripttests-testrunner-activity-7089941361050738688-lWS8?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejstesting-javascripttests-testrunner-activity-7089941361050738688-lWS8?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-07-26"
+  },
+  {
+    "title": "Uma dica para você que quer pedir um aumento de salário ou buscar novas oportunidades 🔥",
+    "abstract": "Um erro comum é chegar no chefe e mandar aquela 'ah eu quero um aumento por isso e isso...'",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_uma-dica-para-voc%C3%AA-que-quer-pedir-um-aumento-activity-7089593458000093189-b1hG?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_uma-dica-para-voc%C3%AA-que-quer-pedir-um-aumento-activity-7089593458000093189-b1hG?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-07-25"
+  },
+  {
+    "title": "Como eu escolho o que testar 🔥",
+    "abstract": "#TestesAutomatizados",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_testesautomatizados-testesdesoftware-automatizaaexaetodetestes-activity-7089337286835810304-b3EH?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_testesautomatizados-testesdesoftware-automatizaaexaetodetestes-activity-7089337286835810304-b3EH?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-07-24"
+  },
+  {
+    "title": "Esse é o problema mais difícil/chato de resolver quando testando aplicações, aqui vão minhas dicas de como inspecionar e resolve-lo 🔥🤩",
+    "abstract": "Flaky Tests ou testes frágeis são testes instáveis",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_esse-%C3%A9-o-problema-mais-dif%C3%ADcilchato-de-resolver-activity-7089245258927996931-wQvd?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_esse-%C3%A9-o-problema-mais-dif%C3%ADcilchato-de-resolver-activity-7089245258927996931-wQvd?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-07-24"
+  },
+  {
+    "title": "Se você acha que criar testes automatizados é um processo demorado e não vale a pena, eu tenho uma dica para você!",
+    "abstract": "#TestesAutomatizados ",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_testesautomatizados-desenvolvimentodesoftware-activity-7088914909219950592-fpww?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_testesautomatizados-desenvolvimentodesoftware-activity-7088914909219950592-fpww?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-07-23"
+  },
+  {
+    "title": "Como testes automatizados podem elevar sua produtividade! 🔥🤩",
+    "abstract": "Em toda minha carreira ouço discursos como",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-testes-automatizados-podem-elevar-sua-activity-7087795576011993088-fOEi?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_como-testes-automatizados-podem-elevar-sua-activity-7087795576011993088-fOEi?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-07-20"
+  },
+  {
     "title": "Entendendo a fundo como o ESLint funciona recriando o projeto do zero 🤯",
     "abstract": "Atendendo a pedidos liberei o código fonte do projeto lá no GitHub",
     "type": "post",

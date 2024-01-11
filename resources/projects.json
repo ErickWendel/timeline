@@ -1,4 +1,14 @@
 [
+        {
+        "title": "JSExpertHub Pre-processing videos on browsers - Semana JS Expert 8.0",
+        "abstract": "Pre processing videos before uploading in the browser 😏",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/semana-javascript-expert08",
+        "tags": ["webstreams","javascript", "nodejs"],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2023-10-06"
+    },
     {
         "title": "Step-by-Step Guide: Migrating from Jest to Node.js Native Test Runner (en-us)",
         "abstract": "A video (and blog post) tutorial about how to migrate from Jest to the Node.js native test runner",

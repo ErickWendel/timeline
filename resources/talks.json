@@ -1,235 +1,5 @@
 [
   {
-    "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
-    "abstract": "Do you think you know everything about Node.js? Think again!",
-    "type": "talk",
-    "event": {
-        "link": "https://www.nodetlv.com/",
-        "name": "Node.TLV"
-    },
-    "slides": "https://www.icloud.com/keynote/0eaPwCtMQXB2iqw698wL9Opqw#recreating-nodejs-from-scratch-nodetlv-28062023",
-    "photos": "",
-    "video": "",
-    "tags": ["nodejs","javascript", "runtime"],
-    "location": {
-      "latitude": 32.166313,
-      "longitude": 34.843311,
-      "country": "Israel",
-      "uf": "IL",
-      "city": "Tel Aviv"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-06-28"
-  },
-  {
-    "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
-    "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
-    "type": "talk",
-    "event": {
-        "link": "https://jnation.pt/",
-        "name": "JS Nation Portugal"
-    },
-    "slides": "https://www.icloud.com/keynote/0acML9UEH5sUJzn23fZ0QwBSg#recreating-nodejs-from-scratch-jnation-06062023",
-    "photos": "",
-    "video": "https://jnation.pt/stream/",
-    "tags": ["nodejs","javascript", "runtime"],
-    "location": {
-      "latitude":40.2056400,
-      "longitude":-8.41955000,
-      "country": "Portugal",
-      "uf": "PT",
-      "city": "Coimbra"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-06-06"
-  },
-  {
-    "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
-    "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
-    "type": "talk",
-    "event": {
-        "link": "https://jsnation.com/",
-        "name": "Js Nation"
-    },
-    "slides": "https://www.icloud.com/keynote/069dqLiq47sD7-QczGdY-6B4A#recreating-nodejs-from-scratch-jsnation-amsterdam-01062023",
-    "photos": "",
-    "video": "https://portal.gitnation.org/contents/bun-deno-nodejs-recreating-a-javascript-runtime-from-scratch",
-    "tags": ["nodejs","javascript", "runtime"],
-    "location": {
-      "latitude":52.3738,
-      "longitude":4.89093,
-      "country": "Netherlands",
-      "uf": "NED",
-      "city": "Amsterdam"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-06-01"
-  },
-  {
-    "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
-    "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
-    "type": "talk",
-    "event": {
-        "link": "https://ndcoslo.com/",
-        "name": "NDC Oslo"
-    },
-    "slides": "https://www.icloud.com/keynote/0d7cWC5W_Z_XukyK2z0qNNq0A#recreating-nodejs-from-scratch-ndcoslo-26052023",
-    "photos": "",
-    "video": "https://portal.gitnation.org/contents/bun-deno-nodejs-recreating-a-javascript-runtime-from-scratch-understand-magic-behind-nodejs",
-    "tags": ["nodejs","javascript", "runtime"],
-    "location": {
-      "latitude":59.9125923,
-      "longitude":10.7522277,
-      "country": "Noruega",
-      "uf": "OSL",
-      "city": "Oslo"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-05-26"
-  },
-  {
-    "title": "A vida e as aventuras de desenvolvedor de software",
-    "abstract": "Nessa apresentação eu trouxe projetos divertidos que fiz, mostrei os principais desafios da área, quais os primeiros passos para ir de cabeça no mundo de programação e claro, mostrei como eu me mantenho motivado e com sede de sempre aprender mais.",
-    "type": "talk",
-    "event": {
-        "link": "https://www.instagram.com/cedespchantal_oficial/",
-        "name": "Cedesp Agostiniana Dona Chantal"
-    },
-    "slides": "https://www.icloud.com/keynote/08cogYYnoMtVTcHSv9-dXwT3g#A_vida_e_as_aventuras_de_desenvolvedor_de_software_-_cedesp_-_17052022",
-    "photos": "",
-    "video": "",
-    "tags": ["nodejs","javascript", "Machine Learning"],
-    "location": {
-      "latitude":-23.6155618,
-      "longitude":-46.4570683,
-      "country": "Brazil",
-      "uf": "SP",
-      "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2023-05-17"
-  },
-  {
-    "title": "The next level for Web developers: Machine Learning on browsers",
-    "abstract": "The next level for Web developers: Machine Learning on browsers",
-    "type": "talk",
-    "event": {
-        "link": "https://www.bejs.io/",
-        "name": "BeJS : Belgian JavaScript Community"
-    },
-    "slides": "https://www.icloud.com/keynote/0373zPb_rl1cwWtyk53ZN9mPg#machine-learning4devs-bejs-brussels-12052023",
-    "photos": "",
-    "video": "",
-    "tags": ["nodejs","javascript", "Machine Learning"],
-    "location": {
-      "latitude":50.8510781,
-      "longitude":4.3318835,
-      "country": "Belgian",
-      "uf": "BEL",
-      "city": "Brussels"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-05-12"
-  },
-  {
-    "title": "The next level for Web developers: Machine Learning on browsers",
-    "abstract": "The next level for Web developers: Machine Learning on browsers",
-    "type": "talk",
-    "event": {
-        "link": "https://brazil.cityjsconf.org/",
-        "name": "CityJS World series São Paulo 2023"
-    },
-    "slides": "https://www.icloud.com/keynote/066J6r58vIhiFSFFgfxDyZXuw#machine-learning4devs-cityjs-sp-26042023",
-    "photos": "",
-    "video": "https://www.youtube.com/live/lD39kjrXRvo?feature=share",
-    "tags": ["nodejs","javascript", "Machine Learning"],
-    "location": {
-      "latitude":-23.508559,
-      "longitude": -46.7215608,
-      "country": "Brazil",
-      "uf": "SP",
-      "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-04-26"
-  },
-  {
-    "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
-    "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
-    "type": "talk",
-    "event": {
-        "link": "https://nodecongress.com/",
-        "name": "Node Congress Berlin"
-    },
-    "slides": "https://www.icloud.com/keynote/0fa15m5m7-8C0qHo2M48JomLQ#recreating-nodejs-from-scratch-nodecongress-berlin-14042023",
-    "photos": "",
-    "video": "https://portal.gitnation.org/contents/bun-deno-nodejs-recreating-a-javascript-runtime-from-scratch-understand-magic-behind-nodejs",
-    "tags": ["nodejs","javascript", "runtime"],
-    "location": {
-      "latitude":52.5169221,
-      "longitude":13.449893,
-      "country": "Germany",
-      "uf": "BER",
-      "city": "Berlin"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-04-14"
-  },
-  {
-    "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
-    "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
-    "type": "talk",
-    "event": {
-        "link": "https://london.cityjsconf.org/events/",
-        "name": "CityJS World series London 2023"
-    },
-    "slides": "https://www.icloud.com/keynote/06dpzgSEjXmN7RnaVSFlaqEpg#recreating-nodejs-from-scratch-cityjs-london-31032023",
-    "photos": "",
-    "video": "https://www.youtube.com/live/RdiXuoMPtUA",
-    "tags": ["nodejs","javascript", "runtime"],
-    "location": {
-      "latitude":51.5013608,
-      "longitude": -0.1776963,
-      "country": "United Kingdon",
-      "uf": "uk",
-      "city": "London"
-        },
-        "additionalLinks": ["https://www.youtube.com/live/RdiXuoMPtUA"],
-        "language": "en-us",
-        "date": "2023-03-31"
-  },
-  {
-    "title": "5 aprendizados incríveis sobre backend que se aplicam para o frontend",
-    "abstract": "Sobre padrões de projeto, práticas de testes unitários, performance, multithreading, webassembly, streams e MUITO mais.",
-    "type": "talk",
-    "event": {
-        "link": "https://www.linkedin.com/company/devparana/",
-        "name": "Dev Paraná Conf 2023"
-    },
-    "slides": "https://www.icloud.com/keynote/08cfNEtaMB0WK7EdnDp6i2DJQ#5-aprendizados-sobre-backend-para-frontenders-devpr-11032023",
-    "photos": "",
-    "video": "",
-    "tags": ["nodejs","javascript"],
-    "location": {
-      "latitude": -23.4108407,
-      "longitude": -52.1106945,
-      "country": "Brazil",
-      "uf": "PR",
-      "city": "Maringá"
-        },
-        "additionalLinks": ["https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk"],
-        "language": "pt-br",
-        "date": "2023-03-11"
-  },
-  {
     "title": "The next level for Web developers: Machine Learning on browsers",
     "abstract": "The next level for Web developers: Machine Learning on browsers",
     "type": "talk",
@@ -260,7 +30,7 @@
   },
   {
     "title": "The next level for Web developers: Machine Learning on browsers",
-    "abstract": "The next level for Web developers: Machine Learning on browsers",
+    "abstract": "Explore the Future of the Web: Discover How Machine Learning Is Transforming the User Experience in Browsers",
     "type": "talk",
     "event": {
       "link": "https://brazil.cityjsconf.org/",
@@ -288,8 +58,8 @@
     "date": "2023-04-26"
   },
   {
-    "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
-    "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "title": "Bun? Deno? Node.js? Recreating a JS Runtime from scratch",
+    "abstract": "Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime",
     "type": "talk",
     "event": {
       "link": "https://nodecongress.com/",
@@ -317,8 +87,8 @@
     "date": "2023-04-14"
   },
   {
-    "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
-    "abstract": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
+    "title": "Bun? Deno? Node.js? Recreating a JS Runtime from scratch",
+    "abstract": "Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime",
     "type": "talk",
     "event": {
       "link": "https://london.cityjsconf.org/events/",
