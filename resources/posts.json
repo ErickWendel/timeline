@@ -1,5 +1,203 @@
 [
   {
+    "title": "Como dizer não melhorou minha vida como programador 🔥",
+    "abstract": "Por isso, ao invés de cair na pilha de sair codificando como se não houvesse amanhã, use a cabeça e pare de sofrer!",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-dizer-n%C3%A3o-melhorou-minha-vida-como-programador-activity-7143247991439622145-o946?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_como-dizer-n%C3%A3o-melhorou-minha-vida-como-programador-activity-7143247991439622145-o946?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-12-20"
+    },
+  {
+    "title": "É até difícil descrever essa sensação!",
+    "abstract": "Como é implementar uma nova funcionalidade no projeto do Node.js",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-programador-opensource-activity-7142872251414089728-QPo3?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-programador-opensource-activity-7142872251414089728-QPo3?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-12-18"
+    },
+  {
+    "title": "Acho que após a treta do 'não use else', agora iniciamos a não use try/catch ",
+    "abstract": "Existem formas mais elegantes que até outras linguagens usam por padrão, vou falar sobre isso lá no próximo video no meu canal!",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_acho-que-ap%C3%B3s-a-treta-do-n%C3%A3o-use-else-activity-7141431018674184193-dhA0?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_acho-que-ap%C3%B3s-a-treta-do-n%C3%A3o-use-else-activity-7141431018674184193-dhA0?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-12-15"
+    },
+  {
+    "title": "Sistemas feitos em JavaScript não são confiáveis?! É o que?",
+    "abstract": "Se você não trabalha com testes automatizados essa é uma excelente prática que ajuda toda a empresa a se comunicar melhor e de quebra entregar software que funciona de primeira 👻",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_esse-m%C3%A9todo-te-ensina-o-que-testar-e-melhora-activity-7141421344612691968-huz6?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_esse-m%C3%A9todo-te-ensina-o-que-testar-e-melhora-activity-7141421344612691968-huz6?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-12-15"
+    },
+  {
+    "title": "Sistemas feitos em JavaScript não são confiáveis?! É o que?",
+    "abstract": "Você acredita que não pode confiar em um código escrito em javascript? Então vou te mostrar  alguns pontos",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-bestpractices-activity-7141182158181761025-HWzA?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-bestpractices-activity-7141182158181761025-HWzA?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-12-14"
+    },
+  {
+    "title": "Como eu consegui processar mais de 30GB de dados no navegador sem qualquer servidor no backend 🔥",
+    "abstract": "Em JavaScript, o segredo é processar dados sob demanda, mesmo que o arquivo tenha 1 terabyte você processa ele em picadinhos, a cada dez megabytes por exemplo.",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-eu-consegui-processar-mais-de-30gb-de-activity-7141048802714595328-5Iog?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_como-eu-consegui-processar-mais-de-30gb-de-activity-7141048802714595328-5Iog?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-12-14"
+    },
+  {
+    "title": "Você precisa sair do piloto automático e começar a acertar de primeira 🔥",
+    "abstract": "Eu pessoalmente criei um método para desenvolver que me ajudou demais: Jamais tocar no código sem ter a certeza que entendeu o que foi pedido 🤔",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-meus-projetos-na-github-que-entraram-activity-7140348176837902336-d2C5?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-meus-projetos-na-github-que-entraram-activity-7140348176837902336-d2C5?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-12-13"
+    },
+  {
+    "title": "Conheça meus projetos na GitHub que entraram para a lista dos mais populares do mundo em 2023 💥🪄",
+    "abstract": "Ensinei a como navegar em páginas web usando gestos e machine learning direto navegador 🔥",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-meus-projetos-na-github-que-entraram-activity-7140348176837902336-d2C5?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-meus-projetos-na-github-que-entraram-activity-7140348176837902336-d2C5?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-12-12"
+    },
+  {
+    "title": "Como eu aprendi Regex (e continuo aprendendo) 🔥",
+    "abstract": "A forma que aprendi foi pegando um texto grande, algo como um contrato de trabalho ou currículo de mais de uma pessoa e tentava encontrar padrões",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_como-eu-aprendi-regex-e-continuo-aprendendo-activity-7135262800951582722-20dR?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_como-eu-aprendi-regex-e-continuo-aprendendo-activity-7135262800951582722-20dR?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-11-28"
+    },
+  {
+    "title": "Essa é a maior e mais épica treta do projeto Node.js até hoje 💥",
+    "abstract": "Dia 27 de Novembro é uma data histórica para o projeto Node.js, marca a separação do projeto Node.js em 2 partes e a transferencia de poder de uma empresa para a comunidade 😱",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-iojs-javascript-activity-7134913864407597056-MCbG?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-iojs-javascript-activity-7134913864407597056-MCbG?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-11-27"
+    },
+  {
+    "title": "Se você nao se acha produtivo(a) no dia a dia provavelmente o problema esta no seu ferramental de desenvolvimento! 🤯",
+    "abstract": "Antes de iniciar qualquer tarefa, tenha seu ambiente configurado com debug, testes automatizados e live reload ativados por padrão 💡",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_se-voc%C3%AA-nao-se-acha-produtivoa-no-dia-a-activity-7133859564063444992-aLfP?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_se-voc%C3%AA-nao-se-acha-produtivoa-no-dia-a-activity-7133859564063444992-aLfP?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2023-11-24"
+    },
+  {
     "title": "Testes automatizados não devem ser escritos nem antes, nem depois do desenvolvimento 💥",
     "abstract": "A real é que todo mundo que fala que escrever testes automatizados é um processo demorado",
     "type": "post",
@@ -14,7 +212,7 @@
     "tags": [
       "linkedinPost"
     ],
-    "language": "en-us",
+    "language": "pt-br",
     "date": "2023-11-23"
     },
   {
@@ -32,7 +230,7 @@
     "tags": [
       "linkedinPost"
     ],
-    "language": "en-us",
+    "language": "pt-br",
     "date": "2023-11-21"
     },
   {

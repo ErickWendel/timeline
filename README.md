@@ -16,18 +16,18 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2023/October - 2015/July 
-* **Videos**: 2023/October - 2016/September 
-* **Blog Posts**: 2023/November - 2015/February 
-* **Conference Talks**: 2023/November - 2015/January 
+* **Videos**: 2023/December - 2016/September 
+* **Blog Posts**: 2023/December - 2015/February 
+* **Conference Talks**: 2023/December - 2015/January 
 
-#### Presentations' number: 137
+#### Presentations' number: 138
 
 ## Table of Contents
 
 - [Projects (20)](#projects)
-- [Videos (134)](#videos)
-- [Blog Posts (373)](#blog-posts)
-- [Conference Talks (137)](#conference-talks)
+- [Videos (135)](#videos)
+- [Blog Posts (384)](#blog-posts)
+- [Conference Talks (138)](#conference-talks)
 
 ## Projects
 
@@ -290,6 +290,18 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://www.youtube.com/watch?v=iC_tKAyLeag" target="_blank">2023-12-18 - Sistemas feitos em JavaScript não são confiáveis?! Error Handling - Let it Crash - Graceful Shutdown (pt-br)</a>
+
+
+Abstract:
+
+> Nesse video, você vai descobrir como fazer suas aplicações JavaScript serem mais confiáveis, quais as dificuldades que o Primeagen pode ter tido e como não ter surpresas em produção
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
 
 ### <a href="https://youtu.be/QVOHQsHCnRY?si=3uMO8oK3BbR5rntB" target="_blank">2023-10-18 - O segredo para escalar aplicações JavaScript (mobile, desktop, web e mais) (pt-br)</a>
 
@@ -2025,7 +2037,227 @@ _Tags: `wear`, `android`, `node.js`_
 
 ## Blog Posts
 
-### <a href="https://www.linkedin.com/posts/erickwendel_testes-automatizados-n%C3%A3o-devem-ser-escritos-activity-7133454198997667840-oPCD?utm_source=share&utm_medium=member_desktop" target="_blank">2023-11-23 - Testes automatizados não devem ser escritos nem antes, nem depois do desenvolvimento 💥 (en-us)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_como-dizer-n%C3%A3o-melhorou-minha-vida-como-programador-activity-7143247991439622145-o946?utm_source=share&utm_medium=member_desktop" target="_blank">2023-12-20 - Como dizer não melhorou minha vida como programador 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-dizer-n%C3%A3o-melhorou-minha-vida-como-programador-activity-7143247991439622145-o946?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Por isso, ao invés de cair na pilha de sair codificando como se não houvesse amanhã, use a cabeça e pare de sofrer!
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-programador-opensource-activity-7142872251414089728-QPo3?utm_source=share&utm_medium=member_desktop" target="_blank">2023-12-18 - É até difícil descrever essa sensação! (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-programador-opensource-activity-7142872251414089728-QPo3?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Como é implementar uma nova funcionalidade no projeto do Node.js
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_acho-que-ap%C3%B3s-a-treta-do-n%C3%A3o-use-else-activity-7141431018674184193-dhA0?utm_source=share&utm_medium=member_desktop" target="_blank">2023-12-15 - Acho que após a treta do 'não use else', agora iniciamos a não use try/catch  (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_acho-que-ap%C3%B3s-a-treta-do-n%C3%A3o-use-else-activity-7141431018674184193-dhA0?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Existem formas mais elegantes que até outras linguagens usam por padrão, vou falar sobre isso lá no próximo video no meu canal!
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_esse-m%C3%A9todo-te-ensina-o-que-testar-e-melhora-activity-7141421344612691968-huz6?utm_source=share&utm_medium=member_desktop" target="_blank">2023-12-15 - Sistemas feitos em JavaScript não são confiáveis?! É o que? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_esse-m%C3%A9todo-te-ensina-o-que-testar-e-melhora-activity-7141421344612691968-huz6?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Se você não trabalha com testes automatizados essa é uma excelente prática que ajuda toda a empresa a se comunicar melhor e de quebra entregar software que funciona de primeira 👻
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-bestpractices-activity-7141182158181761025-HWzA?utm_source=share&utm_medium=member_desktop" target="_blank">2023-12-14 - Sistemas feitos em JavaScript não são confiáveis?! É o que? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-bestpractices-activity-7141182158181761025-HWzA?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Você acredita que não pode confiar em um código escrito em javascript? Então vou te mostrar  alguns pontos
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-eu-consegui-processar-mais-de-30gb-de-activity-7141048802714595328-5Iog?utm_source=share&utm_medium=member_desktop" target="_blank">2023-12-14 - Como eu consegui processar mais de 30GB de dados no navegador sem qualquer servidor no backend 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-eu-consegui-processar-mais-de-30gb-de-activity-7141048802714595328-5Iog?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Em JavaScript, o segredo é processar dados sob demanda, mesmo que o arquivo tenha 1 terabyte você processa ele em picadinhos, a cada dez megabytes por exemplo.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-meus-projetos-na-github-que-entraram-activity-7140348176837902336-d2C5?utm_source=share&utm_medium=member_desktop" target="_blank">2023-12-13 - Você precisa sair do piloto automático e começar a acertar de primeira 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-meus-projetos-na-github-que-entraram-activity-7140348176837902336-d2C5?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Eu pessoalmente criei um método para desenvolver que me ajudou demais: Jamais tocar no código sem ter a certeza que entendeu o que foi pedido 🤔
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-meus-projetos-na-github-que-entraram-activity-7140348176837902336-d2C5?utm_source=share&utm_medium=member_desktop" target="_blank">2023-12-12 - Conheça meus projetos na GitHub que entraram para a lista dos mais populares do mundo em 2023 💥🪄 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_conhe%C3%A7a-meus-projetos-na-github-que-entraram-activity-7140348176837902336-d2C5?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Ensinei a como navegar em páginas web usando gestos e machine learning direto navegador 🔥
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_como-eu-aprendi-regex-e-continuo-aprendendo-activity-7135262800951582722-20dR?utm_source=share&utm_medium=member_desktop" target="_blank">2023-11-28 - Como eu aprendi Regex (e continuo aprendendo) 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_como-eu-aprendi-regex-e-continuo-aprendendo-activity-7135262800951582722-20dR?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> A forma que aprendi foi pegando um texto grande, algo como um contrato de trabalho ou currículo de mais de uma pessoa e tentava encontrar padrões
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-iojs-javascript-activity-7134913864407597056-MCbG?utm_source=share&utm_medium=member_desktop" target="_blank">2023-11-27 - Essa é a maior e mais épica treta do projeto Node.js até hoje 💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-iojs-javascript-activity-7134913864407597056-MCbG?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Dia 27 de Novembro é uma data histórica para o projeto Node.js, marca a separação do projeto Node.js em 2 partes e a transferencia de poder de uma empresa para a comunidade 😱
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_se-voc%C3%AA-nao-se-acha-produtivoa-no-dia-a-activity-7133859564063444992-aLfP?utm_source=share&utm_medium=member_desktop" target="_blank">2023-11-24 - Se você nao se acha produtivo(a) no dia a dia provavelmente o problema esta no seu ferramental de desenvolvimento! 🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_se-voc%C3%AA-nao-se-acha-produtivoa-no-dia-a-activity-7133859564063444992-aLfP?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Antes de iniciar qualquer tarefa, tenha seu ambiente configurado com debug, testes automatizados e live reload ativados por padrão 💡
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_testes-automatizados-n%C3%A3o-devem-ser-escritos-activity-7133454198997667840-oPCD?utm_source=share&utm_medium=member_desktop" target="_blank">2023-11-23 - Testes automatizados não devem ser escritos nem antes, nem depois do desenvolvimento 💥 (pt-br)</a>
 
 
 Portal:
@@ -2045,7 +2277,7 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-treta-com-code-coverage-por-que-activity-7132739220455997440-czBP?utm_source=share&utm_medium=member_desktop" target="_blank">2023-11-21 - Qual é a treta com Code Coverage? Por que muita gente diz que Code coverage não garante segurança nos testes automatizados? Bora comigo 💥🔥 (en-us)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_qual-%C3%A9-a-treta-com-code-coverage-por-que-activity-7132739220455997440-czBP?utm_source=share&utm_medium=member_desktop" target="_blank">2023-11-21 - Qual é a treta com Code Coverage? Por que muita gente diz que Code coverage não garante segurança nos testes automatizados? Bora comigo 💥🔥 (pt-br)</a>
 
 
 Portal:
@@ -2225,26 +2457,6 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-testesautomatizados-activity-7102661030912114689-XCxo?utm_source=share&utm_medium=member_desktop" target="_blank">2023-08-30 - Ninguém do meu time usa testes automatizados, como eu poderia usar? 💥 (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-testesautomatizados-activity-7102661030912114689-XCxo?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Algo que você pode fazer para ter mais confiança em suas entregas
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
 ### <a href="https://www.linkedin.com/posts/erickwendel_metodotajs-programador-javascript-activity-7102795535660544000-YD3x?utm_source=share&utm_medium=member_desktop" target="_blank">2023-08-30 - Olha que sacada: Ativei Live reload + Debugging + Testes automatizados 💥 (pt-br)</a>
 
 
@@ -2256,6 +2468,26 @@ Portal:
 Abstract:
 
 > Sempre falo para os meus alunos do #MetodoTAJS: Prepare o setup ferramental (testes e debugging) no momento da criação do projeto
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-testesautomatizados-activity-7102661030912114689-XCxo?utm_source=share&utm_medium=member_desktop" target="_blank">2023-08-30 - Ninguém do meu time usa testes automatizados, como eu poderia usar? 💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-testesautomatizados-activity-7102661030912114689-XCxo?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Algo que você pode fazer para ter mais confiança em suas entregas
 > 
 > <b>Links</b>
 > 
@@ -2305,26 +2537,6 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-testesautomatizados-erickwendel-activity-7099736552360017920-Ehpa?utm_source=share&utm_medium=member_desktop" target="_blank">2023-08-23 - 4 Motivos de porque você deveria implementar testes automatizados no seu código 💥 (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_javascript-testesautomatizados-erickwendel-activity-7099736552360017920-Ehpa?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> 1 - Economia de tempo no processo de Debugging
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
 ### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodetestrunner-erickwendel-activity-7100222578350276608-XzZf?utm_source=share&utm_medium=member_desktop" target="_blank">2023-08-23 - Vou te ensinar sobre Mocking, Stub e como testar serviços em JavaScript 💥 (pt-br)</a>
 
 
@@ -2336,6 +2548,26 @@ Portal:
 Abstract:
 
 > Assista aqui: https://lnkd.in/e5mKYZDJ
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-testesautomatizados-erickwendel-activity-7099736552360017920-Ehpa?utm_source=share&utm_medium=member_desktop" target="_blank">2023-08-23 - 4 Motivos de porque você deveria implementar testes automatizados no seu código 💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-testesautomatizados-erickwendel-activity-7099736552360017920-Ehpa?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> 1 - Economia de tempo no processo de Debugging
 > 
 > <b>Links</b>
 > 
@@ -2565,26 +2797,6 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_esse-%C3%A9-o-problema-mais-dif%C3%ADcilchato-de-resolver-activity-7089245258927996931-wQvd?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-24 - Esse é o problema mais difícil/chato de resolver quando testando aplicações, aqui vão minhas dicas de como inspecionar e resolve-lo 🔥🤩 (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_esse-%C3%A9-o-problema-mais-dif%C3%ADcilchato-de-resolver-activity-7089245258927996931-wQvd?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Flaky Tests ou testes frágeis são testes instáveis
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
 ### <a href="https://www.linkedin.com/posts/erickwendel_testesautomatizados-testesdesoftware-automatizaaexaetodetestes-activity-7089337286835810304-b3EH?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-24 - Como eu escolho o que testar 🔥 (pt-br)</a>
 
 
@@ -2596,6 +2808,26 @@ Portal:
 Abstract:
 
 > #TestesAutomatizados
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_esse-%C3%A9-o-problema-mais-dif%C3%ADcilchato-de-resolver-activity-7089245258927996931-wQvd?utm_source=share&utm_medium=member_desktop" target="_blank">2023-07-24 - Esse é o problema mais difícil/chato de resolver quando testando aplicações, aqui vão minhas dicas de como inspecionar e resolve-lo 🔥🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_esse-%C3%A9-o-problema-mais-dif%C3%ADcilchato-de-resolver-activity-7089245258927996931-wQvd?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Flaky Tests ou testes frágeis são testes instáveis
 > 
 > <b>Links</b>
 > 
@@ -2825,26 +3057,6 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-devcommunity-devtips-activity-7078019693613060096-FFWH?utm_source=share&utm_medium=member_desktop" target="_blank">2023-06-23 - Node.js agora terá MockTimers nativo! 🤩 (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-devcommunity-devtips-activity-7078019693613060096-FFWH?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Que dia meus amigos! Implementei algo de ponta a ponta no Node.js e finalmente foi mergeado!
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
 ### <a href="https://www.linkedin.com/posts/erickwendel_nodetlv-testival2023-nodejs-activity-7080241443293831170-4yBx?utm_source=share&utm_medium=member_desktop" target="_blank">2023-06-23 - Jest? Supertest? Portfinder? What about using only native Node.js functions? (en-us)</a>
 
 
@@ -2856,6 +3068,26 @@ Portal:
 Abstract:
 
 >  Here are my tips for you to write E2E tests with no libraries 💥
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-devcommunity-devtips-activity-7078019693613060096-FFWH?utm_source=share&utm_medium=member_desktop" target="_blank">2023-06-23 - Node.js agora terá MockTimers nativo! 🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-devcommunity-devtips-activity-7078019693613060096-FFWH?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Que dia meus amigos! Implementei algo de ponta a ponta no Node.js e finalmente foi mergeado!
 > 
 > <b>Links</b>
 > 
@@ -3645,17 +3877,17 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-community-opensource-activity-7008794615457681408-L3Ub?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-14 - Bye-bye Sinon... Hello, Node.js 20 - using mocks, spies, and stubs natively in Node.js 🤯🔥 (en-us)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-14 - Brincadeira da noite aqui! Usando TensorFlow.js para usar minhas mãos como o controle do jogo 🔥 (pt-br)</a>
 
 
 Portal:
 
-> <a href="https://www.linkedin.com/posts/erickwendel_javascript-community-opensource-activity-7008794615457681408-L3Ub?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+> <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
 
 
 Abstract:
 
-> Wowwwww, Node.js is on fire, my friends!
+> Eaí, acompanhou como hackeei esse jogo para controlá-lo com meu celular?
 > 
 > <b>Links</b>
 > 
@@ -7720,6 +7952,23 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
+### <a href="https://www.linkedin.com/posts/erickwendel_estou-vivendo-aquela-parte-do-%C3%A9-dif%C3%ADcil-activity-6686418896574017536-UwLM" target="_blank">2020-07-12 - Estou vivendo aquela parte do "é difícil empreender" 😂 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_estou-vivendo-aquela-parte-do-%C3%A9-dif%C3%ADcil-activity-6686418896574017536-UwLM" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Ah, é difícil empreender NO BRASIL? Eu nem estou falando sobre isso ainda. A chave de empreender é tomar decisões a longo prazo, tomar riscos, e sempre pensar no próximo nível.
+> 
+> 
+
+
+_Tags: `linkedinPost`_
+
 ### <a href="https://www.linkedin.com/posts/erickwendel_a-forma-de-importar-e-exportar-m%C3%B3dulos-no-activity-6686267690182565888-h5K5" target="_blank">2020-07-12 - A forma de importar e exportar módulos no Javascript está mudando, você está pronto(a)? 🔥😱 (pt-br)</a>
 
 
@@ -7736,23 +7985,6 @@ Abstract:
 > 
 > - <a href="https://lnkd.in/eAHt2dt" target="_blank">https://lnkd.in/eAHt2dt</a>
 > - <a href="https://bit.ly/esm-talk-01" target="_blank">https://bit.ly/esm-talk-01</a>
-> 
-
-
-_Tags: `linkedinPost`_
-
-### <a href="https://www.linkedin.com/posts/erickwendel_estou-vivendo-aquela-parte-do-%C3%A9-dif%C3%ADcil-activity-6686418896574017536-UwLM" target="_blank">2020-07-12 - Estou vivendo aquela parte do "é difícil empreender" 😂 (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_estou-vivendo-aquela-parte-do-%C3%A9-dif%C3%ADcil-activity-6686418896574017536-UwLM" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Ah, é difícil empreender NO BRASIL? Eu nem estou falando sobre isso ainda. A chave de empreender é tomar decisões a longo prazo, tomar riscos, e sempre pensar no próximo nível.
-> 
 > 
 
 
@@ -9137,6 +9369,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 ## Conference Talks
 
+### 2023-12-02 - Recriando o Node.JS do zero (pt-br)
+
+
+<a href="https://www.frontinpoa.com.br/" target="_blank">Frontin POA</a>
+
+
+  
+
+
+Abstract:
+
+> Explore uma jornada pelos runtimes do Javascript, do Node.js ao Deno, e aprenda como construir seu próprio runtime personalizado
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-30.0846697,-51.2480271" target="_blank">Porto Alegre - RS, Brazil</a>.
+
 ### 2023-11-18 - How to consume gigabytes of data in Javascript without slowing down applications (en-us)
 
 
@@ -9161,7 +9414,7 @@ Location: <a href="https://www.google.com/maps/?q=6.2648627,-75.5687837" target=
 ### 2023-10-24 - Bun? Deno? Node.js? Recreating a JS Runtime from scratch (en-us)
 
 
-<a href="https://www.linkedin.com/company/codemotion/" target="_blank">Codemotion Milan</a>
+<a href="https://www.linkedin.com/company/codemotion/" target="_blank">Codemotion</a>
 
 
   
@@ -9177,7 +9430,7 @@ Abstract:
 _Tags: `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=45.4517463,9.1633404" target="_blank">Milan - IT, Italy</a>.
+Location: <a href="https://www.google.com/maps/?q=45.4517463,9.1633404" target="_blank">Milão - IT, Italia</a>.
 
 ### 2023-10-23 -  10 must-know design patterns for JavaScript developers (en-us)
 
@@ -9198,7 +9451,7 @@ Abstract:
 _Tags: `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=45.4846083,9.1961786" target="_blank">Milan - IT, Italy</a>.
+Location: <a href="https://www.google.com/maps/?q=45.4846083,9.1961786" target="_blank">Milão - IT, Italia</a>.
 
 ### 2023-10-06 - Node.js in 2023 – What’s New in the Node.js Native Test Runner (en-us)
 
@@ -9219,12 +9472,12 @@ Abstract:
 _Tags: `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=45.7669644,21.2287188" target="_blank">Timisoara - RO, Romania</a>.
+Location: <a href="https://www.google.com/maps/?q=45.7669644,21.2287188" target="_blank">Timisoara - RO, Romênia</a>.
 
 ### 2023-08-31 - O próximo nível para desenvolvedores Web:Machine Learning em Navegadores (pt-br)
 
 
-<a href="https://guild.host/nodebr" target="_blank">NodeBR</a>
+<a href="https://www.linkedin.com/company/nodebr/" target="_blank">NodeBR</a>
 
 
   
@@ -9245,7 +9498,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.568864,-46.6499899" target
 ### 2023-08-26 - O segredo para processar terabytes de dados em JavaScript (pt-br)
 
 
-<a href="https://www.codecon.dev/summit/quem-vai/erick-wendel" target="_blank">Codecon</a>
+<a href="https://www.linkedin.com/company/codecondev/" target="_blank">Codecon</a>
 
 
   
@@ -9366,7 +9619,7 @@ Abstract:
 _Tags: `nodejs`, `javascript`, `runtime`_
 
 
-Location: <a href="https://www.google.com/maps/?q=59.9125923,10.7522277" target="_blank">Oslo - OSL, Norway</a>.
+Location: <a href="https://www.google.com/maps/?q=59.9125923,10.7522277" target="_blank">Oslo - OSL, Noruega</a>.
 
 ### 2023-05-17 - A vida e as aventuras de desenvolvedor de software (pt-br)
 
@@ -9408,7 +9661,7 @@ Abstract:
 _Tags: `nodejs`, `javascript`, `Machine Learning`_
 
 
-Location: <a href="https://www.google.com/maps/?q=50.8510781,4.3318835" target="_blank">Brussels - BEL, Belgium</a>.
+Location: <a href="https://www.google.com/maps/?q=50.8510781,4.3318835" target="_blank">Brussels - BEL, Belgian</a>.
 
 ### 2023-05-12 - The next level for Web developers: Machine Learning on browsers (en-us)
 
@@ -9429,7 +9682,7 @@ Abstract:
 _Tags: `nodejs`, `javascript`, `Machine Learning`_
 
 
-Location: <a href="https://www.google.com/maps/?q=50.8510781,4.3318835" target="_blank">Brussels - BEL, Belgian</a>.
+Location: <a href="https://www.google.com/maps/?q=50.8510781,4.3318835" target="_blank">Brussels - BEL, Belgium</a>.
 
 ### 2023-04-26 - The next level for Web developers: Machine Learning on browsers (en-us)
 
@@ -9473,7 +9726,7 @@ _Tags: `nodejs`, `javascript`, `Machine Learning`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.508559,-46.7215608" target="_blank">São Paulo - SP, Brazil</a>.
 
-### 2023-04-14 - Bun? Deno? Node.js? Recreating a JS Runtime from scratch (en-us)
+### 2023-04-14 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
 
 
 <a href="https://nodecongress.com/" target="_blank">Node Congress Berlin</a>
@@ -9494,7 +9747,7 @@ _Tags: `nodejs`, `javascript`, `runtime`_
 
 Location: <a href="https://www.google.com/maps/?q=52.5169221,13.449893" target="_blank">Berlin - BER, Germany</a>.
 
-### 2023-04-14 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
+### 2023-04-14 - Bun? Deno? Node.js? Recreating a JS Runtime from scratch (en-us)
 
 
 <a href="https://nodecongress.com/" target="_blank">Node Congress Berlin</a>
@@ -9526,7 +9779,31 @@ Location: <a href="https://www.google.com/maps/?q=52.5169221,13.449893" target="
 
 Abstract:
 
-> Bun?Deno?Node.js?Recreating a JS Runtime from scratch
+> Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime
+> 
+> <b>Links</b>
+> 
+> - <a href="https://www.youtube.com/live/RdiXuoMPtUA" target="_blank">https://www.youtube.com/live/RdiXuoMPtUA</a>
+> 
+
+
+_Tags: `nodejs`, `javascript`, `runtime`_
+
+
+Location: <a href="https://www.google.com/maps/?q=51.5013608,-0.1776963" target="_blank">London - uk, United Kingdon</a>.
+
+### 2023-03-31 - Bun? Deno? Node.js? Recreating a JS Runtime from scratch (en-us)
+
+
+<a href="https://london.cityjsconf.org/events/" target="_blank">CityJS World series London 2023</a>
+
+
+<a href="https://www.icloud.com/keynote/06dpzgSEjXmN7RnaVSFlaqEpg#recreating-nodejs-from-scratch-cityjs-london-31032023" target="_blank">slides</a> |   <a href="https://www.youtube.com/live/RdiXuoMPtUA" target="_blank">video</a>
+
+
+Abstract:
+
+> Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime
 > 
 > <b>Links</b>
 > 
@@ -10314,7 +10591,7 @@ Abstract:
 _Tags: `node.js`, `graphql`, `apolloserver`, `serverless`_
 
 
-Location: <a href="https://www.google.com/maps/?q=-30.0846697,-51.2480271" target="_blank">Porto Alegre - POA, Brazil</a>.
+Location: <a href="https://www.google.com/maps/?q=-30.0846697,-51.2480271" target="_blank">Porto Alegre - RS, Brazil</a>.
 
 ### 2019-08-17 - GraphQL + Apollo Server + Azure Functions = Magic (en-us)
 
@@ -10896,27 +11173,6 @@ _Tags: `javascript`, `async`, `node.js`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.5588643,-46.6645247" target="_blank">São Paulo - SP, Brazil</a>.
 
-### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
-
-
-<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
-
-
-<a href="https://erickwendel.github.io/palestra-criciumadev-Javascript-para-reconhecer-pessoas/" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> 
-
-
-Abstract:
-
-> Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
-> 
-> 
-
-
-_Tags: `node.js`, `javascript`, `faceapi`, `azure`_
-
-
-Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
-
 ### 2018-06-29 - Criando um jogo de Batata em tempo real com Node.js para milhões de usuarios simultaneos (pt-br)
 
 
@@ -10934,6 +11190,27 @@ Abstract:
 
 
 _Tags: `node.js`, `javascript`, `websocket`, `socketio`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.
+
+### 2018-06-29 - Javascript, Azure Cognitive Services e RaspberryPi - usando Javascript para reconhecer pessoas! (pt-br)
+
+
+<a href="https://campuse.ro/events/Campus-Party-Brasilia-2018-CPBSB2/talk/javascript-azure-cognitive-services-e-raspberrypi-usando-javascript-para-reconhecer-pessoas-cpbsb2/" target="_blank">Campus Party Brasilia 2018</a>
+
+
+<a href="https://erickwendel.github.io/palestra-criciumadev-Javascript-para-reconhecer-pessoas/" target="_blank">slides</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/2018-06-29-javascript_azure_cognitive_services_e_raspberrypi_-_usando_javascript_para_reconhecer_pessoas!" target="_blank">photos</a> 
+
+
+Abstract:
+
+> Já pensou em criar seu próprio sistema de reconhecimento fácial em casa? Nessa palestra faremos algumas demonstrações e cases para mostrar a voce que você pode e melhor! Tudo com um custo baixíssimo de infraestrutura e desenvolvimento. Vamos conhecer algumas plataformas e desafios que enfrentamos ao criar aplicações deste tipo.
+> 
+> 
+
+
+_Tags: `node.js`, `javascript`, `faceapi`, `azure`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-15.7835191,-47.9013997" target="_blank">Brasília - DF, Brazil</a>.

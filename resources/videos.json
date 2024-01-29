@@ -1,5 +1,80 @@
 [ 
   {
+    "title": "Sistemas feitos em JavaScript não são confiáveis?! Error Handling - Let it Crash - Graceful Shutdown",
+    "abstract": "Nesse video, você vai descobrir como fazer suas aplicações JavaScript serem mais confiáveis, quais as dificuldades que o Primeagen pode ter tido e como não ter surpresas em produção",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/watch?v=iC_tKAyLeag",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2023-12-18"
+    }, 
+  {
+    "title": "O segredo para escalar aplicações JavaScript (mobile, desktop, web e mais)",
+    "abstract": "Hoje eu trouxe o necessário para você poder processar terabytes de dados em JavaScript, entender o principal erro que todo mundo comete ao usar JavaScript",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/QVOHQsHCnRY?si=3uMO8oK3BbR5rntB",
+    "tags": [
+      "ESLint",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2023-10-18"
+    }, 
+  {
+    "title": "Node, Deno e Bun: A Batalha dos Runtimes JavaScript",
+    "abstract": "Qual será o futuro do JavaScript no back-end? Node, Deno ou Bun?",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/live/RQ83zcTACnw?si=-6J_4qC5MTq47eB1",
+    "tags": [
+      "ESLint",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2023-10-09"
+    }, 
+  {
+    "title": "Erick Wendel @DEVS40 24",
+    "abstract": "Convidado do episódio 24 no podcast Devs40+, falando sobre Node.js e Javascript",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/live/1TfwPLaoxNE?si=7dLdI1GWEMrQdSmx",
+    "tags": [
+      "ESLint",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2023-09-27"
+    }, 
+  {
+    "title": "#156 - Erick Wendel: O Brasileiro que consertou o Node.js",
+    "abstract": "Solos de guitarra + desafios + NodeJS + o mundo da tecnologia conquistaram o grande Erick Wendel",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://open.spotify.com/episode/3Jq8vDZumXEPAVy7S6zPFh",
+    "tags": [
+      "ESLint",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2023-07-18"
+    }, 
+  {
     "title": "ESLint Reimagined: Creating a Linter from Scratch",
     "abstract": "In this video, I'll show you in-depth how ESLint works by recreating the original project.",
     "type": "video",
