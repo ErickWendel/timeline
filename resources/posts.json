@@ -1,5 +1,131 @@
 [
   {
+    "title": "JAVASCRIPT É RUIM🤔",
+    "abstract": "Minhas dicas para começar a estudar Node.js com profundidade",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149369418811187200-XWle?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149369418811187200-XWle?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2024-01-06"
+    },
+  {
+    "title": "Roadmap para back-end com Node.js🔥",
+    "abstract": "Minhas dicas para começar a estudar Node.js com profundidade",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149153219535966208-ccuZ?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149153219535966208-ccuZ?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2024-01-05"
+    },
+    {
+      "title": "Como lidar com bancos de dados em testes de integração🔥",
+      "abstract": "Uma das minhas estratégias para lidar com banco de dados nos testes de integração é não depender de estado, que explico com mais detalhes",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149020869934182400-3Vjm?utm_source=share&utm_medium=member_desktop",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149020869934182400-3Vjm?utm_source=share&utm_medium=member_desktop",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-01-05"
+      },
+  {
+    "title": "Recriei o NODE.JS do zero e...😱",
+    "abstract": "As motivações que me levaram a entrar nesse desafio imenso de recriar o Node.js mas que trouxeram muito conhecimento de como ele funciona por debaixo dos panos",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7148644762051416066-IasZ?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7148644762051416066-IasZ?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2024-01-04"
+    },
+  {
+    "title": "Recriei o NODE.JS do zero e...😱",
+    "abstract": "Além da definição de confiabilidade e disponibilidade, também trouxe um pouco sobre a crítica do ThePrimeagen a aplicações javascript",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7148644762051416066-IasZ?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7148644762051416066-IasZ?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2024-01-04"
+    },
+  {
+    "title": "Sistemas feitos em JavaScript não são confiáveis🤔👎",
+    "abstract": "Além da definição de confiabilidade e disponibilidade, também trouxe um pouco sobre a crítica do ThePrimeagen a aplicações javascript",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7148282315176157185-pewf?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7148282315176157185-pewf?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2024-01-03"
+    },
+  {
+    "title": "E aí, programação é difícil?",
+    "abstract": "Tem uma coisa que eu levo pra vida: não existe assunto dificil, exite professor ruim. Trouxe uns exemplos de como aprendi programação",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7147966729208451072-khtB?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7147966729208451072-khtB?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2024-01-02"
+    },
+  {
     "title": "Como dizer não melhorou minha vida como programador 🔥",
     "abstract": "Por isso, ao invés de cair na pilha de sair codificando como se não houvesse amanhã, use a cabeça e pare de sofrer!",
     "type": "post",
