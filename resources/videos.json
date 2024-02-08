@@ -1,5 +1,20 @@
 [ 
   {
+    "title": "Deu erro? Deixa quebrar! || Erick Wendel",
+    "abstract": "Já pensou se você não usasse mais blocos de try catch para validar um erro de conexão de banco de dados, uma API indisponível, ou excessões gerais de aplicação?",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/OO33Sr4lQDU?si=XE83JrS6TqskK-UA",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-01-08"
+    }, 
+  {
     "title": "Sistemas feitos em JavaScript não são confiáveis?! Error Handling - Let it Crash - Graceful Shutdown",
     "abstract": "Nesse video, você vai descobrir como fazer suas aplicações JavaScript serem mais confiáveis, quais as dificuldades que o Primeagen pode ter tido e como não ter surpresas em produção",
     "type": "video",

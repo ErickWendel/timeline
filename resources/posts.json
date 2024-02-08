@@ -1,5 +1,59 @@
 [
   {
+    "title": "Caixinha de Perguntas - Entendendo o funcionamento das coisas🔥",
+    "abstract": "Pra mim algo bastante acessivel é perguntar pro ChatGPT ",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149867732895797248-NwDL?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149867732895797248-NwDL?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2024-01-07"
+    },
+  {
+    "title": "Let it Crash (Deixa quebrar)💥",
+    "abstract": "A ideia é que, se excessões acontecerem, você não deve tratar esse erro, você deixa a aplicação quebrar",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149731896741072896-SJZb?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149731896741072896-SJZb?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2024-01-07"
+    },
+  {
+    "title": "Desenvolver JS melhor, quais melhores fontes de pesquisa?🔥",
+    "abstract": "Não tem segredo, você precisa de repetição",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149505377355694080-R-vH?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149505377355694080-R-vH?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2024-01-06"
+    },
+  {
     "title": "JAVASCRIPT É RUIM🤔",
     "abstract": "Minhas dicas para começar a estudar Node.js com profundidade",
     "type": "post",
