@@ -16,8 +16,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2023/October - 2015/July 
-* **Videos**: 2023/December - 2016/September 
-* **Blog Posts**: 2023/December - 2015/February 
+* **Videos**: 2024/January - 2016/September 
+* **Blog Posts**: 2024/January - 2015/February 
 * **Conference Talks**: 2023/December - 2015/January 
 
 #### Presentations' number: 138
@@ -25,8 +25,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (20)](#projects)
-- [Videos (135)](#videos)
-- [Blog Posts (384)](#blog-posts)
+- [Videos (136)](#videos)
+- [Blog Posts (394)](#blog-posts)
 - [Conference Talks (138)](#conference-talks)
 
 ## Projects
@@ -290,6 +290,18 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/OO33Sr4lQDU?si=XE83JrS6TqskK-UA" target="_blank">2024-01-08 - Deu erro? Deixa quebrar! || Erick Wendel (pt-br)</a>
+
+
+Abstract:
+
+> Já pensou se você não usasse mais blocos de try catch para validar um erro de conexão de banco de dados, uma API indisponível, ou excessões gerais de aplicação?
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
 
 ### <a href="https://www.youtube.com/watch?v=iC_tKAyLeag" target="_blank">2023-12-18 - Sistemas feitos em JavaScript não são confiáveis?! Error Handling - Let it Crash - Graceful Shutdown (pt-br)</a>
 
@@ -2036,6 +2048,206 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149867732895797248-NwDL?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-07 - Caixinha de Perguntas - Entendendo o funcionamento das coisas🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149867732895797248-NwDL?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Pra mim algo bastante acessivel é perguntar pro ChatGPT 
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149731896741072896-SJZb?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-07 - Let it Crash (Deixa quebrar)💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149731896741072896-SJZb?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> A ideia é que, se excessões acontecerem, você não deve tratar esse erro, você deixa a aplicação quebrar
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149505377355694080-R-vH?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-06 - Desenvolver JS melhor, quais melhores fontes de pesquisa?🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149505377355694080-R-vH?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Não tem segredo, você precisa de repetição
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149369418811187200-XWle?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-06 - JAVASCRIPT É RUIM🤔 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149369418811187200-XWle?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Minhas dicas para começar a estudar Node.js com profundidade
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149153219535966208-ccuZ?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-05 - Roadmap para back-end com Node.js🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149153219535966208-ccuZ?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Minhas dicas para começar a estudar Node.js com profundidade
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149020869934182400-3Vjm?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-05 - Como lidar com bancos de dados em testes de integração🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149020869934182400-3Vjm?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Uma das minhas estratégias para lidar com banco de dados nos testes de integração é não depender de estado, que explico com mais detalhes
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7148644762051416066-IasZ?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-04 - Recriei o NODE.JS do zero e...😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7148644762051416066-IasZ?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> As motivações que me levaram a entrar nesse desafio imenso de recriar o Node.js mas que trouxeram muito conhecimento de como ele funciona por debaixo dos panos
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7148644762051416066-IasZ?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-04 - Recriei o NODE.JS do zero e...😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7148644762051416066-IasZ?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Além da definição de confiabilidade e disponibilidade, também trouxe um pouco sobre a crítica do ThePrimeagen a aplicações javascript
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7148282315176157185-pewf?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-03 - Sistemas feitos em JavaScript não são confiáveis🤔👎 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7148282315176157185-pewf?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Além da definição de confiabilidade e disponibilidade, também trouxe um pouco sobre a crítica do ThePrimeagen a aplicações javascript
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7147966729208451072-khtB?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-02 - E aí, programação é difícil? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7147966729208451072-khtB?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Tem uma coisa que eu levo pra vida: não existe assunto dificil, exite professor ruim. Trouxe uns exemplos de como aprendi programação
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_como-dizer-n%C3%A3o-melhorou-minha-vida-como-programador-activity-7143247991439622145-o946?utm_source=share&utm_medium=member_desktop" target="_blank">2023-12-20 - Como dizer não melhorou minha vida como programador 🔥 (pt-br)</a>
 
