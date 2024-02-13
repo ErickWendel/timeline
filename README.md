@@ -25,8 +25,8 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (21)](#projects)
-- [Videos (136)](#videos)
-- [Blog Posts (409)](#blog-posts)
+- [Videos (137)](#videos)
+- [Blog Posts (416)](#blog-posts)
 - [Conference Talks (138)](#conference-talks)
 
 ## Projects
@@ -302,6 +302,18 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/P4KgxqzqIfs?si=xznLPgL5X1UJse_4" target="_blank">2024-01-15 - Se você não é curioso, dev não é para você! (pt-br)</a>
+
+
+Abstract:
+
+> Área de dev tá dificil até para quem é experiente, mesmo com anos de estrada, muita bagagem, conhecimento estocado, ainda tá difícil. E aí o que fazer?
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
 
 ### <a href="https://youtu.be/OO33Sr4lQDU?si=XE83JrS6TqskK-UA" target="_blank">2024-01-08 - Deu erro? Deixa quebrar! || Erick Wendel (pt-br)</a>
 
@@ -2060,6 +2072,146 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152404427264405504-N1Nv?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-14 - Produção de conteúdo💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152404427264405504-N1Nv?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Um pouco sobre os desafios de criar conteúdo técnico, desde esquecer de ligar a câmera para gravar
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152374626306662400-pD5g?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-14 - Node.js linguagem ou tecnologia para rodar Javascript?🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152374626306662400-pD5g?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Existem algumas diferenças entre o Javascript que você executa nas APIs e o Javascript que você executa no navegador
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152314131910475777-6HP4?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-14 - Node.js com Typescript🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152314131910475777-6HP4?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Eu sinto que as vezes as pessoas ficam muito presas a ferramenta, e fica difícil
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152268450759950336-x0Ga?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-14 - A IMPORTÂNCIA DO FOCO🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152268450759950336-x0Ga?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Quando a gente dá uma função para as coisas fica muito mais fácil colocar em prática
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152042080364617728-9h6c?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-13 - Loiane é boa no CSS?🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152042080364617728-9h6c?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Não, ela se vira bem no CSS mas, prefere se dedicar ao código
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152012026171600896-zq2L?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-13 - Estudo muito mas parece que não sei de nada🤔 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152012026171600896-zq2L?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> O que você precisa fazer é repetição e criar projetos
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151951538884653057-c86H?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-13 - Mostrando meu setup🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151951538884653057-c86H?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Mostrando meus equipamentos de gravação, teclado, mouse e notebooks
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151906191890100225-Rj3_?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-13 - Minha virada de chave no inglês💥 (pt-br)</a>
 
