@@ -15,7 +15,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 ### Contributions Summary
 
-* **Projects**: 2023/October - 2015/July 
+* **Projects**: 2024/January - 2015/July 
 * **Videos**: 2024/January - 2016/September 
 * **Blog Posts**: 2024/January - 2015/February 
 * **Conference Talks**: 2023/December - 2015/January 
@@ -24,12 +24,24 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 ## Table of Contents
 
-- [Projects (20)](#projects)
+- [Projects (21)](#projects)
 - [Videos (136)](#videos)
-- [Blog Posts (394)](#blog-posts)
+- [Blog Posts (409)](#blog-posts)
 - [Conference Talks (138)](#conference-talks)
 
 ## Projects
+
+### <a href="https://github.com/ErickWendel/webxr-studies" target="_blank">2024-01-11 - WebXR Studies (en-us)</a>
+
+
+Abstract:
+
+>  This repository contains various examples and experiments I've conducted while learning and exploring WebXR.
+> 
+> 
+
+
+_Tags: `webXR`, `javascript`, `nodejs`_
 
 ### <a href="https://github.com/ErickWendel/semana-javascript-expert08" target="_blank">2023-10-06 - JSExpertHub Pre-processing videos on browsers - Semana JS Expert 8.0 (en-us)</a>
 
@@ -2048,6 +2060,306 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151906191890100225-Rj3_?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-13 - Minha virada de chave no inglês💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151906191890100225-Rj3_?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Fazer intercâmbio durante 3 meses,sem trabalhar, só focar no inglês
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151679838758543360-9fIv?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-12 - 'Deixa Quebrar' como funciona?🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151679838758543360-9fIv?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Antes de deixar a aplicação quebrar,informe o usuário que o pedido falhou,corte o canal de comunicação e encerre conexões externas
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151649550510759937-xUee?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-12 - Caixinha de perguntas - Aprender inglês🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151649550510759937-xUee?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Primeiro de tudo: altere a sua vida para Inglês: idioma do celular, computador e assim por diante 
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151649550510759937-xUee?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-12 - Caixinha de perguntas - Aprender inglês🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151649550510759937-xUee?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Primeiro de tudo: altere a sua vida para Inglês: idioma do celular, computador e assim por diante 
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151589196917305345-ssTB?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-12 - Estudos de WebXR (realidade virtual em navegadores) me forçando a aprender um monte coisas novas haha 🥳 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151589196917305345-ssTB?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> O LinkedIn sempre foi uma ferramenta bem importante para encontrar clientes
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151589196917305345-ssTB?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-12 - Caixinha de perguntas - Prestar consultoria para empresas💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151589196917305345-ssTB?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> O LinkedIn sempre foi uma ferramenta bem importante para encontrar clientes
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151546232836927491-T9_G?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-12 - Como foi entrar na Net Coders🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151546232836927491-T9_G?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> O pessoal me indicou, fui pra lá estudar, paguei e comecei os projetos
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151317361826881536-TuWH?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-12 - O boom da minha carreira foi depois que...💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151317361826881536-TuWH?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Foi um aplicativo de renda fixa, que um colega da comunidade me chamou para participar.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151317361826881536-TuWH?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-12 - O boom da minha carreira foi depois que...💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151317361826881536-TuWH?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Foi um aplicativo de renda fixa, que um colega da comunidade me chamou para participar.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_webxr-javascript-ar-activity-7151206684864962560-h6kT?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-11 - Comecei estudar uma parada nova e isso é de tirar o fôlego! (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_webxr-javascript-ar-activity-7151206684864962560-h6kT?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Estou estudando WebXR, fiz meu primeiro 'Hello World'
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151181396613488641-pbUw?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-11 - Tirar tudo que estuda e colocar em prática como um projeto do zero🤔 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151181396613488641-pbUw?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Para cada tema de estudo,procure sobre casos de uso, escolha um legal e cria um projeto do zero
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7150956371784392704-VVvq?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-10 - Como entrei para o NODE.JS💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7150956371784392704-VVvq?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> No pós evento de uma conferência no Canadá, com pessoas da comunidade do Node.js, conheci algumas tarefas que podia fazer 
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7150592746787872768-7qYT?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-09 - O que o orquestrador tem a ver com o let in crash🔥😱 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7150592746787872768-7qYT?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> A sacada é que, se deu um erro inesperado, o orquestrador sabe que precisa criar novas cópias
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7150456690369277953-lJvR?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-09 - Primeira experiência com o inglês💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7150456690369277953-lJvR?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Eu sempre tive o pensamento de que eu tenho que tentar, então eu me forçava a falar inglês em toda oportunidade
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7150118015731228673-ylm9?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-08 - Início no mercado de trabalho🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7150118015731228673-ylm9?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Primeiro trabalho de desenvolvedor, conseguia ganhar uns dois mil reais, pra mim foi um grande salto
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149867732895797248-NwDL?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-07 - Caixinha de Perguntas - Entendendo o funcionamento das coisas🔥 (pt-br)</a>
 
