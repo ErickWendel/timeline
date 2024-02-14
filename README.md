@@ -26,7 +26,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 - [Projects (21)](#projects)
 - [Videos (137)](#videos)
-- [Blog Posts (416)](#blog-posts)
+- [Blog Posts (420)](#blog-posts)
 - [Conference Talks (138)](#conference-talks)
 
 ## Projects
@@ -2072,6 +2072,86 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152993480238129153-NPIf?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-16 - Dica para se tornar um Dev de respeito🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152993480238129153-NPIf?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Falando sobre tempo de dedicação, engajamento nas coisas e sentimento de estar aprendendo constantemente
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152774596989988864-fWnW?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-15 - Dev, você é engajado? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152774596989988864-fWnW?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Falando sobre tempo de dedicação, engajamento nas coisas e sentimento de estar aprendendo constantemente
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152736682537107456-Xnt_?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-15 - Consiga sua primeira vaga como Dev JR😱🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152736682537107456-Xnt_?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Dicas que funcionaram pra mim, quando estava procurando a primeira oportunidade
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152676293082284033-WbK-?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-15 - Usar Rust no NODE??💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152676293082284033-WbK-?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Sim! Existe até um projeto bem legal chamado Neon Bindings
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152404427264405504-N1Nv?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-14 - Produção de conteúdo💥 (pt-br)</a>
 
@@ -10064,7 +10144,7 @@ Abstract:
 _Tags: `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=-30.0846697,-51.2480271" target="_blank">Porto Alegre - RS, Brazil</a>.
+Location: <a href="https://www.google.com/maps/?q=-30.0846697,-51.2480271" target="_blank">Porto Alegre - POA, Brazil</a>.
 
 ### 2023-11-18 - How to consume gigabytes of data in Javascript without slowing down applications (en-us)
 
@@ -10090,7 +10170,7 @@ Location: <a href="https://www.google.com/maps/?q=6.2648627,-75.5687837" target=
 ### 2023-10-24 - Bun? Deno? Node.js? Recreating a JS Runtime from scratch (en-us)
 
 
-<a href="https://www.linkedin.com/company/codemotion/" target="_blank">Codemotion</a>
+<a href="https://www.linkedin.com/company/codemotion/" target="_blank">Codemotion Milan</a>
 
 
   
@@ -10106,7 +10186,7 @@ Abstract:
 _Tags: `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=45.4517463,9.1633404" target="_blank">Milão - IT, Italia</a>.
+Location: <a href="https://www.google.com/maps/?q=45.4517463,9.1633404" target="_blank">Milan - IT, Italy</a>.
 
 ### 2023-10-23 -  10 must-know design patterns for JavaScript developers (en-us)
 
@@ -10127,7 +10207,7 @@ Abstract:
 _Tags: `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=45.4846083,9.1961786" target="_blank">Milão - IT, Italia</a>.
+Location: <a href="https://www.google.com/maps/?q=45.4846083,9.1961786" target="_blank">Milan - IT, Italy</a>.
 
 ### 2023-10-06 - Node.js in 2023 – What’s New in the Node.js Native Test Runner (en-us)
 
@@ -10148,12 +10228,12 @@ Abstract:
 _Tags: `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=45.7669644,21.2287188" target="_blank">Timisoara - RO, Romênia</a>.
+Location: <a href="https://www.google.com/maps/?q=45.7669644,21.2287188" target="_blank">Timisoara - RO, Romania</a>.
 
 ### 2023-08-31 - O próximo nível para desenvolvedores Web:Machine Learning em Navegadores (pt-br)
 
 
-<a href="https://www.linkedin.com/company/nodebr/" target="_blank">NodeBR</a>
+<a href="https://guild.host/nodebr" target="_blank">NodeBR</a>
 
 
   
@@ -10174,7 +10254,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.568864,-46.6499899" target
 ### 2023-08-26 - O segredo para processar terabytes de dados em JavaScript (pt-br)
 
 
-<a href="https://www.linkedin.com/company/codecondev/" target="_blank">Codecon</a>
+<a href="https://www.codecon.dev/summit/quem-vai/erick-wendel" target="_blank">Codecon</a>
 
 
   
@@ -10295,7 +10375,7 @@ Abstract:
 _Tags: `nodejs`, `javascript`, `runtime`_
 
 
-Location: <a href="https://www.google.com/maps/?q=59.9125923,10.7522277" target="_blank">Oslo - OSL, Noruega</a>.
+Location: <a href="https://www.google.com/maps/?q=59.9125923,10.7522277" target="_blank">Oslo - OSL, Norway</a>.
 
 ### 2023-05-17 - A vida e as aventuras de desenvolvedor de software (pt-br)
 
@@ -11267,7 +11347,7 @@ Abstract:
 _Tags: `node.js`, `graphql`, `apolloserver`, `serverless`_
 
 
-Location: <a href="https://www.google.com/maps/?q=-30.0846697,-51.2480271" target="_blank">Porto Alegre - RS, Brazil</a>.
+Location: <a href="https://www.google.com/maps/?q=-30.0846697,-51.2480271" target="_blank">Porto Alegre - POA, Brazil</a>.
 
 ### 2019-08-17 - GraphQL + Apollo Server + Azure Functions = Magic (en-us)
 

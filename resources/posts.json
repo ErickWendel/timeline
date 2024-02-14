@@ -1,5 +1,77 @@
 [
   {
+    "title": "Dica para se tornar um Dev de respeito🔥",
+    "abstract": "Falando sobre tempo de dedicação, engajamento nas coisas e sentimento de estar aprendendo constantemente",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152993480238129153-NPIf?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152993480238129153-NPIf?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2024-01-16"
+    },
+  {
+    "title": "Dev, você é engajado?",
+    "abstract": "Falando sobre tempo de dedicação, engajamento nas coisas e sentimento de estar aprendendo constantemente",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152774596989988864-fWnW?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152774596989988864-fWnW?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2024-01-15"
+    },
+  {
+    "title": "Consiga sua primeira vaga como Dev JR😱🔥",
+    "abstract": "Dicas que funcionaram pra mim, quando estava procurando a primeira oportunidade",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152736682537107456-Xnt_?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152736682537107456-Xnt_?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2024-01-15"
+    },
+  {
+    "title": "Usar Rust no NODE??💥",
+    "abstract": "Sim! Existe até um projeto bem legal chamado Neon Bindings",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152676293082284033-WbK-?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152676293082284033-WbK-?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2024-01-15"
+    },
+  {
     "title": "Produção de conteúdo💥",
     "abstract": "Um pouco sobre os desafios de criar conteúdo técnico, desde esquecer de ligar a câmera para gravar",
     "type": "post",
