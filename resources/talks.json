@@ -3,8 +3,8 @@
     "title": "Recriando o Node.JS do zero",
     "abstract": "Explore uma jornada pelos runtimes do Javascript, do Node.js ao Deno, e aprenda como construir seu próprio runtime personalizado",
     "type": "talk",
+    "reach": 800,
     "event": {
-      "reach": 800,
       "link": "https://www.frontinpoa.com.br/",
       "name": "Frontin POA"
     },
@@ -27,8 +27,8 @@
     "title": "How to consume gigabytes of data in Javascript without slowing down applications",
     "abstract": "Learn how to measure data consumption in JavaScript and prevent applications from slowing down.",
     "type": "talk",
+    "reach": 1000,
     "event": {
-      "reach": 1000,
       "link": "http://nodeconf.co",
       "name": "NodeConf Colombia 2023"
     },
@@ -51,8 +51,8 @@
     "title": "Bun? Deno? Node.js? Recreating a JS Runtime from scratch",
     "abstract": "Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime",
     "type": "talk",
+    "reach": 600,
     "event": {
-        "reach": 600,
         "link": "https://www.linkedin.com/company/codemotion/",
         "name": "Codemotion Milan"
     },
@@ -75,8 +75,8 @@
     "title": " 10 must-know design patterns for JavaScript developers",
     "abstract": "This talk show you how to reuse code by applying known design patterns highly used in other programming languages",
     "type": "talk",
+    "reach": 150,
     "event": {
-        "reach": 150,
         "link": "https://www.schrodinger-hat.it/",
         "name": "Schrödinger Hat"
     },
@@ -99,8 +99,8 @@
     "title": "Node.js in 2023 – What’s New in the Node.js Native Test Runner",
     "abstract": "Node.js has been evolving fast. Jest? Mocha? What about using only Node.js without installing any additional libraries?",
     "type": "talk",
+    "reach": 600,
     "event": {
-        "reach": 600,
         "link": "https://revojs.ro/2023/speakers/erick-wendel/",
         "name": "Revo JS"
     },
@@ -123,8 +123,8 @@
     "title": "O próximo nível para desenvolvedores Web:Machine Learning em Navegadores",
     "abstract": "Explore o futuro da web: descubra como o Machine Learning está transformando a experiência do usuário nos navegadores",
     "type": "talk",
+    "reach": 50,
     "event": {
-        "reach": 50,
         "link": "https://guild.host/nodebr",
         "name": "NodeBR"
     },
@@ -147,8 +147,8 @@
     "title": "O segredo para processar terabytes de dados em JavaScript",
     "abstract": "Descubra os segredos por trás do processamento eficiente de terabytes de dados usando JavaScript",
     "type": "talk",
+    "reach": 700,
     "event": {
-        "reach": 700,
         "link": "https://www.codecon.dev/summit/quem-vai/erick-wendel",
         "name": "Codecon"
     },
