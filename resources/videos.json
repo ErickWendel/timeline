@@ -1,5 +1,35 @@
 [ 
   {
+    "title": "Se você não é curioso, dev não é para você!",
+    "abstract": "Área de dev tá dificil até para quem é experiente, mesmo com anos de estrada, muita bagagem, conhecimento estocado, ainda tá difícil. E aí o que fazer?",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/P4KgxqzqIfs?si=xznLPgL5X1UJse_4",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-01-15"
+    }, 
+  {
+    "title": "Deu erro? Deixa quebrar! || Erick Wendel",
+    "abstract": "Já pensou se você não usasse mais blocos de try catch para validar um erro de conexão de banco de dados, uma API indisponível, ou excessões gerais de aplicação?",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/OO33Sr4lQDU?si=XE83JrS6TqskK-UA",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-01-08"
+    }, 
+  {
     "title": "Sistemas feitos em JavaScript não são confiáveis?! Error Handling - Let it Crash - Graceful Shutdown",
     "abstract": "Nesse video, você vai descobrir como fazer suas aplicações JavaScript serem mais confiáveis, quais as dificuldades que o Primeagen pode ter tido e como não ter surpresas em produção",
     "type": "video",

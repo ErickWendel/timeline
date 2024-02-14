@@ -1,5 +1,16 @@
 [
-        {
+    {
+        "title": "WebXR Studies",
+        "abstract": " This repository contains various examples and experiments I've conducted while learning and exploring WebXR.",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/webxr-studies",
+        "tags": ["webXR","javascript", "nodejs"],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2024-01-11"
+    },
+
+    {
         "title": "JSExpertHub Pre-processing videos on browsers - Semana JS Expert 8.0",
         "abstract": "Pre processing videos before uploading in the browser 😏",
         "type": "project",
