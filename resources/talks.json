@@ -16,7 +16,7 @@
       "latitude": -30.0846697,
       "longitude": -51.2480271,
       "country": "Brazil",
-      "uf": "RS",
+      "uf": "POA",
       "city": "Porto Alegre"
         },
         "additionalLinks": [""],
@@ -54,7 +54,7 @@
     "event": {
         "reach": 600,
         "link": "https://www.linkedin.com/company/codemotion/",
-        "name": "Codemotion"
+        "name": "Codemotion Milan"
     },
     "slides": "https://www.icloud.com/keynote/039aIOI_SEX1fFvtZp9lNWsCg#recreating-nodejs-from-scratch-codemotion-milan-24102023",
     "photos": "",
@@ -63,9 +63,9 @@
     "location": {
       "latitude": 45.4517463,
       "longitude": 9.1633404,
-      "country": "Italia",
+      "country": "Italy",
       "uf": "IT",
-      "city": "Milão"
+      "city": "Milan"
         },
         "additionalLinks": [""],
         "language": "en-us",
@@ -87,9 +87,9 @@
     "location": {
       "latitude": 45.4846083,
       "longitude": 9.1961786,
-      "country": "Italia",
+      "country": "Italy",
       "uf": "IT",
-      "city": "Milão"
+      "city": "Milan"
         },
         "additionalLinks": [""],
         "language": "en-us",
@@ -111,7 +111,7 @@
     "location": {
       "latitude": 45.7669644,
       "longitude": 21.2287188,
-      "country": "Romênia",
+      "country": "Romania",
       "uf": "RO",
       "city": "Timisoara"
         },
@@ -125,7 +125,7 @@
     "type": "talk",
     "event": {
         "reach": 50,
-        "link": "https://www.linkedin.com/company/nodebr/",
+        "link": "https://guild.host/nodebr",
         "name": "NodeBR"
     },
     "slides": "https://www.icloud.com/keynote/065BSSFjTeEp72oUs4W_Z-BXg#machine-learning4devs-nodebr-sp-31082023",
@@ -149,7 +149,7 @@
     "type": "talk",
     "event": {
         "reach": 700,
-        "link": "https://www.linkedin.com/company/codecondev/",
+        "link": "https://www.codecon.dev/summit/quem-vai/erick-wendel",
         "name": "Codecon"
     },
     "slides": "https://bit.ly/o-segredo-para-processar-terabytes-em-js",
@@ -171,8 +171,8 @@
     "title": "10 must-know design patterns for Javascript Developers",
     "abstract": "Unlock the power of JavaScript with these 10 essential design patterns, boosting your development skills and code efficiency",
     "type": "talk",
+    "reach": 800,
     "event": {
-        "reach": 200,
         "link": "https://www.wearedevelopers.com/",
         "name": "We Are Developers"
     },
@@ -195,8 +195,8 @@
     "title": "Bun? Deno? Node.js? Recreating a JS Runtime from scratch",
     "abstract": "Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime",
     "type": "talk",
+    "reach": 700,
     "event": {
-        "reach": 700,
         "link": "https://www.nodetlv.com/",
         "name": "Node.TLV"
     },
@@ -276,7 +276,7 @@
     "location": {
       "latitude":59.9125923,
       "longitude":10.7522277,
-      "country": "Noruega",
+      "country": "Norway",
       "uf": "OSL",
       "city": "Oslo"
         },
@@ -1448,7 +1448,7 @@
       "latitude": -30.0846697,
       "longitude": -51.2480271,
       "country": "Brazil",
-      "uf": "RS",
+      "uf": "POA",
       "city": "Porto Alegre"
     },
     "additionalLinks": [
