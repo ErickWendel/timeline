@@ -1,5 +1,117 @@
 [ 
   {
+    "title": "Variáveis de Ambiente de forma nativa em Node.js",
+    "abstract": "Aprenda nesse video ler e validar variáveis de ambiente em Node.js (sem usar a lib dotenv)",
+    "type": "video",
+    "reach": 3444,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/91cu5GhS4JE?si=hTmg1g49SeGT7C_K",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-03-18"
+    }, 
+  {
+    "title": "Como fazer testes e2e + Bancos de dados",
+    "abstract": "Uma dúvida comum na hora de testar projetos de software é: como que eu faço para um teste não afetar o resultado do outro?",
+    "type": "video",
+    "reach": 7456,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/x2C-n5ybyqQ?si=tDzi5auNOo6jMqEJ",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-03-12"
+    }, 
+  {
+    "title": "Como processar videos de forma escalável",
+    "abstract": "Vou te mostrar como funciona o processamento de videos sob demanda, como criar seu próprio Youtube e economizar usando recursos da internet como Web Torrent",
+    "type": "video",
+    "reach": 13826,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/oTYX0chYJVg?si=F5lR-fdV5gH7l8kK",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-03-06"
+    }, 
+  {
+    "title": "Meu método para entregar software que funciona de primeira || Dicas de ouro",
+    "abstract": "Como eu desenvolvo testes automatizados, como divido minhas tarefas e o ferramental base que uso para iniciar um projeto",
+    "type": "video",
+    "reach": 17376,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/Eo9ZcvTIgS4?si=__3xYn8pDrP_BvSw",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-02-19"
+    }, 
+  {
+    "title": "O que é programação reativa?",
+    "abstract": "Vou te mostrar como transformei um código com más praticas, em um código melhor, usando programação reativa",
+    "type": "video",
+    "reach": 9397,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/-q5HhC71TBE?si=JmPKU8Qy3SbmgIr0",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-02-15"
+    }, 
+  {
+    "title": "Como criar uma linguagem de programação (na prática)",
+    "abstract": "Você vai entender todas as etapas de criação de uma linguagem de programação a partir de exemplos práticos.",
+    "type": "video",
+    "reach": 45258,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/l6_ub6qIYNg?si=gGCK88nL5EQn2rjz",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-02-01"
+    }, 
+    {
+    "title": "Projetos incríveis para programadores",
+    "abstract": "Eu to cansado de fazer CRUD. Se você é programador, você tem super poderes e nesse vídeo eu vou te provar que tem.",
+    "type": "video",
+    "reach": 6800,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/G9Mt5BcPeSE?si=E16FL4cf5l44Pdvr",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-01-22"
+    }, 
+  {
     "title": "Se você não é curioso, dev não é para você!",
     "abstract": "Área de dev tá dificil até para quem é experiente, mesmo com anos de estrada, muita bagagem, conhecimento estocado, ainda tá difícil. E aí o que fazer?",
     "type": "video",
