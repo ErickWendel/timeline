@@ -16,7 +16,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2024/January - 2015/July 
-* **Videos**: 2024/January - 2016/September 
+* **Videos**: 2024/March - 2016/September 
 * **Blog Posts**: 2024/January - 2015/February 
 * **Conference Talks**: 2023/December - 2015/January 
 
@@ -25,7 +25,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (21)](#projects)
-- [Videos (137)](#videos)
+- [Videos (144)](#videos)
 - [Blog Posts (420)](#blog-posts)
 - [Conference Talks (138)](#conference-talks)
 
@@ -302,6 +302,90 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/91cu5GhS4JE?si=hTmg1g49SeGT7C_K" target="_blank">2024-03-18 - Variáveis de Ambiente de forma nativa em Node.js (pt-br)</a>
+
+
+Abstract:
+
+> Aprenda nesse video ler e validar variáveis de ambiente em Node.js (sem usar a lib dotenv)
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/x2C-n5ybyqQ?si=tDzi5auNOo6jMqEJ" target="_blank">2024-03-12 - Como fazer testes e2e + Bancos de dados (pt-br)</a>
+
+
+Abstract:
+
+> Uma dúvida comum na hora de testar projetos de software é: como que eu faço para um teste não afetar o resultado do outro?
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/oTYX0chYJVg?si=F5lR-fdV5gH7l8kK" target="_blank">2024-03-06 - Como processar videos de forma escalável (pt-br)</a>
+
+
+Abstract:
+
+> Vou te mostrar como funciona o processamento de videos sob demanda, como criar seu próprio Youtube e economizar usando recursos da internet como Web Torrent
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/Eo9ZcvTIgS4?si=__3xYn8pDrP_BvSw" target="_blank">2024-02-19 - Meu método para entregar software que funciona de primeira || Dicas de ouro (pt-br)</a>
+
+
+Abstract:
+
+> Como eu desenvolvo testes automatizados, como divido minhas tarefas e o ferramental base que uso para iniciar um projeto
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/-q5HhC71TBE?si=JmPKU8Qy3SbmgIr0" target="_blank">2024-02-15 - O que é programação reativa? (pt-br)</a>
+
+
+Abstract:
+
+> Vou te mostrar como transformei um código com más praticas, em um código melhor, usando programação reativa
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/l6_ub6qIYNg?si=gGCK88nL5EQn2rjz" target="_blank">2024-02-01 - Como criar uma linguagem de programação (na prática) (pt-br)</a>
+
+
+Abstract:
+
+> Você vai entender todas as etapas de criação de uma linguagem de programação a partir de exemplos práticos.
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/G9Mt5BcPeSE?si=E16FL4cf5l44Pdvr" target="_blank">2024-01-22 - Projetos incríveis para programadores (pt-br)</a>
+
+
+Abstract:
+
+> Eu to cansado de fazer CRUD. Se você é programador, você tem super poderes e nesse vídeo eu vou te provar que tem.
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
 
 ### <a href="https://youtu.be/P4KgxqzqIfs?si=xznLPgL5X1UJse_4" target="_blank">2024-01-15 - Se você não é curioso, dev não é para você! (pt-br)</a>
 
