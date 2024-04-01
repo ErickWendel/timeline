@@ -25,7 +25,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (21)](#projects)
-- [Videos (144)](#videos)
+- [Videos (145)](#videos)
 - [Blog Posts (420)](#blog-posts)
 - [Conference Talks (138)](#conference-talks)
 
@@ -302,6 +302,18 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/rwyhw9UYHkA?si=QiLxu0rqDBeeFjaW" target="_blank">2024-03-25 - Como fazer testes unitários e testes e2e em aplicações serverless (pt-br)</a>
+
+
+Abstract:
+
+> Como fazer testes unitários, testes end to end e de quebra criar uma esteira de continuous integration usando GitHub Actions sem gastar um centavo? 
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
 
 ### <a href="https://youtu.be/91cu5GhS4JE?si=hTmg1g49SeGT7C_K" target="_blank">2024-03-18 - Variáveis de Ambiente de forma nativa em Node.js (pt-br)</a>
 

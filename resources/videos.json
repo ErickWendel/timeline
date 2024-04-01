@@ -1,5 +1,21 @@
 [ 
   {
+    "title": "Como fazer testes unitários e testes e2e em aplicações serverless",
+    "abstract": "Como fazer testes unitários, testes end to end e de quebra criar uma esteira de continuous integration usando GitHub Actions sem gastar um centavo? ",
+    "type": "video",
+    "reach": 4348,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/rwyhw9UYHkA?si=QiLxu0rqDBeeFjaW",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-03-25"
+    }, 
+  {
     "title": "Variáveis de Ambiente de forma nativa em Node.js",
     "abstract": "Aprenda nesse video ler e validar variáveis de ambiente em Node.js (sem usar a lib dotenv)",
     "type": "video",
