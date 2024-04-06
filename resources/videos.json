@@ -1,5 +1,21 @@
 [ 
   {
+    "title": "Podcast Olá, Gabs #37 Conheça o brasileiro mais premiado em software do mundo: Erick Wendel",
+    "abstract": "Conversa com um dos grandes desenvolvedores da comunidade de tecnologia brasileira.",
+    "type": "video",
+    "reach": 4348,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://open.spotify.com/episode/2TM1sIpkGlAhKvMdgVNO5I?si=dlv8ErQVROqiFligFN599g&nd=1&dlsi=9c674692fe8d47fa",
+    "tags": [
+      "Carreira",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-04-03"
+    }, 
+  {
     "title": "Como fazer testes unitários e testes e2e em aplicações serverless",
     "abstract": "Como fazer testes unitários, testes end to end e de quebra criar uma esteira de continuous integration usando GitHub Actions sem gastar um centavo? ",
     "type": "video",
