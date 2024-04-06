@@ -16,18 +16,18 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2024/January - 2015/July 
-* **Videos**: 2024/March - 2016/September 
+* **Videos**: 2024/April - 2016/September 
 * **Blog Posts**: 2024/January - 2015/February 
-* **Conference Talks**: 2023/December - 2015/January 
+* **Conference Talks**: 2024/March - 2015/January 
 
-#### Presentations' number: 138
+#### Presentations' number: 139
 
 ## Table of Contents
 
 - [Projects (21)](#projects)
-- [Videos (144)](#videos)
+- [Videos (146)](#videos)
 - [Blog Posts (420)](#blog-posts)
-- [Conference Talks (138)](#conference-talks)
+- [Conference Talks (139)](#conference-talks)
 
 ## Projects
 
@@ -302,6 +302,30 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://open.spotify.com/episode/2TM1sIpkGlAhKvMdgVNO5I?si=dlv8ErQVROqiFligFN599g&nd=1&dlsi=9c674692fe8d47fa" target="_blank">2024-04-03 - Podcast Olá, Gabs #37 Conheça o brasileiro mais premiado em software do mundo: Erick Wendel (pt-br)</a>
+
+
+Abstract:
+
+> Conversa com um dos grandes desenvolvedores da comunidade de tecnologia brasileira.
+> 
+> 
+
+
+_Tags: `Carreira`, `Javascript`_
+
+### <a href="https://youtu.be/rwyhw9UYHkA?si=QiLxu0rqDBeeFjaW" target="_blank">2024-03-25 - Como fazer testes unitários e testes e2e em aplicações serverless (pt-br)</a>
+
+
+Abstract:
+
+> Como fazer testes unitários, testes end to end e de quebra criar uma esteira de continuous integration usando GitHub Actions sem gastar um centavo? 
+> 
+> 
+
+
+_Tags: `Node.js`, `Javascript`_
 
 ### <a href="https://youtu.be/91cu5GhS4JE?si=hTmg1g49SeGT7C_K" target="_blank">2024-03-18 - Variáveis de Ambiente de forma nativa em Node.js (pt-br)</a>
 
@@ -10208,6 +10232,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2024-03-27 - Machine Learning en navegadores - Erick Wendel (es)
+
+
+<a href="https://www.meetup.com/medellinjs/events/299790940/" target="_blank">MedellínJS</a>
+
+
+<a href="https://www.icloud.com/keynote/0d87HCl8gPF88Q--BgwwcvrmQ#machine-learning4devs-medelinjs-medellin-27032024" target="_blank">slides</a> |   <a href="https://www.youtube.com/watch?v=AoIYeS9KFMc&t=541s" target="_blank">video</a>
+
+
+Abstract:
+
+> aprenda un nuevo mundo de posibilidades para disfrutar creando y experimentando con tecnologías de vanguardia usando TensorFlow.js como ejemplo
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=6.230833,-75.590553" target="_blank">Medellin - COL, Colombia</a>.
 
 ### 2023-12-02 - Recriando o Node.JS do zero (pt-br)
 
