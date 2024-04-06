@@ -16,7 +16,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2024/January - 2015/July 
-* **Videos**: 2024/March - 2016/September 
+* **Videos**: 2024/April - 2016/September 
 * **Blog Posts**: 2024/January - 2015/February 
 * **Conference Talks**: 2024/March - 2015/January 
 
@@ -25,7 +25,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (21)](#projects)
-- [Videos (145)](#videos)
+- [Videos (146)](#videos)
 - [Blog Posts (420)](#blog-posts)
 - [Conference Talks (139)](#conference-talks)
 
@@ -302,6 +302,18 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://open.spotify.com/episode/2TM1sIpkGlAhKvMdgVNO5I?si=dlv8ErQVROqiFligFN599g&nd=1&dlsi=9c674692fe8d47fa" target="_blank">2024-04-03 - Podcast Olá, Gabs #37 Conheça o brasileiro mais premiado em software do mundo: Erick Wendel (pt-br)</a>
+
+
+Abstract:
+
+> Conversa com um dos grandes desenvolvedores da comunidade de tecnologia brasileira.
+> 
+> 
+
+
+_Tags: `Carreira`, `Javascript`_
 
 ### <a href="https://youtu.be/rwyhw9UYHkA?si=QiLxu0rqDBeeFjaW" target="_blank">2024-03-25 - Como fazer testes unitários e testes e2e em aplicações serverless (pt-br)</a>
 
