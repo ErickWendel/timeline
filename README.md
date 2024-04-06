@@ -18,16 +18,16 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Projects**: 2024/January - 2015/July 
 * **Videos**: 2024/March - 2016/September 
 * **Blog Posts**: 2024/January - 2015/February 
-* **Conference Talks**: 2023/December - 2015/January 
+* **Conference Talks**: 2024/March - 2015/January 
 
-#### Presentations' number: 138
+#### Presentations' number: 139
 
 ## Table of Contents
 
 - [Projects (21)](#projects)
 - [Videos (145)](#videos)
 - [Blog Posts (420)](#blog-posts)
-- [Conference Talks (138)](#conference-talks)
+- [Conference Talks (139)](#conference-talks)
 
 ## Projects
 
@@ -10220,6 +10220,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2024-03-27 - Machine Learning en navegadores - Erick Wendel (es)
+
+
+<a href="https://www.meetup.com/medellinjs/events/299790940/" target="_blank">MedellínJS</a>
+
+
+<a href="https://www.icloud.com/keynote/0d87HCl8gPF88Q--BgwwcvrmQ#machine-learning4devs-medelinjs-medellin-27032024" target="_blank">slides</a> |   <a href="https://www.youtube.com/watch?v=AoIYeS9KFMc&t=541s" target="_blank">video</a>
+
+
+Abstract:
+
+> aprenda un nuevo mundo de posibilidades para disfrutar creando y experimentando con tecnologías de vanguardia usando TensorFlow.js como ejemplo
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=6.230833,-75.590553" target="_blank">Medellin - COL, Colombia</a>.
 
 ### 2023-12-02 - Recriando o Node.JS do zero (pt-br)
 
