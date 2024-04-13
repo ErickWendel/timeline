@@ -1,4 +1,20 @@
-[ 
+[
+  {
+    "title": "Cypress para Iniciantes - e2e tests em frontend apps",
+    "abstract": "Nesse video vou te mostrar como testar uma aplicação web do ponto de vista de usuários, inserindo valores, clicando em botões, disparando teclas e mais",
+    "type": "video",
+    "reach": 7558,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/56N0P67ffIA?si=juAIRaen82GXs5GM",
+    "tags": [
+      "Cypress",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-04-09"
+    }, 
   {
     "title": "Podcast Olá, Gabs #37 Conheça o brasileiro mais premiado em software do mundo: Erick Wendel",
     "abstract": "Conversa com um dos grandes desenvolvedores da comunidade de tecnologia brasileira.",
@@ -46,7 +62,23 @@
     ],
     "language": "pt-br",
     "date": "2024-03-18"
-    }, 
+    },
+    {
+      "title": "Qual o perfil de um programador de sucesso? Com @ErickWendelTraining",
+      "abstract": "entrevista ao canal Coda+Fala sobre dicas para iniciar na área de tecnologia e dicas para sua carreira",
+      "type": "video",
+      "reach": 2708,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://youtu.be/gUflvDjBI2U?si=pufolCLdt84pIdUD",
+      "tags": [
+        "Carreira",
+        "Javascript"
+      ],
+      "language": "pt-br",
+      "date": "2024-02-15"
+      },  
   {
     "title": "Como fazer testes e2e + Bancos de dados",
     "abstract": "Uma dúvida comum na hora de testar projetos de software é: como que eu faço para um teste não afetar o resultado do outro?",

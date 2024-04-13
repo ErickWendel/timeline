@@ -1,5 +1,15 @@
 [
     {
+        "title": "cypress-for-begginers",
+        "abstract": " This repository contains various examples and experiments I've conducted while learning and exploring WebXR.",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/cypress-for-begginers",
+        "tags": ["cypress","github-actions", "nodejs"],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2024-04-09"
+    },
+    {
         "title": "WebXR Studies",
         "abstract": " This repository contains various examples and experiments I've conducted while learning and exploring WebXR.",
         "type": "project",
