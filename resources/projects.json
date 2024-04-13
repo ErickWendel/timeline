@@ -1,7 +1,7 @@
 [
     {
         "title": "cypress-for-begginers",
-        "abstract": " This repository contains various examples and experiments I've conducted while learning and exploring WebXR.",
+        "abstract": "Examples and challenges of how to create e2e tests for frontend apps",
         "type": "project",
         "link": "https://github.com/ErickWendel/cypress-for-begginers",
         "tags": ["cypress","github-actions", "nodejs"],
