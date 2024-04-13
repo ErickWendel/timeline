@@ -15,7 +15,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 ### Contributions Summary
 
-* **Projects**: 2024/January - 2015/July 
+* **Projects**: 2024/April - 2015/July 
 * **Videos**: 2024/April - 2016/September 
 * **Blog Posts**: 2024/January - 2015/February 
 * **Conference Talks**: 2024/March - 2015/January 
@@ -24,12 +24,24 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 ## Table of Contents
 
-- [Projects (21)](#projects)
-- [Videos (146)](#videos)
+- [Projects (22)](#projects)
+- [Videos (148)](#videos)
 - [Blog Posts (420)](#blog-posts)
 - [Conference Talks (139)](#conference-talks)
 
 ## Projects
+
+### <a href="https://github.com/ErickWendel/cypress-for-begginers" target="_blank">2024-04-09 - cypress-for-begginers (en-us)</a>
+
+
+Abstract:
+
+> Examples and challenges of how to create e2e tests for frontend apps
+> 
+> 
+
+
+_Tags: `cypress`, `github-actions`, `nodejs`_
 
 ### <a href="https://github.com/ErickWendel/webxr-studies" target="_blank">2024-01-11 - WebXR Studies (en-us)</a>
 
@@ -303,6 +315,18 @@ _Tags: `translation`, `javascript`_
 
 ## Videos
 
+### <a href="https://youtu.be/56N0P67ffIA?si=juAIRaen82GXs5GM" target="_blank">2024-04-09 - Cypress para Iniciantes - e2e tests em frontend apps (pt-br)</a>
+
+
+Abstract:
+
+> Nesse video vou te mostrar como testar uma aplicação web do ponto de vista de usuários, inserindo valores, clicando em botões, disparando teclas e mais
+> 
+> 
+
+
+_Tags: `Cypress`, `Javascript`_
+
 ### <a href="https://open.spotify.com/episode/2TM1sIpkGlAhKvMdgVNO5I?si=dlv8ErQVROqiFligFN599g&nd=1&dlsi=9c674692fe8d47fa" target="_blank">2024-04-03 - Podcast Olá, Gabs #37 Conheça o brasileiro mais premiado em software do mundo: Erick Wendel (pt-br)</a>
 
 
@@ -374,6 +398,18 @@ Abstract:
 
 
 _Tags: `Node.js`, `Javascript`_
+
+### <a href="https://youtu.be/gUflvDjBI2U?si=pufolCLdt84pIdUD" target="_blank">2024-02-15 - Qual o perfil de um programador de sucesso? Com @ErickWendelTraining (pt-br)</a>
+
+
+Abstract:
+
+> entrevista ao canal Coda+Fala sobre dicas para iniciar na área de tecnologia e dicas para sua carreira
+> 
+> 
+
+
+_Tags: `Carreira`, `Javascript`_
 
 ### <a href="https://youtu.be/-q5HhC71TBE?si=JmPKU8Qy3SbmgIr0" target="_blank">2024-02-15 - O que é programação reativa? (pt-br)</a>
 
