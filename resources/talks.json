@@ -1,5 +1,53 @@
 [
   {
+    "title": "Machine Learning en navegadores - Erick Wendel",
+    "abstract": "aprenda un nuevo mundo de posibilidades para disfrutar creando y experimentando con tecnologías de vanguardia usando TensorFlow.js como ejemplo",
+    "type": "talk",
+    "reach": 400,
+    "event": {
+      "link": "https://www.meetup.com/medellinjs/events/299790940/",
+      "name": "MedellínJS"
+    },
+    "slides": "https://www.icloud.com/keynote/0d87HCl8gPF88Q--BgwwcvrmQ#machine-learning4devs-medelinjs-medellin-27032024",
+    "photos": "",
+    "video": "https://www.youtube.com/watch?v=AoIYeS9KFMc&t=541s",
+    "tags": ["javascript"],
+    "location": {
+      "latitude":  6.230833,
+      "longitude":  -75.590553,
+      "country": "Colombia",
+      "uf": "COL",
+      "city": "Medellin"
+        },
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-03-27"
+  },
+  {
+    "title": "Recriando o Node.JS do zero",
+    "abstract": "Explore uma jornada pelos runtimes do Javascript, do Node.js ao Deno, e aprenda como construir seu próprio runtime personalizado",
+    "type": "talk",
+    "reach": 800,
+    "event": {
+      "link": "https://www.frontinpoa.com.br/",
+      "name": "Frontin POA"
+    },
+    "slides": "https://www.icloud.com/keynote/060OLXDOZ0tblEdSF346cmnDg#recreating-nodejs-from-scratch-frontinpoa-01122023",
+    "photos": "",
+    "video": "",
+    "tags": ["javascript"],
+    "location": {
+      "latitude": -30.0846697,
+      "longitude": -51.2480271,
+      "country": "Brazil",
+      "uf": "POA",
+      "city": "Porto Alegre"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2023-12-02"
+  },
+  {
     "title": "How to consume gigabytes of data in Javascript without slowing down applications",
     "abstract": "Learn how to measure data consumption in JavaScript and prevent applications from slowing down.",
     "type": "talk",

@@ -1,4 +1,225 @@
-[ 
+[
+  {
+    "title": "Cypress para Iniciantes - e2e tests em frontend apps",
+    "abstract": "Nesse video vou te mostrar como testar uma aplicação web do ponto de vista de usuários, inserindo valores, clicando em botões, disparando teclas e mais",
+    "type": "video",
+    "reach": 7558,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/56N0P67ffIA?si=juAIRaen82GXs5GM",
+    "tags": [
+      "Cypress",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-04-09"
+    }, 
+  {
+    "title": "Podcast Olá, Gabs #37 Conheça o brasileiro mais premiado em software do mundo: Erick Wendel",
+    "abstract": "Conversa com um dos grandes desenvolvedores da comunidade de tecnologia brasileira.",
+    "type": "video",
+    "reach": 4348,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://open.spotify.com/episode/2TM1sIpkGlAhKvMdgVNO5I?si=dlv8ErQVROqiFligFN599g&nd=1&dlsi=9c674692fe8d47fa",
+    "tags": [
+      "Carreira",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-04-03"
+    }, 
+  {
+    "title": "Como fazer testes unitários e testes e2e em aplicações serverless",
+    "abstract": "Como fazer testes unitários, testes end to end e de quebra criar uma esteira de continuous integration usando GitHub Actions sem gastar um centavo? ",
+    "type": "video",
+    "reach": 4348,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/rwyhw9UYHkA?si=QiLxu0rqDBeeFjaW",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-03-25"
+    }, 
+  {
+    "title": "Variáveis de Ambiente de forma nativa em Node.js",
+    "abstract": "Aprenda nesse video ler e validar variáveis de ambiente em Node.js (sem usar a lib dotenv)",
+    "type": "video",
+    "reach": 3444,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/91cu5GhS4JE?si=hTmg1g49SeGT7C_K",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-03-18"
+    },
+    {
+      "title": "Qual o perfil de um programador de sucesso? Com @ErickWendelTraining",
+      "abstract": "entrevista ao canal Coda+Fala sobre dicas para iniciar na área de tecnologia e dicas para sua carreira",
+      "type": "video",
+      "reach": 2708,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://youtu.be/gUflvDjBI2U?si=pufolCLdt84pIdUD",
+      "tags": [
+        "Carreira",
+        "Javascript"
+      ],
+      "language": "pt-br",
+      "date": "2024-02-15"
+      },  
+  {
+    "title": "Como fazer testes e2e + Bancos de dados",
+    "abstract": "Uma dúvida comum na hora de testar projetos de software é: como que eu faço para um teste não afetar o resultado do outro?",
+    "type": "video",
+    "reach": 7456,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/x2C-n5ybyqQ?si=tDzi5auNOo6jMqEJ",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-03-12"
+    }, 
+  {
+    "title": "Como processar videos de forma escalável",
+    "abstract": "Vou te mostrar como funciona o processamento de videos sob demanda, como criar seu próprio Youtube e economizar usando recursos da internet como Web Torrent",
+    "type": "video",
+    "reach": 13826,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/oTYX0chYJVg?si=F5lR-fdV5gH7l8kK",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-03-06"
+    }, 
+  {
+    "title": "Meu método para entregar software que funciona de primeira || Dicas de ouro",
+    "abstract": "Como eu desenvolvo testes automatizados, como divido minhas tarefas e o ferramental base que uso para iniciar um projeto",
+    "type": "video",
+    "reach": 17376,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/Eo9ZcvTIgS4?si=__3xYn8pDrP_BvSw",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-02-19"
+    }, 
+  {
+    "title": "O que é programação reativa?",
+    "abstract": "Vou te mostrar como transformei um código com más praticas, em um código melhor, usando programação reativa",
+    "type": "video",
+    "reach": 9397,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/-q5HhC71TBE?si=JmPKU8Qy3SbmgIr0",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-02-15"
+    }, 
+  {
+    "title": "Como criar uma linguagem de programação (na prática)",
+    "abstract": "Você vai entender todas as etapas de criação de uma linguagem de programação a partir de exemplos práticos.",
+    "type": "video",
+    "reach": 45258,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/l6_ub6qIYNg?si=gGCK88nL5EQn2rjz",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-02-01"
+    }, 
+    {
+    "title": "Projetos incríveis para programadores",
+    "abstract": "Eu to cansado de fazer CRUD. Se você é programador, você tem super poderes e nesse vídeo eu vou te provar que tem.",
+    "type": "video",
+    "reach": 6800,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/G9Mt5BcPeSE?si=E16FL4cf5l44Pdvr",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-01-22"
+    }, 
+  {
+    "title": "Se você não é curioso, dev não é para você!",
+    "abstract": "Área de dev tá dificil até para quem é experiente, mesmo com anos de estrada, muita bagagem, conhecimento estocado, ainda tá difícil. E aí o que fazer?",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/P4KgxqzqIfs?si=xznLPgL5X1UJse_4",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-01-15"
+    }, 
+  {
+    "title": "Deu erro? Deixa quebrar! || Erick Wendel",
+    "abstract": "Já pensou se você não usasse mais blocos de try catch para validar um erro de conexão de banco de dados, uma API indisponível, ou excessões gerais de aplicação?",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/OO33Sr4lQDU?si=XE83JrS6TqskK-UA",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-01-08"
+    }, 
+  {
+    "title": "Sistemas feitos em JavaScript não são confiáveis?! Error Handling - Let it Crash - Graceful Shutdown",
+    "abstract": "Nesse video, você vai descobrir como fazer suas aplicações JavaScript serem mais confiáveis, quais as dificuldades que o Primeagen pode ter tido e como não ter surpresas em produção",
+    "type": "video",
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/watch?v=iC_tKAyLeag",
+    "tags": [
+      "Node.js",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2023-12-18"
+    }, 
   {
     "title": "O segredo para escalar aplicações JavaScript (mobile, desktop, web e mais)",
     "abstract": "Hoje eu trouxe o necessário para você poder processar terabytes de dados em JavaScript, entender o principal erro que todo mundo comete ao usar JavaScript",
