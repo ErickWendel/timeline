@@ -1,5 +1,15 @@
 [
     {
+        "title": "parallelizing-nodejs-ops",
+        "abstract": "Example of how to Migrate 1M items from MongoDB to Postgres in just a few minutes using Node.js child process",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/parallelizing-nodejs-ops",
+        "tags": ["node.js","mongodb", "postgres", "child process"],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2024-04-23"
+    },
+    {
         "title": "cypress-for-begginers",
         "abstract": "Examples and challenges of how to create e2e tests for frontend apps",
         "type": "project",

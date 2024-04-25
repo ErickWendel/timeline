@@ -24,12 +24,24 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 ## Table of Contents
 
-- [Projects (22)](#projects)
-- [Videos (148)](#videos)
+- [Projects (23)](#projects)
+- [Videos (149)](#videos)
 - [Blog Posts (420)](#blog-posts)
 - [Conference Talks (139)](#conference-talks)
 
 ## Projects
+
+### <a href="https://github.com/ErickWendel/parallelizing-nodejs-ops" target="_blank">2024-04-23 - parallelizing-nodejs-ops (en-us)</a>
+
+
+Abstract:
+
+> Example of how to Migrate 1M items from MongoDB to Postgres in just a few minutes using Node.js child process
+> 
+> 
+
+
+_Tags: `node.js`, `mongodb`, `postgres`, `child process`_
 
 ### <a href="https://github.com/ErickWendel/cypress-for-begginers" target="_blank">2024-04-09 - cypress-for-begginers (en-us)</a>
 
@@ -314,6 +326,18 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/EnK8-x8L9TY?si=IPQIo_Ht4rEZHptV" target="_blank">2024-04-23 - Aumentando em 999x a velocidade de processamento de dados com Node.js (pt-br)</a>
+
+
+Abstract:
+
+> Rapaz, você não vai acreditar, usei uma técnica de paralelismo em Node.js que reduziu o tempo de migração de dados de 2 horas para apenas 3 minutos
+> 
+> 
+
+
+_Tags: `Node.js`, `MongoDB`, `Postgres`, `Javascript`_
 
 ### <a href="https://youtu.be/56N0P67ffIA?si=juAIRaen82GXs5GM" target="_blank">2024-04-09 - Cypress para Iniciantes - e2e tests em frontend apps (pt-br)</a>
 

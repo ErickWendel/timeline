@@ -1,5 +1,23 @@
 [
   {
+    "title": "Aumentando em 999x a velocidade de processamento de dados com Node.js",
+    "abstract": "Rapaz, você não vai acreditar, usei uma técnica de paralelismo em Node.js que reduziu o tempo de migração de dados de 2 horas para apenas 3 minutos",
+    "type": "video",
+    "reach": 8973,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/EnK8-x8L9TY?si=IPQIo_Ht4rEZHptV",
+    "tags": [
+      "Node.js",
+      "MongoDB",
+      "Postgres",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-04-23"
+    }, 
+  {
     "title": "Cypress para Iniciantes - e2e tests em frontend apps",
     "abstract": "Nesse video vou te mostrar como testar uma aplicação web do ponto de vista de usuários, inserindo valores, clicando em botões, disparando teclas e mais",
     "type": "video",
