@@ -1,5 +1,41 @@
 [
   {
+    "title": "Node.js agora suporta TypeScript NATIVAMENTE 🤯🤯",
+    "abstract": "Usar TypeScript sem toda a complexidade adicional de configurações ou checagem vai ser um grande passo para a comunidade",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_nodejs-agora-suporta-typescript-nativamente-activity-7240357067364982785-xwlL?utm_source=share&utm_medium=member_desktop",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_nodejs-agora-suporta-typescript-nativamente-activity-7240357067364982785-xwlL?utm_source=share&utm_medium=member_desktop",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2024-09-13"
+    },
+    {
+      "title": "Feliz dia do programadoooooooor, que dia nostálgico 🤩",
+      "abstract": "este ano completei 10 anos como desenvolvedor e não poderia estar mais feliz🤩",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_feliz-dia-do-programadoooooooor-que-dia-activity-7240032988518875136-yd-o?utm_source=share&utm_medium=member_desktop",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_feliz-dia-do-programadoooooooor-que-dia-activity-7240032988518875136-yd-o?utm_source=share&utm_medium=member_desktop",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-09-13"
+  },
+  {
     "title": "Dica para se tornar um Dev de respeito🔥",
     "abstract": "Falando sobre tempo de dedicação, engajamento nas coisas e sentimento de estar aprendendo constantemente",
     "type": "post",

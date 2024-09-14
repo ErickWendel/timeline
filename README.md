@@ -16,18 +16,18 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2024/April - 2015/July 
-* **Videos**: 2024/April - 2016/September 
-* **Blog Posts**: 2024/January - 2015/February 
-* **Conference Talks**: 2024/March - 2015/January 
+* **Videos**: 2024/August - 2016/September 
+* **Blog Posts**: 2024/September - 2015/February 
+* **Conference Talks**: 2024/July - 2015/January 
 
-#### Presentations' number: 139
+#### Presentations' number: 140
 
 ## Table of Contents
 
 - [Projects (22)](#projects)
-- [Videos (148)](#videos)
-- [Blog Posts (420)](#blog-posts)
-- [Conference Talks (139)](#conference-talks)
+- [Videos (151)](#videos)
+- [Blog Posts (422)](#blog-posts)
+- [Conference Talks (140)](#conference-talks)
 
 ## Projects
 
@@ -314,6 +314,42 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://www.youtube.com/watch?v=UsPgk4qf-zs" target="_blank">2024-08-28 - Minhas cabacices trabalhando com Kubernetes (e o que não fazer) (pt-br)</a>
+
+
+Abstract:
+
+> Estou com 40 aplicações rodando no Kubernetes e ja fiz umas cabacices monstruosas que me geraram muitos aprendizados então serão várias dicas valiosas do campo de batalha
+> 
+> 
+
+
+_Tags: `Docker`, `Kubernetes`_
+
+### <a href="https://www.youtube.com/watch?v=Zb55HtzmQMA" target="_blank">2024-08-16 - Criando sites poderosos em 10 minutos (+ dicas incríveis) (pt-br)</a>
+
+
+Abstract:
+
+> Vou te mostrar como você pode criar sites dinâmicos para você acelerar seus projetos pessoais, tirar ideias do papel ou finalmente fazer seu site de portfolio de projetos
+> 
+> 
+
+
+_Tags: `WixStudio`, `Wix`, `PageBuilder`_
+
+### <a href="https://www.youtube.com/watch?v=1l6dgHqOiHU" target="_blank">2024-08-06 - Como monitorar a performance de apps Node.js (de graça) (pt-br)</a>
+
+
+Abstract:
+
+> Vvou te mostrar uma aplicação real, sendo monitorada usando o OpenTelemetry e Jaeger direto de um container docker, preparado para você adaptar e usar em produção
+> 
+> 
+
+
+_Tags: `Fastify`, `OpenTelemetry`, `Knex`_
 
 ### <a href="https://youtu.be/56N0P67ffIA?si=juAIRaen82GXs5GM" target="_blank">2024-04-09 - Cypress para Iniciantes - e2e tests em frontend apps (pt-br)</a>
 
@@ -2216,6 +2252,46 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-agora-suporta-typescript-nativamente-activity-7240357067364982785-xwlL?utm_source=share&utm_medium=member_desktop" target="_blank">2024-09-13 - Node.js agora suporta TypeScript NATIVAMENTE 🤯🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-agora-suporta-typescript-nativamente-activity-7240357067364982785-xwlL?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Usar TypeScript sem toda a complexidade adicional de configurações ou checagem vai ser um grande passo para a comunidade
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_feliz-dia-do-programadoooooooor-que-dia-activity-7240032988518875136-yd-o?utm_source=share&utm_medium=member_desktop" target="_blank">2024-09-13 - Feliz dia do programadoooooooor, que dia nostálgico 🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_feliz-dia-do-programadoooooooor-que-dia-activity-7240032988518875136-yd-o?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> este ano completei 10 anos como desenvolvedor e não poderia estar mais feliz🤩
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152993480238129153-NPIf?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-16 - Dica para se tornar um Dev de respeito🔥 (pt-br)</a>
 
@@ -10268,6 +10344,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2024-07-08 - “Procesando Terabytes de datos con JavaScript (es)
+
+
+<a href="https://platzi.com/cursos/platziconfbogota2024/?blog=&gateway=platzi.com%2Fconf%2F" target="_blank">MedellínJS</a>
+
+
+<a href="completar" target="_blank">slides</a> |   <a href="https://platzi.com/clases/10695-platziconfbogota2024/71270-the-secret-to-processing-terabytes-of-data-in-java/" target="_blank">video</a>
+
+
+Abstract:
+
+> Usando JavaScript para cosas que dicen ser imposibles!
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=6.230833,-75.590553" target="_blank">Medellin - COL, Colombia</a>.
 
 ### 2024-03-27 - Machine Learning en navegadores - Erick Wendel (es)
 

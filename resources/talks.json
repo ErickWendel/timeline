@@ -1,5 +1,29 @@
 [
   {
+    "title": "“Procesando Terabytes de datos con JavaScript",
+    "abstract": "Usando JavaScript para cosas que dicen ser imposibles!",
+    "type": "talk",
+    "reach": 800,
+    "event": {
+      "link": "https://platzi.com/cursos/platziconfbogota2024/?blog=&gateway=platzi.com%2Fconf%2F",
+      "name": "MedellínJS"
+    },
+    "slides": "completar",
+    "photos": "",
+    "video": "https://platzi.com/clases/10695-platziconfbogota2024/71270-the-secret-to-processing-terabytes-of-data-in-java/",
+    "tags": ["javascript"],
+    "location": {
+      "latitude":  6.230833,
+      "longitude":  -75.590553,
+      "country": "Colombia",
+      "uf": "COL",
+      "city": "Medellin"
+        },
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-07-08"
+  },
+  {
     "title": "Machine Learning en navegadores - Erick Wendel",
     "abstract": "aprenda un nuevo mundo de posibilidades para disfrutar creando y experimentando con tecnologías de vanguardia usando TensorFlow.js como ejemplo",
     "type": "talk",
