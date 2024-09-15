@@ -34,7 +34,7 @@
       },
       {
         "title": "Como monitorar a performance de apps Node.js (de graça)",
-        "abstract": "Vvou te mostrar uma aplicação real, sendo monitorada usando o OpenTelemetry e Jaeger direto de um container docker, preparado para você adaptar e usar em produção",
+        "abstract": "Vou te mostrar uma aplicação real, sendo monitorada usando o OpenTelemetry e Jaeger direto de um container docker, preparado para você adaptar e usar em produção",
         "type": "video",
         "reach": 9375,
         "additionalLinks": [
@@ -49,6 +49,23 @@
         "language": "pt-br",
         "date": "2024-08-06"
   },
+  {
+    "title": "Virei Dev Low Code (oh no) - Construindo apps 10x mais rápido",
+    "abstract": "Vou te mostrar como você pode criar uma Web API completa usando uma ferramenta de Low code, feita em Node.js chamada Nodered e de quebra te contar um pouco das coisas que ando fazendo por aqui.",
+    "type": "video",
+    "reach": 18604,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/watch?v=Vyr-kF8PeKQ",
+    "tags": [
+      "Nodered",
+      "Lowcode",
+      "DicasDev"
+    ],
+    "language": "pt-br",
+    "date": "2024-07-19"
+  }, 
   {
     "title": "Cypress para Iniciantes - e2e tests em frontend apps",
     "abstract": "Nesse video vou te mostrar como testar uma aplicação web do ponto de vista de usuários, inserindo valores, clicando em botões, disparando teclas e mais",
