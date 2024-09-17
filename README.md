@@ -20,14 +20,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2024/September - 2015/February 
 * **Conference Talks**: 2024/July - 2015/January 
 
-#### Presentations' number: 140
+#### Presentations' number: 146
 
 ## Table of Contents
 
 - [Projects (22)](#projects)
-- [Videos (151)](#videos)
+- [Videos (153)](#videos)
 - [Blog Posts (422)](#blog-posts)
-- [Conference Talks (140)](#conference-talks)
+- [Conference Talks (146)](#conference-talks)
 
 ## Projects
 
@@ -344,12 +344,36 @@ _Tags: `WixStudio`, `Wix`, `PageBuilder`_
 
 Abstract:
 
-> Vvou te mostrar uma aplicação real, sendo monitorada usando o OpenTelemetry e Jaeger direto de um container docker, preparado para você adaptar e usar em produção
+> Vou te mostrar uma aplicação real, sendo monitorada usando o OpenTelemetry e Jaeger direto de um container docker, preparado para você adaptar e usar em produção
 > 
 > 
 
 
 _Tags: `Fastify`, `OpenTelemetry`, `Knex`_
+
+### <a href="https://www.youtube.com/watch?v=Vyr-kF8PeKQ" target="_blank">2024-07-19 - Virei Dev Low Code (oh no) - Construindo apps 10x mais rápido (pt-br)</a>
+
+
+Abstract:
+
+> Vou te mostrar como você pode criar uma Web API completa usando uma ferramenta de Low code, feita em Node.js chamada Nodered e de quebra te contar um pouco das coisas que ando fazendo por aqui.
+> 
+> 
+
+
+_Tags: `Nodered`, `Lowcode`, `DicasDev`_
+
+### <a href="https://www.youtube.com/live/rS8qROIrx3k" target="_blank">2024-07-15 - AULÃO - AUMENTANDO A PERFORMANCE DE APPS EM JAVASCRIPT (pt-br)</a>
+
+
+Abstract:
+
+> Vou te mostrar, 100% na prática, como corrigir problemas de lentidão, apps mal configurados, como analisar a performance usando testes de carga e muito, muito mais!
+> 
+> 
+
+
+_Tags: `Node.js`, `Performance`, `JavaScript`_
 
 ### <a href="https://youtu.be/56N0P67ffIA?si=juAIRaen82GXs5GM" target="_blank">2024-04-09 - Cypress para Iniciantes - e2e tests em frontend apps (pt-br)</a>
 
@@ -10351,7 +10375,7 @@ _Tags: `aspnet`, `c#`, `jquery`_
 <a href="https://platzi.com/cursos/platziconfbogota2024/?blog=&gateway=platzi.com%2Fconf%2F" target="_blank">MedellínJS</a>
 
 
-<a href="completar" target="_blank">slides</a> |   <a href="https://platzi.com/clases/10695-platziconfbogota2024/71270-the-secret-to-processing-terabytes-of-data-in-java/" target="_blank">video</a>
+<a href="https://www.icloud.com/keynote/0a6CTlfec9tO8GQV6JQm5vgXg#El-secreto-para-procesar-terabytes-de-datos-en-JavaScript-platziconf-07092024" target="_blank">slides</a> |   <a href="https://platzi.com/clases/10695-platziconfbogota2024/71270-the-secret-to-processing-terabytes-of-data-in-java/" target="_blank">video</a>
 
 
 Abstract:
@@ -10365,6 +10389,132 @@ _Tags: `javascript`_
 
 
 Location: <a href="https://www.google.com/maps/?q=6.230833,-75.590553" target="_blank">Medellin - COL, Colombia</a>.
+
+### 2024-06-25 - “The Secret to Processing Terabytes of Data in JavaScript (es)
+
+
+<a href="https://www.nodetlv.com/" target="_blank">Node.TLV</a>
+
+
+<a href="completar" target="_blank">slides</a> |   <a href="https://www.youtube.com/watch?v=xqNNOuMeKCk" target="_blank">video</a>
+
+
+Abstract:
+
+> Using JavaScript for things that are said to be impossible!
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=32.166313,34.843311" target="_blank">Tel Aviv - IL, Israel</a>.
+
+### 2024-06-15 - “WebXR? Virtual Reality and Augmented Reality Natively on Browsers (es)
+
+
+<a href="https://gitnation.com/events/c3-festival-2024" target="_blank">C3devFest</a>
+
+
+<a href="https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation" target="_blank">slides</a> |   <a href="https://gitnation.com/contents/webxr-virtual-reality-and-augmented-reality-natively-on-browsers-2398" target="_blank">video</a>
+
+
+Abstract:
+
+> This presentation explores the possibilities of WebXR and AR games, emphasizing the versatility of A-frame for creating AR and VR projects
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=52.3738,4.89093" target="_blank">Amsterdam - NED, Netherlands</a>.
+
+### 2024-06-13 - “WebXR? Virtual Reality and Augmented Reality Natively on Browsers (es)
+
+
+<a href="https://jsnation.com/schedule-offline" target="_blank">Js Nation</a>
+
+
+<a href="https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation" target="_blank">slides</a> |   <a href="https://gitnation.com/person/erick_wendel" target="_blank">video</a>
+
+
+Abstract:
+
+> This presentation explores the possibilities of WebXR and AR games, emphasizing the versatility of A-frame for creating AR and VR projects
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=52.3738,4.89093" target="_blank">Amsterdam - NED, Netherlands</a>.
+
+### 2024-06-08 - “Workshop NodeJS Masterclass (es)
+
+
+<a href="https://www.linkedin.com/posts/cityjs-conferences_angular-nodejs-typescript-activity-7186294334307127297-wvEI?utm_source=share&utm_medium=member_desktop" target="_blank">CityJS World series Athens 2024</a>
+
+
+  
+
+
+Abstract:
+
+> Learn the advanced Node.js concepts that will take your skills to the next level
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=37.992767,23.79597" target="_blank">Athens - GR, Greece</a>.
+
+### 2024-05-21 - “WebXR? Virtual Reality and Augmented Reality Natively on Browsers (es)
+
+
+<a href="https://conferences.codemotion.com/madrid2024/en/speakers/" target="_blank">Codemotion Madrid</a>
+
+
+  
+
+
+Abstract:
+
+> This presentation explores the possibilities of WebXR and AR games, emphasizing the versatility of A-frame for creating AR and VR projects
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=40.4167,-3.70325" target="_blank">Madrid - ES, Spain</a>.
+
+### 2024-04-26 - “Webxr? Realidade virtual e aumentada nativamente em navegadores (pt-br)
+
+
+<a href="https://conf.braziljs.org/" target="_blank">BrazilJS Conference 2024</a>
+
+
+<a href="https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation" target="_blank">slides</a> |   <a href="https://youtu.be/HhqkWinUHAI?si=GDMOGUPQ0smVazHH" target="_blank">video</a>
+
+
+Abstract:
+
+> Explorea as possibilidades dos jogos WebXR e AR, enfatizando a versatilidade do A-frame para a criação de projetos de AR e VR
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-30.0846697,-51.2480271" target="_blank">Porto Alegre - POA, Brazil</a>.
 
 ### 2024-03-27 - Machine Learning en navegadores - Erick Wendel (es)
 

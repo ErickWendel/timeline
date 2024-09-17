@@ -8,7 +8,7 @@
       "link": "https://platzi.com/cursos/platziconfbogota2024/?blog=&gateway=platzi.com%2Fconf%2F",
       "name": "MedellínJS"
     },
-    "slides": "completar",
+    "slides": "https://www.icloud.com/keynote/0a6CTlfec9tO8GQV6JQm5vgXg#El-secreto-para-procesar-terabytes-de-datos-en-JavaScript-platziconf-07092024",
     "photos": "",
     "video": "https://platzi.com/clases/10695-platziconfbogota2024/71270-the-secret-to-processing-terabytes-of-data-in-java/",
     "tags": ["javascript"],
@@ -24,17 +24,17 @@
         "date": "2024-07-08"
   },
   {
-    "title": "“Procesando Terabytes de datos con JavaScript",
-    "abstract": "Usando JavaScript para cosas que dicen ser imposibles!",
+    "title": "“The Secret to Processing Terabytes of Data in JavaScript",
+    "abstract": "Using JavaScript for things that are said to be impossible!",
     "type": "talk",
     "reach": 500,
     "event": {
-      "link": "",
+      "link": "https://www.nodetlv.com/",
       "name": "Node.TLV"
     },
     "slides": "completar",
     "photos": "",
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=xqNNOuMeKCk",
     "tags": ["javascript"],
     "location": {
       "latitude": 32.166313,
@@ -48,17 +48,17 @@
         "date": "2024-06-25"
   },
   {
-    "title": "“Procesando Terabytes de datos con JavaScript",
-    "abstract": "Usando JavaScript para cosas que dicen ser imposibles!",
+    "title": "“WebXR? Virtual Reality and Augmented Reality Natively on Browsers",
+    "abstract": "This presentation explores the possibilities of WebXR and AR games, emphasizing the versatility of A-frame for creating AR and VR projects",
     "type": "talk",
     "reach": 300,
     "event": {
-      "link": "https://platzi.com/cursos/platziconfbogota2024/?blog=&gateway=platzi.com%2Fconf%2F",
+      "link": "https://gitnation.com/events/c3-festival-2024",
       "name": "C3devFest"
     },
     "slides": "https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation",
     "photos": "",
-    "video": "",
+    "video": "https://gitnation.com/contents/webxr-virtual-reality-and-augmented-reality-natively-on-browsers-2398",
     "tags": ["javascript"],
     "location": {
       "latitude":52.3738,
@@ -72,17 +72,17 @@
         "date": "2024-06-15"
   },
   {
-    "title": "“Procesando Terabytes de datos con JavaScript",
-    "abstract": "Usando JavaScript para cosas que dicen ser imposibles!",
+   "title": "“WebXR? Virtual Reality and Augmented Reality Natively on Browsers",
+    "abstract": "This presentation explores the possibilities of WebXR and AR games, emphasizing the versatility of A-frame for creating AR and VR projects",
     "type": "talk",
     "reach": 700,
     "event": {
-      "link": "https://platzi.com/cursos/platziconfbogota2024/?blog=&gateway=platzi.com%2Fconf%2F",
+      "link": "https://jsnation.com/schedule-offline",
       "name": "Js Nation"
     },
     "slides": "https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation",
     "photos": "",
-    "video": "",
+    "video": "https://gitnation.com/person/erick_wendel",
     "tags": ["javascript"],
     "location": {
       "latitude":52.3738,
@@ -96,15 +96,15 @@
         "date": "2024-06-13"
   },
   {
-    "title": "“Procesando Terabytes de datos con JavaScript",
-    "abstract": "Usando JavaScript para cosas que dicen ser imposibles!",
+    "title": "“Workshop NodeJS Masterclass",
+    "abstract": "Learn the advanced Node.js concepts that will take your skills to the next level",
     "type": "talk",
     "reach": 500,
     "event": {
-      "link": "",
-      "name": "CityJS World series Greece 2024"
+      "link": "https://www.linkedin.com/posts/cityjs-conferences_angular-nodejs-typescript-activity-7186294334307127297-wvEI?utm_source=share&utm_medium=member_desktop",
+      "name": "CityJS World series Athens 2024"
     },
-    "slides": "https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation",
+    "slides": "",
     "photos": "",
     "video": "",
     "tags": ["javascript"],
@@ -120,12 +120,12 @@
         "date": "2024-06-08"
   },
   {
-    "title": "“Procesando Terabytes de datos con JavaScript",
-    "abstract": "Usando JavaScript para cosas que dicen ser imposibles!",
+    "title": "“WebXR? Virtual Reality and Augmented Reality Natively on Browsers",
+    "abstract": "This presentation explores the possibilities of WebXR and AR games, emphasizing the versatility of A-frame for creating AR and VR projects",
     "type": "talk",
     "reach": 500,
     "event": {
-      "link": "",
+      "link": "https://conferences.codemotion.com/madrid2024/en/speakers/",
       "name": "Codemotion Madrid"
     },
     "slides": "https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation",
@@ -144,17 +144,17 @@
         "date": "2024-05-21"
   },
   {
-    "title": "“Procesando Terabytes de datos con JavaScript",
-    "abstract": "Usando JavaScript para cosas que dicen ser imposibles!",
+    "title": "“Webxr? Realidade virtual e aumentada nativamente em navegadores",
+    "abstract": "Explorea as possibilidades dos jogos WebXR e AR, enfatizando a versatilidade do A-frame para a criação de projetos de AR e VR",
     "type": "talk",
     "reach": 1500,
     "event": {
-      "link": "",
+      "link": "https://conf.braziljs.org/",
       "name": "BrazilJS Conference 2024"
     },
     "slides": "https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation",
     "photos": "",
-    "video": "",
+    "video": "https://youtu.be/HhqkWinUHAI?si=GDMOGUPQ0smVazHH",
     "tags": ["javascript"],
     "location": {
       "latitude": -30.0846697,
