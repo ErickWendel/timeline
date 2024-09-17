@@ -67,6 +67,23 @@
     "date": "2024-07-19"
   }, 
   {
+    "title": "AULÃO - AUMENTANDO A PERFORMANCE DE APPS EM JAVASCRIPT",
+    "abstract": "Vou te mostrar, 100% na prática, como corrigir problemas de lentidão, apps mal configurados, como analisar a performance usando testes de carga e muito, muito mais!",
+    "type": "video",
+    "reach": 18604,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/live/rS8qROIrx3k",
+    "tags": [
+      "Node.js",
+      "Performance",
+      "JavaScript"
+    ],
+    "language": "pt-br",
+    "date": "2024-07-15"
+  }, 
+  {
     "title": "Cypress para Iniciantes - e2e tests em frontend apps",
     "abstract": "Nesse video vou te mostrar como testar uma aplicação web do ponto de vista de usuários, inserindo valores, clicando em botões, disparando teclas e mais",
     "type": "video",

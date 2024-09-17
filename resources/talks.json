@@ -24,6 +24,150 @@
         "date": "2024-07-08"
   },
   {
+    "title": "“Procesando Terabytes de datos con JavaScript",
+    "abstract": "Usando JavaScript para cosas que dicen ser imposibles!",
+    "type": "talk",
+    "reach": 500,
+    "event": {
+      "link": "",
+      "name": "Node.TLV"
+    },
+    "slides": "completar",
+    "photos": "",
+    "video": "",
+    "tags": ["javascript"],
+    "location": {
+      "latitude": 32.166313,
+      "longitude": 34.843311,
+      "country": "Israel",
+      "uf": "IL",
+      "city": "Tel Aviv"
+        },
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-06-25"
+  },
+  {
+    "title": "“Procesando Terabytes de datos con JavaScript",
+    "abstract": "Usando JavaScript para cosas que dicen ser imposibles!",
+    "type": "talk",
+    "reach": 300,
+    "event": {
+      "link": "https://platzi.com/cursos/platziconfbogota2024/?blog=&gateway=platzi.com%2Fconf%2F",
+      "name": "C3devFest"
+    },
+    "slides": "https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation",
+    "photos": "",
+    "video": "",
+    "tags": ["javascript"],
+    "location": {
+      "latitude":52.3738,
+      "longitude":4.89093,
+      "country": "Netherlands",
+      "uf": "NED",
+      "city": "Amsterdam"
+        },
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-06-15"
+  },
+  {
+    "title": "“Procesando Terabytes de datos con JavaScript",
+    "abstract": "Usando JavaScript para cosas que dicen ser imposibles!",
+    "type": "talk",
+    "reach": 700,
+    "event": {
+      "link": "https://platzi.com/cursos/platziconfbogota2024/?blog=&gateway=platzi.com%2Fconf%2F",
+      "name": "Js Nation"
+    },
+    "slides": "https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation",
+    "photos": "",
+    "video": "",
+    "tags": ["javascript"],
+    "location": {
+      "latitude":52.3738,
+      "longitude":4.89093,
+      "country": "Netherlands",
+      "uf": "NED",
+      "city": "Amsterdam"
+        },
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-06-13"
+  },
+  {
+    "title": "“Procesando Terabytes de datos con JavaScript",
+    "abstract": "Usando JavaScript para cosas que dicen ser imposibles!",
+    "type": "talk",
+    "reach": 500,
+    "event": {
+      "link": "",
+      "name": "CityJS World series Greece 2024"
+    },
+    "slides": "https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation",
+    "photos": "",
+    "video": "",
+    "tags": ["javascript"],
+    "location": {
+      "latitude": 37.992767,
+      "longitude": 23.795970,
+      "country": "Greece",
+      "uf": "GR",
+      "city": "Athens"
+    },
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-06-08"
+  },
+  {
+    "title": "“Procesando Terabytes de datos con JavaScript",
+    "abstract": "Usando JavaScript para cosas que dicen ser imposibles!",
+    "type": "talk",
+    "reach": 500,
+    "event": {
+      "link": "",
+      "name": "Codemotion Madrid"
+    },
+    "slides": "https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation",
+    "photos": "",
+    "video": "",
+    "tags": ["javascript"],
+    "location": {
+      "latitude": 40.4167,
+      "longitude": -3.70325,
+      "country": "Spain",
+      "uf": "ES",
+      "city": "Madrid"
+    },
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-05-21"
+  },
+  {
+    "title": "“Procesando Terabytes de datos con JavaScript",
+    "abstract": "Usando JavaScript para cosas que dicen ser imposibles!",
+    "type": "talk",
+    "reach": 1500,
+    "event": {
+      "link": "",
+      "name": "BrazilJS Conference 2024"
+    },
+    "slides": "https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation",
+    "photos": "",
+    "video": "",
+    "tags": ["javascript"],
+    "location": {
+      "latitude": -30.0846697,
+      "longitude": -51.2480271,
+      "country": "Brazil",
+      "uf": "POA",
+      "city": "Porto Alegre"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2024-04-26"
+  },
+  {
     "title": "Machine Learning en navegadores - Erick Wendel",
     "abstract": "aprenda un nuevo mundo de posibilidades para disfrutar creando y experimentando con tecnologías de vanguardia usando TensorFlow.js como ejemplo",
     "type": "talk",
