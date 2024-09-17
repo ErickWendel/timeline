@@ -10396,7 +10396,7 @@ Location: <a href="https://www.google.com/maps/?q=6.230833,-75.590553" target="_
 <a href="https://www.nodetlv.com/" target="_blank">Node.TLV</a>
 
 
-<a href="completar" target="_blank">slides</a> |   <a href="https://www.youtube.com/watch?v=xqNNOuMeKCk" target="_blank">video</a>
+  <a href="https://www.youtube.com/watch?v=xqNNOuMeKCk" target="_blank">video</a>
 
 
 Abstract:
