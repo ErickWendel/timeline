@@ -1,5 +1,173 @@
 [
   {
+    "title": "“Procesando Terabytes de datos con JavaScript",
+    "abstract": "Usando JavaScript para cosas que dicen ser imposibles!",
+    "type": "talk",
+    "reach": 800,
+    "event": {
+      "link": "https://platzi.com/cursos/platziconfbogota2024/?blog=&gateway=platzi.com%2Fconf%2F",
+      "name": "MedellínJS"
+    },
+    "slides": "https://www.icloud.com/keynote/0a6CTlfec9tO8GQV6JQm5vgXg#El-secreto-para-procesar-terabytes-de-datos-en-JavaScript-platziconf-07092024",
+    "photos": "",
+    "video": "https://platzi.com/clases/10695-platziconfbogota2024/71270-the-secret-to-processing-terabytes-of-data-in-java/",
+    "tags": ["javascript"],
+    "location": {
+      "latitude":  6.230833,
+      "longitude":  -75.590553,
+      "country": "Colombia",
+      "uf": "COL",
+      "city": "Medellin"
+        },
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-07-08"
+  },
+  {
+    "title": "“The Secret to Processing Terabytes of Data in JavaScript",
+    "abstract": "Using JavaScript for things that are said to be impossible!",
+    "type": "talk",
+    "reach": 500,
+    "event": {
+      "link": "https://www.nodetlv.com/",
+      "name": "Node.TLV"
+    },
+    "slides": "",
+    "photos": "",
+    "video": "https://www.youtube.com/watch?v=xqNNOuMeKCk",
+    "tags": ["javascript"],
+    "location": {
+      "latitude": 32.166313,
+      "longitude": 34.843311,
+      "country": "Israel",
+      "uf": "IL",
+      "city": "Tel Aviv"
+        },
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-06-25"
+  },
+  {
+    "title": "“WebXR? Virtual Reality and Augmented Reality Natively on Browsers",
+    "abstract": "This presentation explores the possibilities of WebXR and AR games, emphasizing the versatility of A-frame for creating AR and VR projects",
+    "type": "talk",
+    "reach": 300,
+    "event": {
+      "link": "https://gitnation.com/events/c3-festival-2024",
+      "name": "C3devFest"
+    },
+    "slides": "https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation",
+    "photos": "",
+    "video": "https://gitnation.com/contents/webxr-virtual-reality-and-augmented-reality-natively-on-browsers-2398",
+    "tags": ["javascript"],
+    "location": {
+      "latitude":52.3738,
+      "longitude":4.89093,
+      "country": "Netherlands",
+      "uf": "NED",
+      "city": "Amsterdam"
+        },
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-06-15"
+  },
+  {
+   "title": "“WebXR? Virtual Reality and Augmented Reality Natively on Browsers",
+    "abstract": "This presentation explores the possibilities of WebXR and AR games, emphasizing the versatility of A-frame for creating AR and VR projects",
+    "type": "talk",
+    "reach": 700,
+    "event": {
+      "link": "https://jsnation.com/schedule-offline",
+      "name": "Js Nation"
+    },
+    "slides": "https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation",
+    "photos": "",
+    "video": "https://gitnation.com/person/erick_wendel",
+    "tags": ["javascript"],
+    "location": {
+      "latitude":52.3738,
+      "longitude":4.89093,
+      "country": "Netherlands",
+      "uf": "NED",
+      "city": "Amsterdam"
+        },
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-06-13"
+  },
+  {
+    "title": "“Workshop NodeJS Masterclass",
+    "abstract": "Learn the advanced Node.js concepts that will take your skills to the next level",
+    "type": "talk",
+    "reach": 500,
+    "event": {
+      "link": "https://www.linkedin.com/posts/cityjs-conferences_angular-nodejs-typescript-activity-7186294334307127297-wvEI?utm_source=share&utm_medium=member_desktop",
+      "name": "CityJS World series Athens 2024"
+    },
+    "slides": "",
+    "photos": "",
+    "video": "",
+    "tags": ["javascript"],
+    "location": {
+      "latitude": 37.992767,
+      "longitude": 23.795970,
+      "country": "Greece",
+      "uf": "GR",
+      "city": "Athens"
+    },
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-06-08"
+  },
+  {
+    "title": "“WebXR? Virtual Reality and Augmented Reality Natively on Browsers",
+    "abstract": "This presentation explores the possibilities of WebXR and AR games, emphasizing the versatility of A-frame for creating AR and VR projects",
+    "type": "talk",
+    "reach": 500,
+    "event": {
+      "link": "https://conferences.codemotion.com/madrid2024/en/speakers/",
+      "name": "Codemotion Madrid"
+    },
+    "slides": "https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation",
+    "photos": "",
+    "video": "",
+    "tags": ["javascript"],
+    "location": {
+      "latitude": 40.4167,
+      "longitude": -3.70325,
+      "country": "Spain",
+      "uf": "ES",
+      "city": "Madrid"
+    },
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-05-21"
+  },
+  {
+    "title": "“Webxr? Realidade virtual e aumentada nativamente em navegadores",
+    "abstract": "Explorea as possibilidades dos jogos WebXR e AR, enfatizando a versatilidade do A-frame para a criação de projetos de AR e VR",
+    "type": "talk",
+    "reach": 1500,
+    "event": {
+      "link": "https://conf.braziljs.org/",
+      "name": "BrazilJS Conference 2024"
+    },
+    "slides": "https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation",
+    "photos": "",
+    "video": "https://youtu.be/HhqkWinUHAI?si=GDMOGUPQ0smVazHH",
+    "tags": ["javascript"],
+    "location": {
+      "latitude": -30.0846697,
+      "longitude": -51.2480271,
+      "country": "Brazil",
+      "uf": "POA",
+      "city": "Porto Alegre"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2024-04-26"
+  },
+  {
     "title": "Machine Learning en navegadores - Erick Wendel",
     "abstract": "aprenda un nuevo mundo de posibilidades para disfrutar creando y experimentando con tecnologías de vanguardia usando TensorFlow.js como ejemplo",
     "type": "talk",

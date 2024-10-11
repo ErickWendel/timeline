@@ -16,18 +16,18 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2024/April - 2015/July 
-* **Videos**: 2024/April - 2016/September 
-* **Blog Posts**: 2024/January - 2015/February 
-* **Conference Talks**: 2024/March - 2015/January 
+* **Videos**: 2024/August - 2016/September 
+* **Blog Posts**: 2024/September - 2015/February 
+* **Conference Talks**: 2024/July - 2015/January 
 
-#### Presentations' number: 139
+#### Presentations' number: 146
 
 ## Table of Contents
 
 - [Projects (22)](#projects)
-- [Videos (148)](#videos)
-- [Blog Posts (420)](#blog-posts)
-- [Conference Talks (139)](#conference-talks)
+- [Videos (153)](#videos)
+- [Blog Posts (422)](#blog-posts)
+- [Conference Talks (146)](#conference-talks)
 
 ## Projects
 
@@ -314,6 +314,66 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://www.youtube.com/watch?v=UsPgk4qf-zs" target="_blank">2024-08-28 - Minhas cabacices trabalhando com Kubernetes (e o que não fazer) (pt-br)</a>
+
+
+Abstract:
+
+> Estou com 40 aplicações rodando no Kubernetes e ja fiz umas cabacices monstruosas que me geraram muitos aprendizados então serão várias dicas valiosas do campo de batalha
+> 
+> 
+
+
+_Tags: `Docker`, `Kubernetes`_
+
+### <a href="https://www.youtube.com/watch?v=Zb55HtzmQMA" target="_blank">2024-08-16 - Criando sites poderosos em 10 minutos (+ dicas incríveis) (pt-br)</a>
+
+
+Abstract:
+
+> Vou te mostrar como você pode criar sites dinâmicos para você acelerar seus projetos pessoais, tirar ideias do papel ou finalmente fazer seu site de portfolio de projetos
+> 
+> 
+
+
+_Tags: `WixStudio`, `Wix`, `PageBuilder`_
+
+### <a href="https://www.youtube.com/watch?v=1l6dgHqOiHU" target="_blank">2024-08-06 - Como monitorar a performance de apps Node.js (de graça) (pt-br)</a>
+
+
+Abstract:
+
+> Vou te mostrar uma aplicação real, sendo monitorada usando o OpenTelemetry e Jaeger direto de um container docker, preparado para você adaptar e usar em produção
+> 
+> 
+
+
+_Tags: `Fastify`, `OpenTelemetry`, `Knex`_
+
+### <a href="https://www.youtube.com/watch?v=Vyr-kF8PeKQ" target="_blank">2024-07-19 - Virei Dev Low Code (oh no) - Construindo apps 10x mais rápido (pt-br)</a>
+
+
+Abstract:
+
+> Vou te mostrar como você pode criar uma Web API completa usando uma ferramenta de Low code, feita em Node.js chamada Nodered e de quebra te contar um pouco das coisas que ando fazendo por aqui.
+> 
+> 
+
+
+_Tags: `Nodered`, `Lowcode`, `DicasDev`_
+
+### <a href="https://www.youtube.com/live/rS8qROIrx3k" target="_blank">2024-07-15 - AULÃO - AUMENTANDO A PERFORMANCE DE APPS EM JAVASCRIPT (pt-br)</a>
+
+
+Abstract:
+
+> Vou te mostrar, 100% na prática, como corrigir problemas de lentidão, apps mal configurados, como analisar a performance usando testes de carga e muito, muito mais!
+> 
+> 
+
+
+_Tags: `Node.js`, `Performance`, `JavaScript`_
 
 ### <a href="https://youtu.be/56N0P67ffIA?si=juAIRaen82GXs5GM" target="_blank">2024-04-09 - Cypress para Iniciantes - e2e tests em frontend apps (pt-br)</a>
 
@@ -2216,6 +2276,46 @@ _Tags: `wear`, `android`, `node.js`_
 
 
 ## Blog Posts
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-agora-suporta-typescript-nativamente-activity-7240357067364982785-xwlL?utm_source=share&utm_medium=member_desktop" target="_blank">2024-09-13 - Node.js agora suporta TypeScript NATIVAMENTE 🤯🤯 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodejs-agora-suporta-typescript-nativamente-activity-7240357067364982785-xwlL?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Usar TypeScript sem toda a complexidade adicional de configurações ou checagem vai ser um grande passo para a comunidade
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_feliz-dia-do-programadoooooooor-que-dia-activity-7240032988518875136-yd-o?utm_source=share&utm_medium=member_desktop" target="_blank">2024-09-13 - Feliz dia do programadoooooooor, que dia nostálgico 🤩 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_feliz-dia-do-programadoooooooor-que-dia-activity-7240032988518875136-yd-o?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> este ano completei 10 anos como desenvolvedor e não poderia estar mais feliz🤩
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152993480238129153-NPIf?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-16 - Dica para se tornar um Dev de respeito🔥 (pt-br)</a>
 
@@ -10268,6 +10368,153 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2024-07-08 - “Procesando Terabytes de datos con JavaScript (es)
+
+
+<a href="https://platzi.com/cursos/platziconfbogota2024/?blog=&gateway=platzi.com%2Fconf%2F" target="_blank">MedellínJS</a>
+
+
+<a href="https://www.icloud.com/keynote/0a6CTlfec9tO8GQV6JQm5vgXg#El-secreto-para-procesar-terabytes-de-datos-en-JavaScript-platziconf-07092024" target="_blank">slides</a> |   <a href="https://platzi.com/clases/10695-platziconfbogota2024/71270-the-secret-to-processing-terabytes-of-data-in-java/" target="_blank">video</a>
+
+
+Abstract:
+
+> Usando JavaScript para cosas que dicen ser imposibles!
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=6.230833,-75.590553" target="_blank">Medellin - COL, Colombia</a>.
+
+### 2024-06-25 - “The Secret to Processing Terabytes of Data in JavaScript (es)
+
+
+<a href="https://www.nodetlv.com/" target="_blank">Node.TLV</a>
+
+
+  <a href="https://www.youtube.com/watch?v=xqNNOuMeKCk" target="_blank">video</a>
+
+
+Abstract:
+
+> Using JavaScript for things that are said to be impossible!
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=32.166313,34.843311" target="_blank">Tel Aviv - IL, Israel</a>.
+
+### 2024-06-15 - “WebXR? Virtual Reality and Augmented Reality Natively on Browsers (es)
+
+
+<a href="https://gitnation.com/events/c3-festival-2024" target="_blank">C3devFest</a>
+
+
+<a href="https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation" target="_blank">slides</a> |   <a href="https://gitnation.com/contents/webxr-virtual-reality-and-augmented-reality-natively-on-browsers-2398" target="_blank">video</a>
+
+
+Abstract:
+
+> This presentation explores the possibilities of WebXR and AR games, emphasizing the versatility of A-frame for creating AR and VR projects
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=52.3738,4.89093" target="_blank">Amsterdam - NED, Netherlands</a>.
+
+### 2024-06-13 - “WebXR? Virtual Reality and Augmented Reality Natively on Browsers (es)
+
+
+<a href="https://jsnation.com/schedule-offline" target="_blank">Js Nation</a>
+
+
+<a href="https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation" target="_blank">slides</a> |   <a href="https://gitnation.com/person/erick_wendel" target="_blank">video</a>
+
+
+Abstract:
+
+> This presentation explores the possibilities of WebXR and AR games, emphasizing the versatility of A-frame for creating AR and VR projects
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=52.3738,4.89093" target="_blank">Amsterdam - NED, Netherlands</a>.
+
+### 2024-06-08 - “Workshop NodeJS Masterclass (es)
+
+
+<a href="https://www.linkedin.com/posts/cityjs-conferences_angular-nodejs-typescript-activity-7186294334307127297-wvEI?utm_source=share&utm_medium=member_desktop" target="_blank">CityJS World series Athens 2024</a>
+
+
+  
+
+
+Abstract:
+
+> Learn the advanced Node.js concepts that will take your skills to the next level
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=37.992767,23.79597" target="_blank">Athens - GR, Greece</a>.
+
+### 2024-05-21 - “WebXR? Virtual Reality and Augmented Reality Natively on Browsers (es)
+
+
+<a href="https://conferences.codemotion.com/madrid2024/en/speakers/" target="_blank">Codemotion Madrid</a>
+
+
+  
+
+
+Abstract:
+
+> This presentation explores the possibilities of WebXR and AR games, emphasizing the versatility of A-frame for creating AR and VR projects
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=40.4167,-3.70325" target="_blank">Madrid - ES, Spain</a>.
+
+### 2024-04-26 - “Webxr? Realidade virtual e aumentada nativamente em navegadores (pt-br)
+
+
+<a href="https://conf.braziljs.org/" target="_blank">BrazilJS Conference 2024</a>
+
+
+<a href="https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation" target="_blank">slides</a> |   <a href="https://youtu.be/HhqkWinUHAI?si=GDMOGUPQ0smVazHH" target="_blank">video</a>
+
+
+Abstract:
+
+> Explorea as possibilidades dos jogos WebXR e AR, enfatizando a versatilidade do A-frame para a criação de projetos de AR e VR
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-30.0846697,-51.2480271" target="_blank">Porto Alegre - POA, Brazil</a>.
 
 ### 2024-03-27 - Machine Learning en navegadores - Erick Wendel (es)
 

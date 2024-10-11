@@ -1,5 +1,89 @@
 [
   {
+    "title": "Minhas cabacices trabalhando com Kubernetes (e o que não fazer)",
+    "abstract": "Estou com 40 aplicações rodando no Kubernetes e ja fiz umas cabacices monstruosas que me geraram muitos aprendizados então serão várias dicas valiosas do campo de batalha",
+    "type": "video",
+    "reach": 10000,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/watch?v=UsPgk4qf-zs",
+    "tags": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "language": "pt-br",
+    "date": "2024-08-28"
+    },
+    {
+      "title": "Criando sites poderosos em 10 minutos (+ dicas incríveis)",
+      "abstract": "Vou te mostrar como você pode criar sites dinâmicos para você acelerar seus projetos pessoais, tirar ideias do papel ou finalmente fazer seu site de portfolio de projetos",
+      "type": "video",
+      "reach": 4279,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://www.youtube.com/watch?v=Zb55HtzmQMA",
+      "tags": [
+        "WixStudio",
+        "Wix",
+        "PageBuilder"
+      ],
+      "language": "pt-br",
+      "date": "2024-08-16"
+      },
+      {
+        "title": "Como monitorar a performance de apps Node.js (de graça)",
+        "abstract": "Vou te mostrar uma aplicação real, sendo monitorada usando o OpenTelemetry e Jaeger direto de um container docker, preparado para você adaptar e usar em produção",
+        "type": "video",
+        "reach": 9375,
+        "additionalLinks": [
+          ""
+        ],
+        "link": "https://www.youtube.com/watch?v=1l6dgHqOiHU",
+        "tags": [
+          "Fastify",
+          "OpenTelemetry",
+          "Knex"
+        ],
+        "language": "pt-br",
+        "date": "2024-08-06"
+  },
+  {
+    "title": "Virei Dev Low Code (oh no) - Construindo apps 10x mais rápido",
+    "abstract": "Vou te mostrar como você pode criar uma Web API completa usando uma ferramenta de Low code, feita em Node.js chamada Nodered e de quebra te contar um pouco das coisas que ando fazendo por aqui.",
+    "type": "video",
+    "reach": 18604,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/watch?v=Vyr-kF8PeKQ",
+    "tags": [
+      "Nodered",
+      "Lowcode",
+      "DicasDev"
+    ],
+    "language": "pt-br",
+    "date": "2024-07-19"
+  }, 
+  {
+    "title": "AULÃO - AUMENTANDO A PERFORMANCE DE APPS EM JAVASCRIPT",
+    "abstract": "Vou te mostrar, 100% na prática, como corrigir problemas de lentidão, apps mal configurados, como analisar a performance usando testes de carga e muito, muito mais!",
+    "type": "video",
+    "reach": 18604,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/live/rS8qROIrx3k",
+    "tags": [
+      "Node.js",
+      "Performance",
+      "JavaScript"
+    ],
+    "language": "pt-br",
+    "date": "2024-07-15"
+  }, 
+  {
     "title": "Cypress para Iniciantes - e2e tests em frontend apps",
     "abstract": "Nesse video vou te mostrar como testar uma aplicação web do ponto de vista de usuários, inserindo valores, clicando em botões, disparando teclas e mais",
     "type": "video",
