@@ -10369,7 +10369,7 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 ## Conference Talks
 
-### 2024-07-08 - “Procesando Terabytes de datos con JavaScript (es)
+### 2024-07-08 - Procesando Terabytes de datos con JavaScript (es)
 
 
 <a href="https://platzi.com/cursos/platziconfbogota2024/?blog=&gateway=platzi.com%2Fconf%2F" target="_blank">MedellínJS</a>
@@ -10388,9 +10388,9 @@ Abstract:
 _Tags: `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=6.230833,-75.590553" target="_blank">Medellin - COL, Colombia</a>.
+Location: <a href="https://www.google.com/maps/?q=4.6295275,-74.0930862" target="_blank">Bogotá - COL, Colombia</a>.
 
-### 2024-06-25 - “The Secret to Processing Terabytes of Data in JavaScript (es)
+### 2024-06-25 - The Secret to Processing Terabytes of Data in JavaScript (es)
 
 
 <a href="https://www.nodetlv.com/" target="_blank">Node.TLV</a>
@@ -10409,9 +10409,9 @@ Abstract:
 _Tags: `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=32.166313,34.843311" target="_blank">Tel Aviv - IL, Israel</a>.
+Location: <a href="https://www.google.com/maps/?q=32.0657936,34.7635591" target="_blank">Tel Aviv - IL, Israel</a>.
 
-### 2024-06-15 - “WebXR? Virtual Reality and Augmented Reality Natively on Browsers (es)
+### 2024-06-15 - WebXR? Virtual Reality and Augmented Reality Natively on Browsers (es)
 
 
 <a href="https://gitnation.com/events/c3-festival-2024" target="_blank">C3devFest</a>
@@ -10430,9 +10430,9 @@ Abstract:
 _Tags: `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=52.3738,4.89093" target="_blank">Amsterdam - NED, Netherlands</a>.
+Location: <a href="https://www.google.com/maps/?q=52.3828754,4.9179912" target="_blank">Amsterdam - NED, Netherlands</a>.
 
-### 2024-06-13 - “WebXR? Virtual Reality and Augmented Reality Natively on Browsers (es)
+### 2024-06-13 - WebXR? Virtual Reality and Augmented Reality Natively on Browsers (es)
 
 
 <a href="https://jsnation.com/schedule-offline" target="_blank">Js Nation</a>
@@ -10451,9 +10451,9 @@ Abstract:
 _Tags: `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=52.3738,4.89093" target="_blank">Amsterdam - NED, Netherlands</a>.
+Location: <a href="https://www.google.com/maps/?q=52.3828754,4.9179912" target="_blank">Amsterdam - NED, Netherlands</a>.
 
-### 2024-06-08 - “Workshop NodeJS Masterclass (es)
+### 2024-06-08 - Workshop NodeJS Masterclass (es)
 
 
 <a href="https://www.linkedin.com/posts/cityjs-conferences_angular-nodejs-typescript-activity-7186294334307127297-wvEI?utm_source=share&utm_medium=member_desktop" target="_blank">CityJS World series Athens 2024</a>
@@ -10472,9 +10472,9 @@ Abstract:
 _Tags: `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=37.992767,23.79597" target="_blank">Athens - GR, Greece</a>.
+Location: <a href="https://www.google.com/maps/?q=37.960808,23.7203229" target="_blank">Athens - GR, Greece</a>.
 
-### 2024-05-21 - “WebXR? Virtual Reality and Augmented Reality Natively on Browsers (es)
+### 2024-05-21 - WebXR? Virtual Reality and Augmented Reality Natively on Browsers (es)
 
 
 <a href="https://conferences.codemotion.com/madrid2024/en/speakers/" target="_blank">Codemotion Madrid</a>
@@ -10493,9 +10493,9 @@ Abstract:
 _Tags: `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=40.4167,-3.70325" target="_blank">Madrid - ES, Spain</a>.
+Location: <a href="https://www.google.com/maps/?q=40.3938727,-3.7993449" target="_blank">Madrid - ES, Spain</a>.
 
-### 2024-04-26 - “Webxr? Realidade virtual e aumentada nativamente em navegadores (pt-br)
+### 2024-04-26 - Webxr? Realidade virtual e aumentada nativamente em navegadores (pt-br)
 
 
 <a href="https://conf.braziljs.org/" target="_blank">BrazilJS Conference 2024</a>
@@ -10506,7 +10506,7 @@ Location: <a href="https://www.google.com/maps/?q=40.4167,-3.70325" target="_bla
 
 Abstract:
 
-> Explorea as possibilidades dos jogos WebXR e AR, enfatizando a versatilidade do A-frame para a criação de projetos de AR e VR
+> Explore as possibilidades dos jogos WebXR e AR, enfatizando a versatilidade do A-frame para a criação de projetos de AR e VR
 > 
 > 
 
@@ -10514,7 +10514,7 @@ Abstract:
 _Tags: `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=-30.0846697,-51.2480271" target="_blank">Porto Alegre - POA, Brazil</a>.
+Location: <a href="https://www.google.com/maps/?q=-30.0277372,-51.1779362" target="_blank">Porto Alegre - POA, Brazil</a>.
 
 ### 2024-03-27 - Machine Learning en navegadores - Erick Wendel (es)
 
@@ -10600,7 +10600,7 @@ _Tags: `javascript`_
 
 Location: <a href="https://www.google.com/maps/?q=45.4517463,9.1633404" target="_blank">Milan - IT, Italy</a>.
 
-### 2023-10-23 -  10 must-know design patterns for JavaScript developers (en-us)
+### 2023-10-23 - 10 must-know design patterns for JavaScript developers (en-us)
 
 
 <a href="https://www.schrodinger-hat.it/" target="_blank">Schrödinger Hat</a>
