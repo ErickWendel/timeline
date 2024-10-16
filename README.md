@@ -2397,46 +2397,6 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152404427264405504-N1Nv?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-14 - Produção de conteúdo💥 (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152404427264405504-N1Nv?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Um pouco sobre os desafios de criar conteúdo técnico, desde esquecer de ligar a câmera para gravar
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152374626306662400-pD5g?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-14 - Node.js linguagem ou tecnologia para rodar Javascript?🔥 (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152374626306662400-pD5g?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Existem algumas diferenças entre o Javascript que você executa nas APIs e o Javascript que você executa no navegador
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
 ### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152314131910475777-6HP4?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-14 - Node.js com Typescript🔥 (pt-br)</a>
 
 
@@ -2477,17 +2437,17 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152042080364617728-9h6c?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-13 - Loiane é boa no CSS?🔥 (pt-br)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152404427264405504-N1Nv?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-14 - Produção de conteúdo💥 (pt-br)</a>
 
 
 Portal:
 
-> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152042080364617728-9h6c?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152404427264405504-N1Nv?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
 
 
 Abstract:
 
-> Não, ela se vira bem no CSS mas, prefere se dedicar ao código
+> Um pouco sobre os desafios de criar conteúdo técnico, desde esquecer de ligar a câmera para gravar
 > 
 > <b>Links</b>
 > 
@@ -2497,37 +2457,17 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152012026171600896-zq2L?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-13 - Estudo muito mas parece que não sei de nada🤔 (pt-br)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152374626306662400-pD5g?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-14 - Node.js linguagem ou tecnologia para rodar Javascript?🔥 (pt-br)</a>
 
 
 Portal:
 
-> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152012026171600896-zq2L?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152374626306662400-pD5g?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
 
 
 Abstract:
 
-> O que você precisa fazer é repetição e criar projetos
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151951538884653057-c86H?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-13 - Mostrando meu setup🔥 (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151951538884653057-c86H?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Mostrando meus equipamentos de gravação, teclado, mouse e notebooks
+> Existem algumas diferenças entre o Javascript que você executa nas APIs e o Javascript que você executa no navegador
 > 
 > <b>Links</b>
 > 
@@ -2557,17 +2497,17 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151679838758543360-9fIv?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-12 - 'Deixa Quebrar' como funciona?🔥 (pt-br)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151951538884653057-c86H?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-13 - Mostrando meu setup🔥 (pt-br)</a>
 
 
 Portal:
 
-> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151679838758543360-9fIv?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151951538884653057-c86H?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
 
 
 Abstract:
 
-> Antes de deixar a aplicação quebrar,informe o usuário que o pedido falhou,corte o canal de comunicação e encerre conexões externas
+> Mostrando meus equipamentos de gravação, teclado, mouse e notebooks
 > 
 > <b>Links</b>
 > 
@@ -2577,17 +2517,17 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151649550510759937-xUee?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-12 - Caixinha de perguntas - Aprender inglês🔥 (pt-br)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152012026171600896-zq2L?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-13 - Estudo muito mas parece que não sei de nada🤔 (pt-br)</a>
 
 
 Portal:
 
-> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151649550510759937-xUee?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152012026171600896-zq2L?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
 
 
 Abstract:
 
-> Primeiro de tudo: altere a sua vida para Inglês: idioma do celular, computador e assim por diante 
+> O que você precisa fazer é repetição e criar projetos
 > 
 > <b>Links</b>
 > 
@@ -2597,17 +2537,37 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151649550510759937-xUee?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-12 - Caixinha de perguntas - Aprender inglês🔥 (pt-br)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152042080364617728-9h6c?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-13 - Loiane é boa no CSS?🔥 (pt-br)</a>
 
 
 Portal:
 
-> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151649550510759937-xUee?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7152042080364617728-9h6c?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
 
 
 Abstract:
 
-> Primeiro de tudo: altere a sua vida para Inglês: idioma do celular, computador e assim por diante 
+> Não, ela se vira bem no CSS mas, prefere se dedicar ao código
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151589196917305345-ssTB?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-12 - Caixinha de perguntas - Prestar consultoria para empresas💥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151589196917305345-ssTB?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> O LinkedIn sempre foi uma ferramenta bem importante para encontrar clientes
 > 
 > <b>Links</b>
 > 
@@ -2637,17 +2597,37 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151589196917305345-ssTB?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-12 - Caixinha de perguntas - Prestar consultoria para empresas💥 (pt-br)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151317361826881536-TuWH?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-12 - O boom da minha carreira foi depois que...💥 (pt-br)</a>
 
 
 Portal:
 
-> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151589196917305345-ssTB?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151317361826881536-TuWH?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
 
 
 Abstract:
 
-> O LinkedIn sempre foi uma ferramenta bem importante para encontrar clientes
+> Foi um aplicativo de renda fixa, que um colega da comunidade me chamou para participar.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151679838758543360-9fIv?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-12 - 'Deixa Quebrar' como funciona?🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151679838758543360-9fIv?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Antes de deixar a aplicação quebrar,informe o usuário que o pedido falhou,corte o canal de comunicação e encerre conexões externas
 > 
 > <b>Links</b>
 > 
@@ -2697,17 +2677,17 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151317361826881536-TuWH?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-12 - O boom da minha carreira foi depois que...💥 (pt-br)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151649550510759937-xUee?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-12 - Caixinha de perguntas - Aprender inglês🔥 (pt-br)</a>
 
 
 Portal:
 
-> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151317361826881536-TuWH?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151649550510759937-xUee?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
 
 
 Abstract:
 
-> Foi um aplicativo de renda fixa, que um colega da comunidade me chamou para participar.
+> Primeiro de tudo: altere a sua vida para Inglês: idioma do celular, computador e assim por diante 
 > 
 > <b>Links</b>
 > 
@@ -2717,17 +2697,17 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_webxr-javascript-ar-activity-7151206684864962560-h6kT?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-11 - Comecei estudar uma parada nova e isso é de tirar o fôlego! (pt-br)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151649550510759937-xUee?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-12 - Caixinha de perguntas - Aprender inglês🔥 (pt-br)</a>
 
 
 Portal:
 
-> <a href="https://www.linkedin.com/posts/erickwendel_webxr-javascript-ar-activity-7151206684864962560-h6kT?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151649550510759937-xUee?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
 
 
 Abstract:
 
-> Estou estudando WebXR, fiz meu primeiro 'Hello World'
+> Primeiro de tudo: altere a sua vida para Inglês: idioma do celular, computador e assim por diante 
 > 
 > <b>Links</b>
 > 
@@ -2748,6 +2728,26 @@ Portal:
 Abstract:
 
 > Para cada tema de estudo,procure sobre casos de uso, escolha um legal e cria um projeto do zero
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_webxr-javascript-ar-activity-7151206684864962560-h6kT?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-11 - Comecei estudar uma parada nova e isso é de tirar o fôlego! (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_webxr-javascript-ar-activity-7151206684864962560-h6kT?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Estou estudando WebXR, fiz meu primeiro 'Hello World'
 > 
 > <b>Links</b>
 > 
@@ -2837,26 +2837,6 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149867732895797248-NwDL?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-07 - Caixinha de Perguntas - Entendendo o funcionamento das coisas🔥 (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149867732895797248-NwDL?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Pra mim algo bastante acessivel é perguntar pro ChatGPT 
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
 ### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149731896741072896-SJZb?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-07 - Let it Crash (Deixa quebrar)💥 (pt-br)</a>
 
 
@@ -2877,17 +2857,17 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149505377355694080-R-vH?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-06 - Desenvolver JS melhor, quais melhores fontes de pesquisa?🔥 (pt-br)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149867732895797248-NwDL?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-07 - Caixinha de Perguntas - Entendendo o funcionamento das coisas🔥 (pt-br)</a>
 
 
 Portal:
 
-> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149505377355694080-R-vH?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149867732895797248-NwDL?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
 
 
 Abstract:
 
-> Não tem segredo, você precisa de repetição
+> Pra mim algo bastante acessivel é perguntar pro ChatGPT 
 > 
 > <b>Links</b>
 > 
@@ -2908,6 +2888,26 @@ Portal:
 Abstract:
 
 > Minhas dicas para começar a estudar Node.js com profundidade
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149505377355694080-R-vH?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-06 - Desenvolver JS melhor, quais melhores fontes de pesquisa?🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7149505377355694080-R-vH?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Não tem segredo, você precisa de repetição
 > 
 > <b>Links</b>
 > 
@@ -2967,7 +2967,7 @@ Portal:
 
 Abstract:
 
-> As motivações que me levaram a entrar nesse desafio imenso de recriar o Node.js mas que trouxeram muito conhecimento de como ele funciona por debaixo dos panos
+> Além da definição de confiabilidade e disponibilidade, também trouxe um pouco sobre a crítica do ThePrimeagen a aplicações javascript
 > 
 > <b>Links</b>
 > 
@@ -2987,7 +2987,7 @@ Portal:
 
 Abstract:
 
-> Além da definição de confiabilidade e disponibilidade, também trouxe um pouco sobre a crítica do ThePrimeagen a aplicações javascript
+> As motivações que me levaram a entrar nesse desafio imenso de recriar o Node.js mas que trouxeram muito conhecimento de como ele funciona por debaixo dos panos
 > 
 > <b>Links</b>
 > 
@@ -3117,26 +3117,6 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-bestpractices-activity-7141182158181761025-HWzA?utm_source=share&utm_medium=member_desktop" target="_blank">2023-12-14 - Sistemas feitos em JavaScript não são confiáveis?! É o que? (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-bestpractices-activity-7141182158181761025-HWzA?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Você acredita que não pode confiar em um código escrito em javascript? Então vou te mostrar  alguns pontos
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
 ### <a href="https://www.linkedin.com/posts/erickwendel_como-eu-consegui-processar-mais-de-30gb-de-activity-7141048802714595328-5Iog?utm_source=share&utm_medium=member_desktop" target="_blank">2023-12-14 - Como eu consegui processar mais de 30GB de dados no navegador sem qualquer servidor no backend 🔥 (pt-br)</a>
 
 
@@ -3148,6 +3128,26 @@ Portal:
 Abstract:
 
 > Em JavaScript, o segredo é processar dados sob demanda, mesmo que o arquivo tenha 1 terabyte você processa ele em picadinhos, a cada dez megabytes por exemplo.
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-bestpractices-activity-7141182158181761025-HWzA?utm_source=share&utm_medium=member_desktop" target="_blank">2023-12-14 - Sistemas feitos em JavaScript não são confiáveis?! É o que? (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-bestpractices-activity-7141182158181761025-HWzA?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Você acredita que não pode confiar em um código escrito em javascript? Então vou te mostrar  alguns pontos
 > 
 > <b>Links</b>
 > 
@@ -4057,26 +4057,6 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_nodetlv-testival2023-nodejs-activity-7080241443293831170-4yBx?utm_source=share&utm_medium=member_desktop" target="_blank">2023-06-23 - Jest? Supertest? Portfinder? What about using only native Node.js functions? (en-us)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_nodetlv-testival2023-nodejs-activity-7080241443293831170-4yBx?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
->  Here are my tips for you to write E2E tests with no libraries 💥
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
 ### <a href="https://www.linkedin.com/posts/erickwendel_nodejs-devcommunity-devtips-activity-7078019693613060096-FFWH?utm_source=share&utm_medium=member_desktop" target="_blank">2023-06-23 - Node.js agora terá MockTimers nativo! 🤩 (pt-br)</a>
 
 
@@ -4088,6 +4068,26 @@ Portal:
 Abstract:
 
 > Que dia meus amigos! Implementei algo de ponta a ponta no Node.js e finalmente foi mergeado!
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_nodetlv-testival2023-nodejs-activity-7080241443293831170-4yBx?utm_source=share&utm_medium=member_desktop" target="_blank">2023-06-23 - Jest? Supertest? Portfinder? What about using only native Node.js functions? (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_nodetlv-testival2023-nodejs-activity-7080241443293831170-4yBx?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+>  Here are my tips for you to write E2E tests with no libraries 💥
 > 
 > <b>Links</b>
 > 
@@ -4857,46 +4857,6 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-14 - Brincadeira da noite aqui! Usando TensorFlow.js para usar minhas mãos como o controle do jogo 🔥 (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Eaí, acompanhou como hackeei esse jogo para controlá-lo com meu celular?
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
-### <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-14 - Brincadeira da noite aqui! Usando TensorFlow.js para usar minhas mãos como o controle do jogo 🔥 (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Eaí, acompanhou como hackeei esse jogo para controlá-lo com meu celular?
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
 ### <a href="https://www.linkedin.com/posts/erickwendel_javascript-community-opensource-activity-7008794615457681408-L3Ub?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-14 - Bye-bye Sinon... Hello, Node.js 20 - using mocks, spies, and stubs natively in Node.js 🤯🔥 (en-us)</a>
 
 
@@ -4908,6 +4868,46 @@ Portal:
 Abstract:
 
 > Wowwwww, Node.js is on fire, my friends!
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-14 - Brincadeira da noite aqui! Usando TensorFlow.js para usar minhas mãos como o controle do jogo 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Eaí, acompanhou como hackeei esse jogo para controlá-lo com meu celular?
+> 
+> <b>Links</b>
+> 
+> - <a href=" " target="_blank"> </a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-14 - Brincadeira da noite aqui! Usando TensorFlow.js para usar minhas mãos como o controle do jogo 🔥 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Eaí, acompanhou como hackeei esse jogo para controlá-lo com meu celular?
 > 
 > <b>Links</b>
 > 
@@ -6732,7 +6732,7 @@ Portal:
 
 Abstract:
 
-> Como dizem por aí: `a melhor máquina do mundo, é aquela que não é a sua` 🤣
+> 
 > 
 > 
 
@@ -6749,7 +6749,7 @@ Portal:
 
 Abstract:
 
-> 
+> Como dizem por aí: `a melhor máquina do mundo, é aquela que não é a sua` 🤣
 > 
 > 
 
@@ -8952,23 +8952,6 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_estou-vivendo-aquela-parte-do-%C3%A9-dif%C3%ADcil-activity-6686418896574017536-UwLM" target="_blank">2020-07-12 - Estou vivendo aquela parte do "é difícil empreender" 😂 (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_estou-vivendo-aquela-parte-do-%C3%A9-dif%C3%ADcil-activity-6686418896574017536-UwLM" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Ah, é difícil empreender NO BRASIL? Eu nem estou falando sobre isso ainda. A chave de empreender é tomar decisões a longo prazo, tomar riscos, e sempre pensar no próximo nível.
-> 
-> 
-
-
-_Tags: `linkedinPost`_
-
 ### <a href="https://www.linkedin.com/posts/erickwendel_a-forma-de-importar-e-exportar-m%C3%B3dulos-no-activity-6686267690182565888-h5K5" target="_blank">2020-07-12 - A forma de importar e exportar módulos no Javascript está mudando, você está pronto(a)? 🔥😱 (pt-br)</a>
 
 
@@ -8985,6 +8968,23 @@ Abstract:
 > 
 > - <a href="https://lnkd.in/eAHt2dt" target="_blank">https://lnkd.in/eAHt2dt</a>
 > - <a href="https://bit.ly/esm-talk-01" target="_blank">https://bit.ly/esm-talk-01</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://www.linkedin.com/posts/erickwendel_estou-vivendo-aquela-parte-do-%C3%A9-dif%C3%ADcil-activity-6686418896574017536-UwLM" target="_blank">2020-07-12 - Estou vivendo aquela parte do "é difícil empreender" 😂 (pt-br)</a>
+
+
+Portal:
+
+> <a href="https://www.linkedin.com/posts/erickwendel_estou-vivendo-aquela-parte-do-%C3%A9-dif%C3%ADcil-activity-6686418896574017536-UwLM" target="_blank">Linkedin Post</a>
+
+
+Abstract:
+
+> Ah, é difícil empreender NO BRASIL? Eu nem estou falando sobre isso ainda. A chave de empreender é tomar decisões a longo prazo, tomar riscos, e sempre pensar no próximo nível.
+> 
 > 
 
 
@@ -9146,23 +9146,6 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.freecodecamp.org/news/how-to-enable-live-reload-on-docker-based-applications/" target="_blank">2020-06-12 - How to Enable Live-reload on Docker-based Applications with Docker Volumes (en-us)</a>
-
-
-Portal:
-
-> <a href="https://www.freecodecamp.org/news/author/erickwendel/" target="_blank">freeCodeCamp.org</a>
-
-
-Abstract:
-
-> In this post you'll learn how to configure a development environment with live-reload enabled. This will allow you to convert a legacy application so it uses Docker, Docker volumes, and docker-compose
-> 
-> 
-
-
-_Tags: `freeCodeCamp`_
-
 ### <a href="https://www.freecodecamp.org/news/node-js-debugging/" target="_blank">2020-06-12 - How to Debug a Node.js Application with VSCode, Docker, and your Terminal (en-us)</a>
 
 
@@ -9179,6 +9162,23 @@ Abstract:
 
 
 _Tags: `linkedinPost`_
+
+### <a href="https://www.freecodecamp.org/news/how-to-enable-live-reload-on-docker-based-applications/" target="_blank">2020-06-12 - How to Enable Live-reload on Docker-based Applications with Docker Volumes (en-us)</a>
+
+
+Portal:
+
+> <a href="https://www.freecodecamp.org/news/author/erickwendel/" target="_blank">freeCodeCamp.org</a>
+
+
+Abstract:
+
+> In this post you'll learn how to configure a development environment with live-reload enabled. This will allow you to convert a legacy application so it uses Docker, Docker volumes, and docker-compose
+> 
+> 
+
+
+_Tags: `freeCodeCamp`_
 
 ### <a href="https://www.linkedin.com/posts/erickwendel_o-que-voc%C3%AA-n%C3%A3o-sabia-sobre-debugging-de-aplica%C3%A7%C3%B5es-activity-6677204437842325504-h6gA" target="_blank">2020-06-12 - Você conhece as 6 principais formas de depurar aplicações Node.js? 🔥🎉 (pt-br)</a>
 
@@ -9308,23 +9308,6 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b?source=friends_link&sk=6986b760d9468e9ec96a5c7482d1c541" target="_blank">2020-06-01 - Node v14.x is up — deep diving into new features 🎉 (en-us)</a>
-
-
-Portal:
-
-> <a href="https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b?source=friends_link&sk=6986b760d9468e9ec96a5c7482d1c541" target="_blank">Medium portal</a>
-
-
-Abstract:
-
-> Node v14 came with lots of new exciting features. Let’s dive into some of those features by creating a real app.
-> 
-> 
-
-
-_Tags: `linkedinPost`_
-
 ### <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-fosse-fazer-upload-de-arquivos-activity-6671046670186287104-oHfP" target="_blank">2020-06-01 - E se você fosse fazer upload de arquivos em Node.js, como faria? 🔥 (pt-br)</a>
 
 
@@ -9341,6 +9324,23 @@ Abstract:
 > 
 > - <a href="https://lnkd.in/eHRQDZE" target="_blank">https://lnkd.in/eHRQDZE</a>
 > - <a href="https://lnkd.in/d-QuUwm" target="_blank">https://lnkd.in/d-QuUwm</a>
+> 
+
+
+_Tags: `linkedinPost`_
+
+### <a href="https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b?source=friends_link&sk=6986b760d9468e9ec96a5c7482d1c541" target="_blank">2020-06-01 - Node v14.x is up — deep diving into new features 🎉 (en-us)</a>
+
+
+Portal:
+
+> <a href="https://medium.com/@erickwendel/node-v14-x-is-up-deep-diving-into-new-features-ace6dd89ac0b?source=friends_link&sk=6986b760d9468e9ec96a5c7482d1c541" target="_blank">Medium portal</a>
+
+
+Abstract:
+
+> Node v14 came with lots of new exciting features. Let’s dive into some of those features by creating a real app.
+> 
 > 
 
 
@@ -10396,7 +10396,7 @@ Location: <a href="https://www.google.com/maps/?q=4.6295275,-74.0930862" target=
 <a href="https://www.nodetlv.com/" target="_blank">Node.TLV</a>
 
 
-  <a href="https://www.youtube.com/watch?v=xqNNOuMeKCk" target="_blank">video</a>
+<a href="https://www.icloud.com/keynote/038zFDgefMHUS0RgGcDOwCODA#the-secret-to-processing-terabytes-in-js-nodetlv-250624" target="_blank">slides</a> |   <a href="https://www.youtube.com/watch?v=xqNNOuMeKCk" target="_blank">video</a>
 
 
 Abstract:
@@ -10894,27 +10894,6 @@ _Tags: `nodejs`, `javascript`, `Machine Learning`_
 
 Location: <a href="https://www.google.com/maps/?q=-23.508559,-46.7215608" target="_blank">São Paulo - SP, Brazil</a>.
 
-### 2023-04-14 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
-
-
-<a href="https://nodecongress.com/" target="_blank">Node Congress Berlin</a>
-
-
-<a href="https://www.icloud.com/keynote/0fa15m5m7-8C0qHo2M48JomLQ#recreating-nodejs-from-scratch-nodecongress-berlin-14042023" target="_blank">slides</a> |   <a href="https://portal.gitnation.org/contents/bun-deno-nodejs-recreating-a-javascript-runtime-from-scratch-understand-magic-behind-nodejs" target="_blank">video</a>
-
-
-Abstract:
-
-> Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime
-> 
-> 
-
-
-_Tags: `nodejs`, `javascript`, `runtime`_
-
-
-Location: <a href="https://www.google.com/maps/?q=52.5169221,13.449893" target="_blank">Berlin - BER, Germany</a>.
-
 ### 2023-04-14 - Bun? Deno? Node.js? Recreating a JS Runtime from scratch (en-us)
 
 
@@ -10936,29 +10915,26 @@ _Tags: `nodejs`, `javascript`, `runtime`_
 
 Location: <a href="https://www.google.com/maps/?q=52.5169221,13.449893" target="_blank">Berlin - BER, Germany</a>.
 
-### 2023-03-31 - Bun? Deno? Node.js? Recreating a JS Runtime from scratch (en-us)
+### 2023-04-14 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
 
 
-<a href="https://london.cityjsconf.org/events/" target="_blank">CityJS World series London 2023</a>
+<a href="https://nodecongress.com/" target="_blank">Node Congress Berlin</a>
 
 
-<a href="https://www.icloud.com/keynote/06dpzgSEjXmN7RnaVSFlaqEpg#recreating-nodejs-from-scratch-cityjs-london-31032023" target="_blank">slides</a> |   <a href="https://www.youtube.com/live/RdiXuoMPtUA" target="_blank">video</a>
+<a href="https://www.icloud.com/keynote/0fa15m5m7-8C0qHo2M48JomLQ#recreating-nodejs-from-scratch-nodecongress-berlin-14042023" target="_blank">slides</a> |   <a href="https://portal.gitnation.org/contents/bun-deno-nodejs-recreating-a-javascript-runtime-from-scratch-understand-magic-behind-nodejs" target="_blank">video</a>
 
 
 Abstract:
 
 > Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime
 > 
-> <b>Links</b>
-> 
-> - <a href="https://www.youtube.com/live/RdiXuoMPtUA" target="_blank">https://www.youtube.com/live/RdiXuoMPtUA</a>
 > 
 
 
 _Tags: `nodejs`, `javascript`, `runtime`_
 
 
-Location: <a href="https://www.google.com/maps/?q=51.5013608,-0.1776963" target="_blank">London - uk, United Kingdon</a>.
+Location: <a href="https://www.google.com/maps/?q=52.5169221,13.449893" target="_blank">Berlin - BER, Germany</a>.
 
 ### 2023-03-31 - Bun? Deno? Node.js? Recreating a JS Runtime from scratch (en-us)
 
@@ -10983,6 +10959,30 @@ _Tags: `nodejs`, `javascript`, `runtime`_
 
 
 Location: <a href="https://www.google.com/maps/?q=51.5013608,-0.1776963" target="_blank">London - uk, 🏴󠁧󠁢󠁥󠁮󠁧󠁿England</a>.
+
+### 2023-03-31 - Bun? Deno? Node.js? Recreating a JS Runtime from scratch (en-us)
+
+
+<a href="https://london.cityjsconf.org/events/" target="_blank">CityJS World series London 2023</a>
+
+
+<a href="https://www.icloud.com/keynote/06dpzgSEjXmN7RnaVSFlaqEpg#recreating-nodejs-from-scratch-cityjs-london-31032023" target="_blank">slides</a> |   <a href="https://www.youtube.com/live/RdiXuoMPtUA" target="_blank">video</a>
+
+
+Abstract:
+
+> Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime
+> 
+> <b>Links</b>
+> 
+> - <a href="https://www.youtube.com/live/RdiXuoMPtUA" target="_blank">https://www.youtube.com/live/RdiXuoMPtUA</a>
+> 
+
+
+_Tags: `nodejs`, `javascript`, `runtime`_
+
+
+Location: <a href="https://www.google.com/maps/?q=51.5013608,-0.1776963" target="_blank">London - uk, United Kingdon</a>.
 
 ### 2023-03-11 - 5 aprendizados incríveis sobre backend que se aplicam para o frontend (pt-br)
 
@@ -11185,7 +11185,7 @@ Location: <a href="https://www.google.com/maps/?q=37.992767,23.79597" target="_b
 <a href="https://cityjsconf.org/" target="_blank">CityJS World series</a>
 
 
-  <a href="https://youtu.be/CtQTlvWZYts" target="_blank">video</a>
+<a href="https://www.icloud.com/keynote/0752aQ_6r9DHyLhOWp3-f-Lfg#how_I've_been_automating_my_home_using_JavaScript_-_cityjs_-_30042022" target="_blank">slides</a> |   <a href="https://youtu.be/CtQTlvWZYts" target="_blank">video</a>
 
 
 Abstract:
@@ -11227,7 +11227,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.5966179,-46.6890048" targe
 <a href="https://cityjsconf.org" target="_blank">CityJS 2021</a>
 
 
-  <a href="https://www.youtube.com/watch?v=gJwrRTTb2Qw&t=27600s" target="_blank">video</a>
+<a href="https://www.icloud.com/keynote/0bEEuC1dFDWX1aBl_QGGQGLxg#10_secrets_to_improve_Node.js_Security_-_CityJSConf_2021" target="_blank">slides</a> |   <a href="https://www.youtube.com/watch?v=gJwrRTTb2Qw&t=27600s" target="_blank">video</a>
 
 
 Abstract:
