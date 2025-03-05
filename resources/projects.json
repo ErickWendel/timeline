@@ -1,5 +1,26 @@
 [
     {
+        "title": "ollama-webui-traefik-docker",
+        "abstract": "This repository provides a simple setup for running Ollama and Open WebUI with Traefik as a reverse proxy using Docker Compose",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/ollama-webui-traefik-docker",
+        "tags": ["ollama","openWebUi", "docker"],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2024-02-14"
+    },
+    {
+        "title": "jess",
+        "abstract": "jess",
+        "type": "project",
+        "link": "jess",
+        "tags": ["cypress","github-actions", "docker"],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2024-jess-jess"
+    },
+
+    {
         "title": "cypress-for-begginers",
         "abstract": "Examples and challenges of how to create e2e tests for frontend apps",
         "type": "project",

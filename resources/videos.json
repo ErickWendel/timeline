@@ -1,5 +1,125 @@
 [
   {
+    "title": "RAG na Prática: Como Ensinar uma IA a Buscar Respostas no Seu Banco de dados",
+    "abstract": "Neste vídeo, eu te mostro como criar seu próprio buscador local com RAG (Retrieval-Augmented Generation), usando Neo4j, Ollama e modelos avançados de IA, como DeepSeek e Gemma do Google! 🤖💡",
+    "reach": 16212,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/yPz8LDcAcdA?si=UjxUMO6_-wSzAoct",
+    "tags": [
+      "RAG",
+      "IA"
+    ],
+    "language": "pt-br",
+    "date": "2024-02-17"
+    },
+    {
+      "title": "Como Rodar Modelos de IA na Sua Máquina e na nuvem (deepseek, gemma, docker e mais",
+      "abstract": "Vou te mostrar o quão simples é rodar modelos de inteligência artificial na sua máquina e provar que você não precisa de um super computador pra isso",
+      "reach": 6892,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://youtu.be/ZTSsd9sU-iU?si=FFHMG-FnpAn0FQH4",
+      "tags": [
+        "IA",
+        "deepseek",
+        "docker"
+      ],
+      "language": "pt-br",
+      "date": "2024-02-13"
+    },
+    {
+      "title": "O Melhor Teclado Para Programadores?",
+      "abstract": " Neste vídeo, mostro minha jornada ao trocar o Apple Magic Keyboard pelos teclados Hillside View e CorneV2",
+      "reach": 7092,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://youtu.be/cCk-fA2-reM?si=momy81XNgiXGD_Zc",
+      "tags": [
+          "DevTools",
+        "Keycaps"
+      ],
+      "language": "pt-br",
+      "date": "2024-01-15"
+    },
+    {
+      "title": "Desvendando o Estado Atual do Node.js: Bate-papo Imperdível sobre Performance com Rafael Gonzaga",
+      "abstract": "Confira as principais novidades, dicas de otimização e o que esperar para o futuro do desenvolvimento em Node.js",
+      "reach": 2363,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://www.youtube.com/live/Jn9mu1umPww?si=ENMnBrG_VWgFho2S",
+      "tags": [
+          "Docker",
+        "Kubernetes"
+      ],
+      "language": "pt-br",
+      "date": "2024-01-17"
+    },
+    {
+      "title": "Como saber se seu Node.js é vulnerável",
+      "abstract": "neste vídeo, vou te mostrar como identificar vulnerabilidades nos seus projetos Node.js",
+      "reach": 10000,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://www.linkedin.com/posts/erickwendel_como-saber-se-seu-nodejs-%C3%A9-vulner%C3%A1vel-activity-7287076813762129920-dA4s?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "tags": [
+          "Node.js",
+        "Segurança"
+      ],
+      "language": "pt-br",
+      "date": "2024-01-21"
+    },
+    {
+      "title": "Você vai eliminar o uso de mouse da sua vida com essa ferramenta",
+      "abstract": "Veja uma alternativa para usar mouses e aumentar sua produtividade",
+      "reach": 10000,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://www.linkedin.com/posts/erickwendel_voc%C3%AA-vai-eliminar-o-uso-de-mouse-da-sua-vida-activity-7286351995555172353-oE2R?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "tags": [
+          "Produtividade"
+      ],
+      "language": "pt-br",
+      "date": "2024-01-18"
+    },
+    {
+      "title": "5 ferramentas inúteis que todo programador deveria conhecer 😜",
+      "abstract": "Dicas de ferramentas que não vão melhorar sua produtividade mas vão te divertir",
+      "reach": 10000,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://www.linkedin.com/posts/erickwendel_5-ferramentas-in%C3%BAteis-que-todo-programador-activity-7286001438680375296-YkVG?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "tags": [
+          "Docker",
+        "Kubernetes"
+      ],
+      "language": "pt-br",
+      "date": "2024-jess-jess"
+    },
+    {
+      "title": "jess",
+      "abstract": "jess",
+      "reach": 10000,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "jess",
+      "tags": [
+          "Docker",
+        "Kubernetes"
+      ],
+      "language": "pt-br",
+      "date": "2024-jess-jess"
+    },
+  {
     "title": "Minhas cabacices trabalhando com Kubernetes (e o que não fazer)",
     "abstract": "Estou com 40 aplicações rodando no Kubernetes e ja fiz umas cabacices monstruosas que me geraram muitos aprendizados então serão várias dicas valiosas do campo de batalha",
     "type": "video",

@@ -1,6 +1,52 @@
 [
   {
-    "title": "“Procesando Terabytes de datos con JavaScript",
+    "title": "jess",
+    "abstract": "jess",
+    "type": "talk",
+    "reach": 800,
+    "event": {
+      "link": "jess"
+    },
+    "slides": "jess",
+    "photos": "",
+    "video": "jess",
+    "tags": ["javascript"],
+    "location": {
+      "latitude":  6.230833,
+      "longitude":  -75.590553,
+      "country": "jess",
+      "uf": "jess",
+      "city": "jess"
+        },
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-jess-jess"
+  },
+  {
+    "title": "Lo nuevo de JavaScript y Node.js para 2025",
+    "abstract": "jess",
+    "type": "talk",
+    "reach":300,
+    "event": {
+      "link": "https://www.jsconf.es/"
+    },
+    "slides": "",
+    "photos": "",
+    "video": "",
+    "tags": ["javascript"],
+    "location": {
+      "latitude":  40.3475974,
+      "longitude":  -3.6959971,
+      "country": "Spain",
+      "uf": "ES",
+      "city": "Madrid"
+        },
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-03-01"
+  },
+  {
+    "title": "Procesando Terabytes de datos con JavaScript",
     "abstract": "Usando JavaScript para cosas que dicen ser imposibles!",
     "type": "talk",
     "reach": 800,

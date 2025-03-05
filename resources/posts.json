@@ -1,5 +1,241 @@
 [
   {
+    "title": "Criei um NPC em realidade virtual com AI 100% Web, offline e com JavaScript 🤯",
+    "abstract": "Um pouco sobre o processo e aprendizados do meu ultimo projeto pessoal",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_webai-ai-artificialintelligence-activity-7299175761033240576-RU3e?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_webai-ai-artificialintelligence-activity-7299175761033240576-RU3e?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2024-02-22"
+    },
+    {
+      "title": "Essa é a melhor forma de usar AI em JavaScript (no browser e de graça 🤩)",
+      "abstract": "A Hugging Face que lançou uma super biblioteca chamada Transformers.js que te permite baixar modelos de AI no navegador e sair usando e meus amigos, é de tirar o fôlego!",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_essa-%C3%A9-a-melhor-forma-de-usar-ai-em-javascript-activity-7298712868697341952-Z1gP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_essa-%C3%A9-a-melhor-forma-de-usar-ai-em-javascript-activity-7298712868697341952-Z1gP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-02-21"
+    },
+    {
+      "title": "Dirigindo um carro apenas com comandos de voz no navegador (100% offline e 100% local) 🤩",
+      "abstract": "Nesse projeto, o 🤷‍♂️ Nico Martin venceu uma competição de Web AI do Google controlando um carrinho apenas com a voz (e ele ainda fez um carrinho real e controlou com Web Bluetooth 🤯)",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_webai-gemini-webdev-activity-7298323054227578880-jwa7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_webai-gemini-webdev-activity-7298323054227578880-jwa7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-02-20"
+    },
+    {
+      "title": "O melhor framework para criar AI apps em JavaScript 🔥💥",
+      "abstract": "Estou usando o Langchain JS, um framework que tem vários e vários módulos incríveis para facilitar na hora de criar suas a apps que interagem com AIs",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_o-melhor-framework-para-criar-ai-apps-em-activity-7297977990880124936-53xM?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_o-melhor-framework-para-criar-ai-apps-em-activity-7297977990880124936-53xM?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-02-19"
+    }, 
+    {
+      "title": "O que é mais incrível de todo esse movimento de AIs do ponto de vista de devs? 🔥",
+      "abstract": "Várias empresas (como Google e Hugging face) vem trabalhando exaustivamente no que chamamos de Web AI, ou seja, converter modelos de AI para serem executados direto de navegadores (Usando Web GPU e mais)",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_o-que-%C3%A9-mais-incr%C3%ADvel-de-todo-esse-movimento-activity-7297612596600356864-2gGc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_o-que-%C3%A9-mais-incr%C3%ADvel-de-todo-esse-movimento-activity-7297612596600356864-2gGc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-02-18"
+    },
+    {
+      "title": "Sextou com dica de ouro: Como testar qualquer AI gratuita 100% local e offline 💥🔥",
+      "abstract": "Venho fazendo muitos experimentos com AIs e é incrível o quão simples é baixar e experimentar com modelos de AI usando o ollama 🦙",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_sextou-com-dica-de-ouro-como-testar-qualquer-activity-7293630685037133825-VKS9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_sextou-com-dica-de-ouro-como-testar-qualquer-activity-7293630685037133825-VKS9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-02-14"
+    },
+    {
+      "title": "Low code é do c****** 🤭🤩🤩🤩🤩",
+      "abstract": "Migrei de plataforma de email marketing, fui para o Mautic (outra open source e gratuita tbm) e precisei migrar todos os eventos de compra, progresso e atividade de todos os alunos e esse processo foi realizado no Nodered 🤩 ",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_low-code-%C3%A9-do-c-na-ew-academy-activity-7292179166462955520-BWro?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_low-code-%C3%A9-do-c-na-ew-academy-activity-7292179166462955520-BWro?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-02-03"
+    },
+    {
+      "title": "QUE TECNOLOGIA INCRÍVEL 🤯😳",
+      "abstract": "Esse é o laserlimbo um jogo no metaquest3 que te permite misturar realidade virtual com a VIDA real 🤯",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_laserlimbo-metaquest3-activity-7291870473389330432-R3xK?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_laserlimbo-metaquest3-activity-7291870473389330432-R3xK?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-02-02"
+    },
+    {
+      "title": "O que é melhor para Node.js, usar um PM2, Módulo Cluster ou node puro? 🔥💥",
+      "abstract": "Que Node.js escala e é incrível, não temos dúvida, mas quando chega naquela fase de dobrar a capacidade de resposta, existem várias dúvidas e vou te falar que é bem mais simples do que parece!",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_o-que-%C3%A9-melhor-para-nodejs-usar-um-pm2-activity-7290718480809521153-DME3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_o-que-%C3%A9-melhor-para-nodejs-usar-um-pm2-activity-7290718480809521153-DME3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-01-30"
+    },
+    {
+      "title": "Essa é a melhor forma de testar seus projetos JavaScript (independente se é front ou backend 🔥)",
+      "abstract": "Venho usando playwright + bdd + gherkin style e tem sido uma experiência incrível, e vou te contar o motivo 💡",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_essa-%C3%A9-a-melhor-forma-de-testar-seus-projetos-activity-7288562401405276161-qM28?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_essa-%C3%A9-a-melhor-forma-de-testar-seus-projetos-activity-7288562401405276161-qM28?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-01-24"
+    },
+    {
+      "title": "Jess",
+      "abstract": "Jess",
+      "type": "post",
+      "link": "jess",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "jess",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-jess-jess"
+    },
+    {
+      "title": "jess",
+      "abstract": "jess",
+      "type": "post",
+      "link": "jess",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "jess",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-jess-jess"
+    },
+    {
+      "title": "jess",
+      "abstract": "jess",
+      "type": "post",
+      "link": "jess",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "jess",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-jess-jess"
+    },
+
+
+  {
     "title": "Node.js agora suporta TypeScript NATIVAMENTE 🤯🤯",
     "abstract": "Usar TypeScript sem toda a complexidade adicional de configurações ou checagem vai ser um grande passo para a comunidade",
     "type": "post",
