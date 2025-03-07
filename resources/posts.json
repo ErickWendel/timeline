@@ -15,7 +15,7 @@
       "linkedinPost"
     ],
     "language": "pt-br",
-    "date": "2024-02-22"
+    "date": "2025-02-22"
     },
     {
       "title": "Essa é a melhor forma de usar AI em JavaScript (no browser e de graça 🤩)",
@@ -33,7 +33,7 @@
         "linkedinPost"
       ],
       "language": "pt-br",
-      "date": "2024-02-21"
+      "date": "2025-02-21"
     },
     {
       "title": "Dirigindo um carro apenas com comandos de voz no navegador (100% offline e 100% local) 🤩",
@@ -51,7 +51,7 @@
         "linkedinPost"
       ],
       "language": "pt-br",
-      "date": "2024-02-20"
+      "date": "2025-02-20"
     },
     {
       "title": "O melhor framework para criar AI apps em JavaScript 🔥💥",
@@ -69,7 +69,7 @@
         "linkedinPost"
       ],
       "language": "pt-br",
-      "date": "2024-02-19"
+      "date": "2025-02-19"
     }, 
     {
       "title": "O que é mais incrível de todo esse movimento de AIs do ponto de vista de devs? 🔥",
@@ -87,7 +87,7 @@
         "linkedinPost"
       ],
       "language": "pt-br",
-      "date": "2024-02-18"
+      "date": "2025-02-18"
     },
     {
       "title": "Sextou com dica de ouro: Como testar qualquer AI gratuita 100% local e offline 💥🔥",
@@ -105,7 +105,7 @@
         "linkedinPost"
       ],
       "language": "pt-br",
-      "date": "2024-02-14"
+      "date": "2025-02-14"
     },
     {
       "title": "Low code é do c****** 🤭🤩🤩🤩🤩",
@@ -123,7 +123,7 @@
         "linkedinPost"
       ],
       "language": "pt-br",
-      "date": "2024-02-03"
+      "date": "2025-02-03"
     },
     {
       "title": "QUE TECNOLOGIA INCRÍVEL 🤯😳",
@@ -141,7 +141,7 @@
         "linkedinPost"
       ],
       "language": "pt-br",
-      "date": "2024-02-02"
+      "date": "2025-02-02"
     },
     {
       "title": "O que é melhor para Node.js, usar um PM2, Módulo Cluster ou node puro? 🔥💥",
@@ -159,7 +159,7 @@
         "linkedinPost"
       ],
       "language": "pt-br",
-      "date": "2024-01-30"
+      "date": "2025-01-30"
     },
     {
       "title": "Essa é a melhor forma de testar seus projetos JavaScript (independente se é front ou backend 🔥)",
@@ -177,25 +177,115 @@
         "linkedinPost"
       ],
       "language": "pt-br",
-      "date": "2024-01-24"
+      "date": "2025-01-24"
     },
     {
-      "title": "Jess",
-      "abstract": "Jess",
+      "title": "Quartou com dica de ouro: use o novo sistema de permissões do Node.js e não seja atacado 🤩💥",
+      "abstract": "Pouca gente sabe, mas na versão 23 do Node.js você já pode, por padrão, definir que tipos de permissão um programa JavaScript pode ter 🤭",
       "type": "post",
-      "link": "jess",
+      "link": "https://www.linkedin.com/posts/erickwendel_quartou-com-dica-de-ouro-use-o-novo-sistema-activity-7287835418157273089-uWHK?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
       "additionalLinks": [
         " "
       ],
       "portal": {
-        "link": "jess",
+        "link": "https://www.linkedin.com/posts/erickwendel_quartou-com-dica-de-ouro-use-o-novo-sistema-activity-7287835418157273089-uWHK?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
         "name": "Linkedin Post"
       },
       "tags": [
         "linkedinPost"
       ],
       "language": "pt-br",
-      "date": "2024-jess-jess"
+      "date": "2025-01-22"
+    },
+    {
+      "title": "Como eu economizei milhares de reais cortando plataformas SaaS e configurando meu próprio cluster 🔥",
+      "abstract": "Minha experiência com contratação de ferramentas como serviço e criar sua própria infraestrutura",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_como-eu-economizei-milhares-de-reais-cortando-activity-7284921493875019776-Jidu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_como-eu-economizei-milhares-de-reais-cortando-activity-7284921493875019776-Jidu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2025-01-14"
+    },
+    {
+      "title": "Agora é Oficial: Node.js 23 com Suporte Nativo a TypeScript 🤩🚀",
+      "abstract": "Vou te mostrar sobre a novidade do suporte nativo a Typescript no Node.js",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_typescript-nodejs-activity-7284551610310029315-LS-E?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_typescript-nodejs-activity-7284551610310029315-LS-E?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2025-01-13"
+    },
+    {
+      "title": "Dev, automatize sua vida e você terá muito mais diversão 😜🥳 (e nem estou falando de VIM haha)",
+      "abstract": "Quem me acompanha, tem visto os teclados customizados que tenho, e o que tenho mais gostado é ter vários de atalhos para evitar colocar a mão no mouse e tem sido um conforto inexplicável 💥",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_dev-automatize-sua-vida-e-voc%C3%AA-ter%C3%A1-muito-activity-7283119476114419712-ow1E?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_dev-automatize-sua-vida-e-voc%C3%AA-ter%C3%A1-muito-activity-7283119476114419712-ow1E?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2025-01-09"
+    },
+    {
+      "title": "Dica de ouro: como monitorar e metrificar a performance de apps frontend (de graça) 🤯🔥",
+      "abstract": "Vem conhecer um pouco mais do Open Telemetry! Com ele, você pode colher métricas, tracing, logs e mais e criar alertas caso um comportamento fora da curva acontecer na sua aplicação",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_dica-de-ouro-como-monitorar-e-metrificar-activity-7282756721427517442-ftKS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_dica-de-ouro-como-monitorar-e-metrificar-activity-7282756721427517442-ftKS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2025-01-08"
+    },
+    {
+      "title": "Dica de ouro: como sincronizar threads em JavaScript 🤯🔥",
+      "abstract": "jess",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_dica-de-ouro-como-sincronizar-threads-em-activity-7282408672624824320-e_wq?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_dica-de-ouro-como-sincronizar-threads-em-activity-7282408672624824320-e_wq?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2025-01-07"
     },
     {
       "title": "jess",
@@ -213,25 +303,7 @@
         "linkedinPost"
       ],
       "language": "pt-br",
-      "date": "2024-jess-jess"
-    },
-    {
-      "title": "jess",
-      "abstract": "jess",
-      "type": "post",
-      "link": "jess",
-      "additionalLinks": [
-        " "
-      ],
-      "portal": {
-        "link": "jess",
-        "name": "Linkedin Post"
-      },
-      "tags": [
-        "linkedinPost"
-      ],
-      "language": "pt-br",
-      "date": "2024-jess-jess"
+      "date": "2025-jess-jess"
     },
 
 

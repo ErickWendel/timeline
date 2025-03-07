@@ -12,7 +12,7 @@
       "IA"
     ],
     "language": "pt-br",
-    "date": "2024-02-17"
+    "date": "2025-02-17"
     },
     {
       "title": "Como Rodar Modelos de IA na Sua Máquina e na nuvem (deepseek, gemma, docker e mais",
@@ -28,7 +28,7 @@
         "docker"
       ],
       "language": "pt-br",
-      "date": "2024-02-13"
+      "date": "2025-02-13"
     },
     {
       "title": "O Melhor Teclado Para Programadores?",
@@ -43,7 +43,7 @@
         "Keycaps"
       ],
       "language": "pt-br",
-      "date": "2024-01-15"
+      "date": "2025-01-15"
     },
     {
       "title": "Desvendando o Estado Atual do Node.js: Bate-papo Imperdível sobre Performance com Rafael Gonzaga",
@@ -58,7 +58,7 @@
         "Kubernetes"
       ],
       "language": "pt-br",
-      "date": "2024-01-17"
+      "date": "2025-01-17"
     },
     {
       "title": "Como saber se seu Node.js é vulnerável",
@@ -73,7 +73,7 @@
         "Segurança"
       ],
       "language": "pt-br",
-      "date": "2024-01-21"
+      "date": "2025-01-21"
     },
     {
       "title": "Você vai eliminar o uso de mouse da sua vida com essa ferramenta",
@@ -87,7 +87,7 @@
           "Produtividade"
       ],
       "language": "pt-br",
-      "date": "2024-01-18"
+      "date": "2025-01-18"
     },
     {
       "title": "5 ferramentas inúteis que todo programador deveria conhecer 😜",
@@ -102,7 +102,51 @@
         "Kubernetes"
       ],
       "language": "pt-br",
-      "date": "2024-jess-jess"
+      "date": "2025-01-17"
+    },
+    {
+      "title": "5 ferramentas que Todo Programador Deveria Usar 💥🔥",
+      "abstract": "Essas ferramentas vão mudar a forma que você trabalha diariamente por aí",
+      "reach": 10000,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://www.linkedin.com/posts/erickwendel_5-ferramentas-que-todo-programador-deveria-activity-7285644983880085504-tedD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "tags": [
+          "Produtividade"
+      ],
+      "language": "pt-br",
+      "date": "2025-01-16"
+    },
+    {
+      "title": "O Melhor Teclado Para Programadores?",
+      "abstract": " Neste vídeo, vou te mostrar minha jornada ao trocar o Apple Magic Keyboard pelos teclados Hillside View e CorneV2",
+      "reach": 7228,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://youtu.be/cCk-fA2-reM?si=WDtqvw58X9OmjnS6",
+      "tags": [
+          "DevTools",
+        "Keyboards"
+      ],
+      "language": "pt-br",
+      "date": "2025-01-15"
+    },
+    {
+      "title": "A melhor alternativa GRATUITA ao bit.ly",
+      "abstract": "Vou te mostrar uma ferramenta open source para substituir o Bit.ly e você ter seu próprio encurtador de URLs sem precisar gastar nada!",
+      "reach": 8876,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://youtu.be/m1KhHpgpYAI?si=bPicH31tTMISK91l",
+      "tags": [
+        "bitly",
+        "hostinger"
+      ],
+      "language": "pt-br",
+      "date": "2025-01-10"
     },
     {
       "title": "jess",
@@ -117,8 +161,24 @@
         "Kubernetes"
       ],
       "language": "pt-br",
-      "date": "2024-jess-jess"
+      "date": "2025-jess-jess"
     },
+    {
+      "title": "jess",
+      "abstract": "jess",
+      "reach": 10000,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "jess",
+      "tags": [
+          "Docker",
+        "Kubernetes"
+      ],
+      "language": "pt-br",
+      "date": "2025-jess-jess"
+    },
+
   {
     "title": "Minhas cabacices trabalhando com Kubernetes (e o que não fazer)",
     "abstract": "Estou com 40 aplicações rodando no Kubernetes e ja fiz umas cabacices monstruosas que me geraram muitos aprendizados então serão várias dicas valiosas do campo de batalha",
