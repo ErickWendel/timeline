@@ -149,19 +149,363 @@
       "date": "2025-01-10"
     },
     {
-      "title": "jess",
-      "abstract": "jess",
+      "title": "Essas ferramentas vão fazer você codificar 99999x mais rápido",
+      "abstract": "Nesse video, vou te mostrar como você pode processar planilhas gigantes do Google sheets de forma simples usando low code no Node usando um pacote open source que eu mesmo desenvolvi",
+      "reach": 7617,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://youtu.be/i7F_3h8bfjo?si=FPk6PQ7A6t0QE3Hq",
+      "tags": [
+          "Nodered",
+        "JavaScript"
+      ],
+      "language": "pt-br",
+      "date": "2024-12-19"
+    },
+    {
+      "title": "Simulação entrevista técnica de JavaScript Jr: Como explicar Asyncawait para uma criança? 🤔",
+      "abstract": "Trecho da live SIMULANDO ENTREVISTA TÉCNICA DE JAVASCRIPT com @mupezzuol e kipper.dev",
       "reach": 10000,
       "additionalLinks": [
         ""
       ],
-      "link": "jess",
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7275254093353226240-rMin?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "tags": [
+        "Javascript",
+        "Carreira"
+      ],
+      "language": "pt-br",
+      "date": "2024-12-18"
+    },
+    {
+      "title": "Reagindo ao Futuro do JavaScript: O Que Pode Mudar em 2025?",
+      "abstract": " Nesta live, vou reagir em tempo real às novidades que podem mudar a forma como escrevemos código no futuro",
+      "reach": 2800,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://www.youtube.com/live/9V64O7mOH2E?si=Uo-Ye8-HqxAEKzPY",
+      "tags": [
+          "NodeJS",
+        "JavaScript"
+      ],
+      "language": "pt-br",
+      "date": "2024-12-18"
+    },
+    {
+      "title": "Como é ser um programador de sucesso🤔",
+      "abstract": "Trecho do video Ele Já Faturou R$ 5 Milhões Ensinando Programação Na Internet | Erick Wendel - Kiwicast #378",
+      "reach": 10000,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7274906870522261505-GDD9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "tags": [
+        "Carreira",
+        "Educação"
+      ],
+      "language": "pt-br",
+      "date": "2024-12-17"
+    },
+    {
+      "title": "Simulação entrevista técnica de JavaScript Jr: Como um júnior deve reportar um erro cometido por um sênior na empresa?🤔",
+      "abstract": "trecho do video SIMULANDO ENTREVISTA TÉCNICA DE JAVASCRIPT com @mupezzuol e kipper.dev",
+      "reach": 10000,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7274166889243705344-C0zX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "tags": [
+        "Carreira"
+      ],
+      "language": "pt-br",
+      "date": "2024-12-15"
+    },
+    {
+      "title": "Como a programação mudou minha vida🔥",
+      "abstract": "Trecho do video Ele Já Faturou R$ 5 Milhões Ensinando Programação Na Internet | Erick Wendel - Kiwicast #378",
+      "reach": 10000,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7273804607036796929-4PkW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "tags": [
+          "Programação",
+        "Carreira"
+      ],
+      "language": "pt-br",
+      "date": "2024-12-14"
+    },
+    {
+      "title": "Explorando possibilidades criativas com Web XOR🔥",
+      "abstract": "Um pouco do que é possivel criar para produzir imersões de experiência para o seu usuário com Web XOR",
+      "reach": 10000,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7273457067510648832-1prw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "tags": [
+          "WebXOR",
+        "Programação"
+      ],
+      "language": "pt-br",
+      "date": "2024-12-13"
+    },
+    {
+      "title": "QUER PERFORMANCE EM JS? FAÇA ISSO! | Erick Wendel",
+      "abstract": "Eu trouxe 05 dicas para elevar a capacidade de suas aplicações JavaScript, independente do ambiente para você repensar sobre o que está fazendo, alterar partes de código e entregar mais gastando menos",
+      "reach": 5174,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://youtu.be/GZZ0zdpvAZU?si=79CzML__Gwe91r63",
+      "tags": [
+        "Performance",
+        "Backend"
+      ],
+      "language": "pt-br",
+      "date": "2024-12-06"
+    },
+    {
+      "title": "Simulação entrevista técnica de JavaScript Jr: Diferença de Jr para Sênior🔥",
+      "abstract": "Trecho da live SIMULANDO ENTREVISTA TÉCNICA DE JAVASCRIPT com @mupezzuol e kipper.dev",
+      "reach": 10000,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7272732428941602816-hCK4?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
       "tags": [
           "Docker",
         "Kubernetes"
       ],
       "language": "pt-br",
-      "date": "2025-jess-jess"
+      "date": "2024-12-13"
+    },
+    {
+      "title": " Início na programação😂",
+      "abstract": "Trecho do video Ele Já Faturou R$ 5 Milhões Ensinando Programação Na Internet | Erick Wendel - Kiwicast #378",
+      "reach": 10000,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7272355221547216896-QV_g?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "tags": [
+        "Programação",
+        "Carreira"
+      ],
+      "language": "pt-br",
+      "date": "2024-12-10"
+    },
+    {
+      "title": "A Melhor Alternativa GRATUITA ao Heroku, Vercel e Netlify!",
+      "abstract": "Vou te mostrar uma feramenta incrível para você publicar suas aplicações de forma automática, como se fosse as épocas de Heroku e que vem com uma variedade incrível de templates para você usar e que ja estão prontos para produção",
+      "reach": 17681,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://youtu.be/6z33Ov5i-90?si=KRU-A224tv7kauvz",
+      "tags": [
+        "Coolify",
+        "Kubernetes"
+      ],
+      "language": "pt-br",
+      "date": "2024-12-10"
+    },
+    {
+      "title": "Simulação entrevista técnica de JavaScript Jr - Pergunta técnica🔥",
+      "abstract": "trecho do video SIMULANDO ENTREVISTA TÉCNICA DE JAVASCRIPT com @mupezzuol e kipper.dev",
+      "reach": 10000,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7270905505391202304-UHUc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "tags": [
+        "Carreira",
+        "Entrevista"
+      ],
+      "language": "pt-br",
+      "date": "2024-12-06"
+    },
+    {
+      "title": "Considerações finais do Marco para você dev🔥",
+      "abstract": "trecho do video Node.js agora suporta TypeScript nativamente (feat Marco Ippolito - lider da iniciativa no Node.js",
+      "reach": 10000,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7270558092474425345-MPNs?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "tags": [
+        "Test Runner",
+        "NodeJS"
+      ],
+      "language": "pt-br",
+      "date": "2024-12-05"
+    },
+    {
+      "title": "Participei do Podcast da Kiwify e olha como eles me apresentaram🔥",
+      "abstract": "Trecho do video Ele Já Faturou R$ 5 Milhões Ensinando Programação Na Internet | Erick Wendel - Kiwicast #378",
+      "reach": 10000,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7270195842639179781-TqC5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "tags": [
+        "Carreira",
+        "Programação"
+      ],
+      "language": "pt-br",
+      "date": "2024-12-04"
+    },
+    {
+      "title": "Live ESPECIAL de 100 MIL INSCRITOS?😳 / Otimizando e Monitorando apps JavaScript 💥 | Erick Wendel",
+      "abstract": "Nessa live, vou te mostrar o que você pode se atentar em projetos JavaScript, tanto para backend quanto para frontend com exemplos práticos e experiências extraídas do mundo real!",
+      "reach": 1785,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://www.youtube.com/live/Q8omqWTT3Yk?si=Ke7QB7euOnW6YRVi",
+      "tags": [
+        "Performance",
+        "JavaScript"
+      ],
+      "language": "pt-br",
+      "date": "2024-12-03"
+    },
+    {
+      "title": "Criando animações 3D - Parte 02🔥",
+      "abstract": "Criações de experiências imersivas para as suas aplicações",
+      "reach": 10000,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7269108435537874944-mf3w?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "tags": [
+        "JavaScript",
+        "NodeJS"
+      ],
+      "language": "en-us",
+      "date": "2024-01-24"
+    },
+    {
+      "title": "Simulação entrevista técnica de JavaScript - Programador Jr🔥",
+      "abstract": "trecho do video SIMULANDO ENTREVISTA TÉCNICA DE JAVASCRIPT com @mupezzuol e kipper.dev",
+      "reach": 10000,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7268738590958866432-qOqw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "tags": [
+          "Carreira",
+        "JavaScript"
+      ],
+      "language": "pt-br",
+      "date": "2024-11-30"
+    },
+    {
+      "title": "Como melhorar em 10x a performance de apps Node.js (CPU Profiling + Optimization = magic)",
+      "abstract": "Nesse vídeo, vou te mostrar como você pode inspecionar problemas de performance em Node.js usando apenas os módulos nativos do Node.js usando uma técnica chamada de CPU Profiling",
+      "reach": 10723,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://youtu.be/3F1uBQVWNfE?si=TKrvRxA6zUe9jmLU",
+      "tags": [
+        "Performance",
+        "NodeJS"
+      ],
+      "language": "pt-br",
+      "date": "2024-11-26"
+    },
+    {
+      "title": "Node.js now supports TypeScript natively (feat Marco Ippolito - Node.js TSC)",
+      "abstract": "TypeScript running natively in Node.js? Yes, this is a piece of a dream many people had, and it's now a reality!",
+      "reach": 5132,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://youtu.be/Py-sKPMRPGg?si=pbN04oD6BbCh1IGL",
+      "tags": [
+        "TypeScript",
+        "tutorial"
+      ],
+      "language": "en-us",
+      "date": "2024-11-07"
+    },
+    {
+      "title": "5 Ferramentas Feitas em Node.js Que Todo Programador Deveria Usar",
+      "abstract": "Neste vídeo, eu separei 5 Ferramentas Feitas em Node.js Que Todo Programador Deveria Usar",
+      "reach": 8226,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://youtu.be/COoSC8I4A1g?si=CH72X4oHMQnTw7JA",
+      "tags": [
+          "NodeJS",
+        "JavaScript"
+      ],
+      "language": "pt-br",
+      "date": "2024-11-04"
+    },
+    {
+      "title": "Porque o projeto Node.js NÃO tem testes unitários?",
+      "abstract": "O projeto Node.js não tem testes unitários e me faz refletir sobre qual é o modelo ideal para software, um modelo que acelere o desenvolvimento e entregue valor real",
+      "reach": 6020,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://youtu.be/WFMujhZRrcQ?si=lyJhV_KuEFGOzdj4",
+      "tags": [
+          "tests",
+        "NodeJS"
+      ],
+      "language": "pt-br",
+      "date": "2024-10-28"
+    },
+    {
+      "title": "A Ferramenta QUE VAI REVOLUCIONAR o desenvolvimento de Suas Web APIs",
+      "abstract": "A APIDog é semelhante ao Postman em termos de teste e documentação de APIs, mas também oferece recursos integrados para o design de APIs, permitindo que os usuários criem, gerenciem e depurem APIs dentro da mesma ferramenta. ",
+      "reach": 12357,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://youtu.be/B3nAHETDrow?si=QNuEgNGkpRYwj04X",
+      "tags": [
+          "Web",
+        "JavaScript"
+      ],
+      "language": "pt-br",
+      "date": "2024-10-22"
+    },
+    {
+      "title": "Conheça o Futuro (E Presente) da Web Com Edge Computing | Erick Wendel",
+      "abstract": "Descubra o reino de ponta da evolução da web através do Edge Computing, com foco em como esta tecnologia revoluciona o processamento de dados, a conectividade e a capacidade de resposta em tempo real",
+      "reach": 9098,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://youtu.be/ydzoxJRimA0?si=n6hNnDsUid9JC0Oj",
+      "tags": [
+        "Edge Computing",
+        "JavaScript"
+      ],
+      "language": "pt-br",
+      "date": "2024-10-12"
+    },
+    {
+      "title": "Node.js Agora Suporta o Banco Mais Popular Do Mundo by Erick Wendel",
+      "abstract": "Atendendo a pedidos, saiu um super video tutorial mostrando como usar o SQLite no Node.js sem qualquer biblioteca adicional 🤯",
+      "reach": 21000,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://youtu.be/-eklEr3Adr4?si=MtF3pRt5PNUl0zid",
+      "tags": [
+        "SQLite",
+        "NodeJS"
+      ],
+      "language": "pt-br",
+      "date": "2024-10-09"
     },
     {
       "title": "jess",
@@ -176,7 +520,22 @@
         "Kubernetes"
       ],
       "language": "pt-br",
-      "date": "2025-jess-jess"
+      "date": "2024-jess-jess"
+    },
+    {
+      "title": "jess",
+      "abstract": "jess",
+      "reach": 10000,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "jess",
+      "tags": [
+          "Docker",
+        "Kubernetes"
+      ],
+      "language": "pt-br",
+      "date": "2024-jess-jess"
     },
 
   {
