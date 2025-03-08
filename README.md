@@ -11796,7 +11796,7 @@ _Tags: `javascript`_
 
 Location: <a href="https://www.google.com/maps/?q=45.4517463,9.1633404" target="_blank">Milan - IT, Italy</a>.
 
-### 2023-10-23 -  10 must-know design patterns for JavaScript developers (en-us)
+### 2023-10-23 - 10 must-know design patterns for JavaScript developers (en-us)
 
 
 <a href="https://www.schrodinger-hat.it/" target="_blank">Schrödinger Hat</a>
@@ -12381,7 +12381,7 @@ Location: <a href="https://www.google.com/maps/?q=37.992767,23.79597" target="_b
 <a href="https://cityjsconf.org/" target="_blank">CityJS World series</a>
 
 
-  <a href="https://youtu.be/CtQTlvWZYts" target="_blank">video</a>
+<a href="https://www.icloud.com/keynote/0752aQ_6r9DHyLhOWp3-f-Lfg#how_I've_been_automating_my_home_using_JavaScript_-_cityjs_-_30042022" target="_blank">slides</a> |   <a href="https://youtu.be/CtQTlvWZYts" target="_blank">video</a>
 
 
 Abstract:
@@ -12423,7 +12423,7 @@ Location: <a href="https://www.google.com/maps/?q=-23.5966179,-46.6890048" targe
 <a href="https://cityjsconf.org" target="_blank">CityJS 2021</a>
 
 
-  <a href="https://www.youtube.com/watch?v=gJwrRTTb2Qw&t=27600s" target="_blank">video</a>
+<a href="https://www.icloud.com/keynote/0bEEuC1dFDWX1aBl_QGGQGLxg#10_secrets_to_improve_Node.js_Security_-_CityJSConf_2021" target="_blank">slides</a> |   <a href="https://www.youtube.com/watch?v=gJwrRTTb2Qw&t=27600s" target="_blank">video</a>
 
 
 Abstract:

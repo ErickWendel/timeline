@@ -14,8 +14,14 @@
         "abstract": "Examples and challenges of how to create e2e tests for frontend apps",
         "type": "project",
         "link": "https://github.com/ErickWendel/cypress-for-begginers",
-        "tags": ["cypress","github-actions", "nodejs"],
-        "additionalLinks": [""],
+        "tags": [
+            "cypress",
+            "github-actions",
+            "nodejs"
+        ],
+        "additionalLinks": [
+            ""
+        ],
         "language": "en-us",
         "date": "2024-04-09"
     },
@@ -24,19 +30,30 @@
         "abstract": " This repository contains various examples and experiments I've conducted while learning and exploring WebXR.",
         "type": "project",
         "link": "https://github.com/ErickWendel/webxr-studies",
-        "tags": ["webXR","javascript", "nodejs"],
-        "additionalLinks": [""],
+        "tags": [
+            "webXR",
+            "javascript",
+            "nodejs"
+        ],
+        "additionalLinks": [
+            ""
+        ],
         "language": "en-us",
         "date": "2024-01-11"
     },
-
     {
         "title": "JSExpertHub Pre-processing videos on browsers - Semana JS Expert 8.0",
         "abstract": "Pre processing videos before uploading in the browser 😏",
         "type": "project",
         "link": "https://github.com/ErickWendel/semana-javascript-expert08",
-        "tags": ["webstreams","javascript", "nodejs"],
-        "additionalLinks": [""],
+        "tags": [
+            "webstreams",
+            "javascript",
+            "nodejs"
+        ],
+        "additionalLinks": [
+            ""
+        ],
         "language": "en-us",
         "date": "2023-10-06"
     },
@@ -45,8 +62,14 @@
         "abstract": "A video (and blog post) tutorial about how to migrate from Jest to the Node.js native test runner",
         "type": "project",
         "link": "https://github.com/ErickWendel/migrating-from-jest-to-node-test-runner",
-        "tags": ["tests","javascript", "nodejs"],
-        "additionalLinks": [""],
+        "tags": [
+            "tests",
+            "javascript",
+            "nodejs"
+        ],
+        "additionalLinks": [
+            ""
+        ],
         "language": "en-us",
         "date": "2023-05-08"
     },
@@ -55,8 +78,14 @@
         "abstract": "A video (and blog post) tutorial about an incredible technique to improve your productivity",
         "type": "project",
         "link": "https://github.com/ErickWendel/postman-is-slowing-you-down",
-        "tags": ["tests E2E","javascript", "nodejs"],
-        "additionalLinks": [""],
+        "tags": [
+            "tests E2E",
+            "javascript",
+            "nodejs"
+        ],
+        "additionalLinks": [
+            ""
+        ],
         "language": "en-us",
         "date": "2023-04-24"
     },
@@ -65,8 +94,14 @@
         "abstract": "A video tutorial about E2E Testing in Node.js using only the native Node.js test runner",
         "type": "project",
         "link": "https://github.com/ErickWendel/how-to-e2e-testing-nodejs-with-no-frameworks",
-        "tags": ["tests E2E","javascript", "nodejs"],
-        "additionalLinks": [""],
+        "tags": [
+            "tests E2E",
+            "javascript",
+            "nodejs"
+        ],
+        "additionalLinks": [
+            ""
+        ],
         "language": "en-us",
         "date": "2023-04-17"
     },
@@ -75,8 +110,14 @@
         "abstract": "Welcome, this repo is part of my youtube video about How to read 30GB+ data in the frontend without blocking the screen - Webstreams 101(en-us)",
         "type": "project",
         "link": "https://github.com/ErickWendel/processing-30GB-data-with-JavaScript-Streams",
-        "tags": ["webstreams","javascript", "nodejs"],
-        "additionalLinks": [""],
+        "tags": [
+            "webstreams",
+            "javascript",
+            "nodejs"
+        ],
+        "additionalLinks": [
+            ""
+        ],
         "language": "en-us",
         "date": "2023-03-22"
     },
@@ -85,8 +126,14 @@
         "abstract": "Examples of my talk given in Brazilian Portuguese at #DevPR at 11/03/2023",
         "type": "project",
         "link": "https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk",
-        "tags": ["frontend","javascript", "nodejs"],
-        "additionalLinks": [""],
+        "tags": [
+            "frontend",
+            "javascript",
+            "nodejs"
+        ],
+        "additionalLinks": [
+            ""
+        ],
         "language": "pt-br",
         "date": "2023-03-11"
     },
@@ -95,8 +142,13 @@
         "abstract": "JS Expert Week 7.0 - 🙅🤏🏻 Controlling Streaming Platforms using Eye and Hand Detection 👁🖐",
         "type": "project",
         "link": "https://github.com/ErickWendel/semana-javascript-expert07",
-        "tags": ["machine learning", "nodejs"],
-        "additionalLinks": [""],
+        "tags": [
+            "machine learning",
+            "nodejs"
+        ],
+        "additionalLinks": [
+            ""
+        ],
         "language": "en-us",
         "date": "2023-02-27"
     },
@@ -105,8 +157,13 @@
         "abstract": "This is the examples shown in my live screen about Recognizing gestures in real time right from the browser (pt-br)",
         "type": "project",
         "link": "https://github.com/ErickWendel/processing-large-reports-in-the-browser",
-        "tags": ["machine learning", "nodejs"],
-        "additionalLinks": [""],
+        "tags": [
+            "machine learning",
+            "nodejs"
+        ],
+        "additionalLinks": [
+            ""
+        ],
         "language": "en-us",
         "date": "2023-02-23"
     },
@@ -115,8 +172,13 @@
         "abstract": "This is the examples shown in my live screen about Recognizing gestures in real time right from the browser (pt-br)",
         "type": "project",
         "link": "https://github.com/ErickWendel/live-recognizing-multiple-gestures-tensorflowjs",
-        "tags": ["machine learning", "nodejs"],
-        "additionalLinks": [""],
+        "tags": [
+            "machine learning",
+            "nodejs"
+        ],
+        "additionalLinks": [
+            ""
+        ],
         "language": "en-us",
         "date": "2023-02-16"
     },
@@ -125,8 +187,13 @@
         "abstract": "(fork) DuckHunt 4.0 ported to JS and HTML5 + Mobile Device control via Gyroscope in the browser",
         "type": "project",
         "link": "https://github.com/ErickWendel/DuckHunt-JS",
-        "tags": ["chrome", "nodejs"],
-        "additionalLinks": [""],
+        "tags": [
+            "chrome",
+            "nodejs"
+        ],
+        "additionalLinks": [
+            ""
+        ],
         "language": "en-us",
         "date": "2022-11-03"
     },
@@ -135,8 +202,12 @@
         "abstract": "(CapivaraBR is a JavaScript runtime built on top of V8 Javascript Engine and Libuv",
         "type": "project",
         "link": "https://github.com/ErickWendel/myownnode",
-        "tags": ["c++"],
-        "additionalLinks": [""],
+        "tags": [
+            "c++"
+        ],
+        "additionalLinks": [
+            ""
+        ],
         "language": "en-us",
         "date": "2022-10-10"
     },
@@ -145,8 +216,12 @@
         "abstract": "Welcome to the sixth Javascript Expert Week. This is the starting code to start our journey.",
         "type": "project",
         "link": "https://github.com/ErickWendel/semana-javascript-expert06",
-        "tags": ["javascript"],
-        "additionalLinks": [""],
+        "tags": [
+            "javascript"
+        ],
+        "additionalLinks": [
+            ""
+        ],
         "language": "en-us",
         "date": "2022-05-24"
     },
@@ -155,8 +230,12 @@
         "abstract": "Welcome to the fifth Javascript Expert Week. This is the starting code to start our journey.",
         "type": "project",
         "link": "https://github.com/ErickWendel/semana-javascript-expert05",
-        "tags": ["javascript"],
-        "additionalLinks": [""],
+        "tags": [
+            "javascript"
+        ],
+        "additionalLinks": [
+            ""
+        ],
         "language": "en-us",
         "date": "2021-09-11"
     },
@@ -165,8 +244,12 @@
         "abstract": "Seja bem vindo(a) à quarta Semana Javascript Expert.Este é o código inicial para iniciar nossa jornada.",
         "type": "project",
         "link": "https://github.com/ErickWendel/semana-javascript-expert04",
-        "tags": ["javascript"],
-        "additionalLinks": [""],
+        "tags": [
+            "javascript"
+        ],
+        "additionalLinks": [
+            ""
+        ],
         "language": "pt-br",
         "date": "2021-05-21"
     },
@@ -175,8 +258,13 @@
         "abstract": "Replaces all images on all pages to Catossi. (Fork of nCage plugin, all credits to qwertyman1)",
         "type": "project",
         "link": "https://github.com/ErickWendel/nCatossi",
-        "tags": ["chrome", "nodejs"],
-        "additionalLinks": [""],
+        "tags": [
+            "chrome",
+            "nodejs"
+        ],
+        "additionalLinks": [
+            ""
+        ],
         "language": "pt-br",
         "date": "2017-05-21"
     },
@@ -185,8 +273,15 @@
         "abstract": "Extensão para substituir todos os ponto e virgulas pelo greek question mark\nSubstitui todos os ponto e vírgula (;) pelo greek question mark, caractere similar ao nosso ponto e virgula que não é reconhecido pelos nossos editores :D",
         "type": "project",
         "link": "https://marketplace.visualstudio.com/items?itemName=eriickwendel.troll-x-semicolon",
-        "tags": ["vscode", "vscode-extension", "node.js", "typescript"],
-        "additionalLinks": ["https://github.com/ErickWendel/trollXsemicolon-vscode"],
+        "tags": [
+            "vscode",
+            "vscode-extension",
+            "node.js",
+            "typescript"
+        ],
+        "additionalLinks": [
+            "https://github.com/ErickWendel/trollXsemicolon-vscode"
+        ],
         "language": "pt-br",
         "date": "2017-09-08"
     },
@@ -195,8 +290,18 @@
         "abstract": "sse curso mostra como o Visual Studio Code pode ser utilizado para empoderar o desenvolvedor da plataforma NodeJS a fazer código em todos os principais sistemas operacionais de uma forma mais rápida e integrada",
         "type": "project",
         "link": "https://channel9.msdn.com/blogs/DX/Primeiros-passos-com-TypeScript-no-Visual-Studio-Code",
-        "tags": ["node.js", "typescript", "javascript", "vscode", "training"],
-        "additionalLinks": ["https://mva.microsoft.com/pt-br/training-courses/introduo-ao-nodejs-com-typescript-no-visual-studio-code-15851?l=Pbw7Uao6B_5105192797", "http://slides.com/erickwendel/nodejs-typescript-vscode/fullscreen", "https://gallery.technet.microsoft.com/Introducao-ao-NodeJS-com-c5c39b8e"],
+        "tags": [
+            "node.js",
+            "typescript",
+            "javascript",
+            "vscode",
+            "training"
+        ],
+        "additionalLinks": [
+            "https://mva.microsoft.com/pt-br/training-courses/introduo-ao-nodejs-com-typescript-no-visual-studio-code-15851?l=Pbw7Uao6B_5105192797",
+            "http://slides.com/erickwendel/nodejs-typescript-vscode/fullscreen",
+            "https://gallery.technet.microsoft.com/Introducao-ao-NodeJS-com-c5c39b8e"
+        ],
         "language": "pt-br",
         "date": "2016-02-05"
     },
@@ -205,8 +310,17 @@
         "abstract": "Ganhar eficiência e velocidade é uma busca constante em times de desenvolvimento em startups e grandes corporações, com o objetivo de aprimorar a qualidade de entrega do software e facilitar sua gestão e distribuição. Ferramentas e práticas, facilitam este processo de transição e potencialização de arquitetura. Entre as ferramentas, destaca-se o Kubernetes, um orquestrador de containers Open Source. Na Maratona Kubernetes, será possível aprender os conceitos de Kubernetes, e através de atividades práticas, a analisar e desenhar a implantação de orquestração de containers. Todas as atividades são orientadas a situações do cotidiano de empresas, passando por desafios como monitoramento de recursos, escala automática e segurança, utilizando o AKS e outras ferramentas do Azure.",
         "type": "project",
         "link": "http://aka.ms/maratonakubernetes",
-        "additionalLinks": ["http://aka.ms/maratonakubernetes", "https://github.com/CommunityBootcamp/Maratona-Kubernetes"],
-        "tags": ["training", "online", "docker", "kubernetes", "microsoft"],
+        "additionalLinks": [
+            "http://aka.ms/maratonakubernetes",
+            "https://github.com/CommunityBootcamp/Maratona-Kubernetes"
+        ],
+        "tags": [
+            "training",
+            "online",
+            "docker",
+            "kubernetes",
+            "microsoft"
+        ],
         "language": "pt-br",
         "date": "2018-06-20"
     },
@@ -215,8 +329,18 @@
         "abstract": "Este treinamento foi desenvolvido sob medida baseado em uma pesquisa sobre o que a comunidade brasileira mais necessita, suas principais dificuldades e desafios. Neste curso você aprenderá desde o básico de Javascript, ciclo de vida, manipulação de listas ao desenvolvimento real de aplicações em ambiente de produção. Na prática você também aprenderá conceitos sobre desenvolvimento orientado a testes, autenticação, autorização, documentação de serviços e gerenciamento de variáveis de ambiente (environments) de aplicações.",
         "type": "project",
         "link": "https://treinamento.nodebr.org",
-        "tags": ["training", "online", "nodejs", "javascript", "iniciantes", "docker"],
-        "additionalLinks": ["https://treinamento.nodebr.org", "https://github.com/nodejsbrazil/cursonodebr01"],
+        "tags": [
+            "training",
+            "online",
+            "nodejs",
+            "javascript",
+            "iniciantes",
+            "docker"
+        ],
+        "additionalLinks": [
+            "https://treinamento.nodebr.org",
+            "https://github.com/nodejsbrazil/cursonodebr01"
+        ],
         "language": "pt-br",
         "date": "2018-11-27"
     },
@@ -225,8 +349,13 @@
         "abstract": "Acesse o Array.prototype.reduce – Javascript | MDN para a documentação completa em português.",
         "type": "project",
         "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce",
-        "tags": ["translation", "javascript"],
-        "additionalLinks": [""],
+        "tags": [
+            "translation",
+            "javascript"
+        ],
+        "additionalLinks": [
+            ""
+        ],
         "language": "pt-br",
         "date": "2015-07-26"
     }

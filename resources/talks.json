@@ -263,7 +263,7 @@
     "title": "Machine Learning en navegadores - Erick Wendel",
     "abstract": "aprenda un nuevo mundo de posibilidades para disfrutar creando y experimentando con tecnologías de vanguardia usando TensorFlow.js como ejemplo",
     "type": "talk",
-    "reach": 400,
+    "reach": 200,
     "event": {
       "link": "https://www.meetup.com/medellinjs/events/299790940/",
       "name": "MedellínJS"
@@ -271,17 +271,21 @@
     "slides": "https://www.icloud.com/keynote/0d87HCl8gPF88Q--BgwwcvrmQ#machine-learning4devs-medelinjs-medellin-27032024",
     "photos": "",
     "video": "https://www.youtube.com/watch?v=AoIYeS9KFMc&t=541s",
-    "tags": ["javascript"],
+    "tags": [
+      "javascript"
+    ],
     "location": {
-      "latitude":  6.230833,
-      "longitude":  -75.590553,
+      "latitude": 6.230833,
+      "longitude": -75.590553,
       "country": "Colombia",
       "uf": "COL",
       "city": "Medellin"
-        },
-        "additionalLinks": [""],
-        "language": "es",
-        "date": "2024-03-27"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "es",
+    "date": "2024-03-27"
   },
   {
     "title": "Recriando o Node.JS do zero",
@@ -295,17 +299,21 @@
     "slides": "https://www.icloud.com/keynote/060OLXDOZ0tblEdSF346cmnDg#recreating-nodejs-from-scratch-frontinpoa-01122023",
     "photos": "",
     "video": "",
-    "tags": ["javascript"],
+    "tags": [
+      "javascript"
+    ],
     "location": {
       "latitude": -30.0846697,
       "longitude": -51.2480271,
       "country": "Brazil",
       "uf": "POA",
       "city": "Porto Alegre"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2023-12-02"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2023-12-02"
   },
   {
     "title": "How to consume gigabytes of data in Javascript without slowing down applications",
@@ -319,17 +327,21 @@
     "slides": "https://www.icloud.com/keynote/09dn-Gx10Rcx5N28FYtF1Jv2Q#How-to-consume-gigabytes-of-data-in-JavaScript-without-slowing-down-applications-jsconfco-18112023",
     "photos": "",
     "video": "",
-    "tags": ["javascript"],
+    "tags": [
+      "javascript"
+    ],
     "location": {
       "latitude": 6.2648627,
       "longitude": -75.5687837,
       "country": "Colombia",
       "uf": "ME",
       "city": "Medellin"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-11-18"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2023-11-18"
   },
   {
     "title": "Bun? Deno? Node.js? Recreating a JS Runtime from scratch",
@@ -337,47 +349,55 @@
     "type": "talk",
     "reach": 600,
     "event": {
-        "link": "https://www.linkedin.com/company/codemotion/",
-        "name": "Codemotion Milan"
+      "link": "https://www.linkedin.com/company/codemotion/",
+      "name": "Codemotion Milan"
     },
     "slides": "https://www.icloud.com/keynote/039aIOI_SEX1fFvtZp9lNWsCg#recreating-nodejs-from-scratch-codemotion-milan-24102023",
     "photos": "",
     "video": "",
-    "tags": ["javascript"],
+    "tags": [
+      "javascript"
+    ],
     "location": {
       "latitude": 45.4517463,
       "longitude": 9.1633404,
       "country": "Italy",
       "uf": "IT",
       "city": "Milan"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-10-24"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2023-10-24"
   },
   {
-    "title": " 10 must-know design patterns for JavaScript developers",
+    "title": "10 must-know design patterns for JavaScript developers",
     "abstract": "This talk show you how to reuse code by applying known design patterns highly used in other programming languages",
     "type": "talk",
     "reach": 150,
     "event": {
-        "link": "https://www.schrodinger-hat.it/",
-        "name": "Schrödinger Hat"
+      "link": "https://www.schrodinger-hat.it/",
+      "name": "Schrödinger Hat"
     },
     "slides": "https://www.icloud.com/keynote/04efwUBHU7vJLOGj8a24OaeRg#10-design-patterns-for-js-devs-schrodingerhat-23102023",
     "photos": "",
     "video": "https://www.youtube.com/live/4cB9Y77YXkI?si=QjS1DMX7oNaHdZoE",
-    "tags": ["javascript"],
+    "tags": [
+      "javascript"
+    ],
     "location": {
       "latitude": 45.4846083,
       "longitude": 9.1961786,
       "country": "Italy",
       "uf": "IT",
       "city": "Milan"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-10-23"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2023-10-23"
   },
   {
     "title": "Node.js in 2023 – What’s New in the Node.js Native Test Runner",
@@ -385,23 +405,27 @@
     "type": "talk",
     "reach": 600,
     "event": {
-        "link": "https://revojs.ro/2023/speakers/erick-wendel/",
-        "name": "Revo JS"
+      "link": "https://revojs.ro/2023/speakers/erick-wendel/",
+      "name": "Revo JS"
     },
     "slides": "https://www.icloud.com/keynote/0b86e6mnqvEtl5KrwUtMBThoQ#whats-new-in-the-nodejs-test-runner-revojsro-05102023",
     "photos": "",
     "video": "",
-    "tags": ["javascript"],
+    "tags": [
+      "javascript"
+    ],
     "location": {
       "latitude": 45.7669644,
       "longitude": 21.2287188,
       "country": "Romania",
       "uf": "RO",
       "city": "Timisoara"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-10-06"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2023-10-06"
   },
   {
     "title": "O próximo nível para desenvolvedores Web:Machine Learning em Navegadores",
@@ -409,23 +433,27 @@
     "type": "talk",
     "reach": 50,
     "event": {
-        "link": "https://guild.host/nodebr",
-        "name": "NodeBR"
+      "link": "https://guild.host/nodebr",
+      "name": "NodeBR"
     },
     "slides": "https://www.icloud.com/keynote/065BSSFjTeEp72oUs4W_Z-BXg#machine-learning4devs-nodebr-sp-31082023",
     "photos": "",
     "video": "",
-    "tags": ["javascript"],
+    "tags": [
+      "javascript"
+    ],
     "location": {
       "latitude": -23.568864,
       "longitude": -46.6499899,
       "country": "Brazil",
       "uf": "SP",
       "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2023-08-31"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2023-08-31"
   },
   {
     "title": "O segredo para processar terabytes de dados em JavaScript",
@@ -433,23 +461,29 @@
     "type": "talk",
     "reach": 700,
     "event": {
-        "link": "https://www.codecon.dev/summit/quem-vai/erick-wendel",
-        "name": "Codecon"
+      "link": "https://www.codecon.dev/summit/quem-vai/erick-wendel",
+      "name": "Codecon"
     },
     "slides": "https://bit.ly/o-segredo-para-processar-terabytes-em-js",
     "photos": "",
     "video": "",
-    "tags": ["javascript", "web workers", "web Streams"],
+    "tags": [
+      "javascript",
+      "web workers",
+      "web Streams"
+    ],
     "location": {
       "latitude": -26.2630382,
       "longitude": -49.2925363,
       "country": "Brazil",
       "uf": "SC",
       "city": "Joinville"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2023-08-26"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2023-08-26"
   },
   {
     "title": "10 must-know design patterns for Javascript Developers",
@@ -457,23 +491,28 @@
     "type": "talk",
     "reach": 800,
     "event": {
-        "link": "https://www.wearedevelopers.com/",
-        "name": "We Are Developers"
+      "link": "https://www.wearedevelopers.com/",
+      "name": "We Are Developers"
     },
     "slides": "https://www.icloud.com/keynote/0d220FhfLqbo30J502HQdV39g#10-design-patterns-for-js-devs-wearedevs-27072023",
     "photos": "",
     "video": "",
-    "tags": ["javascript", "design patterns"],
+    "tags": [
+      "javascript",
+      "design patterns"
+    ],
     "location": {
       "latitude": 52.5043277,
       "longitude": 13.3276465,
       "country": "Germany",
       "uf": "BER",
       "city": "Berlin"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-07-27"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2023-07-27"
   },
   {
     "title": "Bun? Deno? Node.js? Recreating a JS Runtime from scratch",
@@ -481,230 +520,289 @@
     "type": "talk",
     "reach": 700,
     "event": {
-        "link": "https://www.nodetlv.com/",
-        "name": "Node.TLV"
+      "link": "https://www.nodetlv.com/",
+      "name": "Node.TLV"
     },
     "slides": "https://www.icloud.com/keynote/0eaPwCtMQXB2iqw698wL9Opqw#recreating-nodejs-from-scratch-nodetlv-28062023",
     "photos": "",
     "video": "",
-    "tags": ["nodejs","javascript", "runtime"],
+    "tags": [
+      "nodejs",
+      "javascript",
+      "runtime"
+    ],
     "location": {
       "latitude": 32.166313,
       "longitude": 34.843311,
       "country": "Israel",
       "uf": "IL",
       "city": "Tel Aviv"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-06-28"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2023-06-28"
   },
   {
     "title": "Bun? Deno? Node.js? Recreating a JS Runtime from scratch",
     "abstract": "Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime",
     "type": "talk",
     "event": {
-        "link": "https://jnation.pt/",
-        "name": "JS Nation Portugal"
+      "link": "https://jnation.pt/",
+      "name": "JS Nation Portugal"
     },
     "slides": "https://www.icloud.com/keynote/0acML9UEH5sUJzn23fZ0QwBSg#recreating-nodejs-from-scratch-jnation-06062023",
     "photos": "",
     "video": "https://jnation.pt/stream/",
-    "tags": ["nodejs","javascript", "runtime"],
+    "tags": [
+      "nodejs",
+      "javascript",
+      "runtime"
+    ],
     "location": {
-      "latitude":40.2056400,
-      "longitude":-8.41955000,
+      "latitude": 40.2056400,
+      "longitude": -8.41955000,
       "country": "Portugal",
       "uf": "PT",
       "city": "Coimbra"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-06-06"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2023-06-06"
   },
   {
     "title": "Bun? Deno? Node.js? Recreating a JS Runtime from scratch",
     "abstract": "Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime",
     "type": "talk",
     "event": {
-        "link": "https://jsnation.com/",
-        "name": "Js Nation"
+      "link": "https://jsnation.com/",
+      "name": "Js Nation"
     },
     "slides": "https://www.icloud.com/keynote/069dqLiq47sD7-QczGdY-6B4A#recreating-nodejs-from-scratch-jsnation-amsterdam-01062023",
     "photos": "",
     "video": "https://portal.gitnation.org/contents/bun-deno-nodejs-recreating-a-javascript-runtime-from-scratch",
-    "tags": ["nodejs","javascript", "runtime"],
+    "tags": [
+      "nodejs",
+      "javascript",
+      "runtime"
+    ],
     "location": {
-      "latitude":52.3738,
-      "longitude":4.89093,
+      "latitude": 52.3738,
+      "longitude": 4.89093,
       "country": "Netherlands",
       "uf": "NED",
       "city": "Amsterdam"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-06-01"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2023-06-01"
   },
   {
     "title": "Bun? Deno? Node.js? Recreating a JS Runtime from scratch",
     "abstract": "Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime",
     "type": "talk",
     "event": {
-        "link": "https://ndcoslo.com/",
-        "name": "NDC Oslo"
+      "link": "https://ndcoslo.com/",
+      "name": "NDC Oslo"
     },
     "slides": "https://www.icloud.com/keynote/0d7cWC5W_Z_XukyK2z0qNNq0A#recreating-nodejs-from-scratch-ndcoslo-26052023",
     "photos": "",
     "video": "https://youtu.be/uNGDW3snVyA?si=tepKjmfUE-LmkpFI",
-    "tags": ["nodejs","javascript", "runtime"],
+    "tags": [
+      "nodejs",
+      "javascript",
+      "runtime"
+    ],
     "location": {
-      "latitude":59.9125923,
-      "longitude":10.7522277,
+      "latitude": 59.9125923,
+      "longitude": 10.7522277,
       "country": "Norway",
       "uf": "OSL",
       "city": "Oslo"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-05-26"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2023-05-26"
   },
   {
     "title": "A vida e as aventuras de desenvolvedor de software",
     "abstract": "Nessa apresentação eu trouxe projetos divertidos que fiz, mostrei os principais desafios da área, quais os primeiros passos para ir de cabeça no mundo de programação e claro, mostrei como eu me mantenho motivado e com sede de sempre aprender mais.",
     "type": "talk",
     "event": {
-        "link": "https://www.instagram.com/cedespchantal_oficial/",
-        "name": "Cedesp Agostiniana Dona Chantal"
+      "link": "https://www.instagram.com/cedespchantal_oficial/",
+      "name": "Cedesp Agostiniana Dona Chantal"
     },
     "slides": "https://www.icloud.com/keynote/08cogYYnoMtVTcHSv9-dXwT3g#A_vida_e_as_aventuras_de_desenvolvedor_de_software_-_cedesp_-_17052022",
     "photos": "",
     "video": "",
-    "tags": ["nodejs","javascript", "Machine Learning"],
+    "tags": [
+      "nodejs",
+      "javascript",
+      "Machine Learning"
+    ],
     "location": {
-      "latitude":-23.6155618,
-      "longitude":-46.4570683,
+      "latitude": -23.6155618,
+      "longitude": -46.4570683,
       "country": "Brazil",
       "uf": "SP",
       "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "pt-br",
-        "date": "2023-05-17"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2023-05-17"
   },
   {
     "title": "The next level for Web developers: Machine Learning on browsers",
     "abstract": "Explore the Future of the Web: Discover How Machine Learning Is Transforming the User Experience in Browsers",
     "type": "talk",
     "event": {
-        "link": "https://www.bejs.io/",
-        "name": "BeJS : Belgian JavaScript Community"
+      "link": "https://www.bejs.io/",
+      "name": "BeJS : Belgian JavaScript Community"
     },
     "slides": "https://www.icloud.com/keynote/0373zPb_rl1cwWtyk53ZN9mPg#machine-learning4devs-bejs-brussels-12052023",
     "photos": "",
     "video": "",
-    "tags": ["nodejs","javascript", "Machine Learning"],
+    "tags": [
+      "nodejs",
+      "javascript",
+      "Machine Learning"
+    ],
     "location": {
-      "latitude":50.8510781,
-      "longitude":4.3318835,
+      "latitude": 50.8510781,
+      "longitude": 4.3318835,
       "country": "Belgian",
       "uf": "BEL",
       "city": "Brussels"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-05-12"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2023-05-12"
   },
   {
     "title": "The next level for Web developers: Machine Learning on browsers",
     "abstract": "Explore the Future of the Web: Discover How Machine Learning Is Transforming the User Experience in Browsers",
     "type": "talk",
     "event": {
-        "link": "https://brazil.cityjsconf.org/",
-        "name": "CityJS World series São Paulo 2023"
+      "link": "https://brazil.cityjsconf.org/",
+      "name": "CityJS World series São Paulo 2023"
     },
     "slides": "https://www.icloud.com/keynote/066J6r58vIhiFSFFgfxDyZXuw#machine-learning4devs-cityjs-sp-26042023",
     "photos": "",
     "video": "https://www.youtube.com/live/lD39kjrXRvo?feature=share",
-    "tags": ["nodejs","javascript", "Machine Learning"],
+    "tags": [
+      "nodejs",
+      "javascript",
+      "Machine Learning"
+    ],
     "location": {
-      "latitude":-23.508559,
+      "latitude": -23.508559,
       "longitude": -46.7215608,
       "country": "Brazil",
       "uf": "SP",
       "city": "São Paulo"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-04-26"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2023-04-26"
   },
   {
     "title": "Bun?Deno?Node.js?Recreating a JS Runtime from scratch",
     "abstract": "Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime",
     "type": "talk",
     "event": {
-        "link": "https://nodecongress.com/",
-        "name": "Node Congress Berlin"
+      "link": "https://nodecongress.com/",
+      "name": "Node Congress Berlin"
     },
     "slides": "https://www.icloud.com/keynote/0fa15m5m7-8C0qHo2M48JomLQ#recreating-nodejs-from-scratch-nodecongress-berlin-14042023",
     "photos": "",
     "video": "https://portal.gitnation.org/contents/bun-deno-nodejs-recreating-a-javascript-runtime-from-scratch-understand-magic-behind-nodejs",
-    "tags": ["nodejs","javascript", "runtime"],
+    "tags": [
+      "nodejs",
+      "javascript",
+      "runtime"
+    ],
     "location": {
-      "latitude":52.5169221,
-      "longitude":13.449893,
+      "latitude": 52.5169221,
+      "longitude": 13.449893,
       "country": "Germany",
       "uf": "BER",
       "city": "Berlin"
-        },
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2023-04-14"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "en-us",
+    "date": "2023-04-14"
   },
   {
     "title": "Bun? Deno? Node.js? Recreating a JS Runtime from scratch",
     "abstract": "Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime",
     "type": "talk",
     "event": {
-        "link": "https://london.cityjsconf.org/events/",
-        "name": "CityJS World series London 2023"
+      "link": "https://london.cityjsconf.org/events/",
+      "name": "CityJS World series London 2023"
     },
     "slides": "https://www.icloud.com/keynote/06dpzgSEjXmN7RnaVSFlaqEpg#recreating-nodejs-from-scratch-cityjs-london-31032023",
     "photos": "",
     "video": "https://www.youtube.com/live/RdiXuoMPtUA",
-    "tags": ["nodejs","javascript", "runtime"],
+    "tags": [
+      "nodejs",
+      "javascript",
+      "runtime"
+    ],
     "location": {
-      "latitude":51.5013608,
+      "latitude": 51.5013608,
       "longitude": -0.1776963,
       "country": "United Kingdon",
       "uf": "uk",
       "city": "London"
-        },
-        "additionalLinks": ["https://www.youtube.com/live/RdiXuoMPtUA"],
-        "language": "en-us",
-        "date": "2023-03-31"
+    },
+    "additionalLinks": [
+      "https://www.youtube.com/live/RdiXuoMPtUA"
+    ],
+    "language": "en-us",
+    "date": "2023-03-31"
   },
   {
     "title": "5 aprendizados incríveis sobre backend que se aplicam para o frontend",
     "abstract": "Sobre padrões de projeto, práticas de testes unitários, performance, multithreading, webassembly, streams e MUITO mais.",
     "type": "talk",
     "event": {
-        "link": "https://www.linkedin.com/company/devparana/",
-        "name": "Dev Paraná Conf 2023"
+      "link": "https://www.linkedin.com/company/devparana/",
+      "name": "Dev Paraná Conf 2023"
     },
     "slides": "https://www.icloud.com/keynote/08cfNEtaMB0WK7EdnDp6i2DJQ#5-aprendizados-sobre-backend-para-frontenders-devpr-11032023",
     "photos": "",
     "video": "",
-    "tags": ["nodejs","javascript"],
+    "tags": [
+      "nodejs",
+      "javascript"
+    ],
     "location": {
       "latitude": -23.4108407,
       "longitude": -52.1106945,
       "country": "Brazil",
       "uf": "PR",
       "city": "Maringá"
-        },
-        "additionalLinks": ["https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk"],
-        "language": "pt-br",
-        "date": "2023-03-11"
+    },
+    "additionalLinks": [
+      "https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk"
+    ],
+    "language": "pt-br",
+    "date": "2023-03-11"
   },
   {
     "title": "The next level for Web developers: Machine Learning on browsers",
@@ -1054,7 +1152,7 @@
       "link": "https://cityjsconf.org/",
       "name": "CityJS World series"
     },
-    "slides": "",
+    "slides": "https://www.icloud.com/keynote/0752aQ_6r9DHyLhOWp3-f-Lfg#how_I've_been_automating_my_home_using_JavaScript_-_cityjs_-_30042022",
     "photos": "",
     "video": "https://youtu.be/CtQTlvWZYts",
     "tags": [
@@ -1110,7 +1208,7 @@
       "link": "https://cityjsconf.org",
       "name": "CityJS 2021"
     },
-    "slides": "",
+    "slides": "https://www.icloud.com/keynote/0bEEuC1dFDWX1aBl_QGGQGLxg#10_secrets_to_improve_Node.js_Security_-_CityJSConf_2021",
     "photos": "",
     "video": "https://www.youtube.com/watch?v=gJwrRTTb2Qw&t=27600s",
     "tags": [
