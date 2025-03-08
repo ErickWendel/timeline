@@ -1,9 +1,9 @@
 [
   {
     "title": "Lo nuevo de JavaScript y Node.js para 2025",
-    "abstract": "jess",
+    "abstract": "En esta charla, te mostraré qué hay de nuevo y qué esperar de Javascript para el próximo año.",
     "type": "talk",
-    "reach":300,
+    "reach":400,
     "event": {
       "link": "https://www.jsconf.es/"
     },
@@ -55,7 +55,7 @@
     },
     "slides": " ",
     "photos": "https://photos.google.com/share/AF1QipPeVBvbgsBqI1HmolEizmchh_Tcp4JshoA7770q_npRdjGjkn5iiBg_d7f_mD1XBw?pli=1&key=VlBDRk1STkZrS2JsUVR6RTRiOTVMdDZDV2V6MmZB",
-    "video": "jess",
+    "video": " ",
     "tags": ["javascript"],
     "location": {
       "latitude":  -16.641903,
@@ -90,29 +90,6 @@
         "additionalLinks": [""],
         "language": "pt-br",
         "date": "2024-11-02"
-  },
-  {
-    "title": "jess",
-    "abstract": "jess",
-    "type": "talk",
-    "reach": 800,
-    "event": {
-      "link": "jess"
-    },
-    "slides": "jess",
-    "photos": "",
-    "video": "jess",
-    "tags": ["javascript"],
-    "location": {
-      "latitude":  6.230833,
-      "longitude":  -75.590553,
-      "country": "jess",
-      "uf": "jess",
-      "city": "jess"
-        },
-        "additionalLinks": [""],
-        "language": "jess",
-        "date": "2024-jess-jess"
   },
   {
     "title": "Procesando Terabytes de datos con JavaScript",

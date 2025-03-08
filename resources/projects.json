@@ -10,17 +10,6 @@
         "date": "2024-02-14"
     },
     {
-        "title": "jess",
-        "abstract": "jess",
-        "type": "project",
-        "link": "jess",
-        "tags": ["cypress","github-actions", "docker"],
-        "additionalLinks": [""],
-        "language": "en-us",
-        "date": "2024-jess-jess"
-    },
-
-    {
         "title": "cypress-for-begginers",
         "abstract": "Examples and challenges of how to create e2e tests for frontend apps",
         "type": "project",

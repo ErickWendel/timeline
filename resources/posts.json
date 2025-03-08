@@ -271,7 +271,7 @@
     },
     {
       "title": "Dica de ouro: como sincronizar threads em JavaScript 🤯🔥",
-      "abstract": "jess",
+      "abstract": "Atomics podem ser ótimos para evitar reassinar valores em memória, é mais complicado que a Web Workers API, mas vale muito a pena estudar sobre 🤩",
       "type": "post",
       "link": "https://www.linkedin.com/posts/erickwendel_dica-de-ouro-como-sincronizar-threads-em-activity-7282408672624824320-e_wq?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
       "additionalLinks": [
@@ -518,7 +518,7 @@
       "tags": [
         "linkedinPost"
       ],
-      "language": "jess",
+      "language": "pt-br",
       "date": "2024-10-10"
     },
     {
@@ -576,42 +576,41 @@
       "date": "2024-10-02"
     },
     {
-      "title": "jess",
-      "abstract": "jess",
+      "title": "Sem olhar a resposta, qual é a ordem dos console.log? 😬💥",
+      "abstract": "Timers e Promises são as coisas mais importantes de todo ecossistema JavaScript e não podem faltar na sua lista de estudos! 🔥",
       "type": "post",
-      "link": "jess",
+      "link": "https://www.linkedin.com/posts/erickwendel_sem-olhar-a-resposta-qual-%C3%A9-a-ordem-dos-activity-7246860898609336321-Vj4-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
       "additionalLinks": [
         " "
       ],
       "portal": {
-        "link": "jess",
+        "link": "https://www.linkedin.com/posts/erickwendel_sem-olhar-a-resposta-qual-%C3%A9-a-ordem-dos-activity-7246860898609336321-Vj4-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
         "name": "Linkedin Post"
       },
       "tags": [
         "linkedinPost"
       ],
-      "language": "jess",
-      "date": "2024-jess-jess"
+      "language": "pt-br",
+      "date": "2024-10-01"
     },
     {
-      "title": "jess",
-      "abstract": "jess",
+      "title": "Criando Widgets para iOS (ou Android) usando JavaScript 🔥",
+      "abstract": "Encontrei esse app gratuito no iOS para criar esses widgets chamado Scriptable e você pode criar integrações, renderizar imagens, renderizar código e muito mais",
       "type": "post",
-      "link": "jess",
+      "link": "https://www.linkedin.com/posts/erickwendel_criando-widgets-para-ios-ou-android-usando-activity-7242185724282753028-4svm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
       "additionalLinks": [
         " "
       ],
       "portal": {
-        "link": "jess",
+        "link": "https://www.linkedin.com/posts/erickwendel_criando-widgets-para-ios-ou-android-usando-activity-7242185724282753028-4svm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
         "name": "Linkedin Post"
       },
       "tags": [
         "linkedinPost"
       ],
-      "language": "jess",
-      "date": "2024-jess-jess"
-    },
-
+      "language": "pt-br",
+      "date": "2024-09-18"
+    }, 
   {
     "title": "Node.js agora suporta TypeScript NATIVAMENTE 🤯🤯",
     "abstract": "Usar TypeScript sem toda a complexidade adicional de configurações ou checagem vai ser um grande passo para a comunidade",

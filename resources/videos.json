@@ -507,37 +507,6 @@
       "language": "pt-br",
       "date": "2024-10-09"
     },
-    {
-      "title": "jess",
-      "abstract": "jess",
-      "reach": 10000,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "jess",
-      "tags": [
-          "Docker",
-        "Kubernetes"
-      ],
-      "language": "pt-br",
-      "date": "2024-jess-jess"
-    },
-    {
-      "title": "jess",
-      "abstract": "jess",
-      "reach": 10000,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "jess",
-      "tags": [
-          "Docker",
-        "Kubernetes"
-      ],
-      "language": "pt-br",
-      "date": "2024-jess-jess"
-    },
-
   {
     "title": "Minhas cabacices trabalhando com Kubernetes (e o que não fazer)",
     "abstract": "Estou com 40 aplicações rodando no Kubernetes e ja fiz umas cabacices monstruosas que me geraram muitos aprendizados então serão várias dicas valiosas do campo de batalha",
@@ -587,6 +556,21 @@
         ],
         "language": "pt-br",
         "date": "2024-08-06"
+  },
+  {
+    "title": "O Impacto da Comunidade no Setor de Tecnologia: do Open Source até o Networking",
+    "abstract": "Nesta sessão, discutiremos como os movimentos da comunidade transformaram a tecnologia, moldando o setor e influenciando grandes decisões empresariais",
+    "reach": 481,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/live/sv_Qgh01wC0?si=OmFZnO3icapBOmS6",
+    "tags": [
+        "Carreira",
+      "Comunidade"
+    ],
+    "language": "pt-br",
+    "date": "2024-08-01"
   },
   {
     "title": "Virei Dev Low Code (oh no) - Construindo apps 10x mais rápido",
