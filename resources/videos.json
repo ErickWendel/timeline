@@ -46,21 +46,6 @@
       "date": "2025-01-15"
     },
     {
-      "title": "Desvendando o Estado Atual do Node.js: Bate-papo Imperdível sobre Performance com Rafael Gonzaga",
-      "abstract": "Confira as principais novidades, dicas de otimização e o que esperar para o futuro do desenvolvimento em Node.js",
-      "reach": 2363,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://www.youtube.com/live/Jn9mu1umPww?si=ENMnBrG_VWgFho2S",
-      "tags": [
-          "Docker",
-        "Kubernetes"
-      ],
-      "language": "pt-br",
-      "date": "2025-01-17"
-    },
-    {
       "title": "Como saber se seu Node.js é vulnerável",
       "abstract": "neste vídeo, vou te mostrar como identificar vulnerabilidades nos seus projetos Node.js",
       "reach": 10000,
@@ -88,6 +73,21 @@
       ],
       "language": "pt-br",
       "date": "2025-01-18"
+    },
+    {
+      "title": "Desvendando o Estado Atual do Node.js: Bate-papo Imperdível sobre Performance com Rafael Gonzaga",
+      "abstract": "Confira as principais novidades, dicas de otimização e o que esperar para o futuro do desenvolvimento em Node.js",
+      "reach": 2363,
+      "additionalLinks": [
+        ""
+      ],
+      "link": "https://www.youtube.com/live/Jn9mu1umPww?si=ENMnBrG_VWgFho2S",
+      "tags": [
+          "Docker",
+        "Kubernetes"
+      ],
+      "language": "pt-br",
+      "date": "2025-01-17"
     },
     {
       "title": "5 ferramentas inúteis que todo programador deveria conhecer 😜",

@@ -15,7 +15,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 ### Contributions Summary
 
-* **Projects**: 2024/April - 2015/July 
+* **Projects**: 2025/February - 2015/July 
 * **Videos**: 2025/February - 2016/September 
 * **Blog Posts**: 2025/February - 2015/February 
 * **Conference Talks**: 2025/March - 2015/January 
@@ -31,6 +31,18 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 ## Projects
 
+### <a href="https://github.com/ErickWendel/ollama-webui-traefik-docker" target="_blank">2025-02-14 - ollama-webui-traefik-docker (en-us)</a>
+
+
+Abstract:
+
+> This repository provides a simple setup for running Ollama and Open WebUI with Traefik as a reverse proxy using Docker Compose
+> 
+> 
+
+
+_Tags: `ollama`, `openWebUi`, `docker`_
+
 ### <a href="https://github.com/ErickWendel/cypress-for-begginers" target="_blank">2024-04-09 - cypress-for-begginers (en-us)</a>
 
 
@@ -42,18 +54,6 @@ Abstract:
 
 
 _Tags: `cypress`, `github-actions`, `nodejs`_
-
-### <a href="https://github.com/ErickWendel/ollama-webui-traefik-docker" target="_blank">2024-02-14 - ollama-webui-traefik-docker (en-us)</a>
-
-
-Abstract:
-
-> This repository provides a simple setup for running Ollama and Open WebUI with Traefik as a reverse proxy using Docker Compose
-> 
-> 
-
-
-_Tags: `ollama`, `openWebUi`, `docker`_
 
 ### <a href="https://github.com/ErickWendel/webxr-studies" target="_blank">2024-01-11 - WebXR Studies (en-us)</a>
 
@@ -11584,7 +11584,7 @@ Abstract:
 _Tags: `javascript`_
 
 
-Location: <a href="https://www.google.com/maps/?q=6.230833,-75.590553" target="_blank">Medellin - COL, Colombia</a>.
+Location: <a href="https://www.google.com/maps/?q=6.230833,-75.590553" target="_blank">Medellin - CO, Colombia</a>.
 
 ### 2024-06-25 - “The Secret to Processing Terabytes of Data in JavaScript (es)
 
