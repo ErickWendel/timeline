@@ -11484,10 +11484,10 @@ _Tags: `aspnet`, `c#`, `jquery`_
 ### 2025-03-01 - Lo nuevo de JavaScript y Node.js para 2025 (es)
 
 
-<a href="https://www.jsconf.es/" target="_blank">undefined</a>
+<a href="https://www.jsconf.es/" target="_blank">JSConf España</a>
 
 
-  
+<a href="https://ewbr.cc/el-nuevo-para-js-and-nodejs-jsconfes" target="_blank">slides</a> |   <a href="https://www.youtube.com/live/yjNjU-nGE7w?si=lsVdZRx6opWSsRP2&t=19853" target="_blank">video</a>
 
 
 Abstract:
@@ -11505,10 +11505,10 @@ Location: <a href="https://www.google.com/maps/?q=40.3475974,-3.6959971" target=
 ### 2024-12-07 - Recreemos el test runner de Node.js desde cero (es)
 
 
-<a href="https://www.linkedin.com/posts/jsconf-chile_d%C3%ADa-s%C3%A1bado-7-en-jsconf-chile-2024-activity-7266934540135215104-PzUh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og" target="_blank">undefined</a>
+<a href="https://jsconf.cl/" target="_blank">JSConf Chile</a>
 
 
-<a href=" " target="_blank">slides</a> |  <a href="https://gallery.jsconf.cl/event/a51f9546-ff60-410c-acd0-ef7ab2b3b297" target="_blank">photos</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/ " target="_blank">video</a>
+<a href="https://ewbr.cc/recreemos-el-nodejs-test-runner-06122024" target="_blank">slides</a> |  <a href="https://gallery.jsconf.cl/event/a51f9546-ff60-410c-acd0-ef7ab2b3b297" target="_blank">photos</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/ " target="_blank">video</a>
 
 
 Abstract:
@@ -11526,10 +11526,10 @@ Location: <a href="https://www.google.com/maps/?q=-33.4723517,-70.9594812" targe
 ### 2024-11-23 - WebXR? Realidade Virtual e Aumentada nativamente em navegadores (pt-br)
 
 
-<a href="https://devfestcerrado.com.br/" target="_blank">undefined</a>
+<a href="https://devfestcerrado.com.br/" target="_blank">Dev Fest Cerrado</a>
 
 
-<a href=" " target="_blank">slides</a> |  <a href="https://photos.google.com/share/AF1QipPeVBvbgsBqI1HmolEizmchh_Tcp4JshoA7770q_npRdjGjkn5iiBg_d7f_mD1XBw?pli=1&key=VlBDRk1STkZrS2JsUVR6RTRiOTVMdDZDV2V6MmZB" target="_blank">photos</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/ " target="_blank">video</a>
+<a href="https://ewbr.cc/webxr-realidade-mista-em-navegadores-devfestcerrado" target="_blank">slides</a> |  <a href="https://photos.google.com/share/AF1QipPeVBvbgsBqI1HmolEizmchh_Tcp4JshoA7770q_npRdjGjkn5iiBg_d7f_mD1XBw?pli=1&key=VlBDRk1STkZrS2JsUVR6RTRiOTVMdDZDV2V6MmZB" target="_blank">photos</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/ " target="_blank">video</a>
 
 
 Abstract:
@@ -11547,7 +11547,7 @@ Location: <a href="https://www.google.com/maps/?q=-16.641903,-49.307423" target=
 ### 2024-11-02 - WebXR? Realidade Virtual e Aumentada nativamente em navegadores (pt-br)
 
 
-<a href="https://devfesttriangulo.com.br/" target="_blank">undefined</a>
+<a href="https://devfesttriangulo.com.br/" target="_blank">Dev Fest Triangulo</a>
 
 
   
