@@ -1,5 +1,97 @@
 [
   {
+    "title": "Lo nuevo de JavaScript y Node.js para 2025",
+    "abstract": "En esta charla, te mostraré qué hay de nuevo y qué esperar de Javascript para el próximo año.",
+    "type": "talk",
+    "reach":400,
+    "event": {
+      "link": "https://www.jsconf.es/"
+    },
+    "slides": "",
+    "photos": "",
+    "video": "",
+    "tags": ["javascript"],
+    "location": {
+      "latitude":  40.3475974,
+      "longitude":  -3.6959971,
+      "country": "Spain",
+      "uf": "ES",
+      "city": "Madrid"
+        },
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2025-03-01"
+  },
+  {
+    "title": "Recreemos el test runner de Node.js desde cero",
+    "abstract": "El proceso de recreación del test runner Node.js en todos sus pasos y mis lecciones aprendidas",
+    "type": "talk",
+    "reach": 500,
+    "event": {
+      "link": "https://www.linkedin.com/posts/jsconf-chile_d%C3%ADa-s%C3%A1bado-7-en-jsconf-chile-2024-activity-7266934540135215104-PzUh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og"
+    },
+    "slides": " ",
+    "photos": "https://gallery.jsconf.cl/event/a51f9546-ff60-410c-acd0-ef7ab2b3b297",
+    "video": " ",
+    "tags": ["javascript", "nodejs"],
+    "location": {
+      "latitude":  -33.4723517,
+      "longitude": -70.9594812,
+      "country": "Chile",
+      "uf": "CL",
+      "city": "Santiago"
+        },
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-12-07"
+  },
+  {
+    "title": "WebXR? Realidade Virtual e Aumentada nativamente em navegadores",
+    "abstract": "Mergulhe no emocionante mundo do WebXR na minha palestra sobre trazer Realidade Virtual (VR) e Realidade Aumentada (AR) diretamente para os navegadores da web. ",
+    "type": "talk",
+    "reach": 800,
+    "event": {
+      "link": "https://devfestcerrado.com.br/"
+    },
+    "slides": " ",
+    "photos": "https://photos.google.com/share/AF1QipPeVBvbgsBqI1HmolEizmchh_Tcp4JshoA7770q_npRdjGjkn5iiBg_d7f_mD1XBw?pli=1&key=VlBDRk1STkZrS2JsUVR6RTRiOTVMdDZDV2V6MmZB",
+    "video": " ",
+    "tags": ["javascript"],
+    "location": {
+      "latitude":  -16.641903,
+      "longitude": -49.307423,
+      "country": "Brazil",
+      "uf": "GO",
+      "city": "Goiânia"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2024-11-23"
+  },
+  {
+    "title": "WebXR? Realidade Virtual e Aumentada nativamente em navegadores",
+    "abstract": "Mergulhe no emocionante mundo do WebXR na minha palestra sobre trazer Realidade Virtual (VR) e Realidade Aumentada (AR) diretamente para os navegadores da web",
+    "type": "talk",
+    "reach": 800,
+    "event": {
+      "link": "https://devfesttriangulo.com.br/"
+    },
+    "slides": " ",
+    "photos": "",
+    "video": "",
+    "tags": ["javascript", "WebXR"],
+    "location": {
+      "latitude":  -18.935148,
+      "longitude": -48.277581,
+      "country": "Brazil",
+      "uf": "MG",
+      "city": "Uberlândia"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2024-11-02"
+  },
+  {
     "title": "Procesando Terabytes de datos con JavaScript",
     "abstract": "Usando JavaScript para cosas que dicen ser imposibles!",
     "type": "talk",
@@ -11,24 +103,20 @@
     "slides": "https://www.icloud.com/keynote/0a6CTlfec9tO8GQV6JQm5vgXg#El-secreto-para-procesar-terabytes-de-datos-en-JavaScript-platziconf-07092024",
     "photos": "",
     "video": "https://platzi.com/clases/10695-platziconfbogota2024/71270-the-secret-to-processing-terabytes-of-data-in-java/",
-    "tags": [
-      "javascript"
-    ],
+    "tags": ["javascript"],
     "location": {
-      "latitude": 4.6295275,
-      "longitude": -74.0930862,
+      "latitude":  6.230833,
+      "longitude":  -75.590553,
       "country": "Colombia",
-      "uf": "COL",
-      "city": "Bogotá"
-    },
-    "additionalLinks": [
-      ""
-    ],
-    "language": "es",
-    "date": "2024-07-08"
+      "uf": "CO",
+      "city": "Medellin"
+        },
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-07-08"
   },
   {
-    "title": "The Secret to Processing Terabytes of Data in JavaScript",
+    "title": "“The Secret to Processing Terabytes of Data in JavaScript",
     "abstract": "Using JavaScript for things that are said to be impossible!",
     "type": "talk",
     "reach": 500,
@@ -36,30 +124,26 @@
       "link": "https://www.nodetlv.com/",
       "name": "Node.TLV"
     },
-    "slides": "https://www.icloud.com/keynote/038zFDgefMHUS0RgGcDOwCODA#the-secret-to-processing-terabytes-in-js-nodetlv-250624",
+    "slides": "",
     "photos": "",
     "video": "https://www.youtube.com/watch?v=xqNNOuMeKCk",
-    "tags": [
-      "javascript"
-    ],
+    "tags": ["javascript"],
     "location": {
-      "latitude": 32.0657936,
-      "longitude": 34.7635591,
+      "latitude": 32.166313,
+      "longitude": 34.843311,
       "country": "Israel",
       "uf": "IL",
       "city": "Tel Aviv"
-    },
-    "additionalLinks": [
-      ""
-    ],
-    "language": "es",
-    "date": "2024-06-25"
+        },
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-06-25"
   },
   {
-    "title": "WebXR? Virtual Reality and Augmented Reality Natively on Browsers",
+    "title": "“WebXR? Virtual Reality and Augmented Reality Natively on Browsers",
     "abstract": "This presentation explores the possibilities of WebXR and AR games, emphasizing the versatility of A-frame for creating AR and VR projects",
     "type": "talk",
-    "reach": 600,
+    "reach": 300,
     "event": {
       "link": "https://gitnation.com/events/c3-festival-2024",
       "name": "C3devFest"
@@ -67,24 +151,20 @@
     "slides": "https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation",
     "photos": "",
     "video": "https://gitnation.com/contents/webxr-virtual-reality-and-augmented-reality-natively-on-browsers-2398",
-    "tags": [
-      "javascript"
-    ],
+    "tags": ["javascript"],
     "location": {
-      "latitude": 52.3828754,
-      "longitude": 4.9179912,
+      "latitude":52.3738,
+      "longitude":4.89093,
       "country": "Netherlands",
       "uf": "NED",
       "city": "Amsterdam"
-    },
-    "additionalLinks": [
-      ""
-    ],
-    "language": "es",
-    "date": "2024-06-15"
+        },
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-06-15"
   },
   {
-    "title": "WebXR? Virtual Reality and Augmented Reality Natively on Browsers",
+   "title": "“WebXR? Virtual Reality and Augmented Reality Natively on Browsers",
     "abstract": "This presentation explores the possibilities of WebXR and AR games, emphasizing the versatility of A-frame for creating AR and VR projects",
     "type": "talk",
     "reach": 700,
@@ -95,27 +175,23 @@
     "slides": "https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation",
     "photos": "",
     "video": "https://gitnation.com/person/erick_wendel",
-    "tags": [
-      "javascript"
-    ],
+    "tags": ["javascript"],
     "location": {
-      "latitude": 52.3828754,
-      "longitude": 4.9179912,
+      "latitude":52.3738,
+      "longitude":4.89093,
       "country": "Netherlands",
       "uf": "NED",
       "city": "Amsterdam"
-    },
-    "additionalLinks": [
-      ""
-    ],
-    "language": "es",
-    "date": "2024-06-13"
+        },
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-06-13"
   },
   {
-    "title": "Workshop NodeJS Masterclass",
+    "title": "“Workshop NodeJS Masterclass",
     "abstract": "Learn the advanced Node.js concepts that will take your skills to the next level",
     "type": "talk",
-    "reach": 200,
+    "reach": 500,
     "event": {
       "link": "https://www.linkedin.com/posts/cityjs-conferences_angular-nodejs-typescript-activity-7186294334307127297-wvEI?utm_source=share&utm_medium=member_desktop",
       "name": "CityJS World series Athens 2024"
@@ -123,24 +199,20 @@
     "slides": "",
     "photos": "",
     "video": "",
-    "tags": [
-      "javascript"
-    ],
+    "tags": ["javascript"],
     "location": {
-      "latitude": 37.960808,
-      "longitude": 23.7203229,
+      "latitude": 37.992767,
+      "longitude": 23.795970,
       "country": "Greece",
       "uf": "GR",
       "city": "Athens"
     },
-    "additionalLinks": [
-      ""
-    ],
-    "language": "es",
-    "date": "2024-06-08"
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-06-08"
   },
   {
-    "title": "WebXR? Virtual Reality and Augmented Reality Natively on Browsers",
+    "title": "“WebXR? Virtual Reality and Augmented Reality Natively on Browsers",
     "abstract": "This presentation explores the possibilities of WebXR and AR games, emphasizing the versatility of A-frame for creating AR and VR projects",
     "type": "talk",
     "reach": 500,
@@ -151,27 +223,23 @@
     "slides": "https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation",
     "photos": "",
     "video": "",
-    "tags": [
-      "javascript"
-    ],
+    "tags": ["javascript"],
     "location": {
-      "latitude": 40.3938727,
-      "longitude": -3.7993449,
+      "latitude": 40.4167,
+      "longitude": -3.70325,
       "country": "Spain",
       "uf": "ES",
       "city": "Madrid"
     },
-    "additionalLinks": [
-      ""
-    ],
-    "language": "es",
-    "date": "2024-05-21"
+        "additionalLinks": [""],
+        "language": "es",
+        "date": "2024-05-21"
   },
   {
-    "title": "Webxr? Realidade virtual e aumentada nativamente em navegadores",
-    "abstract": "Explore as possibilidades dos jogos WebXR e AR, enfatizando a versatilidade do A-frame para a criação de projetos de AR e VR",
+    "title": "“Webxr? Realidade virtual e aumentada nativamente em navegadores",
+    "abstract": "Explorea as possibilidades dos jogos WebXR e AR, enfatizando a versatilidade do A-frame para a criação de projetos de AR e VR",
     "type": "talk",
-    "reach": 3000,
+    "reach": 1500,
     "event": {
       "link": "https://conf.braziljs.org/",
       "name": "BrazilJS Conference 2024"
@@ -179,21 +247,17 @@
     "slides": "https://bit.ly/webxr-virtual-and-augmented-reality-in-the-browsers-jsnation",
     "photos": "",
     "video": "https://youtu.be/HhqkWinUHAI?si=GDMOGUPQ0smVazHH",
-    "tags": [
-      "javascript"
-    ],
+    "tags": ["javascript"],
     "location": {
-      "latitude": -30.0277372,
-      "longitude": -51.1779362,
+      "latitude": -30.0846697,
+      "longitude": -51.2480271,
       "country": "Brazil",
       "uf": "POA",
       "city": "Porto Alegre"
-    },
-    "additionalLinks": [
-      ""
-    ],
-    "language": "pt-br",
-    "date": "2024-04-26"
+        },
+        "additionalLinks": [""],
+        "language": "pt-br",
+        "date": "2024-04-26"
   },
   {
     "title": "Machine Learning en navegadores - Erick Wendel",

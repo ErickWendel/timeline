@@ -1,5 +1,617 @@
 [
   {
+    "title": "Criei um NPC em realidade virtual com AI 100% Web, offline e com JavaScript 🤯",
+    "abstract": "Um pouco sobre o processo e aprendizados do meu ultimo projeto pessoal",
+    "type": "post",
+    "link": "https://www.linkedin.com/posts/erickwendel_webai-ai-artificialintelligence-activity-7299175761033240576-RU3e?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+    "additionalLinks": [
+      " "
+    ],
+    "portal": {
+      "link": "https://www.linkedin.com/posts/erickwendel_webai-ai-artificialintelligence-activity-7299175761033240576-RU3e?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "name": "Linkedin Post"
+    },
+    "tags": [
+      "linkedinPost"
+    ],
+    "language": "pt-br",
+    "date": "2025-02-22"
+    },
+    {
+      "title": "Essa é a melhor forma de usar AI em JavaScript (no browser e de graça 🤩)",
+      "abstract": "A Hugging Face que lançou uma super biblioteca chamada Transformers.js que te permite baixar modelos de AI no navegador e sair usando e meus amigos, é de tirar o fôlego!",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_essa-%C3%A9-a-melhor-forma-de-usar-ai-em-javascript-activity-7298712868697341952-Z1gP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_essa-%C3%A9-a-melhor-forma-de-usar-ai-em-javascript-activity-7298712868697341952-Z1gP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2025-02-21"
+    },
+    {
+      "title": "Dirigindo um carro apenas com comandos de voz no navegador (100% offline e 100% local) 🤩",
+      "abstract": "Nesse projeto, o 🤷‍♂️ Nico Martin venceu uma competição de Web AI do Google controlando um carrinho apenas com a voz (e ele ainda fez um carrinho real e controlou com Web Bluetooth 🤯)",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_webai-gemini-webdev-activity-7298323054227578880-jwa7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_webai-gemini-webdev-activity-7298323054227578880-jwa7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2025-02-20"
+    },
+    {
+      "title": "O melhor framework para criar AI apps em JavaScript 🔥💥",
+      "abstract": "Estou usando o Langchain JS, um framework que tem vários e vários módulos incríveis para facilitar na hora de criar suas a apps que interagem com AIs",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_o-melhor-framework-para-criar-ai-apps-em-activity-7297977990880124936-53xM?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_o-melhor-framework-para-criar-ai-apps-em-activity-7297977990880124936-53xM?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2025-02-19"
+    }, 
+    {
+      "title": "O que é mais incrível de todo esse movimento de AIs do ponto de vista de devs? 🔥",
+      "abstract": "Várias empresas (como Google e Hugging face) vem trabalhando exaustivamente no que chamamos de Web AI, ou seja, converter modelos de AI para serem executados direto de navegadores (Usando Web GPU e mais)",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_o-que-%C3%A9-mais-incr%C3%ADvel-de-todo-esse-movimento-activity-7297612596600356864-2gGc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_o-que-%C3%A9-mais-incr%C3%ADvel-de-todo-esse-movimento-activity-7297612596600356864-2gGc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2025-02-18"
+    },
+    {
+      "title": "Sextou com dica de ouro: Como testar qualquer AI gratuita 100% local e offline 💥🔥",
+      "abstract": "Venho fazendo muitos experimentos com AIs e é incrível o quão simples é baixar e experimentar com modelos de AI usando o ollama 🦙",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_sextou-com-dica-de-ouro-como-testar-qualquer-activity-7293630685037133825-VKS9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_sextou-com-dica-de-ouro-como-testar-qualquer-activity-7293630685037133825-VKS9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2025-02-14"
+    },
+    {
+      "title": "Low code é do c****** 🤭🤩🤩🤩🤩",
+      "abstract": "Migrei de plataforma de email marketing, fui para o Mautic (outra open source e gratuita tbm) e precisei migrar todos os eventos de compra, progresso e atividade de todos os alunos e esse processo foi realizado no Nodered 🤩 ",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_low-code-%C3%A9-do-c-na-ew-academy-activity-7292179166462955520-BWro?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_low-code-%C3%A9-do-c-na-ew-academy-activity-7292179166462955520-BWro?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2025-02-03"
+    },
+    {
+      "title": "QUE TECNOLOGIA INCRÍVEL 🤯😳",
+      "abstract": "Esse é o laserlimbo um jogo no metaquest3 que te permite misturar realidade virtual com a VIDA real 🤯",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_laserlimbo-metaquest3-activity-7291870473389330432-R3xK?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_laserlimbo-metaquest3-activity-7291870473389330432-R3xK?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2025-02-02"
+    },
+    {
+      "title": "O que é melhor para Node.js, usar um PM2, Módulo Cluster ou node puro? 🔥💥",
+      "abstract": "Que Node.js escala e é incrível, não temos dúvida, mas quando chega naquela fase de dobrar a capacidade de resposta, existem várias dúvidas e vou te falar que é bem mais simples do que parece!",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_o-que-%C3%A9-melhor-para-nodejs-usar-um-pm2-activity-7290718480809521153-DME3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_o-que-%C3%A9-melhor-para-nodejs-usar-um-pm2-activity-7290718480809521153-DME3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2025-01-30"
+    },
+    {
+      "title": "Essa é a melhor forma de testar seus projetos JavaScript (independente se é front ou backend 🔥)",
+      "abstract": "Venho usando playwright + bdd + gherkin style e tem sido uma experiência incrível, e vou te contar o motivo 💡",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_essa-%C3%A9-a-melhor-forma-de-testar-seus-projetos-activity-7288562401405276161-qM28?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_essa-%C3%A9-a-melhor-forma-de-testar-seus-projetos-activity-7288562401405276161-qM28?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2025-01-24"
+    },
+    {
+      "title": "Quartou com dica de ouro: use o novo sistema de permissões do Node.js e não seja atacado 🤩💥",
+      "abstract": "Pouca gente sabe, mas na versão 23 do Node.js você já pode, por padrão, definir que tipos de permissão um programa JavaScript pode ter 🤭",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_quartou-com-dica-de-ouro-use-o-novo-sistema-activity-7287835418157273089-uWHK?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_quartou-com-dica-de-ouro-use-o-novo-sistema-activity-7287835418157273089-uWHK?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2025-01-22"
+    },
+    {
+      "title": "Como eu economizei milhares de reais cortando plataformas SaaS e configurando meu próprio cluster 🔥",
+      "abstract": "Minha experiência com contratação de ferramentas como serviço e criar sua própria infraestrutura",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_como-eu-economizei-milhares-de-reais-cortando-activity-7284921493875019776-Jidu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_como-eu-economizei-milhares-de-reais-cortando-activity-7284921493875019776-Jidu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2025-01-14"
+    },
+    {
+      "title": "Agora é Oficial: Node.js 23 com Suporte Nativo a TypeScript 🤩🚀",
+      "abstract": "Vou te mostrar sobre a novidade do suporte nativo a Typescript no Node.js",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_typescript-nodejs-activity-7284551610310029315-LS-E?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_typescript-nodejs-activity-7284551610310029315-LS-E?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2025-01-13"
+    },
+    {
+      "title": "Dev, automatize sua vida e você terá muito mais diversão 😜🥳 (e nem estou falando de VIM haha)",
+      "abstract": "Quem me acompanha, tem visto os teclados customizados que tenho, e o que tenho mais gostado é ter vários de atalhos para evitar colocar a mão no mouse e tem sido um conforto inexplicável 💥",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_dev-automatize-sua-vida-e-voc%C3%AA-ter%C3%A1-muito-activity-7283119476114419712-ow1E?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_dev-automatize-sua-vida-e-voc%C3%AA-ter%C3%A1-muito-activity-7283119476114419712-ow1E?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2025-01-09"
+    },
+    {
+      "title": "Dica de ouro: como monitorar e metrificar a performance de apps frontend (de graça) 🤯🔥",
+      "abstract": "Vem conhecer um pouco mais do Open Telemetry! Com ele, você pode colher métricas, tracing, logs e mais e criar alertas caso um comportamento fora da curva acontecer na sua aplicação",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_dica-de-ouro-como-monitorar-e-metrificar-activity-7282756721427517442-ftKS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_dica-de-ouro-como-monitorar-e-metrificar-activity-7282756721427517442-ftKS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2025-01-08"
+    },
+    {
+      "title": "Dica de ouro: como sincronizar threads em JavaScript 🤯🔥",
+      "abstract": "Atomics podem ser ótimos para evitar reassinar valores em memória, é mais complicado que a Web Workers API, mas vale muito a pena estudar sobre 🤩",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_dica-de-ouro-como-sincronizar-threads-em-activity-7282408672624824320-e_wq?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_dica-de-ouro-como-sincronizar-threads-em-activity-7282408672624824320-e_wq?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2025-01-07"
+    },
+    {
+      "title": "Segundou com notícia incrível: JavaScript em 2025 vai mudar a sua forma de pensar 🤯",
+      "abstract": "Neste ano, temos a expectativa de sair os Sync Iterators Helpers, onde você processará dados sob demanda (a partir de itens sincronos), processando cada item individual evitando travar todo o processo 🥳",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_segundou-com-not%C3%ADcia-incr%C3%ADvel-javascript-activity-7282032334755762178-l5sf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_segundou-com-not%C3%ADcia-incr%C3%ADvel-javascript-activity-7282032334755762178-l5sf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2025-01-06"
+    },
+    {
+      "title": "Dica de ouro: como gerar certificados HTTPS SSL (DE GRAÇA) 🔥🤩",
+      "abstract": "Aqui na EW Academy eu subi um cluster Kubernetes e sai migrando uma pancada de ferramentas pagas para ferramentas open source e a redução de custo está sendo inacreditável 🤯 ",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_dica-de-ouro-como-gerar-certificados-https-activity-7276959745159102464-aspn?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_dica-de-ouro-como-gerar-certificados-https-activity-7276959745159102464-aspn?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-12-23"
+    },
+    {
+      "title": "O que é melhor: criar algo do zero ou otimizar o que já funciona? 🔥😬",
+      "abstract": "Quero te mostrar porque pegar uma aplicação que já está no ar e faze-la suportar mais operações é muito mais barato e entrega mais valor do que reescrever do zero 🔥",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_o-que-%C3%A9-melhor-criar-algo-do-zero-ou-otimizar-activity-7274795819461955584-TMHG?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_o-que-%C3%A9-melhor-criar-algo-do-zero-ou-otimizar-activity-7274795819461955584-TMHG?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-12-17"
+    },
+    {
+      "title": "Como eu processei 10GB de arquivo no navegador, sem travar, sem backend e sem frameworks (com JavaScript) 🧵🔥",
+      "abstract": "Sem dúvida JavaScript está em sua melhor fase e surpreendentemente os navegadores estão acompanhando e experimentos como esse podem te ajudar a salvar uma grana no fim do mês 💥",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_como-eu-processei-10gb-de-arquivo-no-navegador-activity-7262485771998126080-OJxI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_como-eu-processei-10gb-de-arquivo-no-navegador-activity-7262485771998126080-OJxI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-11-13"
+    },
+    {
+      "title": "Simplificando JavaScript​: A diferença entre JS no backend e frontend 🔥",
+      "abstract": "O JavaScript que você executa no navegador e no Node.js é o mesmo, mas ser dev the navegador, não é a mesma coisa de ser dev de servidor 🤔",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_simplificando-javascript-a-diferen%C3%A7a-entre-activity-7262096626167517184-LJ-H?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_simplificando-javascript-a-diferen%C3%A7a-entre-activity-7262096626167517184-LJ-H?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-11-12"
+    },
+    {
+      "title": "O que a comunidade de Node.js deveria aprender com a comunidade PHP 😬💥",
+      "abstract": "Existe algo incrível que fazem que não é tão popular para a comunidade JavaScript​: Criar sistemas completos 100% open source!",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_o-que-a-comunidade-de-nodejs-deveria-aprender-activity-7261733144364515329-EA_0?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_o-que-a-comunidade-de-nodejs-deveria-aprender-activity-7261733144364515329-EA_0?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-11-11"
+    },
+    {
+      "title": "Provocação da semana: e se você nunca mais usasse Try/catch? 😬💥",
+      "abstract": "Não, eu não enlouqueci, a real é que muita gente ainda se confunde a diferença entre o que é um erro e uma exceção.",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_provoca%C3%A7%C3%A3o-da-semana-e-se-voc%C3%AA-nunca-mais-activity-7254847804248866817-YBg4?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_provoca%C3%A7%C3%A3o-da-semana-e-se-voc%C3%AA-nunca-mais-activity-7254847804248866817-YBg4?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-10-23"
+    },
+    {
+      "title": "'Porque raios o programa continua rodando??' - Segundou com utilidade pública 🔥",
+      "abstract": "A dica de hoje é: use o pacote npm 'why-is-node-running' para visualizar qual é a linha que está travando o projeto e você pode resolvê-lo rapidex!",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_porque-raios-o-programa-continua-rodando-activity-7254121063742132224-HaCb?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_porque-raios-o-programa-continua-rodando-activity-7254121063742132224-HaCb?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-10-21"
+    },
+    {
+      "title": "'não compartilhe suas chaves no GitHub' - mas como raios vou rodar meus testes usando GitHub Actions? 😬 ",
+      "abstract": "Existe uma funcionalidade incrível no GitHub Actions chamada 'Secrets' e ele dá permissão somente para o 'dono' do repositório visualizar 🤔",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_n%C3%A3o-compartilhe-suas-chaves-no-github-activity-7253025719662891009-_11W?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_n%C3%A3o-compartilhe-suas-chaves-no-github-activity-7253025719662891009-_11W?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-10-18"
+    },
+    {
+      "title": "Saiuuuuuuu o Node.js 23 🥳🥳🥳 - mas to ligado que você não saiu nem do 18 ainda 😶‍🌫️",
+      "abstract": "Muita gente segue aquela do 'time que está ganhando, não se mexe' mas isso é algo que pode comprometer tudo que está construindo 😳",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_saiuuuuuuu-o-nodejs-23-mas-to-ligado-activity-7252682659972141056-cOfy?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_saiuuuuuuu-o-nodejs-23-mas-to-ligado-activity-7252682659972141056-cOfy?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-10-17"
+    },
+    {
+      "title": "Usando TypeScript Generics NATIVAMENTE no Node.js 🤯🔥",
+      "abstract": "Na versão 22 do Node (estado experimental) você já consegue validar a parada e dar feedback como contribuição 😎",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_usando-typescript-generics-nativamente-no-activity-7252320594145251328-YbI2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_usando-typescript-generics-nativamente-no-activity-7252320594145251328-YbI2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-10-16"
+    },
+    {
+      "title": "Dicas para não passar vergonha na Black Friday 💥",
+      "abstract": "Black Friday é sempre um evento histórico para muitas empresas e grande parte delas acabam ficando indisponíveis e geram um prejuízo imensurável então, aqui vão minhas dicas para você não sofrer desta vez",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_dicas-para-n%C3%A3o-passar-vergonha-na-black-friday-activity-7251943293578530817-crgz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_dicas-para-n%C3%A3o-passar-vergonha-na-black-friday-activity-7251943293578530817-crgz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-10-15"
+    },
+    {
+      "title": "Algo pior que o bug do milênio está chegando? 🤯",
+      "abstract": "jessO problema de 2038, tem relação diretamente com o bug que a musica Gangnam Style causou no Youtube em 2014, quebrando o número de visualizações ",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_algo-pior-que-o-bug-do-mil%C3%AAnio-est%C3%A1-chegando-activity-7250151738823897089-mFQU?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_algo-pior-que-o-bug-do-mil%C3%AAnio-est%C3%A1-chegando-activity-7250151738823897089-mFQU?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-10-10"
+    },
+    {
+      "title": "Como o Gangnam Style quebrou o Youtube (e se fosse JavaScript, não teria quebrado 😬)",
+      "abstract": "Em 2014, quando o vídeo 'Gangnam Style' do Psy ultrapassou 2 bilhões de visualizações, ele QUEBROU o contador de visualizações do YouTube 🤣",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_como-o-gangnam-style-quebrou-o-youtube-e-activity-7249067980196634624-yZ93?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_como-o-gangnam-style-quebrou-o-youtube-e-activity-7249067980196634624-yZ93?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-10-07"
+    },
+    {
+      "title": "Utilidade pública: como reverter um 'rm -rf'? 🔥😬",
+      "abstract": "Dado que você usou o rm, já era, não tem reversão mas tem uma solução para você previnir que chama: safe-rm 🤯",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_utilidade-p%C3%BAblica-como-reverter-um-rm-activity-7247606336673243138-7v7e?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_utilidade-p%C3%BAblica-como-reverter-um-rm-activity-7247606336673243138-7v7e?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-10-03"
+    },
+    {
+      "title": "Sem olhar a resposta, qual você imagina ser o banco de dados mais popular do mundo? 💥😬",
+      "abstract": "Esse banco de dados está em tudo, roda no seu celular, no carro, em relógios e em lugares que você nem imagina",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_sem-olhar-a-resposta-qual-voc%C3%AA-imagina-ser-activity-7247241806537510912-KqUL?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_sem-olhar-a-resposta-qual-voc%C3%AA-imagina-ser-activity-7247241806537510912-KqUL?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-10-02"
+    },
+    {
+      "title": "Sem olhar a resposta, qual é a ordem dos console.log? 😬💥",
+      "abstract": "Timers e Promises são as coisas mais importantes de todo ecossistema JavaScript e não podem faltar na sua lista de estudos! 🔥",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_sem-olhar-a-resposta-qual-%C3%A9-a-ordem-dos-activity-7246860898609336321-Vj4-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_sem-olhar-a-resposta-qual-%C3%A9-a-ordem-dos-activity-7246860898609336321-Vj4-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-10-01"
+    },
+    {
+      "title": "Criando Widgets para iOS (ou Android) usando JavaScript 🔥",
+      "abstract": "Encontrei esse app gratuito no iOS para criar esses widgets chamado Scriptable e você pode criar integrações, renderizar imagens, renderizar código e muito mais",
+      "type": "post",
+      "link": "https://www.linkedin.com/posts/erickwendel_criando-widgets-para-ios-ou-android-usando-activity-7242185724282753028-4svm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+      "additionalLinks": [
+        " "
+      ],
+      "portal": {
+        "link": "https://www.linkedin.com/posts/erickwendel_criando-widgets-para-ios-ou-android-usando-activity-7242185724282753028-4svm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+        "name": "Linkedin Post"
+      },
+      "tags": [
+        "linkedinPost"
+      ],
+      "language": "pt-br",
+      "date": "2024-09-18"
+    }, 
+  {
     "title": "Node.js agora suporta TypeScript NATIVAMENTE 🤯🤯",
     "abstract": "Usar TypeScript sem toda a complexidade adicional de configurações ou checagem vai ser um grande passo para a comunidade",
     "type": "post",
