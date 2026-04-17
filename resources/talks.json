@@ -141,6 +141,34 @@
     "date": "2025-10-17"
   },
   {
+    "title": "Criando agentes de IA no navegador usando JavaScript",
+    "abstract": "One of the coolest things happening right now is the ability to use native AI APIs in browsers or libraries such as Transformers.js that allows you to understand users' intents, improve browsing pages, and even process images and videos without any backend behind it. How? In this talk, attendees will get to know powerful features for Web AI and even get to know what browsers, such as Google Chrome, have been embedding AI models in the browser to create the next generation of applications.",
+    "type": "talk",
+    "reach": 800,
+    "event": {
+      "name": "MVP Conf 2025",
+      "link": "https://mvpconf.com.br/"
+    },
+    "slides": "https://docs.google.com/presentation/d/1jDczGulcf-nc0-b4--J9lVItGiv_HsW4JoKY6reVBwk/edit?usp=sharing",
+    "photos": "",
+    "video": "",
+    "tags": [
+      "javascript",
+      "ai"
+    ],
+    "location": {
+      "latitude": -23.5727459,
+      "longitude": -46.6395868,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [
+    ],
+    "language": "pt-br",
+    "date": "2025-10-25"
+  },
+  {
     "title": "Cut the SaaS: How I Saved Thousands with Kubernetes & Open Source",
     "abstract": "In this talk, I’ll show how I slashed costs at https://ew.academy by replacing multiple SaaS services with a self-managed Kubernetes infrastructure built on open-source tools. You’ll see how I evaluated alternatives, deployed them at scale, and overcame daily challenges—alongside real savings data. Attendees will gain strategies to reduce expenses, avoid vendor lock-in, and regain control of their systems.",
     "type": "talk",

@@ -20,14 +20,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2025/February - 2015/February 
 * **Conference Talks**: 2026/March - 2015/January 
 
-#### Presentations' number: 157
+#### Presentations' number: 158
 
 ## Table of Contents
 
 - [Projects (28)](#projects)
 - [Videos (214)](#videos)
 - [Blog Posts (456)](#blog-posts)
-- [Conference Talks (157)](#conference-talks)
+- [Conference Talks (158)](#conference-talks)
 
 ## Projects
 
@@ -11972,6 +11972,27 @@ _Tags: `javascript`_
 
 
 Location: <a href="https://www.google.com/maps/?q=9.931336,-84.078056" target="_blank">San José - SJ, Costa Rica</a>.
+
+### 2025-10-25 - Criando agentes de IA no navegador usando JavaScript (pt-br)
+
+
+<a href="https://mvpconf.com.br/" target="_blank">MVP Conf 2025</a>
+
+
+  
+
+
+Abstract:
+
+> One of the coolest things happening right now is the ability to use native AI APIs in browsers or libraries such as Transformers.js that allows you to understand users' intents, improve browsing pages, and even process images and videos without any backend behind it. How? In this talk, attendees will get to know powerful features for Web AI and even get to know what browsers, such as Google Chrome, have been embedding AI models in the browser to create the next generation of applications.
+> 
+> 
+
+
+_Tags: `javascript`, `ai`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.5727459,-46.6395868" target="_blank">São Paulo - SP, Brazil</a>.
 
 ### 2025-10-17 - Chrome AI IRL: Building a VR Barber Assistant + smart chatbot in the web (en-us)
 
