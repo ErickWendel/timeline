@@ -1,5 +1,55 @@
 [
     {
+        "title": "erickwendel-contributions-mcp",
+        "abstract": "A Model Context Protocol (MCP) server that provides tools to query Erick Wendel's contributions across different platforms",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/erickwendel-contributions-mcp",
+        "tags": [],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2025-03-14"
+    },
+    {
+        "title": "Trimly",
+        "abstract": "Trimly – An AI-powered assistant using Native Prompt, Translation, Text-to-Speech, and Speech-to-Text APIs to schedule, reschedule, and cancel your barber appointments effortlessly.",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/Trimly",
+        "tags": [],
+        "additionalLinks": ["https://ewbr.cc/Trimly"],
+        "language": "en-us",
+        "date": "2025-02-14"
+    },
+    {
+        "title": "semana-javascript-expert09",
+        "abstract": "Criando um chatbot inteligente 100% offline e no navegador",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/semana-javascript-expert09",
+        "tags": ["ollama","openWebUi", "docker"],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2025-10-27"
+    },
+    {
+        "title": "nodered-google-sheets-to-json-stream",
+        "abstract": "This Node-RED custom node lets you consume google sheets spreadsheets on demand.",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/nodered-google-sheets-to-json-stream",
+        "tags": [],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2024-07-29"
+    },
+    {
+        "title": "recreating-nodejs-test-runner",
+        "abstract": "An crazy experiment recreating the Node.js test runner (with no libraries) using the same componentes of the original project",
+        "type": "project",
+        "link": "https://github.com/ErickWendel/recreating-nodejs-test-runner",
+        "tags": ["nodejs"],
+        "additionalLinks": [""],
+        "language": "en-us",
+        "date": "2024-06-08"
+    },
+    {
         "title": "ollama-webui-traefik-docker",
         "abstract": "This repository provides a simple setup for running Ollama and Open WebUI with Traefik as a reverse proxy using Docker Compose",
         "type": "project",

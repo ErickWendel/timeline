@@ -15,21 +15,60 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 ### Contributions Summary
 
-* **Projects**: 2025/February - 2015/July 
-* **Videos**: 2025/February - 2016/September 
+* **Projects**: 2025/October - 2015/July 
+* **Videos**: 2025/December - 2016/September 
 * **Blog Posts**: 2025/February - 2015/February 
-* **Conference Talks**: 2025/March - 2015/January 
+* **Conference Talks**: 2026/March - 2015/January 
 
-#### Presentations' number: 150
+#### Presentations' number: 157
 
 ## Table of Contents
 
-- [Projects (23)](#projects)
-- [Videos (188)](#videos)
+- [Projects (28)](#projects)
+- [Videos (214)](#videos)
 - [Blog Posts (456)](#blog-posts)
-- [Conference Talks (150)](#conference-talks)
+- [Conference Talks (157)](#conference-talks)
 
 ## Projects
+
+### <a href="https://github.com/ErickWendel/semana-javascript-expert09" target="_blank">2025-10-27 - semana-javascript-expert09 (en-us)</a>
+
+
+Abstract:
+
+> Criando um chatbot inteligente 100% offline e no navegador
+> 
+> 
+
+
+_Tags: `ollama`, `openWebUi`, `docker`_
+
+### <a href="https://github.com/ErickWendel/erickwendel-contributions-mcp" target="_blank">2025-03-14 - erickwendel-contributions-mcp (en-us)</a>
+
+
+Abstract:
+
+> A Model Context Protocol (MCP) server that provides tools to query Erick Wendel's contributions across different platforms
+> 
+> 
+
+
+_Tags: _
+
+### <a href="https://github.com/ErickWendel/Trimly" target="_blank">2025-02-14 - Trimly (en-us)</a>
+
+
+Abstract:
+
+> Trimly – An AI-powered assistant using Native Prompt, Translation, Text-to-Speech, and Speech-to-Text APIs to schedule, reschedule, and cancel your barber appointments effortlessly.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://ewbr.cc/Trimly" target="_blank">https://ewbr.cc/Trimly</a>
+> 
+
+
+_Tags: _
 
 ### <a href="https://github.com/ErickWendel/ollama-webui-traefik-docker" target="_blank">2025-02-14 - ollama-webui-traefik-docker (en-us)</a>
 
@@ -42,6 +81,30 @@ Abstract:
 
 
 _Tags: `ollama`, `openWebUi`, `docker`_
+
+### <a href="https://github.com/ErickWendel/nodered-google-sheets-to-json-stream" target="_blank">2024-07-29 - nodered-google-sheets-to-json-stream (en-us)</a>
+
+
+Abstract:
+
+> This Node-RED custom node lets you consume google sheets spreadsheets on demand.
+> 
+> 
+
+
+_Tags: _
+
+### <a href="https://github.com/ErickWendel/recreating-nodejs-test-runner" target="_blank">2024-06-08 - recreating-nodejs-test-runner (en-us)</a>
+
+
+Abstract:
+
+> An crazy experiment recreating the Node.js test runner (with no libraries) using the same componentes of the original project
+> 
+> 
+
+
+_Tags: `nodejs`_
 
 ### <a href="https://github.com/ErickWendel/cypress-for-begginers" target="_blank">2024-04-09 - cypress-for-begginers (en-us)</a>
 
@@ -326,6 +389,351 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/5ygcZt2Co7w" target="_blank">2025-12-11 - Como fui hackeado pela falha no React (quase perdi tudo) (pt-br)</a>
+
+
+Abstract:
+
+> Como fui hackeado pela falha no React
+> 
+> 
+
+
+_Tags: ``_
+
+### <a href="https://youtu.be/cWGaKPmE_eE" target="_blank">2025-11-11 - Navegando na Web com Playwright MCP (preenchendo google forms com IA e mais) (pt-br)</a>
+
+
+Abstract:
+
+> Neste vídeo eu mostro, passo a passo, como usar Playwright + MCP (Model Context Protocol) para preencher e enviar formulários automaticamente no navegador. Você vai entender como estruturar prompts e JSON, instalar a extensão, configurar tokens de API, escolher modelos de LLM locais e transformar tudo isso em uma automação sólida que roda de ponta a ponta.
+> 
+> 
+
+
+_Tags: ``_
+
+### <a href="https://youtu.be/ZSzvEbEme2E" target="_blank">2025-10-10 - MEU DEUS - Playwright MCP gerou todos os testes pra mim (pt-br)</a>
+
+
+Abstract:
+
+> Quer sair do zero ao seu primeiro teste end-to-end com Playwright em poucos minutos? Neste vídeo eu mostro, na prática, como instalar, configurar e rodar testes E2E de forma simples, rápida e sem enrolação. 🚀
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/playwright-mcp" target="_blank">https://github.com/ErickWendel/playwright-mcp</a>
+> 
+
+
+_Tags: ``_
+
+### <a href="https://youtu.be/cXJhJ0gmtls" target="_blank">2025-09-22 - Node.js desatualizado custa caro — veja por quê (pt-br)</a>
+
+
+Abstract:
+
+> Se você ainda está rodando sua aplicação em Node.js 16 ou 18, este vídeo pode te poupar noites sem dormir, incidentes em produção e dinheiro perdido. Eu mostro, na prática, o custo de não atualizar o Node.js—do risco de segurança às dores de performance—e como migrar com segurança para versões atuais (20/22/24) sem quebrar seu produto. ⚠️🚀
+> 
+> 
+
+
+_Tags: ``_
+
+### <a href="https://youtu.be/tWaMPHzMpEo" target="_blank">2025-09-15 - IA nativa no navegador agora suporta audio, imagens além de texto (vem ver) (pt-br)</a>
+
+
+Abstract:
+
+> Executar modelos locais e integrar agentes que realmente fazem tarefas por você — tudo rodando no browser, sem depender de infraestrutura cara. Se você quer ver na prática como WebMCP, Chrome Canary e novas APIs de AI estão transformando a web, este vídeo foi feito para você.
+> 
+> 
+
+
+_Tags: ``_
+
+### <a href="https://youtu.be/Wu0Ajkxh69Y" target="_blank">2025-09-11 - OpenTelemetry na Prática: Monitore Qualquer App com Custo Zero (pt-br)</a>
+
+
+Abstract:
+
+> Aqui eu mostro, na prática, como montar um stack de observabilidade completo e moderno com OpenTelemetry + Prometheus + Grafana usando Docker (e até Kubernetes), para coletar métricas, logs e traces sem dor de cabeça — e gastando muito menos.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/rinha-de-backend-2024-q1-nodejs" target="_blank">https://github.com/ErickWendel/rinha-de-backend-2024-q1-nodejs</a>
+> 
+
+
+_Tags: ``_
+
+### <a href="https://youtu.be/rBw3mENzPoc" target="_blank">2025-08-18 - Aprenda multithreading em JavaScript agora (eu duvido!) (pt-br)</a>
+
+
+Abstract:
+
+> Quer ver JavaScript rodando em múltiplas threads sem travar a interface? Neste vídeo eu te mostro, passo a passo, como usar Web Workers, SharedArrayBuffer e a Atomics API para fazer processamento paralelo de verdade no navegador — e ainda construir um demo que edita imagens em tempo real. Fica até o fim porque tem dicas avançadas, melhores práticas para evitar bugs de concorrência e um resumão para você sair aplicando hoje mesmo. 🚀
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/grayscale-image-processor-workers-atomics" target="_blank">https://github.com/ErickWendel/grayscale-image-processor-workers-atomics</a>
+> 
+
+
+_Tags: ``_
+
+### <a href="https://youtu.be/VeGYqAHuo-k" target="_blank">2025-08-15 - Por Que o Freelance Deveria Acabar de Vez (pt-br)</a>
+
+
+Abstract:
+
+> Neste vídeo, compartilho minha jornada real de como deixei de vender horas como freelancer e passei a atuar como consultor de software, cobrando melhor, tendo mais liberdade e sendo valorizado de verdade. Se você já sentiu que está trabalhando demais e ganhando de menos, esse vídeo é pra você.
+> 
+> 
+
+
+_Tags: ``_
+
+### <a href="https://youtu.be/6EH9y21yU28" target="_blank">2025-08-08 - Economizei R$52.416,00 com Self hosted + Open Source (pt-br)</a>
+
+
+Abstract:
+
+> Quer descobrir como economizar mais de R$50 mil por ano sem perder qualidade e ainda ganhar mais liberdade sobre seus projetos? Neste vídeo, eu mostro como substituí serviços caríssimos por ferramentas open source, instaladas no meu próprio servidor, e como essa decisão transformou a EW Academy.
+> 
+> 
+
+
+_Tags: ``_
+
+### <a href="https://youtu.be/GPE_w1w64ZU" target="_blank">2025-07-11 - Isso Muda Tudo: JavaScript Chega com Map/Filter para Streams e Iterators (pt-br)</a>
+
+
+Abstract:
+
+> Neste vídeo eu mostro, passo a passo, a função mais poderosa (e subestimada) do JavaScript para processamento sob demanda. Você vai aprender como a combinação de Generator Functions, `yield`, Streams legíveis e os novíssimos métodos `map`, `filter`, `reduce`, `take`, entre outros, permite migrar 2 GB (ou até terabytes!) de dados de forma eficiente, elegante e – o melhor – sem travar sua aplicação Node.js.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/js-iterators-helpers" target="_blank">https://github.com/ErickWendel/js-iterators-helpers</a>
+> 
+
+
+_Tags: ``_
+
+### <a href="https://youtu.be/hj1e-HqxuHk" target="_blank">2025-07-04 - 5 Anos de Espera: A funcionalidade mais esperada de JS está saindo! (pt-br)</a>
+
+
+Abstract:
+
+> ⚡️ A maior revolução no tratamento de datas e horários em JavaScript finalmente chegou! Neste vídeo você vai descobrir a nova Temporal API, já ativada no Firefox 139 e disponível no Node.js 20, que promete aposentar Moment.js, Date-fns e todas as gambiarras que usamos há anos.
+> 
+> 
+
+
+_Tags: ``_
+
+### <a href="https://youtu.be/n_Cjdw8qHYI" target="_blank">2025-06-27 - Essa Estratégia de IA Vai Explodir Sua Produtividade (pt-br)</a>
+
+
+Abstract:
+
+> ⚡️ O acesso à informação nunca foi tão poderoso — e neste vídeo eu mostro como transformar a inteligência artificial no SEU melhor parceiro de trabalho! Descubra por que não é hora de temer a IA, mas sim de usá-la para turbinar sua carreira de desenvolvedor e acelerar projetos que antes pareciam impossíveis.
+> 
+> 
+
+
+_Tags: ``_
+
+### <a href="https://youtu.be/3A5Pdkt4K-k" target="_blank">2025-06-14 - Esse foi o teste automatizado mais difícil que já fiz (Playwright + E2E + Node.js) (pt-br)</a>
+
+
+Abstract:
+
+> 🚀 Quer turbinar seus projetos Node-RED sem medo de travar a instância? Neste vídeo eu abro o backstage completo da suíte de testes mais desafiadora que já escrevi, mostrando cada passo para automatizar cenários reais com Playwright, Google Sheets gigantes e Docker Compose.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/nodered-google-sheets-to-json-stream" target="_blank">https://github.com/ErickWendel/nodered-google-sheets-to-json-stream</a>
+> 
+
+
+_Tags: ``_
+
+### <a href="https://youtu.be/UPgM86AvSmQ" target="_blank">2025-06-13 - Como um Pacote NPM Sequestra Seu Servidor em 10 ms (pt-br)</a>
+
+
+Abstract:
+
+> Neste vídeo mostro, em menos de 10 ms, como um pacote NPM minificado pode roubar variáveis de ambiente, gravar arquivos, abrir portas e virar um ransomware completo — tudo diante dos seus olhos.
+> 
+> 
+
+
+_Tags: ``_
+
+### <a href="https://youtu.be/oEptDlmbTo4?si=dcvmQ80HdoVD3qJa" target="_blank">2025-06-09 - Como Cortei 80% da Conta Cloud Só com Open Source e Self hosting (pt-br)</a>
+
+
+Abstract:
+
+> 💸 Quer economizar em nuvem sem sacrificar performance? Descubra como transformei a infraestrutura da EW Academy usando open source e Kubernetes para cortar custos e ganhar controle total! 
+> 
+> 
+
+
+_Tags: `Open Source`_
+
+### <a href="https://youtu.be/ITb0N09KiDU" target="_blank">2025-05-30 - Como Centralizar Todas as Configs do Node.js em UM Arquivo (pt-br)</a>
+
+
+Abstract:
+
+> Neste vídeo, você vai descobrir como o novo **node.config.json** do Node.js 24 simplifica tudo, centralizando as configurações da sua aplicação em um único arquivo. Se você quer escrever menos e produzir mais, assista até o fim! 🚀
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/node-default-config-file/blob/main/refs.txt" target="_blank">https://github.com/ErickWendel/node-default-config-file/blob/main/refs.txt</a>
+> 
+
+
+_Tags: `Node.js`_
+
+### <a href="https://youtu.be/9BFKR0zdqCM?si=f_a11zpLC6Cru5OO" target="_blank">2025-05-21 - O que não te falaram sobre vaga na gringa (pt-br)</a>
+
+
+Abstract:
+
+> Quer descobrir como conquistar aquela vaga dos sonhos no exterior e receber em moeda forte sem sair do Brasil? 🌎💸
+> 
+> 
+
+
+_Tags: ``_
+
+### <a href="https://youtu.be/u0bPVafv-Ak" target="_blank">2025-05-16 - A Nova Palavra-Chave do JS que Revoluciona Bancos de Dados (pt-br)</a>
+
+
+Abstract:
+
+> ✅ 🚀 Node.js 24 chegou trazendo a palavra-chave using e duas novas mágicas da TC39 — Symbol.dispose e Symbol.asyncDispose. 
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/javascript-using-explicit-resource-management" target="_blank">https://github.com/ErickWendel/javascript-using-explicit-resource-management</a>
+> 
+
+
+_Tags: `JavaScript`_
+
+### <a href="https://youtu.be/SdpFByQOc5g" target="_blank">2025-05-09 - Melhor Chatbot OpenSource 2025: Descubra o TOP 1 GRATUITO com AI! (pt-br)</a>
+
+
+Abstract:
+
+> 🚀 Quer criar chatbots incríveis sem pagar NADA e ainda hospedar tudo na sua própria infra? Neste vídeo você descobre, passo a passo, como levantar o Typebot — o chatbot open‑source mais completo da atualidade — com SSL grátis, Docker, Traefik e um VPS baratinho em menos de 30 minutos. Assista até o final para ver uma demo real, integrar IA generativa e aprender truques que vão turbinar seus projetos!
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/typebot-docker" target="_blank">https://github.com/ErickWendel/typebot-docker</a>
+> 
+
+
+_Tags: `AI`_
+
+### <a href="https://youtu.be/wC8SOv4vxkY?si=w89r9AtLq2nsS7xA" target="_blank">2025-04-28 - Como rodar modelos de IA gratuitos, sem ter um super computador (pt-br)</a>
+
+
+Abstract:
+
+> 🚀 Quer testar os modelos de IA mais avançados sem gastar com GPUs? Neste vídeo mostro como rodar LLMs de até 70 B parâmetros grátis, trocando só uma variável de ambiente no seu MacBook M1 ou qualquer máquina modesta.
+> 
+> 
+
+
+_Tags: `AI`_
+
+### <a href="https://youtu.be/eTY5080prPk?si=9o9lkQCcRv1rvw_0" target="_blank">2025-04-22 - A Verdade por Trás do Vibecoding (E o Que Ninguém Fala) (pt-br)</a>
+
+
+Abstract:
+
+> 💥 Vibecoding: revolução ou cilada para programadores? Neste vídeo super sincero, eu coloco o termo do momento na berlinda e mostro como **codar com IA, low‑code e um checklist afiado de qualidade** pode ser o atalho para criar projetos próprios, faturar em paralelo e — quem sabe — alcançar a tão sonhada liberdade financeira. Mas atenção: nem tudo são flores, e você vai ver os perigos (de verdade!) por trás da pressa.
+> 
+> 
+
+
+_Tags: `AI`_
+
+### <a href="https://youtu.be/WunKC21ZvDA" target="_blank">2025-04-14 - A Verdadeira Magia por Trás dos Servidores de MCP em AIs (E Como Usá-los) (pt-br)</a>
+
+
+Abstract:
+
+> 🔥 Prepare-se para descobrir o verdadeiro poder da Inteligência Artificial — além dos simples “hypes” do momento!
+> 
+> 
+
+
+_Tags: `AI`_
+
+### <a href="https://youtu.be/SSf0N0gV8hM?si=Rfri4jD3d0_4_b3u" target="_blank">2025-04-10 - Não cometa estes erros ao usar OpenAI com JavaScript (pt-br)</a>
+
+
+Abstract:
+
+> 🔥 Crie um SaaS com IA sem estourar seu cartão! Descubra como monitorar custos e chamadas de AI com Node.js!
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/monitoring-llms-langfuse-ollama" target="_blank">https://github.com/ErickWendel/monitoring-llms-langfuse-ollama</a>
+> 
+
+
+_Tags: `AI`_
+
+### <a href="https://youtu.be/wLTUIWv3QgQ?si=VWiWqYtZfhw-F2y0" target="_blank">2025-03-24 - A Web 4.0 está aqui: Criei um agente de AI com as APIs nativas do Google Chrome (pt-br)</a>
+
+
+Abstract:
+
+> Neste vídeo, eu revelo um sistema inovador—um recepcionista de barbearia 100% baseado no navegador, utilizando apenas APIs nativas e as inovações da Web 4.0. 
+> 
+> <b>Links</b>
+> 
+> - <a href="https://erickwendel.github.io/Trimly/" target="_blank">https://erickwendel.github.io/Trimly/</a>
+> 
+
+
+_Tags: `AI`_
+
+### <a href="https://youtu.be/6g2jAFhZekw?si=jTvWmJsg-v3L9wDg" target="_blank">2025-03-17 - Ensinando IAs a Acessarem Ferramentas com Model Context Protocol (MCP) (pt-br)</a>
+
+
+Abstract:
+
+> Você já imaginou perguntar para uma inteligência artificial se seu Pull Request foi aprovado ou pedir para ela enviar um e-mail diretamente pelo Gmail, sem escrever uma linha de código para a integração?
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/ErickWendel/erickwendel-contributions-mcp" target="_blank">https://github.com/ErickWendel/erickwendel-contributions-mcp</a>
+> 
+
+
+_Tags: `AI`_
+
+### <a href="https://youtu.be/LN6HQ8FGHAA?si=qlw4jaNBS7eiAdTv" target="_blank">2025-03-11 - Não Use Docker Compose em Produção! Eis o Porquê (pt-br)</a>
+
+
+Abstract:
+
+> Se você usa Docker-compose em produção, você está em perigo e posso te provar!
+> 
+> 
+
+
+_Tags: `Docker`, `Kubernetes`_
 
 ### <a href="https://youtu.be/yPz8LDcAcdA?si=UjxUMO6_-wSzAoct" target="_blank">2025-02-17 - RAG na Prática: Como Ensinar uma IA a Buscar Respostas no Seu Banco de dados (pt-br)</a>
 
@@ -4189,12 +4597,12 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_acho-que-ap%C3%B3s-a-treta-do-n%C3%A3o-use-else-activity-7141431018674184193-dhA0?utm_source=share&utm_medium=member_desktop" target="_blank">2023-12-15 - Acho que após a treta do 'não use else', agora iniciamos a não use try/catch  (pt-br)</a>
+### <a href="https://www.linkedin.com/posts/erickwendel_acho-que-ap%C3%B3s-a-treta-do-n%C3%A3o-use-else-activity-7141431018674184193-2NF9?utm_source=share&utm_medium=member_desktop&rcm=ACoAABS1ckYBm0_ZMP8TT2e4opa3bFMxTRxyJ3w" target="_blank">2023-12-15 - Acho que após a treta do 'não use else', agora iniciamos a não use try/catch  (pt-br)</a>
 
 
 Portal:
 
-> <a href="https://www.linkedin.com/posts/erickwendel_acho-que-ap%C3%B3s-a-treta-do-n%C3%A3o-use-else-activity-7141431018674184193-dhA0?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
+> <a href="https://www.linkedin.com/posts/erickwendel_acho-que-ap%C3%B3s-a-treta-do-n%C3%A3o-use-else-activity-7141431018674184193-2NF9?utm_source=share&utm_medium=member_desktop&rcm=ACoAABS1ckYBm0_ZMP8TT2e4opa3bFMxTRxyJ3w" target="_blank">Linkedin Post</a>
 
 
 Abstract:
@@ -11480,6 +11888,156 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2026-03-14 - Web AI Más Allá del Chat: Algoritmos Genéticos, RL y Transformers.js en el Edge (es)
+
+
+<a href="https://www.jsconf.es/" target="_blank">JSConf ESPAÑA 2026</a>
+
+
+<a href="https://ewbr.cc/web-ai-beyond-chat-jsconfes" target="_blank">slides</a> |  <a href="https://www.instagram.com/p/DV4EJt4D_Vz/?img_index=1" target="_blank">photos</a> |  <a href="https://youtu.be/rUoErA8rXAI?si=PwdHC5tnQkC62yK_" target="_blank">video</a>
+
+
+Abstract:
+
+> Construye funcionalidades de IA que corren directamente en el navegador y en Node.js, sin coste por request y con privacidad por defecto. RAG local con SQLite en WebAssembly para crear experiencias inteligentes, sin lock-in y listas para producción.
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=40.3475974,-3.6959971" target="_blank">Madrid - MAD, Spain</a>.
+
+### 2025-11-29 - La Revolución de la IA Integrada en los Navegadores (es)
+
+
+<a href="https://gdg.community.dev/events/details/google-gdg-quito-presents-devfest-ecuador-2025/cohost-gdg-quito/" target="_blank">Devfest Ecuador 2025</a>
+
+
+<a href="https://ewbr.cc/slides-devfestpuravida-ew" target="_blank">slides</a> |  <a href="https://www.instagram.com/p/DQzuiNYDyaJ/?img_index=1" target="_blank">photos</a> 
+
+
+Abstract:
+
+> En esta sesión, revelaré cómo la web está entrando en una nueva era con la IA ejecutándose de forma nativa en los navegadores. Exploraremos la iniciativa de Chrome de integrar modelos directamente en el runtime, el consenso emergente entre navegadores para definir el futuro de la Web AI y cómo esto abre camino hacia la “Web 4.0” — la web agente. También conocerás las últimas APIs de IA de Chrome, verás lo que ya es posible hoy y descubrirás cómo estas capacidades transformarán la forma en que construimos aplicaciones inteligentes en la web.
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-0.197051,-78.436088" target="_blank">Quito - QU, Ecuador</a>.
+
+### 2025-11-22 - Construindo autoridade global na tecnologia e convertendo isso em dólares (pt-br)
+
+
+<a href="https://www.coders.com.br/dev-na-gringa-summit" target="_blank">Dev na Gringa Summit</a>
+
+
+<a href="https://canva.link/9opl7o2bur84y0g" target="_blank">slides</a> |  <a href="https://www.instagram.com/p/DRXNyh0joIM/?img_index=1" target="_blank">photos</a> |  <a href="https://youtu.be/7Bv-Q8HwS1c?si=75Qf0Z9XGCwNF2oW" target="_blank">video</a>
+
+
+Abstract:
+
+> Erick mostra o caminho de quem saiu do código para o palco do mundo. Aprenda como construir sua marca pessoal, compartilhar conhecimento e transformar reputação técnica em oportunidades reais, e bem pagas, fora do Brasil.
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.6004398,-46.6945287" target="_blank">São Paulo - SP, Brazil</a>.
+
+### 2025-11-08 - La Revolución de la IA Integrada en los Navegadores (es)
+
+
+<a href="https://gdg.community.dev/events/details/google-gdg-pura-vida-presents-devfest-pura-vida-2025/" target="_blank">Devfest Pura Vida 2025</a>
+
+
+<a href="https://ewbr.cc/slides-devfestpuravida-ew" target="_blank">slides</a> |  <a href="https://www.instagram.com/p/DQzuiNYDyaJ/?img_index=1" target="_blank">photos</a> 
+
+
+Abstract:
+
+> En esta sesión, revelaré cómo la web está entrando en una nueva era con la IA ejecutándose de forma nativa en los navegadores. Exploraremos la iniciativa de Chrome de integrar modelos directamente en el runtime, el consenso emergente entre navegadores para definir el futuro de la Web AI y cómo esto abre camino hacia la “Web 4.0” — la web agente. También conocerás las últimas APIs de IA de Chrome, verás lo que ya es posible hoy y descubrirás cómo estas capacidades transformarán la forma en que construimos aplicaciones inteligentes en la web.
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=9.931336,-84.078056" target="_blank">San José - SJ, Costa Rica</a>.
+
+### 2025-10-17 - Chrome AI IRL: Building a VR Barber Assistant + smart chatbot in the web (en-us)
+
+
+<a href="https://rsvp.withgoogle.com/events/web-ai-summit-2025" target="_blank">Web AI Summit 2025</a>
+
+
+<a href="https://docs.google.com/presentation/d/1tO7NyS4e5GfAw7zR8oOADu2OcsTT_r4ORu70ABetQCk/edit?usp=sharing" target="_blank">slides</a> |  <a href="https://www.instagram.com/p/DP7ImrJD7Rk/?img_index=1" target="_blank">photos</a> |  <a href="https://youtu.be/ka2Zzw_qors?si=kDiLQyqx4rfbiBOu" target="_blank">video</a>
+
+
+Abstract:
+
+> Browsers are AI runtimes. In 15 minutes, I’ll demo Chrome’s built-in AI APIs to create a VR assistant that understands intent to schedule, cancel, and check barber bookings, and a lightweight widget that reads llms.txt to answer site questions instantly. Patterns: intent→action UX, on-device speed, grounded responses.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://ewbr.cc/webaisummit" target="_blank">https://ewbr.cc/webaisummit</a>
+> 
+
+
+_Tags: `javascript`, `ai`_
+
+
+Location: <a href="https://www.google.com/maps/?q=37.4063379,-122.0237197" target="_blank">Mountain View - CA, United States</a>.
+
+### 2025-09-15 - Cut the SaaS: How I Saved Thousands with Kubernetes & Open Source (pt-br)
+
+
+<a href="https://shift.infobip.com/europe/zadar-2025/" target="_blank">Infobip Shift Zadar 2025</a>
+
+
+<a href="https://www.icloud.com/keynote/0aefCjbbaFoQmUkzn-g-TYUXg#how-I-saved-thousands-with-selfhosted-and-opensource-infobipshift-15092025" target="_blank">slides</a> |  <a href="https://www.instagram.com/p/DOn0qh_jitB/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank">photos</a> |  <a href="https://youtu.be/PFVPbl-Qbh4?si=ILApVLz7c5LGhD1U" target="_blank">video</a>
+
+
+Abstract:
+
+> In this talk, I’ll show how I slashed costs at https://ew.academy by replacing multiple SaaS services with a self-managed Kubernetes infrastructure built on open-source tools. You’ll see how I evaluated alternatives, deployed them at scale, and overcame daily challenges—alongside real savings data. Attendees will gain strategies to reduce expenses, avoid vendor lock-in, and regain control of their systems.
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=44.1195591,15.2455432" target="_blank">Zadar - CR, Croatia</a>.
+
+### 2025-07-18 - Como economizei milhares com self-hosting e open source (pt-br)
+
+
+<a href="https://codecon.dev/" target="_blank">Codecon</a>
+
+
+  
+
+
+Abstract:
+
+> Nesta palestra, vou mostrar como reduzi custos no https://ew.academy substituindo diversos serviços SaaS por uma infraestrutura autogerenciada em Kubernetes baseada em ferramentas open source. Você verá como avaliei alternativas, as implementei em escala e enfrentei os desafios do dia a dia—com dados reais de economia. Os participantes aprenderão estratégias para reduzir despesas, evitar o lock-in de fornecedores e retomar o controle de seus sistemas.
+> 
+> 
+
+
+_Tags: `javascript`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-25.435066,-49.1709865" target="_blank">Curitiba - PR, Brazil</a>.
 
 ### 2025-03-01 - Lo nuevo de JavaScript y Node.js para 2025 (es)
 

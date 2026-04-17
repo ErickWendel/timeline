@@ -1,5 +1,357 @@
 [
   {
+    "title": "Como fui hackeado pela falha no React (quase perdi tudo)",
+    "abstract": "Como fui hackeado pela falha no React",
+    "reach": 15141,
+    "additionalLinks": [
+    ],
+    "link": "https://youtu.be/5ygcZt2Co7w",
+    "tags": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2025-12-11"
+  },
+  {
+    "title": "Navegando na Web com Playwright MCP (preenchendo google forms com IA e mais)",
+    "abstract": "Neste vídeo eu mostro, passo a passo, como usar Playwright + MCP (Model Context Protocol) para preencher e enviar formulários automaticamente no navegador. Você vai entender como estruturar prompts e JSON, instalar a extensão, configurar tokens de API, escolher modelos de LLM locais e transformar tudo isso em uma automação sólida que roda de ponta a ponta.",
+    "reach": 4718,
+    "additionalLinks": [
+    ],
+    "link": "https://youtu.be/cWGaKPmE_eE",
+    "tags": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2025-11-11"
+  },
+  {
+    "title": "MEU DEUS - Playwright MCP gerou todos os testes pra mim",
+    "abstract": "Quer sair do zero ao seu primeiro teste end-to-end com Playwright em poucos minutos? Neste vídeo eu mostro, na prática, como instalar, configurar e rodar testes E2E de forma simples, rápida e sem enrolação. 🚀",
+    "reach": 18289,
+    "additionalLinks": [
+      "https://github.com/ErickWendel/playwright-mcp"
+    ],
+    "link": "https://youtu.be/ZSzvEbEme2E",
+    "tags": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2025-10-10"
+  },
+  {
+    "title": "Node.js desatualizado custa caro — veja por quê",
+    "abstract": "Se você ainda está rodando sua aplicação em Node.js 16 ou 18, este vídeo pode te poupar noites sem dormir, incidentes em produção e dinheiro perdido. Eu mostro, na prática, o custo de não atualizar o Node.js—do risco de segurança às dores de performance—e como migrar com segurança para versões atuais (20/22/24) sem quebrar seu produto. ⚠️🚀",
+    "reach": 3660,
+    "additionalLinks": [
+    ],
+    "link": "https://youtu.be/cXJhJ0gmtls",
+    "tags": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2025-09-22"
+  },
+  {
+    "title": "IA nativa no navegador agora suporta audio, imagens além de texto (vem ver)",
+    "abstract": "Executar modelos locais e integrar agentes que realmente fazem tarefas por você — tudo rodando no browser, sem depender de infraestrutura cara. Se você quer ver na prática como WebMCP, Chrome Canary e novas APIs de AI estão transformando a web, este vídeo foi feito para você.",
+    "reach": 2072,
+    "additionalLinks": [
+    ],
+    "link": "https://youtu.be/tWaMPHzMpEo",
+    "tags": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2025-09-15"
+  },
+  {
+    "title": "OpenTelemetry na Prática: Monitore Qualquer App com Custo Zero",
+    "abstract": "Aqui eu mostro, na prática, como montar um stack de observabilidade completo e moderno com OpenTelemetry + Prometheus + Grafana usando Docker (e até Kubernetes), para coletar métricas, logs e traces sem dor de cabeça — e gastando muito menos.",
+    "reach": 27536,
+    "additionalLinks": [
+      "https://github.com/ErickWendel/rinha-de-backend-2024-q1-nodejs"
+    ],
+    "link": "https://youtu.be/Wu0Ajkxh69Y",
+    "tags": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2025-09-11"
+  },
+  {
+    "title": "Aprenda multithreading em JavaScript agora (eu duvido!)",
+    "abstract": "Quer ver JavaScript rodando em múltiplas threads sem travar a interface? Neste vídeo eu te mostro, passo a passo, como usar Web Workers, SharedArrayBuffer e a Atomics API para fazer processamento paralelo de verdade no navegador — e ainda construir um demo que edita imagens em tempo real. Fica até o fim porque tem dicas avançadas, melhores práticas para evitar bugs de concorrência e um resumão para você sair aplicando hoje mesmo. 🚀",
+    "reach": 3780,
+    "additionalLinks": [
+      "https://github.com/ErickWendel/grayscale-image-processor-workers-atomics"
+    ],
+    "link": "https://youtu.be/rBw3mENzPoc",
+    "tags": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2025-08-18"
+  },
+  {
+    "title": "Por Que o Freelance Deveria Acabar de Vez",
+    "abstract": "Neste vídeo, compartilho minha jornada real de como deixei de vender horas como freelancer e passei a atuar como consultor de software, cobrando melhor, tendo mais liberdade e sendo valorizado de verdade. Se você já sentiu que está trabalhando demais e ganhando de menos, esse vídeo é pra você.",
+    "reach": 4527,
+    "additionalLinks": [
+    ],
+    "link": "https://youtu.be/VeGYqAHuo-k",
+    "tags": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2025-08-15"
+  },
+  {
+    "title": "Economizei R$52.416,00 com Self hosted + Open Source",
+    "abstract": "Quer descobrir como economizar mais de R$50 mil por ano sem perder qualidade e ainda ganhar mais liberdade sobre seus projetos? Neste vídeo, eu mostro como substituí serviços caríssimos por ferramentas open source, instaladas no meu próprio servidor, e como essa decisão transformou a EW Academy.",
+    "reach": 6794,
+    "additionalLinks": [
+    ],
+    "link": "https://youtu.be/6EH9y21yU28",
+    "tags": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2025-08-08"
+  },
+    {
+    "title": "Isso Muda Tudo: JavaScript Chega com Map/Filter para Streams e Iterators",
+    "abstract": "Neste vídeo eu mostro, passo a passo, a função mais poderosa (e subestimada) do JavaScript para processamento sob demanda. Você vai aprender como a combinação de Generator Functions, `yield`, Streams legíveis e os novíssimos métodos `map`, `filter`, `reduce`, `take`, entre outros, permite migrar 2 GB (ou até terabytes!) de dados de forma eficiente, elegante e – o melhor – sem travar sua aplicação Node.js.",
+    "reach": 8653,
+    "additionalLinks": [
+      "https://github.com/ErickWendel/js-iterators-helpers"
+    ],
+    "link": "https://youtu.be/GPE_w1w64ZU",
+    "tags": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2025-07-11"
+  },
+  {
+    "title": "5 Anos de Espera: A funcionalidade mais esperada de JS está saindo!",
+    "abstract": "⚡️ A maior revolução no tratamento de datas e horários em JavaScript finalmente chegou! Neste vídeo você vai descobrir a nova Temporal API, já ativada no Firefox 139 e disponível no Node.js 20, que promete aposentar Moment.js, Date-fns e todas as gambiarras que usamos há anos.",
+    "reach": 10321,
+    "additionalLinks": [
+    ],
+    "link": "https://youtu.be/hj1e-HqxuHk",
+    "tags": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2025-07-04"
+  },
+  {
+    "title": "Essa Estratégia de IA Vai Explodir Sua Produtividade",
+    "abstract": "⚡️ O acesso à informação nunca foi tão poderoso — e neste vídeo eu mostro como transformar a inteligência artificial no SEU melhor parceiro de trabalho! Descubra por que não é hora de temer a IA, mas sim de usá-la para turbinar sua carreira de desenvolvedor e acelerar projetos que antes pareciam impossíveis.",
+    "reach": 2108,
+    "additionalLinks": [
+    ],
+    "link": "https://youtu.be/n_Cjdw8qHYI",
+    "tags": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2025-06-27"
+  },
+  {
+    "title": "Esse foi o teste automatizado mais difícil que já fiz (Playwright + E2E + Node.js)",
+    "abstract": "🚀 Quer turbinar seus projetos Node-RED sem medo de travar a instância? Neste vídeo eu abro o backstage completo da suíte de testes mais desafiadora que já escrevi, mostrando cada passo para automatizar cenários reais com Playwright, Google Sheets gigantes e Docker Compose.",
+    "reach": 4263,
+    "additionalLinks": [
+      "https://github.com/ErickWendel/nodered-google-sheets-to-json-stream"
+    ],
+    "link": "https://youtu.be/3A5Pdkt4K-k",
+    "tags": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2025-06-14"
+  },
+  {
+    "title": "Como um Pacote NPM Sequestra Seu Servidor em 10 ms",
+    "abstract": "Neste vídeo mostro, em menos de 10 ms, como um pacote NPM minificado pode roubar variáveis de ambiente, gravar arquivos, abrir portas e virar um ransomware completo — tudo diante dos seus olhos.",
+    "reach": 5359,
+    "additionalLinks": [
+    ],
+    "link": "https://youtu.be/UPgM86AvSmQ",
+    "tags": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2025-06-13"
+  },
+  {
+    "title": "Como Cortei 80% da Conta Cloud Só com Open Source e Self hosting",
+    "abstract": "💸 Quer economizar em nuvem sem sacrificar performance? Descubra como transformei a infraestrutura da EW Academy usando open source e Kubernetes para cortar custos e ganhar controle total! ",
+    "reach": 14595,
+    "additionalLinks": [
+    ],
+    "link": "https://youtu.be/oEptDlmbTo4?si=dcvmQ80HdoVD3qJa",
+    "tags": [
+      "Open Source"
+    ],
+    "language": "pt-br",
+    "date": "2025-06-09"
+  },
+  {
+    "title": "Como Centralizar Todas as Configs do Node.js em UM Arquivo",
+    "abstract": "Neste vídeo, você vai descobrir como o novo **node.config.json** do Node.js 24 simplifica tudo, centralizando as configurações da sua aplicação em um único arquivo. Se você quer escrever menos e produzir mais, assista até o fim! 🚀",
+    "reach": 3031,
+    "additionalLinks": [
+      "https://github.com/ErickWendel/node-default-config-file/blob/main/refs.txt"
+    ],
+    "link": "https://youtu.be/ITb0N09KiDU",
+    "tags": [
+      "Node.js"
+    ],
+    "language": "pt-br",
+    "date": "2025-05-30"
+  },
+  {
+    "title": "O que não te falaram sobre vaga na gringa",
+    "abstract": "Quer descobrir como conquistar aquela vaga dos sonhos no exterior e receber em moeda forte sem sair do Brasil? 🌎💸",
+    "reach": 3514,
+    "additionalLinks": [
+    ],
+    "link": "https://youtu.be/9BFKR0zdqCM?si=f_a11zpLC6Cru5OO",
+    "tags": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2025-05-21"
+  },
+  {
+    "title": "A Nova Palavra-Chave do JS que Revoluciona Bancos de Dados",
+    "abstract": "✅ 🚀 Node.js 24 chegou trazendo a palavra-chave using e duas novas mágicas da TC39 — Symbol.dispose e Symbol.asyncDispose. ",
+    "reach": 13000,
+    "additionalLinks": [
+      "https://github.com/ErickWendel/javascript-using-explicit-resource-management"
+    ],
+    "link": "https://youtu.be/u0bPVafv-Ak",
+    "tags": [
+      "JavaScript"
+    ],
+    "language": "pt-br",
+    "date": "2025-05-16"
+  },
+  {
+    "title": "Melhor Chatbot OpenSource 2025: Descubra o TOP 1 GRATUITO com AI!",
+    "abstract": "🚀 Quer criar chatbots incríveis sem pagar NADA e ainda hospedar tudo na sua própria infra? Neste vídeo você descobre, passo a passo, como levantar o Typebot — o chatbot open‑source mais completo da atualidade — com SSL grátis, Docker, Traefik e um VPS baratinho em menos de 30 minutos. Assista até o final para ver uma demo real, integrar IA generativa e aprender truques que vão turbinar seus projetos!",
+    "reach": 12335,
+    "additionalLinks": [
+      "https://github.com/ErickWendel/typebot-docker"
+    ],
+    "link": "https://youtu.be/SdpFByQOc5g",
+    "tags": [
+      "AI"
+    ],
+    "language": "pt-br",
+    "date": "2025-05-09"
+  },
+  {
+    "title": "Como rodar modelos de IA gratuitos, sem ter um super computador",
+    "abstract": "🚀 Quer testar os modelos de IA mais avançados sem gastar com GPUs? Neste vídeo mostro como rodar LLMs de até 70 B parâmetros grátis, trocando só uma variável de ambiente no seu MacBook M1 ou qualquer máquina modesta.",
+    "reach": 3700,
+    "additionalLinks": [
+    ],
+    "link": "https://youtu.be/wC8SOv4vxkY?si=w89r9AtLq2nsS7xA",
+    "tags": [
+      "AI"
+    ],
+    "language": "pt-br",
+    "date": "2025-04-28"
+  },
+  {
+    "title": "A Verdade por Trás do Vibecoding (E o Que Ninguém Fala)",
+    "abstract": "💥 Vibecoding: revolução ou cilada para programadores? Neste vídeo super sincero, eu coloco o termo do momento na berlinda e mostro como **codar com IA, low‑code e um checklist afiado de qualidade** pode ser o atalho para criar projetos próprios, faturar em paralelo e — quem sabe — alcançar a tão sonhada liberdade financeira. Mas atenção: nem tudo são flores, e você vai ver os perigos (de verdade!) por trás da pressa.",
+    "reach": 10000,
+    "additionalLinks": [
+    ],
+    "link": "https://youtu.be/eTY5080prPk?si=9o9lkQCcRv1rvw_0",
+    "tags": [
+      "AI"
+    ],
+    "language": "pt-br",
+    "date": "2025-04-22"
+  },
+  {
+    "title": "A Verdadeira Magia por Trás dos Servidores de MCP em AIs (E Como Usá-los)",
+    "abstract": "🔥 Prepare-se para descobrir o verdadeiro poder da Inteligência Artificial — além dos simples “hypes” do momento!",
+    "reach": 6274,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/WunKC21ZvDA",
+    "tags": [
+      "AI"
+    ],
+    "language": "pt-br",
+    "date": "2025-04-14"
+  },
+  {
+    "title": "Não cometa estes erros ao usar OpenAI com JavaScript",
+    "abstract": "🔥 Crie um SaaS com IA sem estourar seu cartão! Descubra como monitorar custos e chamadas de AI com Node.js!",
+    "reach": 6300,
+    "additionalLinks": [
+      "https://github.com/ErickWendel/monitoring-llms-langfuse-ollama"
+    ],
+    "link": "https://youtu.be/SSf0N0gV8hM?si=Rfri4jD3d0_4_b3u",
+    "tags": [
+      "AI"
+    ],
+    "language": "pt-br",
+    "date": "2025-04-10"
+  },
+  {
+    "title": "A Web 4.0 está aqui: Criei um agente de AI com as APIs nativas do Google Chrome",
+    "abstract": "Neste vídeo, eu revelo um sistema inovador—um recepcionista de barbearia 100% baseado no navegador, utilizando apenas APIs nativas e as inovações da Web 4.0. ",
+    "reach": 11249,
+    "additionalLinks": [
+      "https://erickwendel.github.io/Trimly/"
+    ],
+    "link": "https://youtu.be/wLTUIWv3QgQ?si=VWiWqYtZfhw-F2y0",
+    "tags": [
+      "AI"
+    ],
+    "language": "pt-br",
+    "date": "2025-03-24"
+  },
+  {
+    "title": "Ensinando IAs a Acessarem Ferramentas com Model Context Protocol (MCP)",
+    "abstract": "Você já imaginou perguntar para uma inteligência artificial se seu Pull Request foi aprovado ou pedir para ela enviar um e-mail diretamente pelo Gmail, sem escrever uma linha de código para a integração?",
+    "reach": 30200,
+    "additionalLinks": [
+      "https://github.com/ErickWendel/erickwendel-contributions-mcp"
+    ],
+    "link": "https://youtu.be/6g2jAFhZekw?si=jTvWmJsg-v3L9wDg",
+    "tags": [
+      "AI"
+    ],
+    "language": "pt-br",
+    "date": "2025-03-17"
+  },
+  {
+    "title": "Não Use Docker Compose em Produção! Eis o Porquê",
+    "abstract": "Se você usa Docker-compose em produção, você está em perigo e posso te provar!",
+    "reach": 38100,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/LN6HQ8FGHAA?si=qlw4jaNBS7eiAdTv",
+    "tags": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "language": "pt-br",
+    "date": "2025-03-11"
+  },
+  {
     "title": "RAG na Prática: Como Ensinar uma IA a Buscar Respostas no Seu Banco de dados",
     "abstract": "Neste vídeo, eu te mostro como criar seu próprio buscador local com RAG (Retrieval-Augmented Generation), usando Neo4j, Ollama e modelos avançados de IA, como DeepSeek e Gemma do Google! 🤖💡",
     "reach": 16212,
@@ -13,500 +365,500 @@
     ],
     "language": "pt-br",
     "date": "2025-02-17"
-    },
-    {
-      "title": "Como Rodar Modelos de IA na Sua Máquina e na nuvem (deepseek, gemma, docker e mais",
-      "abstract": "Vou te mostrar o quão simples é rodar modelos de inteligência artificial na sua máquina e provar que você não precisa de um super computador pra isso",
-      "reach": 6892,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://youtu.be/ZTSsd9sU-iU?si=FFHMG-FnpAn0FQH4",
-      "tags": [
-        "IA",
-        "deepseek",
-        "docker"
-      ],
-      "language": "pt-br",
-      "date": "2025-02-13"
-    },
-    {
-      "title": "O Melhor Teclado Para Programadores?",
-      "abstract": " Neste vídeo, mostro minha jornada ao trocar o Apple Magic Keyboard pelos teclados Hillside View e CorneV2",
-      "reach": 7092,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://youtu.be/cCk-fA2-reM?si=momy81XNgiXGD_Zc",
-      "tags": [
-          "DevTools",
-        "Keycaps"
-      ],
-      "language": "pt-br",
-      "date": "2025-01-15"
-    },
-    {
-      "title": "Como saber se seu Node.js é vulnerável",
-      "abstract": "neste vídeo, vou te mostrar como identificar vulnerabilidades nos seus projetos Node.js",
-      "reach": 10000,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://www.linkedin.com/posts/erickwendel_como-saber-se-seu-nodejs-%C3%A9-vulner%C3%A1vel-activity-7287076813762129920-dA4s?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
-      "tags": [
-          "Node.js",
-        "Segurança"
-      ],
-      "language": "pt-br",
-      "date": "2025-01-21"
-    },
-    {
-      "title": "Você vai eliminar o uso de mouse da sua vida com essa ferramenta",
-      "abstract": "Veja uma alternativa para usar mouses e aumentar sua produtividade",
-      "reach": 10000,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://www.linkedin.com/posts/erickwendel_voc%C3%AA-vai-eliminar-o-uso-de-mouse-da-sua-vida-activity-7286351995555172353-oE2R?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
-      "tags": [
-          "Produtividade"
-      ],
-      "language": "pt-br",
-      "date": "2025-01-18"
-    },
-    {
-      "title": "Desvendando o Estado Atual do Node.js: Bate-papo Imperdível sobre Performance com Rafael Gonzaga",
-      "abstract": "Confira as principais novidades, dicas de otimização e o que esperar para o futuro do desenvolvimento em Node.js",
-      "reach": 2363,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://www.youtube.com/live/Jn9mu1umPww?si=ENMnBrG_VWgFho2S",
-      "tags": [
-          "Docker",
-        "Kubernetes"
-      ],
-      "language": "pt-br",
-      "date": "2025-01-17"
-    },
-    {
-      "title": "5 ferramentas inúteis que todo programador deveria conhecer 😜",
-      "abstract": "Dicas de ferramentas que não vão melhorar sua produtividade mas vão te divertir",
-      "reach": 10000,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://www.linkedin.com/posts/erickwendel_5-ferramentas-in%C3%BAteis-que-todo-programador-activity-7286001438680375296-YkVG?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
-      "tags": [
-          "Docker",
-        "Kubernetes"
-      ],
-      "language": "pt-br",
-      "date": "2025-01-17"
-    },
-    {
-      "title": "5 ferramentas que Todo Programador Deveria Usar 💥🔥",
-      "abstract": "Essas ferramentas vão mudar a forma que você trabalha diariamente por aí",
-      "reach": 10000,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://www.linkedin.com/posts/erickwendel_5-ferramentas-que-todo-programador-deveria-activity-7285644983880085504-tedD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
-      "tags": [
-          "Produtividade"
-      ],
-      "language": "pt-br",
-      "date": "2025-01-16"
-    },
-    {
-      "title": "O Melhor Teclado Para Programadores?",
-      "abstract": " Neste vídeo, vou te mostrar minha jornada ao trocar o Apple Magic Keyboard pelos teclados Hillside View e CorneV2",
-      "reach": 7228,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://youtu.be/cCk-fA2-reM?si=WDtqvw58X9OmjnS6",
-      "tags": [
-          "DevTools",
-        "Keyboards"
-      ],
-      "language": "pt-br",
-      "date": "2025-01-15"
-    },
-    {
-      "title": "A melhor alternativa GRATUITA ao bit.ly",
-      "abstract": "Vou te mostrar uma ferramenta open source para substituir o Bit.ly e você ter seu próprio encurtador de URLs sem precisar gastar nada!",
-      "reach": 8876,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://youtu.be/m1KhHpgpYAI?si=bPicH31tTMISK91l",
-      "tags": [
-        "bitly",
-        "hostinger"
-      ],
-      "language": "pt-br",
-      "date": "2025-01-10"
-    },
-    {
-      "title": "Essas ferramentas vão fazer você codificar 99999x mais rápido",
-      "abstract": "Nesse video, vou te mostrar como você pode processar planilhas gigantes do Google sheets de forma simples usando low code no Node usando um pacote open source que eu mesmo desenvolvi",
-      "reach": 7617,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://youtu.be/i7F_3h8bfjo?si=FPk6PQ7A6t0QE3Hq",
-      "tags": [
-          "Nodered",
-        "JavaScript"
-      ],
-      "language": "pt-br",
-      "date": "2024-12-19"
-    },
-    {
-      "title": "Simulação entrevista técnica de JavaScript Jr: Como explicar Asyncawait para uma criança? 🤔",
-      "abstract": "Trecho da live SIMULANDO ENTREVISTA TÉCNICA DE JAVASCRIPT com @mupezzuol e kipper.dev",
-      "reach": 10000,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7275254093353226240-rMin?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
-      "tags": [
-        "Javascript",
-        "Carreira"
-      ],
-      "language": "pt-br",
-      "date": "2024-12-18"
-    },
-    {
-      "title": "Reagindo ao Futuro do JavaScript: O Que Pode Mudar em 2025?",
-      "abstract": " Nesta live, vou reagir em tempo real às novidades que podem mudar a forma como escrevemos código no futuro",
-      "reach": 2800,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://www.youtube.com/live/9V64O7mOH2E?si=Uo-Ye8-HqxAEKzPY",
-      "tags": [
-          "NodeJS",
-        "JavaScript"
-      ],
-      "language": "pt-br",
-      "date": "2024-12-18"
-    },
-    {
-      "title": "Como é ser um programador de sucesso🤔",
-      "abstract": "Trecho do video Ele Já Faturou R$ 5 Milhões Ensinando Programação Na Internet | Erick Wendel - Kiwicast #378",
-      "reach": 10000,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7274906870522261505-GDD9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
-      "tags": [
-        "Carreira",
-        "Educação"
-      ],
-      "language": "pt-br",
-      "date": "2024-12-17"
-    },
-    {
-      "title": "Simulação entrevista técnica de JavaScript Jr: Como um júnior deve reportar um erro cometido por um sênior na empresa?🤔",
-      "abstract": "trecho do video SIMULANDO ENTREVISTA TÉCNICA DE JAVASCRIPT com @mupezzuol e kipper.dev",
-      "reach": 10000,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7274166889243705344-C0zX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
-      "tags": [
-        "Carreira"
-      ],
-      "language": "pt-br",
-      "date": "2024-12-15"
-    },
-    {
-      "title": "Como a programação mudou minha vida🔥",
-      "abstract": "Trecho do video Ele Já Faturou R$ 5 Milhões Ensinando Programação Na Internet | Erick Wendel - Kiwicast #378",
-      "reach": 10000,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7273804607036796929-4PkW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
-      "tags": [
-          "Programação",
-        "Carreira"
-      ],
-      "language": "pt-br",
-      "date": "2024-12-14"
-    },
-    {
-      "title": "Explorando possibilidades criativas com Web XOR🔥",
-      "abstract": "Um pouco do que é possivel criar para produzir imersões de experiência para o seu usuário com Web XOR",
-      "reach": 10000,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7273457067510648832-1prw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
-      "tags": [
-          "WebXOR",
-        "Programação"
-      ],
-      "language": "pt-br",
-      "date": "2024-12-13"
-    },
-    {
-      "title": "QUER PERFORMANCE EM JS? FAÇA ISSO! | Erick Wendel",
-      "abstract": "Eu trouxe 05 dicas para elevar a capacidade de suas aplicações JavaScript, independente do ambiente para você repensar sobre o que está fazendo, alterar partes de código e entregar mais gastando menos",
-      "reach": 5174,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://youtu.be/GZZ0zdpvAZU?si=79CzML__Gwe91r63",
-      "tags": [
-        "Performance",
-        "Backend"
-      ],
-      "language": "pt-br",
-      "date": "2024-12-06"
-    },
-    {
-      "title": "Simulação entrevista técnica de JavaScript Jr: Diferença de Jr para Sênior🔥",
-      "abstract": "Trecho da live SIMULANDO ENTREVISTA TÉCNICA DE JAVASCRIPT com @mupezzuol e kipper.dev",
-      "reach": 10000,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7272732428941602816-hCK4?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
-      "tags": [
-          "Docker",
-        "Kubernetes"
-      ],
-      "language": "pt-br",
-      "date": "2024-12-13"
-    },
-    {
-      "title": " Início na programação😂",
-      "abstract": "Trecho do video Ele Já Faturou R$ 5 Milhões Ensinando Programação Na Internet | Erick Wendel - Kiwicast #378",
-      "reach": 10000,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7272355221547216896-QV_g?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
-      "tags": [
-        "Programação",
-        "Carreira"
-      ],
-      "language": "pt-br",
-      "date": "2024-12-10"
-    },
-    {
-      "title": "A Melhor Alternativa GRATUITA ao Heroku, Vercel e Netlify!",
-      "abstract": "Vou te mostrar uma feramenta incrível para você publicar suas aplicações de forma automática, como se fosse as épocas de Heroku e que vem com uma variedade incrível de templates para você usar e que ja estão prontos para produção",
-      "reach": 17681,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://youtu.be/6z33Ov5i-90?si=KRU-A224tv7kauvz",
-      "tags": [
-        "Coolify",
-        "Kubernetes"
-      ],
-      "language": "pt-br",
-      "date": "2024-12-10"
-    },
-    {
-      "title": "Simulação entrevista técnica de JavaScript Jr - Pergunta técnica🔥",
-      "abstract": "trecho do video SIMULANDO ENTREVISTA TÉCNICA DE JAVASCRIPT com @mupezzuol e kipper.dev",
-      "reach": 10000,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7270905505391202304-UHUc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
-      "tags": [
-        "Carreira",
-        "Entrevista"
-      ],
-      "language": "pt-br",
-      "date": "2024-12-06"
-    },
-    {
-      "title": "Considerações finais do Marco para você dev🔥",
-      "abstract": "trecho do video Node.js agora suporta TypeScript nativamente (feat Marco Ippolito - lider da iniciativa no Node.js",
-      "reach": 10000,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7270558092474425345-MPNs?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
-      "tags": [
-        "Test Runner",
-        "NodeJS"
-      ],
-      "language": "pt-br",
-      "date": "2024-12-05"
-    },
-    {
-      "title": "Participei do Podcast da Kiwify e olha como eles me apresentaram🔥",
-      "abstract": "Trecho do video Ele Já Faturou R$ 5 Milhões Ensinando Programação Na Internet | Erick Wendel - Kiwicast #378",
-      "reach": 10000,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7270195842639179781-TqC5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
-      "tags": [
-        "Carreira",
-        "Programação"
-      ],
-      "language": "pt-br",
-      "date": "2024-12-04"
-    },
-    {
-      "title": "Live ESPECIAL de 100 MIL INSCRITOS?😳 / Otimizando e Monitorando apps JavaScript 💥 | Erick Wendel",
-      "abstract": "Nessa live, vou te mostrar o que você pode se atentar em projetos JavaScript, tanto para backend quanto para frontend com exemplos práticos e experiências extraídas do mundo real!",
-      "reach": 1785,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://www.youtube.com/live/Q8omqWTT3Yk?si=Ke7QB7euOnW6YRVi",
-      "tags": [
-        "Performance",
-        "JavaScript"
-      ],
-      "language": "pt-br",
-      "date": "2024-12-03"
-    },
-    {
-      "title": "Criando animações 3D - Parte 02🔥",
-      "abstract": "Criações de experiências imersivas para as suas aplicações",
-      "reach": 10000,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7269108435537874944-mf3w?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
-      "tags": [
-        "JavaScript",
-        "NodeJS"
-      ],
-      "language": "en-us",
-      "date": "2024-01-24"
-    },
-    {
-      "title": "Simulação entrevista técnica de JavaScript - Programador Jr🔥",
-      "abstract": "trecho do video SIMULANDO ENTREVISTA TÉCNICA DE JAVASCRIPT com @mupezzuol e kipper.dev",
-      "reach": 10000,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7268738590958866432-qOqw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
-      "tags": [
-          "Carreira",
-        "JavaScript"
-      ],
-      "language": "pt-br",
-      "date": "2024-11-30"
-    },
-    {
-      "title": "Como melhorar em 10x a performance de apps Node.js (CPU Profiling + Optimization = magic)",
-      "abstract": "Nesse vídeo, vou te mostrar como você pode inspecionar problemas de performance em Node.js usando apenas os módulos nativos do Node.js usando uma técnica chamada de CPU Profiling",
-      "reach": 10723,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://youtu.be/3F1uBQVWNfE?si=TKrvRxA6zUe9jmLU",
-      "tags": [
-        "Performance",
-        "NodeJS"
-      ],
-      "language": "pt-br",
-      "date": "2024-11-26"
-    },
-    {
-      "title": "Node.js now supports TypeScript natively (feat Marco Ippolito - Node.js TSC)",
-      "abstract": "TypeScript running natively in Node.js? Yes, this is a piece of a dream many people had, and it's now a reality!",
-      "reach": 5132,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://youtu.be/Py-sKPMRPGg?si=pbN04oD6BbCh1IGL",
-      "tags": [
-        "TypeScript",
-        "tutorial"
-      ],
-      "language": "en-us",
-      "date": "2024-11-07"
-    },
-    {
-      "title": "5 Ferramentas Feitas em Node.js Que Todo Programador Deveria Usar",
-      "abstract": "Neste vídeo, eu separei 5 Ferramentas Feitas em Node.js Que Todo Programador Deveria Usar",
-      "reach": 8226,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://youtu.be/COoSC8I4A1g?si=CH72X4oHMQnTw7JA",
-      "tags": [
-          "NodeJS",
-        "JavaScript"
-      ],
-      "language": "pt-br",
-      "date": "2024-11-04"
-    },
-    {
-      "title": "Porque o projeto Node.js NÃO tem testes unitários?",
-      "abstract": "O projeto Node.js não tem testes unitários e me faz refletir sobre qual é o modelo ideal para software, um modelo que acelere o desenvolvimento e entregue valor real",
-      "reach": 6020,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://youtu.be/WFMujhZRrcQ?si=lyJhV_KuEFGOzdj4",
-      "tags": [
-          "tests",
-        "NodeJS"
-      ],
-      "language": "pt-br",
-      "date": "2024-10-28"
-    },
-    {
-      "title": "A Ferramenta QUE VAI REVOLUCIONAR o desenvolvimento de Suas Web APIs",
-      "abstract": "A APIDog é semelhante ao Postman em termos de teste e documentação de APIs, mas também oferece recursos integrados para o design de APIs, permitindo que os usuários criem, gerenciem e depurem APIs dentro da mesma ferramenta. ",
-      "reach": 12357,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://youtu.be/B3nAHETDrow?si=QNuEgNGkpRYwj04X",
-      "tags": [
-          "Web",
-        "JavaScript"
-      ],
-      "language": "pt-br",
-      "date": "2024-10-22"
-    },
-    {
-      "title": "Conheça o Futuro (E Presente) da Web Com Edge Computing | Erick Wendel",
-      "abstract": "Descubra o reino de ponta da evolução da web através do Edge Computing, com foco em como esta tecnologia revoluciona o processamento de dados, a conectividade e a capacidade de resposta em tempo real",
-      "reach": 9098,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://youtu.be/ydzoxJRimA0?si=n6hNnDsUid9JC0Oj",
-      "tags": [
-        "Edge Computing",
-        "JavaScript"
-      ],
-      "language": "pt-br",
-      "date": "2024-10-12"
-    },
-    {
-      "title": "Node.js Agora Suporta o Banco Mais Popular Do Mundo by Erick Wendel",
-      "abstract": "Atendendo a pedidos, saiu um super video tutorial mostrando como usar o SQLite no Node.js sem qualquer biblioteca adicional 🤯",
-      "reach": 21000,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://youtu.be/-eklEr3Adr4?si=MtF3pRt5PNUl0zid",
-      "tags": [
-        "SQLite",
-        "NodeJS"
-      ],
-      "language": "pt-br",
-      "date": "2024-10-09"
-    },
+  },
+  {
+    "title": "Como Rodar Modelos de IA na Sua Máquina e na nuvem (deepseek, gemma, docker e mais",
+    "abstract": "Vou te mostrar o quão simples é rodar modelos de inteligência artificial na sua máquina e provar que você não precisa de um super computador pra isso",
+    "reach": 6892,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/ZTSsd9sU-iU?si=FFHMG-FnpAn0FQH4",
+    "tags": [
+      "IA",
+      "deepseek",
+      "docker"
+    ],
+    "language": "pt-br",
+    "date": "2025-02-13"
+  },
+  {
+    "title": "O Melhor Teclado Para Programadores?",
+    "abstract": " Neste vídeo, mostro minha jornada ao trocar o Apple Magic Keyboard pelos teclados Hillside View e CorneV2",
+    "reach": 7092,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/cCk-fA2-reM?si=momy81XNgiXGD_Zc",
+    "tags": [
+      "DevTools",
+      "Keycaps"
+    ],
+    "language": "pt-br",
+    "date": "2025-01-15"
+  },
+  {
+    "title": "Como saber se seu Node.js é vulnerável",
+    "abstract": "neste vídeo, vou te mostrar como identificar vulnerabilidades nos seus projetos Node.js",
+    "reach": 10000,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.linkedin.com/posts/erickwendel_como-saber-se-seu-nodejs-%C3%A9-vulner%C3%A1vel-activity-7287076813762129920-dA4s?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+    "tags": [
+      "Node.js",
+      "Segurança"
+    ],
+    "language": "pt-br",
+    "date": "2025-01-21"
+  },
+  {
+    "title": "Você vai eliminar o uso de mouse da sua vida com essa ferramenta",
+    "abstract": "Veja uma alternativa para usar mouses e aumentar sua produtividade",
+    "reach": 10000,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.linkedin.com/posts/erickwendel_voc%C3%AA-vai-eliminar-o-uso-de-mouse-da-sua-vida-activity-7286351995555172353-oE2R?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+    "tags": [
+      "Produtividade"
+    ],
+    "language": "pt-br",
+    "date": "2025-01-18"
+  },
+  {
+    "title": "Desvendando o Estado Atual do Node.js: Bate-papo Imperdível sobre Performance com Rafael Gonzaga",
+    "abstract": "Confira as principais novidades, dicas de otimização e o que esperar para o futuro do desenvolvimento em Node.js",
+    "reach": 2363,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/live/Jn9mu1umPww?si=ENMnBrG_VWgFho2S",
+    "tags": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "language": "pt-br",
+    "date": "2025-01-17"
+  },
+  {
+    "title": "5 ferramentas inúteis que todo programador deveria conhecer 😜",
+    "abstract": "Dicas de ferramentas que não vão melhorar sua produtividade mas vão te divertir",
+    "reach": 10000,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.linkedin.com/posts/erickwendel_5-ferramentas-in%C3%BAteis-que-todo-programador-activity-7286001438680375296-YkVG?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+    "tags": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "language": "pt-br",
+    "date": "2025-01-17"
+  },
+  {
+    "title": "5 ferramentas que Todo Programador Deveria Usar 💥🔥",
+    "abstract": "Essas ferramentas vão mudar a forma que você trabalha diariamente por aí",
+    "reach": 10000,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.linkedin.com/posts/erickwendel_5-ferramentas-que-todo-programador-deveria-activity-7285644983880085504-tedD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+    "tags": [
+      "Produtividade"
+    ],
+    "language": "pt-br",
+    "date": "2025-01-16"
+  },
+  {
+    "title": "O Melhor Teclado Para Programadores?",
+    "abstract": " Neste vídeo, vou te mostrar minha jornada ao trocar o Apple Magic Keyboard pelos teclados Hillside View e CorneV2",
+    "reach": 7228,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/cCk-fA2-reM?si=WDtqvw58X9OmjnS6",
+    "tags": [
+      "DevTools",
+      "Keyboards"
+    ],
+    "language": "pt-br",
+    "date": "2025-01-15"
+  },
+  {
+    "title": "A melhor alternativa GRATUITA ao bit.ly",
+    "abstract": "Vou te mostrar uma ferramenta open source para substituir o Bit.ly e você ter seu próprio encurtador de URLs sem precisar gastar nada!",
+    "reach": 8876,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/m1KhHpgpYAI?si=bPicH31tTMISK91l",
+    "tags": [
+      "bitly",
+      "hostinger"
+    ],
+    "language": "pt-br",
+    "date": "2025-01-10"
+  },
+  {
+    "title": "Essas ferramentas vão fazer você codificar 99999x mais rápido",
+    "abstract": "Nesse video, vou te mostrar como você pode processar planilhas gigantes do Google sheets de forma simples usando low code no Node usando um pacote open source que eu mesmo desenvolvi",
+    "reach": 7617,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/i7F_3h8bfjo?si=FPk6PQ7A6t0QE3Hq",
+    "tags": [
+      "Nodered",
+      "JavaScript"
+    ],
+    "language": "pt-br",
+    "date": "2024-12-19"
+  },
+  {
+    "title": "Simulação entrevista técnica de JavaScript Jr: Como explicar Asyncawait para uma criança? 🤔",
+    "abstract": "Trecho da live SIMULANDO ENTREVISTA TÉCNICA DE JAVASCRIPT com @mupezzuol e kipper.dev",
+    "reach": 10000,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7275254093353226240-rMin?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+    "tags": [
+      "Javascript",
+      "Carreira"
+    ],
+    "language": "pt-br",
+    "date": "2024-12-18"
+  },
+  {
+    "title": "Reagindo ao Futuro do JavaScript: O Que Pode Mudar em 2025?",
+    "abstract": " Nesta live, vou reagir em tempo real às novidades que podem mudar a forma como escrevemos código no futuro",
+    "reach": 2800,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/live/9V64O7mOH2E?si=Uo-Ye8-HqxAEKzPY",
+    "tags": [
+      "NodeJS",
+      "JavaScript"
+    ],
+    "language": "pt-br",
+    "date": "2024-12-18"
+  },
+  {
+    "title": "Como é ser um programador de sucesso🤔",
+    "abstract": "Trecho do video Ele Já Faturou R$ 5 Milhões Ensinando Programação Na Internet | Erick Wendel - Kiwicast #378",
+    "reach": 10000,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7274906870522261505-GDD9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+    "tags": [
+      "Carreira",
+      "Educação"
+    ],
+    "language": "pt-br",
+    "date": "2024-12-17"
+  },
+  {
+    "title": "Simulação entrevista técnica de JavaScript Jr: Como um júnior deve reportar um erro cometido por um sênior na empresa?🤔",
+    "abstract": "trecho do video SIMULANDO ENTREVISTA TÉCNICA DE JAVASCRIPT com @mupezzuol e kipper.dev",
+    "reach": 10000,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7274166889243705344-C0zX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+    "tags": [
+      "Carreira"
+    ],
+    "language": "pt-br",
+    "date": "2024-12-15"
+  },
+  {
+    "title": "Como a programação mudou minha vida🔥",
+    "abstract": "Trecho do video Ele Já Faturou R$ 5 Milhões Ensinando Programação Na Internet | Erick Wendel - Kiwicast #378",
+    "reach": 10000,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7273804607036796929-4PkW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+    "tags": [
+      "Programação",
+      "Carreira"
+    ],
+    "language": "pt-br",
+    "date": "2024-12-14"
+  },
+  {
+    "title": "Explorando possibilidades criativas com Web XOR🔥",
+    "abstract": "Um pouco do que é possivel criar para produzir imersões de experiência para o seu usuário com Web XOR",
+    "reach": 10000,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7273457067510648832-1prw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+    "tags": [
+      "WebXOR",
+      "Programação"
+    ],
+    "language": "pt-br",
+    "date": "2024-12-13"
+  },
+  {
+    "title": "QUER PERFORMANCE EM JS? FAÇA ISSO! | Erick Wendel",
+    "abstract": "Eu trouxe 05 dicas para elevar a capacidade de suas aplicações JavaScript, independente do ambiente para você repensar sobre o que está fazendo, alterar partes de código e entregar mais gastando menos",
+    "reach": 5174,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/GZZ0zdpvAZU?si=79CzML__Gwe91r63",
+    "tags": [
+      "Performance",
+      "Backend"
+    ],
+    "language": "pt-br",
+    "date": "2024-12-06"
+  },
+  {
+    "title": "Simulação entrevista técnica de JavaScript Jr: Diferença de Jr para Sênior🔥",
+    "abstract": "Trecho da live SIMULANDO ENTREVISTA TÉCNICA DE JAVASCRIPT com @mupezzuol e kipper.dev",
+    "reach": 10000,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7272732428941602816-hCK4?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+    "tags": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "language": "pt-br",
+    "date": "2024-12-13"
+  },
+  {
+    "title": " Início na programação😂",
+    "abstract": "Trecho do video Ele Já Faturou R$ 5 Milhões Ensinando Programação Na Internet | Erick Wendel - Kiwicast #378",
+    "reach": 10000,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7272355221547216896-QV_g?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+    "tags": [
+      "Programação",
+      "Carreira"
+    ],
+    "language": "pt-br",
+    "date": "2024-12-10"
+  },
+  {
+    "title": "A Melhor Alternativa GRATUITA ao Heroku, Vercel e Netlify!",
+    "abstract": "Vou te mostrar uma feramenta incrível para você publicar suas aplicações de forma automática, como se fosse as épocas de Heroku e que vem com uma variedade incrível de templates para você usar e que ja estão prontos para produção",
+    "reach": 17681,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/6z33Ov5i-90?si=KRU-A224tv7kauvz",
+    "tags": [
+      "Coolify",
+      "Kubernetes"
+    ],
+    "language": "pt-br",
+    "date": "2024-12-10"
+  },
+  {
+    "title": "Simulação entrevista técnica de JavaScript Jr - Pergunta técnica🔥",
+    "abstract": "trecho do video SIMULANDO ENTREVISTA TÉCNICA DE JAVASCRIPT com @mupezzuol e kipper.dev",
+    "reach": 10000,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7270905505391202304-UHUc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+    "tags": [
+      "Carreira",
+      "Entrevista"
+    ],
+    "language": "pt-br",
+    "date": "2024-12-06"
+  },
+  {
+    "title": "Considerações finais do Marco para você dev🔥",
+    "abstract": "trecho do video Node.js agora suporta TypeScript nativamente (feat Marco Ippolito - lider da iniciativa no Node.js",
+    "reach": 10000,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7270558092474425345-MPNs?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+    "tags": [
+      "Test Runner",
+      "NodeJS"
+    ],
+    "language": "pt-br",
+    "date": "2024-12-05"
+  },
+  {
+    "title": "Participei do Podcast da Kiwify e olha como eles me apresentaram🔥",
+    "abstract": "Trecho do video Ele Já Faturou R$ 5 Milhões Ensinando Programação Na Internet | Erick Wendel - Kiwicast #378",
+    "reach": 10000,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7270195842639179781-TqC5?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+    "tags": [
+      "Carreira",
+      "Programação"
+    ],
+    "language": "pt-br",
+    "date": "2024-12-04"
+  },
+  {
+    "title": "Live ESPECIAL de 100 MIL INSCRITOS?😳 / Otimizando e Monitorando apps JavaScript 💥 | Erick Wendel",
+    "abstract": "Nessa live, vou te mostrar o que você pode se atentar em projetos JavaScript, tanto para backend quanto para frontend com exemplos práticos e experiências extraídas do mundo real!",
+    "reach": 1785,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/live/Q8omqWTT3Yk?si=Ke7QB7euOnW6YRVi",
+    "tags": [
+      "Performance",
+      "JavaScript"
+    ],
+    "language": "pt-br",
+    "date": "2024-12-03"
+  },
+  {
+    "title": "Criando animações 3D - Parte 02🔥",
+    "abstract": "Criações de experiências imersivas para as suas aplicações",
+    "reach": 10000,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7269108435537874944-mf3w?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+    "tags": [
+      "JavaScript",
+      "NodeJS"
+    ],
+    "language": "en-us",
+    "date": "2024-01-24"
+  },
+  {
+    "title": "Simulação entrevista técnica de JavaScript - Programador Jr🔥",
+    "abstract": "trecho do video SIMULANDO ENTREVISTA TÉCNICA DE JAVASCRIPT com @mupezzuol e kipper.dev",
+    "reach": 10000,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7268738590958866432-qOqw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY8KD8Bb2gd6lYOiOaBtyEzJpQnlfYl3og",
+    "tags": [
+      "Carreira",
+      "JavaScript"
+    ],
+    "language": "pt-br",
+    "date": "2024-11-30"
+  },
+  {
+    "title": "Como melhorar em 10x a performance de apps Node.js (CPU Profiling + Optimization = magic)",
+    "abstract": "Nesse vídeo, vou te mostrar como você pode inspecionar problemas de performance em Node.js usando apenas os módulos nativos do Node.js usando uma técnica chamada de CPU Profiling",
+    "reach": 10723,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/3F1uBQVWNfE?si=TKrvRxA6zUe9jmLU",
+    "tags": [
+      "Performance",
+      "NodeJS"
+    ],
+    "language": "pt-br",
+    "date": "2024-11-26"
+  },
+  {
+    "title": "Node.js now supports TypeScript natively (feat Marco Ippolito - Node.js TSC)",
+    "abstract": "TypeScript running natively in Node.js? Yes, this is a piece of a dream many people had, and it's now a reality!",
+    "reach": 5132,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/Py-sKPMRPGg?si=pbN04oD6BbCh1IGL",
+    "tags": [
+      "TypeScript",
+      "tutorial"
+    ],
+    "language": "en-us",
+    "date": "2024-11-07"
+  },
+  {
+    "title": "5 Ferramentas Feitas em Node.js Que Todo Programador Deveria Usar",
+    "abstract": "Neste vídeo, eu separei 5 Ferramentas Feitas em Node.js Que Todo Programador Deveria Usar",
+    "reach": 8226,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/COoSC8I4A1g?si=CH72X4oHMQnTw7JA",
+    "tags": [
+      "NodeJS",
+      "JavaScript"
+    ],
+    "language": "pt-br",
+    "date": "2024-11-04"
+  },
+  {
+    "title": "Porque o projeto Node.js NÃO tem testes unitários?",
+    "abstract": "O projeto Node.js não tem testes unitários e me faz refletir sobre qual é o modelo ideal para software, um modelo que acelere o desenvolvimento e entregue valor real",
+    "reach": 6020,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/WFMujhZRrcQ?si=lyJhV_KuEFGOzdj4",
+    "tags": [
+      "tests",
+      "NodeJS"
+    ],
+    "language": "pt-br",
+    "date": "2024-10-28"
+  },
+  {
+    "title": "A Ferramenta QUE VAI REVOLUCIONAR o desenvolvimento de Suas Web APIs",
+    "abstract": "A APIDog é semelhante ao Postman em termos de teste e documentação de APIs, mas também oferece recursos integrados para o design de APIs, permitindo que os usuários criem, gerenciem e depurem APIs dentro da mesma ferramenta. ",
+    "reach": 12357,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/B3nAHETDrow?si=QNuEgNGkpRYwj04X",
+    "tags": [
+      "Web",
+      "JavaScript"
+    ],
+    "language": "pt-br",
+    "date": "2024-10-22"
+  },
+  {
+    "title": "Conheça o Futuro (E Presente) da Web Com Edge Computing | Erick Wendel",
+    "abstract": "Descubra o reino de ponta da evolução da web através do Edge Computing, com foco em como esta tecnologia revoluciona o processamento de dados, a conectividade e a capacidade de resposta em tempo real",
+    "reach": 9098,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/ydzoxJRimA0?si=n6hNnDsUid9JC0Oj",
+    "tags": [
+      "Edge Computing",
+      "JavaScript"
+    ],
+    "language": "pt-br",
+    "date": "2024-10-12"
+  },
+  {
+    "title": "Node.js Agora Suporta o Banco Mais Popular Do Mundo by Erick Wendel",
+    "abstract": "Atendendo a pedidos, saiu um super video tutorial mostrando como usar o SQLite no Node.js sem qualquer biblioteca adicional 🤯",
+    "reach": 21000,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/-eklEr3Adr4?si=MtF3pRt5PNUl0zid",
+    "tags": [
+      "SQLite",
+      "NodeJS"
+    ],
+    "language": "pt-br",
+    "date": "2024-10-09"
+  },
   {
     "title": "Minhas cabacices trabalhando com Kubernetes (e o que não fazer)",
     "abstract": "Estou com 40 aplicações rodando no Kubernetes e ja fiz umas cabacices monstruosas que me geraram muitos aprendizados então serão várias dicas valiosas do campo de batalha",
@@ -522,40 +874,40 @@
     ],
     "language": "pt-br",
     "date": "2024-08-28"
-    },
-    {
-      "title": "Criando sites poderosos em 10 minutos (+ dicas incríveis)",
-      "abstract": "Vou te mostrar como você pode criar sites dinâmicos para você acelerar seus projetos pessoais, tirar ideias do papel ou finalmente fazer seu site de portfolio de projetos",
-      "type": "video",
-      "reach": 4279,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://www.youtube.com/watch?v=Zb55HtzmQMA",
-      "tags": [
-        "WixStudio",
-        "Wix",
-        "PageBuilder"
-      ],
-      "language": "pt-br",
-      "date": "2024-08-16"
-      },
-      {
-        "title": "Como monitorar a performance de apps Node.js (de graça)",
-        "abstract": "Vou te mostrar uma aplicação real, sendo monitorada usando o OpenTelemetry e Jaeger direto de um container docker, preparado para você adaptar e usar em produção",
-        "type": "video",
-        "reach": 9375,
-        "additionalLinks": [
-          ""
-        ],
-        "link": "https://www.youtube.com/watch?v=1l6dgHqOiHU",
-        "tags": [
-          "Fastify",
-          "OpenTelemetry",
-          "Knex"
-        ],
-        "language": "pt-br",
-        "date": "2024-08-06"
+  },
+  {
+    "title": "Criando sites poderosos em 10 minutos (+ dicas incríveis)",
+    "abstract": "Vou te mostrar como você pode criar sites dinâmicos para você acelerar seus projetos pessoais, tirar ideias do papel ou finalmente fazer seu site de portfolio de projetos",
+    "type": "video",
+    "reach": 4279,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/watch?v=Zb55HtzmQMA",
+    "tags": [
+      "WixStudio",
+      "Wix",
+      "PageBuilder"
+    ],
+    "language": "pt-br",
+    "date": "2024-08-16"
+  },
+  {
+    "title": "Como monitorar a performance de apps Node.js (de graça)",
+    "abstract": "Vou te mostrar uma aplicação real, sendo monitorada usando o OpenTelemetry e Jaeger direto de um container docker, preparado para você adaptar e usar em produção",
+    "type": "video",
+    "reach": 9375,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://www.youtube.com/watch?v=1l6dgHqOiHU",
+    "tags": [
+      "Fastify",
+      "OpenTelemetry",
+      "Knex"
+    ],
+    "language": "pt-br",
+    "date": "2024-08-06"
   },
   {
     "title": "O Impacto da Comunidade no Setor de Tecnologia: do Open Source até o Networking",
@@ -566,7 +918,7 @@
     ],
     "link": "https://www.youtube.com/live/sv_Qgh01wC0?si=OmFZnO3icapBOmS6",
     "tags": [
-        "Carreira",
+      "Carreira",
       "Comunidade"
     ],
     "language": "pt-br",
@@ -588,7 +940,7 @@
     ],
     "language": "pt-br",
     "date": "2024-07-19"
-  }, 
+  },
   {
     "title": "AULÃO - AUMENTANDO A PERFORMANCE DE APPS EM JAVASCRIPT",
     "abstract": "Vou te mostrar, 100% na prática, como corrigir problemas de lentidão, apps mal configurados, como analisar a performance usando testes de carga e muito, muito mais!",
@@ -605,7 +957,7 @@
     ],
     "language": "pt-br",
     "date": "2024-07-15"
-  }, 
+  },
   {
     "title": "Cypress para Iniciantes - e2e tests em frontend apps",
     "abstract": "Nesse video vou te mostrar como testar uma aplicação web do ponto de vista de usuários, inserindo valores, clicando em botões, disparando teclas e mais",
@@ -621,7 +973,7 @@
     ],
     "language": "pt-br",
     "date": "2024-04-09"
-    }, 
+  },
   {
     "title": "Podcast Olá, Gabs #37 Conheça o brasileiro mais premiado em software do mundo: Erick Wendel",
     "abstract": "Conversa com um dos grandes desenvolvedores da comunidade de tecnologia brasileira.",
@@ -637,7 +989,7 @@
     ],
     "language": "pt-br",
     "date": "2024-04-03"
-    }, 
+  },
   {
     "title": "Como fazer testes unitários e testes e2e em aplicações serverless",
     "abstract": "Como fazer testes unitários, testes end to end e de quebra criar uma esteira de continuous integration usando GitHub Actions sem gastar um centavo? ",
@@ -653,7 +1005,7 @@
     ],
     "language": "pt-br",
     "date": "2024-03-25"
-    }, 
+  },
   {
     "title": "Variáveis de Ambiente de forma nativa em Node.js",
     "abstract": "Aprenda nesse video ler e validar variáveis de ambiente em Node.js (sem usar a lib dotenv)",
@@ -669,23 +1021,23 @@
     ],
     "language": "pt-br",
     "date": "2024-03-18"
-    },
-    {
-      "title": "Qual o perfil de um programador de sucesso? Com @ErickWendelTraining",
-      "abstract": "entrevista ao canal Coda+Fala sobre dicas para iniciar na área de tecnologia e dicas para sua carreira",
-      "type": "video",
-      "reach": 2708,
-      "additionalLinks": [
-        ""
-      ],
-      "link": "https://youtu.be/gUflvDjBI2U?si=pufolCLdt84pIdUD",
-      "tags": [
-        "Carreira",
-        "Javascript"
-      ],
-      "language": "pt-br",
-      "date": "2024-02-15"
-      },  
+  },
+  {
+    "title": "Qual o perfil de um programador de sucesso? Com @ErickWendelTraining",
+    "abstract": "entrevista ao canal Coda+Fala sobre dicas para iniciar na área de tecnologia e dicas para sua carreira",
+    "type": "video",
+    "reach": 2708,
+    "additionalLinks": [
+      ""
+    ],
+    "link": "https://youtu.be/gUflvDjBI2U?si=pufolCLdt84pIdUD",
+    "tags": [
+      "Carreira",
+      "Javascript"
+    ],
+    "language": "pt-br",
+    "date": "2024-02-15"
+  },
   {
     "title": "Como fazer testes e2e + Bancos de dados",
     "abstract": "Uma dúvida comum na hora de testar projetos de software é: como que eu faço para um teste não afetar o resultado do outro?",
@@ -701,7 +1053,7 @@
     ],
     "language": "pt-br",
     "date": "2024-03-12"
-    }, 
+  },
   {
     "title": "Como processar videos de forma escalável",
     "abstract": "Vou te mostrar como funciona o processamento de videos sob demanda, como criar seu próprio Youtube e economizar usando recursos da internet como Web Torrent",
@@ -717,7 +1069,7 @@
     ],
     "language": "pt-br",
     "date": "2024-03-06"
-    }, 
+  },
   {
     "title": "Meu método para entregar software que funciona de primeira || Dicas de ouro",
     "abstract": "Como eu desenvolvo testes automatizados, como divido minhas tarefas e o ferramental base que uso para iniciar um projeto",
@@ -733,7 +1085,7 @@
     ],
     "language": "pt-br",
     "date": "2024-02-19"
-    }, 
+  },
   {
     "title": "O que é programação reativa?",
     "abstract": "Vou te mostrar como transformei um código com más praticas, em um código melhor, usando programação reativa",
@@ -749,7 +1101,7 @@
     ],
     "language": "pt-br",
     "date": "2024-02-15"
-    }, 
+  },
   {
     "title": "Como criar uma linguagem de programação (na prática)",
     "abstract": "Você vai entender todas as etapas de criação de uma linguagem de programação a partir de exemplos práticos.",
@@ -765,8 +1117,8 @@
     ],
     "language": "pt-br",
     "date": "2024-02-01"
-    }, 
-    {
+  },
+  {
     "title": "Projetos incríveis para programadores",
     "abstract": "Eu to cansado de fazer CRUD. Se você é programador, você tem super poderes e nesse vídeo eu vou te provar que tem.",
     "type": "video",
@@ -781,7 +1133,7 @@
     ],
     "language": "pt-br",
     "date": "2024-01-22"
-    }, 
+  },
   {
     "title": "Se você não é curioso, dev não é para você!",
     "abstract": "Área de dev tá dificil até para quem é experiente, mesmo com anos de estrada, muita bagagem, conhecimento estocado, ainda tá difícil. E aí o que fazer?",
@@ -796,7 +1148,7 @@
     ],
     "language": "pt-br",
     "date": "2024-01-15"
-    }, 
+  },
   {
     "title": "Deu erro? Deixa quebrar! || Erick Wendel",
     "abstract": "Já pensou se você não usasse mais blocos de try catch para validar um erro de conexão de banco de dados, uma API indisponível, ou excessões gerais de aplicação?",
@@ -811,7 +1163,7 @@
     ],
     "language": "pt-br",
     "date": "2024-01-08"
-    }, 
+  },
   {
     "title": "Sistemas feitos em JavaScript não são confiáveis?! Error Handling - Let it Crash - Graceful Shutdown",
     "abstract": "Nesse video, você vai descobrir como fazer suas aplicações JavaScript serem mais confiáveis, quais as dificuldades que o Primeagen pode ter tido e como não ter surpresas em produção",
@@ -826,7 +1178,7 @@
     ],
     "language": "pt-br",
     "date": "2023-12-18"
-    }, 
+  },
   {
     "title": "O segredo para escalar aplicações JavaScript (mobile, desktop, web e mais)",
     "abstract": "Hoje eu trouxe o necessário para você poder processar terabytes de dados em JavaScript, entender o principal erro que todo mundo comete ao usar JavaScript",
@@ -841,7 +1193,7 @@
     ],
     "language": "pt-br",
     "date": "2023-10-18"
-    }, 
+  },
   {
     "title": "Node, Deno e Bun: A Batalha dos Runtimes JavaScript",
     "abstract": "Qual será o futuro do JavaScript no back-end? Node, Deno ou Bun?",
@@ -856,7 +1208,7 @@
     ],
     "language": "pt-br",
     "date": "2023-10-09"
-    }, 
+  },
   {
     "title": "Erick Wendel @DEVS40 24",
     "abstract": "Convidado do episódio 24 no podcast Devs40+, falando sobre Node.js e Javascript",
@@ -871,7 +1223,7 @@
     ],
     "language": "pt-br",
     "date": "2023-09-27"
-    }, 
+  },
   {
     "title": "#156 - Erick Wendel: O Brasileiro que consertou o Node.js",
     "abstract": "Solos de guitarra + desafios + NodeJS + o mundo da tecnologia conquistaram o grande Erick Wendel",
@@ -886,7 +1238,7 @@
     ],
     "language": "pt-br",
     "date": "2023-07-18"
-    }, 
+  },
   {
     "title": "ESLint Reimagined: Creating a Linter from Scratch",
     "abstract": "In this video, I'll show you in-depth how ESLint works by recreating the original project.",
@@ -901,7 +1253,7 @@
     ],
     "language": "en-us",
     "date": "2023-07-18"
-    }, 
+  },
   {
     "title": "Recreating Uglifyjs From Scratch: How To Minify Code And Generate Source Maps",
     "abstract": "Have you wondered how you can debug TypeScript applications in the browser while browsers only understand JavaScript?",
@@ -916,7 +1268,7 @@
     ],
     "language": "en-us",
     "date": "2023-06-20"
-    },
+  },
   {
     "title": "Erick Wendel interviewed at JS Nation by Ixchel Ruiz",
     "abstract": "Erick Wendel interviewed at JS Nation by Ixchel Ruiz",
@@ -931,7 +1283,7 @@
     ],
     "language": "en-us",
     "date": "2023-06-06"
-    },
+  },
   {
     "title": "Migrating from Jest to Node.js Native Test Runner",
     "abstract": "Migrating from Jest to Node.js Native Test Runner",
@@ -946,7 +1298,7 @@
     ],
     "language": "en-us",
     "date": "2023-04-08"
-    },
+  },
   {
     "title": "Ninguém deveria precisar de Postman/Insomnia pra testar um endpoint",
     "abstract": "Eaaaai beleza? Eu sou o Erick Wendel e hoje vou te mostrar uma técnica incrível para melhorar a sua produtividade",
@@ -1100,7 +1452,7 @@
     "language": "en-us",
     "date": "2023-01-09"
   },
-    {
+  {
     "title": "Como hackeei um jogo antigo para controla-lo pelo giroscópio do meu celular com JavaScript",
     "abstract": "Nesse vídeo vou te mostrar como hackeei o Duck Hunt para controlá-lo usando o giroscópio do meu celular",
     "type": "video",
@@ -1328,7 +1680,7 @@
     "language": "pt-br",
     "date": "2022-09-29"
   },
-    {
+  {
     "title": "Live - Exterminando a lenda do Node.js single-threaded na prática",
     "abstract": "Vou fazer uma super live mostrando na prática como funcionam as threads do Node.js e criar uma aplicação fazendo o poder dessa super functionalidade",
     "type": "video",
@@ -1673,7 +2025,7 @@
     "language": "pt-br",
     "date": "2022-02-21"
   },
-    {
+  {
     "title": "Como usar Expressões Regulares para melhorar sua produtividade",
     "abstract": "O vídeo de hoje é um conjunto de dicas para você usar o #VSCode para substituir textos de forma ágil ",
     "type": "video",

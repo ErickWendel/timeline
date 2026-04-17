@@ -1,5 +1,202 @@
 [
   {
+    "title": "Web AI Más Allá del Chat: Algoritmos Genéticos, RL y Transformers.js en el Edge",
+    "abstract": "Construye funcionalidades de IA que corren directamente en el navegador y en Node.js, sin coste por request y con privacidad por defecto. RAG local con SQLite en WebAssembly para crear experiencias inteligentes, sin lock-in y listas para producción.",
+    "type": "talk",
+    "reach": 1000,
+    "event": {
+      "name": "JSConf ESPAÑA 2026",
+      "link": "https://www.jsconf.es/"
+    },
+    "slides": "https://ewbr.cc/web-ai-beyond-chat-jsconfes",
+    "photos": "https://www.instagram.com/p/DV4EJt4D_Vz/?img_index=1",
+    "video": "https://youtu.be/rUoErA8rXAI?si=PwdHC5tnQkC62yK_",
+    "tags": [
+      "javascript"
+    ],
+    "location": {
+      "latitude": 40.3475974,
+      "longitude": -3.6959971,
+      "country": "Spain",
+      "uf": "MAD",
+      "city": "Madrid"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "es",
+    "date": "2026-03-14"
+  },
+    {
+    "title": "La Revolución de la IA Integrada en los Navegadores",
+    "abstract": "En esta sesión, revelaré cómo la web está entrando en una nueva era con la IA ejecutándose de forma nativa en los navegadores. Exploraremos la iniciativa de Chrome de integrar modelos directamente en el runtime, el consenso emergente entre navegadores para definir el futuro de la Web AI y cómo esto abre camino hacia la “Web 4.0” — la web agente. También conocerás las últimas APIs de IA de Chrome, verás lo que ya es posible hoy y descubrirás cómo estas capacidades transformarán la forma en que construimos aplicaciones inteligentes en la web.",
+    "type": "talk",
+    "reach": 100,
+    "event": {
+      "name": "Devfest Ecuador 2025",
+      "link": "https://gdg.community.dev/events/details/google-gdg-quito-presents-devfest-ecuador-2025/cohost-gdg-quito/"
+    },
+    "slides": "https://ewbr.cc/slides-devfestpuravida-ew",
+    "photos": "https://www.instagram.com/p/DQzuiNYDyaJ/?img_index=1",
+    "video": "",
+    "tags": [
+      "javascript"
+    ],
+    "location": {
+      "latitude": -0.197051,
+      "longitude": -78.436088,
+      "country": "Ecuador",
+      "uf": "QU",
+      "city": "Quito"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "es",
+    "date": "2025-11-29"
+  },
+  {
+    "title": "Construindo autoridade global na tecnologia e convertendo isso em dólares",
+    "abstract": "Erick mostra o caminho de quem saiu do código para o palco do mundo. Aprenda como construir sua marca pessoal, compartilhar conhecimento e transformar reputação técnica em oportunidades reais, e bem pagas, fora do Brasil.",
+    "type": "talk",
+    "reach": 1000,
+    "event": {
+      "name": "Dev na Gringa Summit",
+      "link": "https://www.coders.com.br/dev-na-gringa-summit"
+    },
+    "slides": "https://canva.link/9opl7o2bur84y0g",
+    "photos": "https://www.instagram.com/p/DRXNyh0joIM/?img_index=1",
+    "video": "https://youtu.be/7Bv-Q8HwS1c?si=75Qf0Z9XGCwNF2oW",
+    "tags": [
+      "javascript"
+    ],
+    "location": {
+      "latitude": -23.6004398,
+      "longitude": -46.6945287,
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2025-11-22"
+  },
+  {
+    "title": "La Revolución de la IA Integrada en los Navegadores",
+    "abstract": "En esta sesión, revelaré cómo la web está entrando en una nueva era con la IA ejecutándose de forma nativa en los navegadores. Exploraremos la iniciativa de Chrome de integrar modelos directamente en el runtime, el consenso emergente entre navegadores para definir el futuro de la Web AI y cómo esto abre camino hacia la “Web 4.0” — la web agente. También conocerás las últimas APIs de IA de Chrome, verás lo que ya es posible hoy y descubrirás cómo estas capacidades transformarán la forma en que construimos aplicaciones inteligentes en la web.",
+    "type": "talk",
+    "reach": 100,
+    "event": {
+      "name": "Devfest Pura Vida 2025",
+      "link": "https://gdg.community.dev/events/details/google-gdg-pura-vida-presents-devfest-pura-vida-2025/"
+    },
+    "slides": "https://ewbr.cc/slides-devfestpuravida-ew",
+    "photos": "https://www.instagram.com/p/DQzuiNYDyaJ/?img_index=1",
+    "video": "",
+    "tags": [
+      "javascript"
+    ],
+    "location": {
+      "latitude": 9.931336,
+      "longitude": -84.078056,
+      "country": "Costa Rica",
+      "uf": "SJ",
+      "city": "San José"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "es",
+    "date": "2025-11-08"
+  },
+  {
+    "title": "Chrome AI IRL: Building a VR Barber Assistant + smart chatbot in the web",
+    "abstract": "Browsers are AI runtimes. In 15 minutes, I’ll demo Chrome’s built-in AI APIs to create a VR assistant that understands intent to schedule, cancel, and check barber bookings, and a lightweight widget that reads llms.txt to answer site questions instantly. Patterns: intent→action UX, on-device speed, grounded responses.",
+    "type": "talk",
+    "reach": 0,
+    "event": {
+      "name": "Web AI Summit 2025",
+      "link": "https://rsvp.withgoogle.com/events/web-ai-summit-2025"
+    },
+    "slides": "https://docs.google.com/presentation/d/1tO7NyS4e5GfAw7zR8oOADu2OcsTT_r4ORu70ABetQCk/edit?usp=sharing",
+    "photos": "https://www.instagram.com/p/DP7ImrJD7Rk/?img_index=1",
+    "video": "https://youtu.be/ka2Zzw_qors?si=kDiLQyqx4rfbiBOu",
+    "tags": [
+      "javascript",
+      "ai"
+    ],
+    "location": {
+      "latitude": 37.4063379,
+      "longitude": -122.0237197,
+      "country": "United States",
+      "uf": "CA",
+      "city": "Mountain View"
+    },
+    "additionalLinks": [
+      "https://ewbr.cc/webaisummit"
+    ],
+    "language": "en-us",
+    "date": "2025-10-17"
+  },
+  {
+    "title": "Cut the SaaS: How I Saved Thousands with Kubernetes & Open Source",
+    "abstract": "In this talk, I’ll show how I slashed costs at https://ew.academy by replacing multiple SaaS services with a self-managed Kubernetes infrastructure built on open-source tools. You’ll see how I evaluated alternatives, deployed them at scale, and overcame daily challenges—alongside real savings data. Attendees will gain strategies to reduce expenses, avoid vendor lock-in, and regain control of their systems.",
+    "type": "talk",
+    "reach": 1000,
+    "event": {
+      "name": "Infobip Shift Zadar 2025",
+      "link": "https://shift.infobip.com/europe/zadar-2025/"
+    },
+    "slides": "https://www.icloud.com/keynote/0aefCjbbaFoQmUkzn-g-TYUXg#how-I-saved-thousands-with-selfhosted-and-opensource-infobipshift-15092025",
+    "photos": "https://www.instagram.com/p/DOn0qh_jitB/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    "video": "https://youtu.be/PFVPbl-Qbh4?si=ILApVLz7c5LGhD1U",
+    "tags": [
+      "javascript"
+    ],
+    "location": {
+      "latitude": 44.1195591,
+      "longitude": 15.2455432,
+      "country": "Croatia",
+      "uf": "CR",
+      "city": "Zadar"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2025-09-15"
+  },
+  {
+    "title": "Como economizei milhares com self-hosting e open source",
+    "abstract": "Nesta palestra, vou mostrar como reduzi custos no https://ew.academy substituindo diversos serviços SaaS por uma infraestrutura autogerenciada em Kubernetes baseada em ferramentas open source. Você verá como avaliei alternativas, as implementei em escala e enfrentei os desafios do dia a dia—com dados reais de economia. Os participantes aprenderão estratégias para reduzir despesas, evitar o lock-in de fornecedores e retomar o controle de seus sistemas.",
+    "type": "talk",
+    "reach": 800,
+    "event": {
+      "name": "Codecon",
+      "link": "https://codecon.dev/"
+    },
+    "slides": "https://www.icloud.com/keynote/0a3nA3qnvZdzxtr7hnzTxHRMg#como-economizei-milhares-com-self-hosting-codecon-18072025",
+    "photos": "",
+    "video": "",
+    "tags": [
+      "javascript"
+    ],
+    "location": {
+      "latitude": -25.435066,
+      "longitude": -49.1709865,
+      "country": "Brazil",
+      "uf": "PR",
+      "city": "Curitiba"
+    },
+    "additionalLinks": [
+      ""
+    ],
+    "language": "pt-br",
+    "date": "2025-07-18"
+  },
+  {
     "title": "Lo nuevo de JavaScript y Node.js para 2025",
     "abstract": "En esta charla, te mostraré qué hay de nuevo y qué esperar de Javascript para el próximo año.",
     "type": "talk",
