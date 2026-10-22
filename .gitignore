@@ -3,3 +3,6 @@ node_modules
 */800x800
 */1024x1024
 *.icloud
+
+# copied from ../timeline-data at build time
+resources/*.json

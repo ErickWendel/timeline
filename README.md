@@ -20,14 +20,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2025/February - 2015/February 
 * **Conference Talks**: 2026/March - 2015/January 
 
-#### Presentations' number: 158
+#### Presentations' number: 153
 
 ## Table of Contents
 
 - [Projects (28)](#projects)
-- [Videos (214)](#videos)
-- [Blog Posts (456)](#blog-posts)
-- [Conference Talks (158)](#conference-talks)
+- [Videos (205)](#videos)
+- [Blog Posts (450)](#blog-posts)
+- [Conference Talks (153)](#conference-talks)
 
 ## Projects
 
@@ -819,24 +819,12 @@ Abstract:
 
 _Tags: `Produtividade`_
 
-### <a href="https://youtu.be/cCk-fA2-reM?si=momy81XNgiXGD_Zc" target="_blank">2025-01-15 - O Melhor Teclado Para Programadores? (pt-br)</a>
-
-
-Abstract:
-
->  Neste vídeo, mostro minha jornada ao trocar o Apple Magic Keyboard pelos teclados Hillside View e CorneV2
-> 
-> 
-
-
-_Tags: `DevTools`, `Keycaps`_
-
 ### <a href="https://youtu.be/cCk-fA2-reM?si=WDtqvw58X9OmjnS6" target="_blank">2025-01-15 - O Melhor Teclado Para Programadores? (pt-br)</a>
 
 
 Abstract:
 
->  Neste vídeo, vou te mostrar minha jornada ao trocar o Apple Magic Keyboard pelos teclados Hillside View e CorneV2
+> Você já imaginou como um teclado customizado pode elevar sua ergonomia e produtividade na hora de programar? Neste vídeo, mostro minha jornada ao trocar o Apple Magic Keyboard pelos teclados Hillside View e CorneV2. Veja como cada detalhe — desde o layout dividido até a escolha de switches — pode ajudar a reduzir dores nas mãos e melhorar sua eficiência.
 > 
 > 
 
@@ -1638,54 +1626,6 @@ Abstract:
 
 _Tags: `Node.js`, `Javascript`_
 
-### <a href="https://youtu.be/p_-RO6uH8Go" target="_blank">2022-12-13 - Como hackeei um jogo antigo para controla-lo pelo giroscópio do meu celular com JavaScript (pt-br)</a>
-
-
-Abstract:
-
-> Nesse vídeo vou te mostrar como hackeei o Duck Hunt para controlá-lo usando o giroscópio do meu celular
-> 
-> 
-
-
-_Tags: `Node.js`, `Javascript`_
-
-### <a href="https://youtu.be/p_-RO6uH8Go" target="_blank">2022-12-13 - Como hackeei um jogo antigo para controla-lo pelo giroscópio do meu celular com JavaScript (pt-br)</a>
-
-
-Abstract:
-
-> Nesse vídeo vou te mostrar como hackeei o Duck Hunt para controlá-lo usando o giroscópio do meu celular
-> 
-> 
-
-
-_Tags: `Node.js`, `Javascript`_
-
-### <a href="https://youtu.be/Xyx_5F6IDqY" target="_blank">2022-11-23 - Como testar aplicações JavaScript sem frameworks com o Novo Node.js (pt-br)</a>
-
-
-Abstract:
-
-> Hoje vou contar sobre as novidades do Node.js test runner, o modulo nativo feito para te ajudar a testar aplicações complexas de forma simples.
-> 
-> 
-
-
-_Tags: `Node.js`, `Javascript`_
-
-### <a href="https://youtu.be/Xyx_5F6IDqY" target="_blank">2022-11-23 - Como testar aplicações JavaScript sem frameworks com o Novo Node.js (pt-br)</a>
-
-
-Abstract:
-
-> Hoje vou contar sobre as novidades do Node.js test runner, o modulo nativo feito para te ajudar a testar aplicações complexas de forma simples.
-> 
-> 
-
-
-_Tags: `Node.js`, `Javascript`_
-
 ### <a href="https://youtu.be/Xyx_5F6IDqY" target="_blank">2022-11-23 - Como testar aplicações JavaScript sem frameworks com o Novo Node.js (pt-br)</a>
 
 
@@ -1709,54 +1649,6 @@ Abstract:
 
 
 _Tags: `Node.js`, `Javascript`_
-
-### <a href="https://youtu.be/n0lNNu2qMcU" target="_blank">2022-11-22 - 5 aprendizados sobre Node.js que se aplicam para o frontend (qualquer framework) (pt-br)</a>
-
-
-Abstract:
-
-> Hoje vou contar sobre aprendizados que você pode utilizar do Backend direto no frontend para empoderar a forma com que escreve código em qualquer ambiente.
-> 
-> 
-
-
-_Tags: `Node.js`, `Javascript`_
-
-### <a href="https://youtu.be/n0lNNu2qMcU" target="_blank">2022-11-22 - 5 aprendizados sobre Node.js que se aplicam para o frontend (qualquer framework) (pt-br)</a>
-
-
-Abstract:
-
-> Hoje vou contar sobre aprendizados que você pode utilizar do Backend direto no frontend para empoderar a forma com que escreve código em qualquer ambiente.
-> 
-> 
-
-
-_Tags: `Node.js`, `Javascript`_
-
-### <a href="https://youtu.be/tNjmQxwD1TM" target="_blank">2022-11-03 - Node.js Streams + Rate Limiting = Mastering Data processing (advanced JavaScript) (en-us)</a>
-
-
-Abstract:
-
-> In this video, you'll learn how to process thousands of items in memory using Node.js Streams respecting rate limits
-> 
-> 
-
-
-_Tags: `Node.js`, `Javascript`, `Streams`_
-
-### <a href="https://youtu.be/tNjmQxwD1TM" target="_blank">2022-11-03 - Node.js Streams + Rate Limiting = Mastering Data processing (advanced JavaScript) (en-us)</a>
-
-
-Abstract:
-
-> In this video, you'll learn how to process thousands of items in memory using Node.js Streams respecting rate limits
-> 
-> 
-
-
-_Tags: `Node.js`, `Javascript`, `Streams`_
 
 ### <a href="https://youtu.be/tNjmQxwD1TM" target="_blank">2022-11-03 - Node.js Streams + Rate Limiting = Mastering Data processing (advanced JavaScript) (en-us)</a>
 
@@ -4117,26 +4009,6 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151649550510759937-xUee?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-12 - Caixinha de perguntas - Aprender inglês🔥 (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151649550510759937-xUee?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Primeiro de tudo: altere a sua vida para Inglês: idioma do celular, computador e assim por diante 
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
 ### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151589196917305345-ssTB?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-12 - Estudos de WebXR (realidade virtual em navegadores) me forçando a aprender um monte coisas novas haha 🥳 (pt-br)</a>
 
 
@@ -4188,26 +4060,6 @@ Portal:
 Abstract:
 
 > O pessoal me indicou, fui pra lá estudar, paguei e comecei os projetos
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151317361826881536-TuWH?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-12 - O boom da minha carreira foi depois que...💥 (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7151317361826881536-TuWH?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Foi um aplicativo de renda fixa, que um colega da comunidade me chamou para participar.
 > 
 > <b>Links</b>
 > 
@@ -4488,26 +4340,6 @@ Portal:
 Abstract:
 
 > As motivações que me levaram a entrar nesse desafio imenso de recriar o Node.js mas que trouxeram muito conhecimento de como ele funciona por debaixo dos panos
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
-### <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7148644762051416066-IasZ?utm_source=share&utm_medium=member_desktop" target="_blank">2024-01-04 - Recriei o NODE.JS do zero e...😱 (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_javascript-nodejs-programador-activity-7148644762051416066-IasZ?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Além da definição de confiabilidade e disponibilidade, também trouxe um pouco sobre a crítica do ThePrimeagen a aplicações javascript
 > 
 > <b>Links</b>
 > 
@@ -6397,26 +6229,6 @@ Abstract:
 
 _Tags: `linkedinPost`_
 
-### <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-14 - Brincadeira da noite aqui! Usando TensorFlow.js para usar minhas mãos como o controle do jogo 🔥 (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_tensorflow-machinelearning-automation-activity-7008934789265166336-04rV?utm_source=share&utm_medium=member_desktop" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> Eaí, acompanhou como hackeei esse jogo para controlá-lo com meu celular?
-> 
-> <b>Links</b>
-> 
-> - <a href=" " target="_blank"> </a>
-> 
-
-
-_Tags: `linkedinPost`_
-
 ### <a href="https://www.linkedin.com/posts/erickwendel_javascript-community-opensource-activity-7008794615457681408-L3Ub?utm_source=share&utm_medium=member_desktop" target="_blank">2022-12-14 - Bye-bye Sinon... Hello, Node.js 20 - using mocks, spies, and stubs natively in Node.js 🤯🔥 (en-us)</a>
 
 
@@ -8252,24 +8064,7 @@ Portal:
 
 Abstract:
 
-> Como dizem por aí: `a melhor máquina do mundo, é aquela que não é a sua` 🤣
-> 
-> 
-
-
-_Tags: `linkedinPost`_
-
-### <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-quisesse-rodar-machine-learning-activity-6823602092658192384-BxSn" target="_blank">2021-07-21 - E se você quisesse rodar Machine Learning direto do browser do cliente com JavaScript? 😱🤯 (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_e-se-voc%C3%AA-quisesse-rodar-machine-learning-activity-6823602092658192384-BxSn" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> 
+> Rodar Machine Learning direto no browser do cliente com JavaScript tira o processamento dos seus servidores. Mostro duas bibliotecas para isso: ml5.js, simples e ideal para começar, e TensorFlow.js, mais completa e cheia de exemplos prontos, além dos cuidados com performance e segurança ao processar no cliente.
 > 
 > 
 
@@ -8937,23 +8732,6 @@ Portal:
 Abstract:
 
 > A #SemanaJSExpert 3.0 vem aí e o projeto está ficando sensacional!
-> 
-> 
-
-
-_Tags: `linkedinPost`_
-
-### <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6775758184096243712-PshJ" target="_blank">2021-03-11 - Dividindo a responsabilidade de eventos em JavaScript 🔥 (pt-br)</a>
-
-
-Portal:
-
-> <a href="https://www.linkedin.com/posts/erickwendel_semanajsexpert-activity-6775758184096243712-PshJ" target="_blank">Linkedin Post</a>
-
-
-Abstract:
-
-> A #SemanaJSExpert 3.0 vem aí e o projeto está ficando sensacional! 
 > 
 > 
 
@@ -12087,7 +11865,7 @@ Location: <a href="https://www.google.com/maps/?q=40.3475974,-3.6959971" target=
 <a href="https://jsconf.cl/" target="_blank">JSConf Chile</a>
 
 
-<a href="https://ewbr.cc/recreemos-el-nodejs-test-runner-06122024" target="_blank">slides</a> |  <a href="https://gallery.jsconf.cl/event/a51f9546-ff60-410c-acd0-ef7ab2b3b297" target="_blank">photos</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/ " target="_blank">video</a>
+<a href="https://ewbr.cc/recreemos-el-nodejs-test-runner-06122024" target="_blank">slides</a> |  <a href="https://gallery.jsconf.cl/event/a51f9546-ff60-410c-acd0-ef7ab2b3b297" target="_blank">photos</a> 
 
 
 Abstract:
@@ -12108,7 +11886,7 @@ Location: <a href="https://www.google.com/maps/?q=-33.4723517,-70.9594812" targe
 <a href="https://devfestcerrado.com.br/" target="_blank">Dev Fest Cerrado</a>
 
 
-<a href="https://ewbr.cc/webxr-realidade-mista-em-navegadores-devfestcerrado" target="_blank">slides</a> |  <a href="https://photos.google.com/share/AF1QipPeVBvbgsBqI1HmolEizmchh_Tcp4JshoA7770q_npRdjGjkn5iiBg_d7f_mD1XBw?pli=1&key=VlBDRk1STkZrS2JsUVR6RTRiOTVMdDZDV2V6MmZB" target="_blank">photos</a> |  <a href="https://github.com/ErickWendel/timeline/tree/master/ " target="_blank">video</a>
+<a href="https://ewbr.cc/webxr-realidade-mista-em-navegadores-devfestcerrado" target="_blank">slides</a> |  <a href="https://photos.google.com/share/AF1QipPeVBvbgsBqI1HmolEizmchh_Tcp4JshoA7770q_npRdjGjkn5iiBg_d7f_mD1XBw?pli=1&key=VlBDRk1STkZrS2JsUVR6RTRiOTVMdDZDV2V6MmZB" target="_blank">photos</a> 
 
 
 Abstract:
@@ -12604,27 +12382,6 @@ Abstract:
 _Tags: `nodejs`, `javascript`, `Machine Learning`_
 
 
-Location: <a href="https://www.google.com/maps/?q=50.8510781,4.3318835" target="_blank">Brussels - BEL, Belgian</a>.
-
-### 2023-05-12 - The next level for Web developers: Machine Learning on browsers (en-us)
-
-
-<a href="https://www.bejs.io/" target="_blank">BeJS : Belgian JavaScript Community</a>
-
-
-  
-
-
-Abstract:
-
-> Explore the Future of the Web: Discover How Machine Learning Is Transforming the User Experience in Browsers
-> 
-> 
-
-
-_Tags: `nodejs`, `javascript`, `Machine Learning`_
-
-
 Location: <a href="https://www.google.com/maps/?q=50.8510781,4.3318835" target="_blank">Brussels - BEL, Belgium</a>.
 
 ### 2023-04-26 - The next level for Web developers: Machine Learning on browsers (en-us)
@@ -12647,48 +12404,6 @@ _Tags: `nodejs`, `javascript`, `Machine Learning`_
 
 
 Location: <a href="https://www.google.com/maps/?q=-23.508559,-46.7215608" target="_blank">São Paulo - SP, Brazil</a>.
-
-### 2023-04-26 - The next level for Web developers: Machine Learning on browsers (en-us)
-
-
-<a href="https://brazil.cityjsconf.org/" target="_blank">CityJS World series São Paulo 2023</a>
-
-
-<a href="https://www.icloud.com/keynote/066J6r58vIhiFSFFgfxDyZXuw#machine-learning4devs-cityjs-sp-26042023" target="_blank">slides</a> |   <a href="https://www.youtube.com/live/lD39kjrXRvo?feature=share" target="_blank">video</a>
-
-
-Abstract:
-
-> Explore the Future of the Web: Discover How Machine Learning Is Transforming the User Experience in Browsers
-> 
-> 
-
-
-_Tags: `nodejs`, `javascript`, `Machine Learning`_
-
-
-Location: <a href="https://www.google.com/maps/?q=-23.508559,-46.7215608" target="_blank">São Paulo - SP, Brazil</a>.
-
-### 2023-04-14 - Bun?Deno?Node.js?Recreating a JS Runtime from scratch (en-us)
-
-
-<a href="https://nodecongress.com/" target="_blank">Node Congress Berlin</a>
-
-
-<a href="https://www.icloud.com/keynote/0fa15m5m7-8C0qHo2M48JomLQ#recreating-nodejs-from-scratch-nodecongress-berlin-14042023" target="_blank">slides</a> |   <a href="https://portal.gitnation.org/contents/bun-deno-nodejs-recreating-a-javascript-runtime-from-scratch-understand-magic-behind-nodejs" target="_blank">video</a>
-
-
-Abstract:
-
-> Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime
-> 
-> 
-
-
-_Tags: `nodejs`, `javascript`, `runtime`_
-
-
-Location: <a href="https://www.google.com/maps/?q=52.5169221,13.449893" target="_blank">Berlin - BER, Germany</a>.
 
 ### 2023-04-14 - Bun? Deno? Node.js? Recreating a JS Runtime from scratch (en-us)
 
@@ -12733,55 +12448,7 @@ Abstract:
 _Tags: `nodejs`, `javascript`, `runtime`_
 
 
-Location: <a href="https://www.google.com/maps/?q=51.5013608,-0.1776963" target="_blank">London - uk, United Kingdon</a>.
-
-### 2023-03-31 - Bun? Deno? Node.js? Recreating a JS Runtime from scratch (en-us)
-
-
-<a href="https://london.cityjsconf.org/events/" target="_blank">CityJS World series London 2023</a>
-
-
-<a href="https://www.icloud.com/keynote/06dpzgSEjXmN7RnaVSFlaqEpg#recreating-nodejs-from-scratch-cityjs-london-31032023" target="_blank">slides</a> |   <a href="https://www.youtube.com/live/RdiXuoMPtUA" target="_blank">video</a>
-
-
-Abstract:
-
-> Explore a journey through JS runtimes, from Node.js to Deno, and learn how to build your own custom runtime
-> 
-> <b>Links</b>
-> 
-> - <a href="https://www.youtube.com/live/RdiXuoMPtUA" target="_blank">https://www.youtube.com/live/RdiXuoMPtUA</a>
-> 
-
-
-_Tags: `nodejs`, `javascript`, `runtime`_
-
-
-Location: <a href="https://www.google.com/maps/?q=51.5013608,-0.1776963" target="_blank">London - uk, 🏴󠁧󠁢󠁥󠁮󠁧󠁿England</a>.
-
-### 2023-03-11 - 5 aprendizados incríveis sobre backend que se aplicam para o frontend (pt-br)
-
-
-<a href="https://www.linkedin.com/company/devparana/" target="_blank">Dev Paraná Conf 2023</a>
-
-
-  
-
-
-Abstract:
-
-> Sobre padrões de projeto, práticas de testes unitários, performance, multithreading, webassembly, streams e MUITO mais.
-> 
-> <b>Links</b>
-> 
-> - <a href="https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk" target="_blank">https://github.com/ErickWendel/5-learnings-from-nodejs-to-browsers-talk</a>
-> 
-
-
-_Tags: `nodejs`, `javascript`_
-
-
-Location: <a href="https://www.google.com/maps/?q=-23.4108407,-52.1106945" target="_blank">Maringá - PR, Brazil</a>.
+Location: <a href="https://www.google.com/maps/?q=51.5013608,-0.1776963" target="_blank">London - uk, United Kingdom</a>.
 
 ### 2023-03-11 - 5 aprendizados incríveis sobre backend que se aplicam para o frontend (pt-br)
 
