@@ -11667,7 +11667,7 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 ## Conference Talks
 
-### 2026-03-14 - Web AI Más Allá del Chat: Algoritmos Genéticos, RL y Transformers.js en el Edge (es)
+### 2026-03-14 - Web AI Más Allá del Chat: Algoritmos Genéticos, RL y Transformers.js en el Edge 1 (es)
 
 
 <a href="https://www.jsconf.es/" target="_blank">JSConf ESPAÑA 2026</a>
