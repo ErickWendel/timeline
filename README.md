@@ -18,16 +18,16 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Projects**: 2025/October - 2015/July 
 * **Videos**: 2025/December - 2016/September 
 * **Blog Posts**: 2025/February - 2015/February 
-* **Conference Talks**: 2026/March - 2015/January 
+* **Conference Talks**: 2026/June - 2015/January 
 
-#### Presentations' number: 153
+#### Presentations' number: 154
 
 ## Table of Contents
 
 - [Projects (28)](#projects)
 - [Videos (205)](#videos)
 - [Blog Posts (450)](#blog-posts)
-- [Conference Talks (153)](#conference-talks)
+- [Conference Talks (154)](#conference-talks)
 
 ## Projects
 
@@ -11666,6 +11666,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2026-06-11 - FullStack Monitoring with Open Telemetry: End-to-End Observability for Modern Applications (en-us)
+
+
+<a href="https://gitnation.com/events/jsnation-2026" target="_blank">JSNation 2026</a>
+
+
+<a href="https://ewbr.cc/fullstack-monitoring-jsnation" target="_blank">slides</a> |   <a href="https://gitnation.com/contents/fullstack-monitoring-with-open-telemetry-end-to-end-observability-for-modern-applications" target="_blank">video</a>
+
+
+Abstract:
+
+> In this talk, I’ll show how to instrument applications end-to-end with OpenTelemetry, capturing metrics, traces, and logs across the entire request lifecycle. You’ll learn to pinpoint errors, understand why they happen, and fix them faster – guided by real-world examples and a starter template for quick adoption. You’ll also see how to turn telemetry into automated insights using MCPs (Model Context Protocol) to generate reports from your observability stack. Using a Grafana MCP to produce incident summaries, release health reports, and diagnostics with open-source tooling.
+> 
+> 
+
+
+_Tags: `observability`_
+
+
+Location: <a href="https://www.google.com/maps/?q=52.3730796,4.8924534" target="_blank">Amsterdam - North Holland, Netherlands</a>.
 
 ### 2026-03-14 - Web AI Más Allá del Chat: Algoritmos Genéticos, RL y Transformers.js en el Edge 1 (es)
 
