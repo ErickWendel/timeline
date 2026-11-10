@@ -18,16 +18,16 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Projects**: 2025/October - 2015/July 
 * **Videos**: 2025/December - 2016/September 
 * **Blog Posts**: 2025/February - 2015/February 
-* **Conference Talks**: 2026/June - 2015/January 
+* **Conference Talks**: 2026/July - 2015/January 
 
-#### Presentations' number: 154
+#### Presentations' number: 155
 
 ## Table of Contents
 
 - [Projects (28)](#projects)
 - [Videos (205)](#videos)
 - [Blog Posts (450)](#blog-posts)
-- [Conference Talks (154)](#conference-talks)
+- [Conference Talks (155)](#conference-talks)
 
 ## Projects
 
@@ -11666,6 +11666,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2026-07-15 - 55 Horas, 770M Tokens e Uma Alternativa ao Canva Rodando no Browser com Erick Wendel (pt-br)
+
+
+<a href="https://guild.host/events/devs-builders-com-ia-zwydk7" target="_blank">Devs builders com IA - Esquenta JSConfBR</a>
+
+
+  
+
+
+Abstract:
+
+> Nesta palestra, vou mostrar o que acontece quando você para de usar IA como autocomplete e começa a tratá-la como uma parceira de engenharia de longa duração. Compartilho como usei o Codex em múltiplas worktrees para construir o LocalStudio.dev, uma alternativa local-first e browser-native ao Canva e Keynote, com mais de 770M tokens e execução ininterrupta de agente de cerca de 20 horas. Exploro o processo por trás do projeto: desenvolvimento orientado por especificação, worktrees paralelas, skills customizadas para Codex e cobertura end-to-end para estabilizar o produto.
+> 
+> 
+
+
+_Tags: `codex`, `worktrees`, `local-first`, `browser-native`, `ai-agents`, `software-engineering`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-23.6195923,-46.5688323" target="_blank">São Caetano do Sul - SP, Brazil</a>.
 
 ### 2026-06-11 - FullStack Monitoring with Open Telemetry: End-to-End Observability for Modern Applications (en-us)
 
