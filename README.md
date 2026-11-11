@@ -16,7 +16,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ### Contributions Summary
 
 * **Projects**: 2025/October - 2015/July 
-* **Videos**: 2025/December - 2016/September 
+* **Videos**: 2026/October - 2016/September 
 * **Blog Posts**: 2025/February - 2015/February 
 * **Conference Talks**: 2026/October - 2015/January 
 
@@ -25,7 +25,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (28)](#projects)
-- [Videos (205)](#videos)
+- [Videos (206)](#videos)
 - [Blog Posts (450)](#blog-posts)
 - [Conference Talks (159)](#conference-talks)
 
@@ -389,6 +389,18 @@ _Tags: `translation`, `javascript`_
 
 
 ## Videos
+
+### <a href="https://youtu.be/UvtNwZtG7Eg" target="_blank">2026-10-27 - É Isso que Faz um Applied AI Engineer (Na Prática) (pt-br)</a>
+
+
+Abstract:
+
+> 🤖 Applied AI Engineer é a vaga do momento, e neste vídeo eu te mostro na prática como dar esse próximo passo na sua carreira de dev Full Stack, criando um agente de IA que navega na web e preenche formulários sozinho!
+> 
+> 
+
+
+_Tags: `applied ai engineer`, `engenheiro de ia aplicada`, `agentes de ia`, `como criar agente de ia`, `o que é mcp`, `model context protocol`_
 
 ### <a href="https://youtu.be/5ygcZt2Co7w" target="_blank">2025-12-11 - Como fui hackeado pela falha no React (quase perdi tudo) (pt-br)</a>
 
