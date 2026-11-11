@@ -18,16 +18,16 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Projects**: 2025/October - 2015/July 
 * **Videos**: 2025/December - 2016/September 
 * **Blog Posts**: 2025/February - 2015/February 
-* **Conference Talks**: 2026/September - 2015/January 
+* **Conference Talks**: 2026/October - 2015/January 
 
-#### Presentations' number: 158
+#### Presentations' number: 159
 
 ## Table of Contents
 
 - [Projects (28)](#projects)
 - [Videos (205)](#videos)
 - [Blog Posts (450)](#blog-posts)
-- [Conference Talks (158)](#conference-talks)
+- [Conference Talks (159)](#conference-talks)
 
 ## Projects
 
@@ -11666,6 +11666,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2026-10-30 - 55 Hours, 770M Tokens, and One Browser-Native Canva Alternative (en-us)
+
+
+<a href="https://rsvp.withgoogle.com/events/web-ai-summit-2026/sessions?pli=1" target="_blank">Web AI Summit 2026</a>
+
+
+  
+
+
+Abstract:
+
+> What happens when AI becomes an engineering partner instead of autocomplete? I'll unpack how 770M+ tokens, parallel worktrees, specs, custom skills, and end-to-end tests helped turn LocalStudio.dev into a browser-native, local-first presentation editor—and share what broke, what worked, and what agentic software development taught me.
+> 
+> 
+
+
+_Tags: `ai`, `browser`, `local-first`, `javascript`, `agentic`, `webai`_
+
+
+Location: <a href="https://www.google.com/maps/?q=37.3688301,-122.036349" target="_blank">Sunnyvale - CA, United States</a>.
 
 ### 2026-09-25 - El secreto para procesar terabytes de datos en JavaScript (es)
 
