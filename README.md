@@ -25,7 +25,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 ## Table of Contents
 
 - [Projects (28)](#projects)
-- [Videos (206)](#videos)
+- [Videos (211)](#videos)
 - [Blog Posts (450)](#blog-posts)
 - [Conference Talks (159)](#conference-talks)
 
@@ -401,6 +401,66 @@ Abstract:
 
 
 _Tags: `applied ai engineer`, `engenheiro de ia aplicada`, `agentes de ia`, `como criar agente de ia`, `o que é mcp`, `model context protocol`_
+
+### <a href="https://youtu.be/EgR3gZ5DYL8" target="_blank">2026-09-21 - Programação Sem IA: Os Fundamentos Ainda Importam? (pt-br)</a>
+
+
+Abstract:
+
+> Eu aceitei um dos desafios de programação mais absurdos que já enfrentei: competir contra 3 desenvolvedores juniors para construir uma API de alta concorrência, sem usar Inteligência Artificial, sem instalar bibliotecas e, pior de tudo, sem usar um teclado físico. 😅
+> 
+> 
+
+
+_Tags: `programação sem ia`, `programar sem teclado`, `node.js`, `javascript`, `fundamentos de programação`, `testes automatizados`_
+
+### <a href="https://youtu.be/bIjoNpRO54g" target="_blank">2026-08-24 - O Segredo dos Devs que Usam AI Agents (pt-br)</a>
+
+
+Abstract:
+
+> Criei uma alternativa open source ao Google Slides, Canva e Apple Keynote usando AI Agents, Codex, Web AI e zero código digitado manualmente. Foram 55 horas de trabalho, mais de 700 milhões de tokens e um projeto real que eu já estou usando nas minhas próprias apresentações.
+> 
+> 
+
+
+_Tags: `js`, `javascript`, `erickwendel`, `webdevelopment`, `dev`, `developer`_
+
+### <a href="https://youtu.be/-bz9c8h_1os" target="_blank">2026-07-27 - Curso Completo: llms.txt, Web AI e JavaScript (pt-br)</a>
+
+
+Abstract:
+
+> Neste curso completo e gratuito, você vai desenvolver um projeto real com JavaScript, Web Components, APIs nativas de IA do Chrome e o padrão llms.txt.
+> 
+> 
+
+
+_Tags: `js`, `javascript`, `erickwendel`, `webdevelopment`, `dev`, `developer`_
+
+### <a href="https://youtu.be/KslGnrljCjs" target="_blank">2026-06-09 - O Dev Jr Acabou? A Verdade Chocante Sobre o Mercado (pt-br)</a>
+
+
+Abstract:
+
+> O vídeo desmistifica o alarmismo de que a Inteligência Artificial acabou com o espaço dos desenvolvedores juniores, defendendo que a área de tecnologia não morreu, mas passou por uma mudança brusca na forma de começar.
+> 
+> 
+
+
+_Tags: `erickwendel`, `webdevelopment`, `dev`, `programacao`, `dev jr acabou`, `futuro do dev junior`_
+
+### <a href="https://youtu.be/r74Ux8hHHb4" target="_blank">2026-05-25 - A IA Vai Substituir os Devs? Cai no Hype e Me Ferrei (pt-br)</a>
+
+
+Abstract:
+
+> Se você está assustado com o avanço da Inteligência Artificial ou até pensando em desistir da tecnologia, pare tudo o que está fazendo e assista a este vídeo até o final.
+> 
+> 
+
+
+_Tags: `js`, `javascript`, `erickwendel`, `webdevelopment`, `dev`, `developer`_
 
 ### <a href="https://youtu.be/5ygcZt2Co7w" target="_blank">2025-12-11 - Como fui hackeado pela falha no React (quase perdi tudo) (pt-br)</a>
 
