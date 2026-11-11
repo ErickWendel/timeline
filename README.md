@@ -15,7 +15,7 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 ### Contributions Summary
 
-* **Projects**: 2025/October - 2015/July 
+* **Projects**: 2026/October - 2015/July 
 * **Videos**: 2026/October - 2016/September 
 * **Blog Posts**: 2025/February - 2015/February 
 * **Conference Talks**: 2026/October - 2015/January 
@@ -24,12 +24,24 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 
 ## Table of Contents
 
-- [Projects (28)](#projects)
+- [Projects (29)](#projects)
 - [Videos (211)](#videos)
 - [Blog Posts (450)](#blog-posts)
 - [Conference Talks (159)](#conference-talks)
 
 ## Projects
+
+### <a href="https://github.com/ErickWendel/mastra-mcp-autocomplete" target="_blank">2026-10-23 - Mastra + MCP autocomplete (en-us)</a>
+
+
+Abstract:
+
+> Paste an event link: two Mastra agents browse it like a person through Playwright MCP and fill a talk form live (TypeScript on Node 24, no build step)
+> 
+> 
+
+
+_Tags: `ai`_
 
 ### <a href="https://github.com/ErickWendel/semana-javascript-expert09" target="_blank">2025-10-27 - semana-javascript-expert09 (en-us)</a>
 
