@@ -18,16 +18,16 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Projects**: 2025/October - 2015/July 
 * **Videos**: 2025/December - 2016/September 
 * **Blog Posts**: 2025/February - 2015/February 
-* **Conference Talks**: 2026/August - 2015/January 
+* **Conference Talks**: 2026/September - 2015/January 
 
-#### Presentations' number: 156
+#### Presentations' number: 157
 
 ## Table of Contents
 
 - [Projects (28)](#projects)
 - [Videos (205)](#videos)
 - [Blog Posts (450)](#blog-posts)
-- [Conference Talks (156)](#conference-talks)
+- [Conference Talks (157)](#conference-talks)
 
 ## Projects
 
@@ -11666,6 +11666,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2026-09-19 - A Revolução da IA Embutida nos Navegadores (pt-br)
+
+
+<a href="https://www.gdg.natal.br/devfest" target="_blank">DevFest Natal 2026</a>
+
+
+  
+
+
+Abstract:
+
+> A próxima revolução da IA já acontece: modelos rodando direto no navegador. Erick mostra a iniciativa do Chrome para levar IA ao runtime, como os navegadores estão construindo o futuro da Web AI e as novas APIs de IA do Chrome, com exemplos do que já dá para construir hoje.
+> 
+> 
+
+
+_Tags: `ia`, `web`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-5.805398,-35.2080905" target="_blank">Natal - RN, Brazil</a>.
 
 ### 2026-08-13 - Web AI Beyond Chat: Genetic Algorithms, RL, and Transformers.js on the Edge (en-us)
 
