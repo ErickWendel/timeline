@@ -20,14 +20,14 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Blog Posts**: 2025/February - 2015/February 
 * **Conference Talks**: 2026/September - 2015/January 
 
-#### Presentations' number: 157
+#### Presentations' number: 158
 
 ## Table of Contents
 
 - [Projects (28)](#projects)
 - [Videos (205)](#videos)
 - [Blog Posts (450)](#blog-posts)
-- [Conference Talks (157)](#conference-talks)
+- [Conference Talks (158)](#conference-talks)
 
 ## Projects
 
@@ -11666,6 +11666,27 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2026-09-25 - El secreto para procesar terabytes de datos en JavaScript (es)
+
+
+<a href="https://nerdearla.com/en/speakers/erick-wendel/" target="_blank">Nerdearla Argentina 2026</a>
+
+
+<a href="https://ewbr.cc/processing-terabytes-with-js-nerdeala-25092026" target="_blank">slides</a> |   <a href="https://nerdearla.com/nerdflix/L0_ZFqN-eYg" target="_blank">video</a>
+
+
+Abstract:
+
+> En esta sesión, te mostraré cómo aprovechar Async Generators, Iterators, Web Workers y Web Streams para procesar datos de manera eficiente. Exploraremos cómo manejar datos bajo demanda en diferentes entornos de JavaScript y aprenderemos estrategias para mantener las aplicaciones ágiles y responsivas incluso durante tareas intensivas. También conocerás mejor el funcionamiento interno de JavaScript y descubrirás cómo adaptar estas técnicas a flujos de trabajo reales de procesamiento de datos.
+> 
+> 
+
+
+_Tags: `development`, `javascript`, `async-generators`, `iterators`, `web-workers`, `web-streams`_
+
+
+Location: <a href="https://www.google.com/maps/?q=-34.6095579,-58.3887904" target="_blank">Buenos Aires - Autonomous City of Buenos Aires, Argentina</a>.
 
 ### 2026-09-19 - A Revolução da IA Embutida nos Navegadores (pt-br)
 
