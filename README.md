@@ -18,16 +18,16 @@ Website:  [erickwendel.com](http://erickwendel.com/)
 * **Projects**: 2025/October - 2015/July 
 * **Videos**: 2025/December - 2016/September 
 * **Blog Posts**: 2025/February - 2015/February 
-* **Conference Talks**: 2026/July - 2015/January 
+* **Conference Talks**: 2026/August - 2015/January 
 
-#### Presentations' number: 155
+#### Presentations' number: 156
 
 ## Table of Contents
 
 - [Projects (28)](#projects)
 - [Videos (205)](#videos)
 - [Blog Posts (450)](#blog-posts)
-- [Conference Talks (155)](#conference-talks)
+- [Conference Talks (156)](#conference-talks)
 
 ## Projects
 
@@ -11666,6 +11666,40 @@ _Tags: `aspnet`, `c#`, `jquery`_
 
 
 ## Conference Talks
+
+### 2026-08-13 - Web AI Beyond Chat: Genetic Algorithms, RL, and Transformers.js on the Edge (en-us)
+
+
+<a href="https://www.renderatl.com/" target="_blank">RenderATL 2026</a>
+
+
+  
+
+
+Abstract:
+
+> Web AI isn’t just “call an LLM API.” In this talk, you’ll explore a practical toolkit for building AI features that run directly in the browser and Node.js—without per-request costs and with privacy-first defaults.
+> 
+> You’ll go beyond chat and cover Genetic Algorithms (optimization), Reinforcement Learning (decision-making agents), and Transformers.js as a runtime for running transformer-based models in JavaScript for vision, embeddings, classification, and more.
+> 
+> You’ll also see how to add a local knowledge layer using SQLite compiled to WebAssembly to enable RAG-style experiences fully on-device.
+> 
+> Outline
+> 
+> - Web AI without vendor lock-in: what’s possible today
+> - Genetic Algorithms: fast optimization and creative search
+> - Reinforcement Learning: agents that learn by trial and reward
+> - Transformers.js: running transformer models in browser/Node (not just chat)
+> - Local RAG: embeddings + retrieval + SQLite/WASM
+> - Shipping to mobile/desktop: Workers, performance, and UX patterns
+> 
+> 
+
+
+_Tags: _
+
+
+Location: <a href="https://www.google.com/maps/?q=33.760979,-84.389771" target="_blank">Atlanta - Georgia, United States</a>.
 
 ### 2026-07-15 - 55 Horas, 770M Tokens e Uma Alternativa ao Canva Rodando no Browser com Erick Wendel (pt-br)
 
